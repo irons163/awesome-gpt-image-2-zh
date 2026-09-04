@@ -1,4 +1,5 @@
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -6,9 +7,26 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const docsDir = join(root, 'docs');
 const outFile = join(root, 'data', 'cases.json');
 const styleLibraryFile = join(root, 'data', 'style-library.json');
+const promptTranslationsFile = join(root, 'data', 'prompt-translations.zh-TW.json');
 const upstreamRepositoryUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
 const repositoryUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
 const styleLibrary = JSON.parse(readFileSync(styleLibraryFile, 'utf8'));
+const promptTranslations = existsSync(promptTranslationsFile)
+  ? JSON.parse(readFileSync(promptTranslationsFile, 'utf8'))
+  : {};
+
+function promptTranslationFor(id, prompt) {
+  const entry = promptTranslations[String(id)];
+  if (typeof entry === 'string') return entry;
+  if (!entry || typeof entry !== 'object') return '';
+  if (entry.sourceSha256) {
+    const sourceSha256 = createHash('sha256').update(prompt).digest('hex');
+    if (entry.sourceSha256 !== sourceSha256) {
+      throw new Error(`Stale zh-TW prompt translation for case ${id}; run npm run generate:prompt-translations`);
+    }
+  }
+  return typeof entry.text === 'string' ? entry.text : '';
+}
 
 const galleryFiles = [
   { file: 'gallery-part-1.md', part: 1 },
@@ -152,6 +170,10 @@ function parseCases() {
         ? imageMatch[2].replace('../data/', '/')
         : `/images/case${id}.jpg`;
       const tags = inferTags({ title, prompt, category });
+      const promptZh = promptTranslationFor(id, prompt) || (/[㐀-鿿]/u.test(prompt) ? prompt : '');
+      if (!promptZh) {
+        throw new Error(`Missing zh-TW prompt translation in ${promptTranslationsFile}, case ${id}`);
+      }
 
       cases.push({
         id,
@@ -162,6 +184,8 @@ function parseCases() {
         sourceUrl: source.url,
         prompt,
         promptPreview: prompt.replace(/\n+/g, ' ').slice(0, 220),
+        promptZh,
+        promptPreviewZh: promptZh.replace(/\n+/g, ' ').slice(0, 220),
         category,
         styles: tags.styles,
         scenes: tags.scenes,

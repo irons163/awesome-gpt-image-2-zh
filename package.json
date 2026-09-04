@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "generate:site-data": "node scripts/generate-site-data.mjs",
+    "generate:prompt-translations": "node scripts/generate-prompt-translations.mjs",
     "generate:style-skill": "node scripts/generate-style-skill.mjs",
     "ga4:oauth": "node scripts/google-analytics-oauth.mjs",
     "install:skill": "node scripts/install-style-skill.mjs",
@@ -29,6 +30,9 @@
     "react-dom": "^19.2.1",
     "stripe": "^22.1.1",
     "vite": "^7.2.7"
+  },
+  "devDependencies": {
+    "opencc-js": "^1.4.2"
   },
   "engines": {
     "node": ">=22.12.0"

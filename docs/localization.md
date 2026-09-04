@@ -13,7 +13,7 @@
 
 `README.md`、`docs/`、網站中文介面及風格庫的中文欄位使用台灣繁體中文。`README.en.md`、`README.zh-CN.md` 與 `README.ja.md` 保留上游語言版本，作為對照。
 
-英文提示詞保留原文，方便重現原始範例。中文提示詞及雙語提示詞中的中文會調整字形與用語；圖片維持原貌，因此圖上的文字可能仍是簡體中文或英文。原始作者署名、帳號、品牌、來源網址、圖片路徑與案例編號保留，以利追溯；專有名稱不應因詞彙替換而改變對象。繁中提示詞與原圖的文字可能不同，並不代表重新生成過範例圖片。
+英文提示詞保留原文，方便重現原始範例；網站資料另外提供 `promptZh`，讓中文介面顯示台灣繁中版本。252 筆純英文提示詞的 `promptZh` 由批次翻譯初稿、OpenCC 字形轉換與台灣術語整理產生，原文與翻譯來源雜湊會一起保留。中文提示詞及雙語提示詞中的中文會調整字形與用語；圖片維持原貌，因此圖上的文字可能仍是簡體中文或英文。原始作者署名、帳號、品牌、來源網址、圖片路徑與案例編號保留，以利追溯；專有名稱不應因詞彙替換而改變對象。繁中提示詞與原圖的文字可能不同，並不代表重新生成過範例圖片。
 
 程式內部的 `zh` 欄位保留既有資料格式；本版本的 `zh` 表示台灣繁體中文，網頁的語言標記與日期格式使用 `zh-TW`。語系切換保留英文介面；案例原文的語言不隨介面切換而變更。
 
@@ -43,6 +43,7 @@
 - 案例來源：`docs/gallery-part-1.md`、`docs/gallery-part-2.md`；分類索引：`docs/gallery.md`。
 - 可編修的風格庫：`data/style-library.json`；範本說明：`docs/templates.md`。
 - `data/cases.json` 由 `npm run generate:site-data` 產生，請勿只修改此檔案。
+- `data/prompt-translations.zh-TW.json` 保存英文提示詞的繁中翻譯與來源雜湊；更新英文提示詞後先執行 `npm run generate:prompt-translations`。
 - 技能參考文件由 `npm run generate:style-skill` 產生。
 - `npm run dev` 及 `npm run build` 都會先重新產生資料。
 
@@ -51,7 +52,7 @@
 1. 比較上游版本與上述快照，確認新增、修改及刪除的案例。
 2. 將新內容整理至來源文件，使用穩定的 `case-N`、`cat-*`、`tpl-*` 錨點，保留來源連結。
 3. 翻譯中文說明，檢查台灣用語；英文原始提示詞保持原樣。
-4. 執行 `npm run build`、`npm run check:localization` 及 `npm test`。
+4. 若英文提示詞有新增或修改，先執行 `npm run generate:prompt-translations`，再執行 `npm run build`、`npm run check:localization` 及 `npm test`。
 5. 在瀏覽器確認搜尋、分類篩選、複製提示詞、範本預覽及語系切換。
 6. 更新本頁版本與 `scripts/upstream-snapshot.json` 的完整性摘要。摘要必須從新上游資料計算，不可為了略過驗證而直接接受繁中輸出。
 

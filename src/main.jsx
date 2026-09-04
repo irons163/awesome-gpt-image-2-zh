@@ -551,6 +551,19 @@ function compactText(value, maxLength = 180) {
   return `${value.slice(0, maxLength)}...`;
 }
 
+function promptFor(caseItem, language) {
+  if (!caseItem) return '';
+  return language === 'zh' ? (caseItem.promptZh || caseItem.prompt || '') : (caseItem.prompt || '');
+}
+
+function promptPreviewFor(caseItem, language) {
+  if (!caseItem) return '';
+  if (language === 'zh') {
+    return caseItem.promptPreviewZh || promptFor(caseItem, language).replace(/\n+/g, ' ').slice(0, 220);
+  }
+  return caseItem.promptPreview || promptFor(caseItem, language).replace(/\n+/g, ' ').slice(0, 220);
+}
+
 const GENERATED_TESTS_STORAGE_KEY = 'gpt-image-2-generated-tests:v1';
 const MAX_SAVED_GENERATIONS = 12;
 const HERO_CASE_COUNT = 5;
@@ -803,7 +816,7 @@ async function copyToClipboard(text) {
   document.body.removeChild(textarea);
 }
 
-function useCopy() {
+function useCopy(language) {
   const [copiedId, setCopiedId] = useState(null);
 
   async function copyText(text, id) {
@@ -813,7 +826,7 @@ function useCopy() {
   }
 
   async function copyPrompt(caseItem) {
-    await copyText(caseItem.prompt, `case-${caseItem.id}`);
+    await copyText(promptFor(caseItem, language), `case-${caseItem.id}`);
   }
 
   return { copiedId, copyPrompt, copyText };
@@ -2731,7 +2744,7 @@ function PromptCard({
           )}
         </div>
         <h3>{caseItem.title}</h3>
-        <p>{caseItem.promptPreview}</p>
+        <p>{promptPreviewFor(caseItem, language)}</p>
         <div className="tagRow">
           {tags.map((tag) => (
             <span key={`${caseItem.id}-${tag}`}>{localizeLabel(tag, language, styleLibrary)}</span>
@@ -2812,14 +2825,14 @@ function PreviewDialog({
   useEffect(() => {
     if (preview?.type !== 'case') return;
     const savedGeneration = getSavedGeneration(preview.item.id);
-    setEditablePrompt(preview.item.prompt || '');
+    setEditablePrompt(promptFor(preview.item, language));
     setGenerationState(
       savedGeneration
         ? {
             status: 'saved',
             image: savedGeneration.image,
             message: '',
-            prompt: savedGeneration.prompt || preview.item.prompt || '',
+            prompt: savedGeneration.prompt || promptFor(preview.item, language),
             savedAt: savedGeneration.savedAt || ''
           }
         : { status: 'idle', image: '', message: '', prompt: '', savedAt: '' }
@@ -2831,7 +2844,7 @@ function PreviewDialog({
   const { type, item } = preview;
   const isTemplate = type === 'template';
   const title = isTemplate ? textFor(item.title, language) : item.title;
-  const description = isTemplate ? textFor(item.description, language) : compactText(item.promptPreview);
+  const description = isTemplate ? textFor(item.description, language) : compactText(promptPreviewFor(item, language));
   const image = isTemplate ? item.cover : item.image;
   const imageAlt = isTemplate ? title : item.imageAlt;
   const promptText = isTemplate ? formatTemplatePrompt(item, language, styleLibrary) : editablePrompt;
@@ -3013,7 +3026,7 @@ function PreviewDialog({
             <div className="sectionTitleRow">
               <h3>{isTemplate ? t.templatePrompt : t.editablePrompt}</h3>
               {!isTemplate ? (
-                <button type="button" onClick={() => setEditablePrompt(item.prompt || '')}>
+                <button type="button" onClick={() => setEditablePrompt(promptFor(item, language))}>
                   {t.resetPrompt}
                 </button>
               ) : null}
@@ -3117,7 +3130,7 @@ function App() {
   const [billingNotice, setBillingNotice] = useState('');
   const [billingReturnOrderId, setBillingReturnOrderId] = useState('');
   const alipayReturnHandledRef = useRef('');
-  const { copiedId, copyPrompt, copyText } = useCopy();
+  const { copiedId, copyPrompt, copyText } = useCopy(language);
   const repoUrl = siteData?.repository || fallbackRepoUrl;
   const t = copy[language];
 
@@ -3351,7 +3364,7 @@ function App() {
     return siteData.cases.filter((item) => {
       const matchQuery =
         !q ||
-        `${item.id} ${item.title} ${item.category} ${item.prompt} ${item.sourceLabel}`
+        `${item.id} ${item.title} ${item.category} ${item.promptZh || ''} ${item.prompt || ''} ${item.sourceLabel}`
           .toLowerCase()
           .includes(q);
       const matchCategory = category === 'All' || item.category === category;

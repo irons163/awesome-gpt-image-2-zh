@@ -1,0 +1,1010 @@
+{
+  "19": {
+    "sourceSha256": "967d370c120d9c00fca6f63a92b1321b6288c4131a086253829b301ab9a94d25",
+    "text": "為{argument name=\"theme\" default=\"Momotaro\"}製作一張說明幻燈片（{argument name=\"format\" default=\"ponchi-e diagram\"}），將“Irasutoya”的溫和氛圍與“霞關幻燈片”的壓倒性資訊密度融為一體。"
+  },
+  "20": {
+    "sourceSha256": "967d370c120d9c00fca6f63a92b1321b6288c4131a086253829b301ab9a94d25",
+    "text": "為{argument name=\"theme\" default=\"Momotaro\"}製作一張說明幻燈片（{argument name=\"format\" default=\"ponchi-e diagram\"}），將“Irasutoya”的溫和氛圍與“霞關幻燈片”的壓倒性資訊密度融為一體。"
+  },
+  "24": {
+    "sourceSha256": "929b61de465f6b783a96dfbcbe70be05e84db3cc6eee8f020267044d80aca66b",
+    "text": "原神 {argument name=\"character\" default=\"Raiden Shogun\"} 在 {argument name=\"event\" default=\"Shanghai Comic Con\"} 的 cosplay 自拍"
+  },
+  "25": {
+    "sourceSha256": "d010ec1baf1d14c79fa0685e56c19682a50f7ddf64612e7464bb92bcbcd23fc9",
+    "text": "創造一個受 {argument name=\"reference\" default=\"my look\"} 啟發的 Minecraft 皮膚"
+  },
+  "26": {
+    "sourceSha256": "659a5f3877c58dd632e37e34a5ffb7d5871bb15f281bc9ca24093af4fba11ca1",
+    "text": "{argument name=\"subject description\" default=\"young Asian woman\"} 和 {argument name=\"hair style\" default=\"long dark wavy hair and wispy bangs\"} 的復古 35 毫米膠片照片。她戴著{argument name=\"clothing\" default=\"white ribbed tank top and a loose beige knit cardigan slipping off one shoulder\"}，還有一條精緻的銀項鍊。她有著柔和的妝容，粉紅色的腮紅和光澤的嘴唇，微微張開的嘴唇直視鏡頭。光線是刺眼的直接相機閃光燈，營造出一種坦率、業餘的快照美感。背景是{argument name=\"setting\" default=\"dimly lit, slightly messy room with clothes on a table and a wooden shelf\"}。該影像具有厚重的膠片顆粒、略顯柔和的色彩以及懷舊且高度逼真的攝影紋理。"
+  },
+  "28": {
+    "sourceSha256": "d09a5ac917161363e7be737412f23133c477431698ccadcf68c7876462a8d0cb",
+    "text": "{\n  \"type\": \"2x2 縱向網格\",\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\n  \"style\": \"逼真、高解析度、專業照明、所有面板上一致的臉部識別\",\n  \"layout\": {\n    \"format\": \"2x2 網格\",\n    \"panel_count\": 4,\n    \"panels\": [\n      {\n        \"position\": \"左上角\",\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\n      },\n      {\n        \"position\": \"右上角\",\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\n      },\n      {\n        \"position\": \"左下角\",\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\n      },\n      {\n        \"position\": \"右下角\",\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\n      }\n    ]\n  }\n}"
+  },
+  "29": {
+    "sourceSha256": "0b9671e355a106e3baf4ba5ab757066beb4d1e71f3fd409f274c04e54edf5e81",
+    "text": "使用 REFERENCE_0，將主體的外觀轉變為 {argument name=\"style\" default=\"trad goth\"} 美感，同時保留準確的姿勢、服裝結構和背景。用{argument name=\"hair style\" default=\"choppy bangs\"}將她的頭髮改為{argument name=\"hair color\" default=\"black\"}。化濃濃的深色妝容，特別是{argument name=\"lip color\" default=\"black\"}口紅和濃鬱的深色眼影，讓她的膚色稍微蒼白一些。加入 2 個臉部穿孔：隔膜環和鼻孔螺柱。最後，修改她的分層項鍊以顯示{argument name=\"necklace pendants\" default=\"an inverted cross and a pentagram\"}。"
+  },
+  "30": {
+    "sourceSha256": "68b097630795d6bbe5fa503d9798b5946ae257beceb8fc9abab5126f967c00df",
+    "text": "以塗鴉素描風格表達[{argument name=\"subject\" default=\"a powerful AI builder\"}]，呈現出快速素描、自由變換、即興手繪、草稿般的質感的整體視覺效果。線條隨意、誇張、粗細不一、略顯雜亂，但有節奏、富有表現力，強調概括、誇張、趣味和自發性，而不是嚴格的寫實或精細的細節。色彩採用粗獷、乾刷的塊狀表現，保留不均勻的塗抹、刷痕、飛白、重疊的感覺。顏色會自動適應[theme/subject]，但整體表現仍是塗鴉、素描和概括。沒有透明的水彩暈染，沒有細膩的水彩過渡，沒有紙張紋理，沒有柔和的霧化，沒有夢幻般的質感。背景以留白為主，保持簡單、輕鬆、未完成、設計感。可以新增少量輔助符號、箭頭、標記、圓圈、重複線條、手寫文字或其他塗鴉元素，以增強寫生或散文式的視覺語言，但不宜過於擁擠或破壞留白的主題和氛圍。圖片內容無需事先寫入； [{argument name=\"subject\" default=\"a powerful AI builder\"}]會自動推導並產生最合適的主圖、動作、相關元素、符號或簡化場景。整體保持了統一的塗鴉素描風格和誇張的概括表達，避免了複雜的寫實背景和過度的刻畫。自然地新增一個獨特的簽名“{argument name=\"signature\" default=\"BlanPlan\"}”作為影像的一部分，謹慎而清晰地放置在左下角、右下角或標題附近。風格應與整體佈局統一，如藝術家的簽名或設計題字；簽名字型要精緻、內斂、高階，不能太大，不能破壞主體構圖，不能顯得突兀或廉價。"
+  },
+  "31": {
+    "sourceSha256": "0eeb287117b3b859242079625d444e5669b5ff5ff18e7c80fa5f00815cd7b381",
+    "text": "一幅高度細緻、逼真的動漫風格肖像，描繪了一位年輕女子蹲下並從低角度略微低頭看著鏡頭的情況。她有著飄逸的{argument name=\"hair color\" default=\"ash-blonde\"}長髮，在風中輕輕飄揚，蒼白的皮膚，以及富有表情的大眼睛。她穿著{argument name=\"outfit\" default=\"Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers\"}。她的手臂隨意地放在膝蓋上。背景是明亮的 {argument name=\"sky condition\" default=\"clear blue sky with scattered white clouds\"}，最底部可見模糊的 {argument name=\"background setting\" default=\"chain-link fence and green trees\"}，暗示著一個校園。燈光明亮，自然日光加上柔和的電影陰影，強調了她衣服和皮膚的真實紋理。"
+  },
+  "32": {
+    "sourceSha256": "2750c7fe05339dc45f9dea23f84ba23aa82c6b9e83eb47de59edcf7975876d59",
+    "text": "{\n  \"type\": \"3x3 角色表情網格\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"3D animation, Pixar style\\\"}\",\n  \"character_base\": \"{argument name=\\\"character description\\\" default=\\\"young woman with voluminous dark wavy hair and round wire-rimmed glasses\\\"}\",\n  \"common_theme\": \"{argument name=\\\"framing concept\\\" default=\\\"peeking through a torn hole in white paper\\\"}\",\n  \"layout\": {\n    \"rows\": 3,\n    \"columns\": 3,\n    \"total_panels\": 9,\n    \"panels\": [\n      {\n        \"position\": \"左上角\",\n        \"expression\": \"眨眼\",\n        \"action\": \"調整眼鏡\",\n        \"outfit\": \"綠色毛衣\"\n      },\n      {\n        \"position\": \"頂部中心\",\n        \"expression\": \"傻笑\",\n        \"action\": \"放下深色太陽眼鏡\",\n        \"outfit\": \"紅色皮夾克\"\n      },\n      {\n        \"position\": \"右上角\",\n        \"expression\": \"思考\",\n        \"action\": \"手指放在下巴上\",\n        \"outfit\": \"黃色連帽衫\"\n      },\n      {\n        \"position\": \"中左派\",\n        \"expression\": \"燦爛的笑容\",\n        \"action\": \"手臂放在邊緣\",\n        \"outfit\": \"黑白條紋襯衫\"\n      },\n      {\n        \"position\": \"中間中心\",\n        \"expression\": \"微笑著\",\n        \"action\": \"豎起大拇指\",\n        \"outfit\": \"橘色繫扣襯衫\"\n      },\n      {\n        \"position\": \"中右派\",\n        \"expression\": \"中立的\",\n        \"action\": \"喝波霸茶\",\n        \"outfit\": \"藍色毛衣\"\n      },\n      {\n        \"position\": \"左下角\",\n        \"expression\": \"快樂\",\n        \"action\": \"揮手\",\n        \"outfit\": \"紫色毛衣背心搭配白襯衫\"\n      },\n      {\n        \"position\": \"底部中心\",\n        \"expression\": \"閉著眼睛笑\",\n        \"action\": \"雙臂交叉\",\n        \"outfit\": \"粉色開襟衫\"\n      },\n      {\n        \"position\": \"右下角\",\n        \"expression\": \"愚蠢的\",\n        \"action\": \"戳臉頰\",\n        \"outfit\": \"青色毛衣\"\n      }\n    ]\n  }\n}"
+  },
+  "33": {
+    "sourceSha256": "b7bac6bcaeb1d004dd84b05e3eee1d89d60d3e9eff0cfffced610a50b2c8b614",
+    "text": "純白色背景上可愛的卡哇伊 {argument name=\"subject\" default=\"cloud\"} 角色的 3D 渲染。該角色具有柔軟、啞光、粘稠的質感，類似於黏土或壓力玩具。它的特點是有光澤的黑色大眼睛，帶有白色亮點，簡單的弧形微笑，臉頰上有圓形的粉紅色腮紅。圖形的邊緣和底部有一個微妙的柔和漸變{argument name=\"accent colors\" default=\"pink, blue, and purple\"}。柔和的攝影棚燈光，極簡的圖示風格，投射出溫柔的光影。"
+  },
+  "34": {
+    "sourceSha256": "e41f66940865969eca329c533626bd4c3f3934ff51a6bd349ae419107f1369d3",
+    "text": "{\n  \"type\": \"角色頭像網格\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Journey to the West mythology\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"clean 2D cartoon vector illustration, thick outlines, flat colors\\\"}\",\n  \"layout\": {\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"light gray\\\"}微妙的質感\",\n    \"format\": \"圓形肖像網格，文字標籤位於每個圓圈下方的中心\",\n    \"rows\": [\n      {\n        \"count\": 4,\n        \"items\": [\n          {\n            \"label\": \"孫悟空\",\n            \"description\": \"帶著金色頭帶和紅色領巾的猴子男孩\"\n          },\n          {\n            \"label\": \"唐三藏\",\n            \"description\": \"戴著華麗金冠的和尚\"\n          },\n          {\n            \"label\": \"豬八戒\",\n            \"description\": \"拿著耙子的豬人\"\n          },\n          {\n            \"label\": \"沙悟淨\",\n            \"description\": \"拿著新月杖的大鬍子男子\"\n          }\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\n            \"label\": \"白龍馬\",\n            \"description\": \"金色韁繩的白馬\"\n          },\n          {\n            \"label\": \"玉皇大帝\",\n            \"description\": \"白鬍子和金冠的老人\"\n          },\n          {\n            \"label\": \"觀音\",\n            \"description\": \"手持柳枝的女神\"\n          },\n          {\n            \"label\": \"牛魔扭結\",\n            \"description\": \"身穿盔甲的兇猛牛魔\"\n          }\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\n            \"label\": \"鐵扇公主\",\n            \"description\": \"拿著綠色棕櫚葉扇子的女人\"\n          },\n          {\n            \"label\": \"紅男孩\",\n            \"description\": \"紅頭髮、角和小火焰的男孩\"\n          },\n          {\n            \"label\": \"黑風魔\",\n            \"description\": \"有著發光紅眼睛的黑暗陰影惡魔\"\n          },\n          {\n            \"label\": \"哪吒\",\n            \"description\": \"雙髮髻男孩手持火焰長矛\"\n          }\n        ]\n      },\n      {\n        \"count\": 3,\n        \"description\": \"部分行重複鐵扇公主、黑風魔和哪吒，底部略有裁剪\"\n      }\n    ]\n  }\n}"
+  },
+  "35": {
+    "sourceSha256": "35357f41175f3137e84217b86fb704fa7b07fd0a61d1a349ad61702b29c9242f",
+    "text": "一個{argument name=\"subject\" default=\"young Japanese woman\"}的{argument name=\"photography style\" default=\"photorealistic portrait with shallow depth of field and soft bokeh\"}回頭看著鏡頭，帶著{argument name=\"expression\" default=\"gentle smile\"}。她穿著{argument name=\"attire\" default=\"light beige kimono with orange maple leaf patterns\"}和金色腰帶。她的深色頭髮盤成優雅的髻，鬆散的髮絲勾勒出她的臉龐，戴著小珍珠耳環。背景以 {argument name=\"setting\" default=\"autumn garden with vibrant red maple leaves\"} 為特色，左上角有鮮紅色的樹葉，嚴重模糊的柔和背景營造出寧靜的電影氛圍。"
+  },
+  "36": {
+    "sourceSha256": "dadb33bcf47afcdcad650be3466805b0e64919e9b1b1ed4d75b5602e0d71cd30",
+    "text": "一張逼真的自拍照，照片上是一位年輕男子在室內籃球場上的照片，他留著深色波浪短髮和淺色鬍渣。他穿著一件帶有白色旋風圖案的黑色運動 T 卹。他拿著一個{argument name=\"ball color\" default=\"green\"}籃球，上面有一個大的白色{argument name=\"logo design\" default=\"OpenAI logo\"}。背景顯示了硬木地板、黑色牆墊和靠在混凝土牆上的籃球框。明亮的室內健身房照明與休閒的社交媒體美感。"
+  },
+  "37": {
+    "sourceSha256": "c4c768f313b7edc7ff67f97fbac86fa5f5eb6ca560dfc1bcf8099a08ba0b10d2",
+    "text": "以古怪的手繪風格創作 {argument name=\"animals\" default=\"animals\"} 的 {argument name=\"quantity\" default=\"24\"} LINE 貼圖。以時尚風格為目標{argument name=\"target audience\" default=\"Japanese Gen Z\"}，可爭取最高下載量。"
+  },
+  "38": {
+    "sourceSha256": "c4c768f313b7edc7ff67f97fbac86fa5f5eb6ca560dfc1bcf8099a08ba0b10d2",
+    "text": "以古怪的手繪風格創作 {argument name=\"animals\" default=\"animals\"} 的 {argument name=\"quantity\" default=\"24\"} LINE 貼圖。以時尚風格為目標{argument name=\"target audience\" default=\"Japanese Gen Z\"}，可爭取最高下載量。"
+  },
+  "39": {
+    "sourceSha256": "c4c768f313b7edc7ff67f97fbac86fa5f5eb6ca560dfc1bcf8099a08ba0b10d2",
+    "text": "以古怪的手繪風格創作 {argument name=\"animals\" default=\"animals\"} 的 {argument name=\"quantity\" default=\"24\"} LINE 貼圖。以時尚風格為目標{argument name=\"target audience\" default=\"Japanese Gen Z\"}，可爭取最高下載量。"
+  },
+  "40": {
+    "sourceSha256": "c4c768f313b7edc7ff67f97fbac86fa5f5eb6ca560dfc1bcf8099a08ba0b10d2",
+    "text": "以古怪的手繪風格創作 {argument name=\"animals\" default=\"animals\"} 的 {argument name=\"quantity\" default=\"24\"} LINE 貼圖。以時尚風格為目標{argument name=\"target audience\" default=\"Japanese Gen Z\"}，可爭取最高下載量。"
+  },
+  "42": {
+    "sourceSha256": "b247fd64fe1525313f92c1c43255fc9d24d84f965cc7f34e9f6256fafc10e215",
+    "text": "以塗鴉素描風格表達{argument name=\"subject\" default=\"a powerful AI builder\"}，呈現快速勾勒、自由變形、即興手繪、草稿般的整體視覺效果。線條隨意、誇張、粗細不一、略顯雜亂，但有節奏、富有表現力，強調概括、誇張、趣味和自發性，而不是嚴謹的寫實或精細的細節。顏色以粗糙的塊狀表達，具有明顯的乾刷感覺，保留了不均勻的塗抹、刷痕、飛白和層次感。顏色會自動適應{argument name=\"theme\" default=\"powerful AI builder\"}，但整體表現仍是塗鴉、素描和概括。沒有透明的水彩暈染效果，沒有細膩的水彩過渡，沒有紙張紋理，沒有柔和的霧化，沒有夢幻般的紋理。背景以留白為主，保持簡單、輕鬆、未完成、有設計感。可以新增少量的輔助符號、箭頭、記號、圓圈、重複線條、手寫文字或其他塗鴉元素，以增強素描本或散文式的視覺語言，但不宜過於擁擠或破壞主題和留白氛圍。圖片內容不需要事先寫好； {argument name=\"character image\" default=\"a powerful AI builder\"}會自動推導並產生最適合的主圖、動作、相關元素、符號或簡化場景。整體風格保持統一的塗鴉素描風格和誇張、概括的表達方式，避免複雜的寫實背景和過多的細節。一個特殊的簽名“BlanPlan”應該作為圖片的一部分自然新增，在低調但清晰的位置，例如左下、右下或標題附近。風格應與整體佈局統一，如藝術家的簽名或設計標記；簽名字型要精緻、內斂、高階，不能太大，不能破壞主體構圖，顯得突兀、廉價。"
+  },
+  "43": {
+    "sourceSha256": "a799545a62ce1b12c0dc0786404a0f8281248a0059f961b3471c354124b59ea6",
+    "text": "{\n  \"type\": \"人物肖像網格\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Game of Thrones characters\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\\\"}\",\n  \"layout\": {\n    \"grid\": \"3x3\",\n    \"background\": \"淺灰色紋理\",\n    \"frame_style\": \"白色圓角矩形框架，每個框架下方都有文字標籤\"\n  },\n  \"count\": 9,\n  \"portraits\": [\n    {\n      \"label\": \"瓊恩·雪諾\",\n      \"description\": \"黑髮半扎，鬍鬚，深色毛皮斗篷\"\n    },\n    {\n      \"label\": \"丹妮莉絲‧坦格利安\",\n      \"description\": \"銀色辮子，藍色連身裙\"\n    },\n    {\n      \"label\": \"提利昂·蘭尼斯特\",\n      \"description\": \"棕色捲髮，鬍鬚，深色束腰外衣，帶有金色別針\"\n    },\n    {\n      \"label\": \"瑟曦·蘭尼斯特\",\n      \"description\": \"金髮辮子，華麗的紅色和金色連身裙\"\n    },\n    {\n      \"label\": \"奈德·史塔克\",\n      \"description\": \"棕色頭髮一半，鬍鬚，深色毛皮斗篷\"\n    },\n    {\n      \"label\": \"艾莉亞·史塔克\",\n      \"description\": \"深色短髮半盤起，棕色外衣，劍柄\"\n    },\n    {\n      \"label\": \"詹姆·蘭尼斯特\",\n      \"description\": \"金色短髮，獅子圖案金色鎧甲\"\n    },\n    {\n      \"label\": \"珊莎史塔克\",\n      \"description\": \"紅色辮子髮，藍色毛領連身裙\"\n    },\n    {\n      \"label\": \"席恩葛雷喬伊\",\n      \"description\": \"深色短捲髮，帶有海妖別針的深色束腰外衣\"\n    }\n  ]\n}"
+  },
+  "44": {
+    "sourceSha256": "ab1d9c5dbd2a1477bb6b561caba62324cdfd6759c3b8e3af9cb7c093a38fccf6",
+    "text": "根據上傳圖片的風格，從{argument name=\"dynasty\" default=\"Ming Dynasty\"}中產生各個皇帝的頭像，頭像下方列出了他們的諡號和本名。"
+  },
+  "45": {
+    "sourceSha256": "9798957bfa055ba0bc6f4ce8c9602d1145b87635de695ad9fcc27cf0b1584ccd",
+    "text": "{argument name=\"subject description\" default=\"handsome young Asian man\"} 和 {argument name=\"hair style\" default=\"messy wet hair sticking to his forehead\"} 的醒目的黑白特寫肖像。他的臉和脖子閃閃發光，覆蓋著非常詳細的{argument name=\"skin texture detail\" default=\"water droplets and sweat\"}。他的目光強烈而憂鬱，目光投向鏡頭外的左邊。燈光非常引人注目且對比度高，強調了他銳利的下巴輪廓、豐滿的嘴唇，以及在{argument name=\"background\" default=\"pitch-black background\"}的濕潤皮膚上的鏡面高光。以逼真、時尚的編輯風格和電影明暗對比進行拍攝。"
+  },
+  "46": {
+    "sourceSha256": "4cb22c935f987c5f3c96a5e59f8ae1a1b0fe0ccb3bad19bf09912eab4aacbd70",
+    "text": "一張非常詳細、逼真的照片，照片中一位年輕的東亞女性坐在雜亂的後台更衣室裡，準備參加角色扮演活動。她留著{argument name=\"hair color\" default=\"vibrant short red\"}劉海波波頭，穿著精緻的奇幻戰士服裝，配有{argument name=\"costume color\" default=\"glossy red\"}和金色分層迷你裙、帶有黑色蕾絲和紅色鞋帶的白色緊身胸衣、相配的光滑護臂和長筒靴。她神情專注地低著頭，用右手調整左手臂上的護臂。她面前的梳妝臺很亂，擺滿了化妝刷、瓶子、髮刷和額外的假髮。一個巨大的、華麗的{argument name=\"prop\" default=\"fantasy sword with a blue blade and gold hilt\"}靠在櫃檯的邊緣。背景是一面明亮的梳妝鏡，帶有圓形燈泡，反射著衣架，捕捉到一種坦率、略微過度銳化和高度質感的攝影風格。"
+  },
+  "48": {
+    "sourceSha256": "041533e82c02330fa5ebad284ac93b5aab327db9bf02920f27a73510d06edad7",
+    "text": "一張9:16長寬比的圖片，產生{argument name=\"celebrity\" default=\"Liu Yifei\"}正在直播的抖音直播的螢幕截圖，舉著寫有「{argument name=\"sign text\" default=\"Streaming tonight, welcome to join Yifei's chat!\"}」的牌子"
+  },
+  "49": {
+    "sourceSha256": "041533e82c02330fa5ebad284ac93b5aab327db9bf02920f27a73510d06edad7",
+    "text": "一張9:16長寬比的圖片，產生{argument name=\"celebrity\" default=\"Liu Yifei\"}正在直播的抖音直播的螢幕截圖，舉著寫有「{argument name=\"sign text\" default=\"Streaming tonight, welcome to join Yifei's chat!\"}」的牌子"
+  },
+  "50": {
+    "sourceSha256": "bbae8b78bdc81ba73415bf03a2342484834d3929add6f899075df60836fa0910",
+    "text": "一個宏偉、黑暗的哥德式大廳的高度細節化的電影廣角鏡頭，具有 {argument name=\"atmosphere\" default=\"dark fantasy\"} 的美感。在中心，一個穿著{argument name=\"clothing\" default=\"long white robe\"}]的人物跪在高度反光的石頭地板上，面對著一排點燃的蠟燭照亮的華麗的金色祭壇。在跪著的人的右側，有一個{argument name=\"floor object\" default=\"wooden violin\"}躺在地上。巨大的房間由巨大的黑色石柱構成，上面有{argument name=\"accent color\" default=\"glowing blue\"}空靈的裂縫和紋理。高高的天花板上懸掛著數十個用細繩懸掛的{argument name=\"floating objects\" default=\"white porcelain theatrical masks\"}，填滿了空間的上半部分，營造出一種令人難以忘懷的超現實氛圍。燈光戲劇性且喜怒無常，具有豐富的深黑色、失去光澤的金色和冷藍色調的調色盤。格式16：9。"
+  },
+  "52": {
+    "sourceSha256": "9084bc18c3d7bb1e66bf8e1b9f804a0abc6b721bf356abb738849ad1c60d5715",
+    "text": "白板的真實照片，帶有高度詳細的 {argument name=\"marker color\" default=\"green\"} 幹擦記號筆繪圖 {argument name=\"subject\" default=\"a samurai with a messy topknot and facial hair, hands clasped in prayer\"}。角色以{argument name=\"art style\" default=\"detailed manga sketch\"}風格繪製，側面顯示閉著眼睛，穿著傳統和服，腰帶上別著武士刀。在字元的左側，全大寫的手寫文字為“{argument name=\"text line 1\" default=\"VAGABOND\"}”，其正下方寫有“{argument name=\"text line 2\" default=\"MUSASHI\"}”。白板具有光滑的表面，左側具有逼真的光反射和眩光，底部邊緣可見薄金屬框架，給人以真實的教室或辦公環境的印象。"
+  },
+  "53": {
+    "sourceSha256": "3e80066baf25f37a5c3d70d58df41e4e94277f2308ecf09d76e1e520f29c6f72",
+    "text": "一張 90 年代末的老式業餘閃光照片，照片上是一位年輕人正在修理一臺街機。他跪在有圖案的深色街機地毯上，回頭直視鏡頭，表情中性。他穿著深色短袖 T 卹、寬鬆的藍色牛仔褲、厚實的白色運動鞋和深色棒球帽。街機櫃的下部前面板是敞開的，暴露了其複雜的內部電子裝置，包括一堆電線、綠色電路板、一個大揚聲器和底部的金屬冷卻風扇。機櫃側面採用鮮豔的粉紅色、黑色和白色圖案，並帶有文字“{argument name=\"arcade game title\" default=\"Dancing Stage\"}”和品牌“{argument name=\"arcade brand\" default=\"KONAMI\"}”。場景是一個光線昏暗的拱廊內部，在模糊的背景中可以看到其他發光的遊戲櫃。一把螺絲起子放在男人膝蓋附近的地毯上。影像具有刺眼的直射閃光、略帶顆粒感的膠片紋理、深陰影和懷舊的 Y2K 美學。"
+  },
+  "55": {
+    "sourceSha256": "7cc870adabefe90d24a89cfedfa2cf6a94abd9b75ab315ffca938dc99298c473",
+    "text": "幫我製作這道菜{argument name=\"dish name\" default=\"Fried Pork with Chili\"}的詳細製作流程圖，風格寫實，適合小紅書圖文比例。"
+  },
+  "56": {
+    "sourceSha256": "5dcc36fec8cc3c6b37ebfc13d2ecdb3494de4663fe6317f86cf49c4d46e344ae",
+    "text": "一張真實的年輕{argument name=\"subject aesthetic\" default=\"goth\"}女性照片，她皮膚蒼白，留著劉海的黑色長直發，濃重的黑色眼線，塗著黑色口紅。她坐在兒童投幣式{argument name=\"ride type\" default=\"unicorn\"}兒童投幣式遊樂設施上，表情{argument name=\"expression\" default=\"deadpan\"}直視鏡頭。她穿著黑色蕾絲邊背心、黑色暖臂套、多層項鍊（包括頸鍊）、黑色蕾絲緊身衣和帶扣厚底黑色厚底靴。她的手臂上掛著一個黑色的大單肩包。騎乘是一隻白色的獨角獸，有粉紅色的鬃毛、金色的角和紫色的蹄子，安裝在紫色的底座上，上面有一個小貼紙，上面寫著「{argument name=\"ride cost\" default=\"50¢ PER RIDE\"}」。場景位於一家商店外面，牆壁是棕褐色的煤渣磚。左邊是一扇玻璃門，映出一個人，一個棕色垃圾桶，還有一個白色標牌，上面寫著紅色文字「{argument name=\"sign text\" default=\"NO PARKING FIRE LANE\"}」。右邊是一個藍色的自動販賣機。陰天，自然光。"
+  },
+  "57": {
+    "sourceSha256": "d39f001453c2a5412fb289910bd1bf76729cf96f06ea2393b2c81ebee4ee605c",
+    "text": "{\n  \"type\": \"行動社交媒體應用程式 UI 樣機\",\n  \"platform\": \"Twitter/X 深色模式\",\n  \"header\": {\n    \"status_bar\": \"時間 19:28，小鳥圖示，訊號，wifi，電池\",\n    \"navigation\": \"後退箭頭，「推文」標題\"\n  },\n  \"post\": {\n    \"author\": {\n      \"avatar\": \"身穿紅袍、戴黑帽子的中國皇帝肖像\",\n      \"display_name\": \"{argument name=\\\"display name\\\" default=\\\"Emperor Zhu Yuanzhang\\\"} 👑 [verified badge]\",\n      \"handle\": \"{argument name=\\\"handle\\\" default=\\\"@Emperor_Ming\\\"}\"\n    },\n    \"content\": {\n      \"text\": \"{argument name=\\\"tweet text\\\" default=\\\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\\\"}\",\n      \"hashtags\": \"#明朝#洪武時代#NewBeginning\",\n      \"media_grid\": {\n        \"count\": 3,\n        \"images\": [\n          \"身穿紅色和金色長袍的皇帝坐在華麗的金色寶座上\",\n          \"中國宏偉宮殿庭院的廣角鏡頭，人群眾多\",\n          \"皇帝騎馬率領軍隊，高舉紅龍旗\"\n        ]\n      }\n    },\n    \"metadata\": {\n      \"timestamp\": \"{argument name=\\\"timestamp\\\" default=\\\"1:36 PM · Jan 23, 1368\\\"}\",\n      \"engagement\": \"5,432 則轉發、8,765 則引用、20,100 筆按讚、102,300 次觀看\"\n    },\n    \"actions\": \"回覆、轉發、按讚（附「1」的紅心）、分享、上傳\"\n  },\n  \"footer\": {\n    \"reply_bar\": {\n      \"avatar\": \"穿紅衣服的女人\",\n      \"placeholder\": \"回覆朱元璋...\"\n    },\n    \"navigation_bar\": \"首頁、搜尋、通知（紅色「1」徽章）、資訊\"\n  }\n}"
+  },
+  "58": {
+    "sourceSha256": "6890bf6c64541bef1b08d771fc73a030d63b9591f03e60d63b1be8919d95f90c",
+    "text": "平面插畫，高階東方奇幻風格城市海報設計，垂直9:16構圖。佈局採用對角線+S形流線，從左下角延伸到右上角。背景是深黑色漸變到深紅色，營造出強烈的冷暖對比和空間深度，帶有微弱的星塵和顆粒紋理。中心，一條流動的金色能量線如火焰般蜿蜒穿過，從底部向上延伸，具有流體紋理、粒子效果和漸變高光，帶有微妙的能量碎片和體積光。\n\n在金色的流動中，{argument name=\"city\" default=\"Guangzhou\"}的建築地標層層浮現：以廣州塔為視覺核心，比例突出，周圍是珠江新城天際線、獵德大橋和現代嶺南建築元素。建築採用「細線描畫+金色發光塊」渲染，輪廓清晰，細節豐富，在金色光環的映襯下，彷彿漂浮在虛空中，營造出超現實的空間層次，背景略帶霧氣，增加了深度。\n\n畫面底部是東方白髮女性人物，長髮如霧般飄逸，與金色光芒自然銜接、融為一體。她的頭髮是半透明的，帶有漸變的光效；她身姿優雅，雙眼緊閉，表情安詳，手捧一束點綴著閃爍顆粒的彩色鮮花，象徵著人與城市能量的精神聯絡。角色細節被適度簡化，以強調整體設計。\n\n燈光集中在金色的流動、建築物和人物輪廓上，創造出強烈的明暗對比和視覺焦點。整體氣氛宏大、神秘，充滿東方神話色彩，略顯療癒。顏色以黑色和深紅色為底色，以絢麗的金色作為主要視覺強調。金色具有豐富的明暗層次，輔以小面積的高飽和度花色，保持了精緻內斂的美感。\n\n整合文字和佈局：頂部居中的宋體字型為“{argument name=\"city\" default=\"Guangzhou\"}·中國”，下面是較小的文字“{argument name=\"date\" default=\"2026/04/20\"}”和“{argument name=\"author\" default=\"LIYUE\"}”。文字採用淡金色或柔和的暖白色，與整體燈光統一。高品質細節、戲院級燈光、豐富的體積和粒子細節、乾淨無雜訊的影像、超高8K解析度、商業級海報畫質。"
+  },
+  "60": {
+    "sourceSha256": "179cb2437ec94b3d65f30a775d6932fe709c53a953faeef5189090d4bcfc3236",
+    "text": "{\n  \"type\": \"5 幅拼貼畫\",\n  \"layout\": \"具有 3 個頂部面板和 2 個底部面板的網格\",\n  \"panels\": [\n    {\n      \"position\": \"左上角\",\n      \"subject\": \"類比時鐘\",\n      \"details\": \"青色背景，時間顯示 {argument name=\\\"clock time\\\" default=\\\"7:42\\\"}\",\n      \"style\": \"平面向量圖\"\n    },\n    {\n      \"position\": \"上中\",\n      \"subject\": \"拿著撲克牌的女人\",\n      \"details\": \"持有 5 張牌：{argument name=\\\"card hand\\\" default=\\\"Ace of Spades, King of Hearts, Queen of Clubs, Jack of Diamonds, 10 of Spades\\\"}\",\n      \"style\": \"經典油畫肖像\"\n    },\n    {\n      \"position\": \"右上角\",\n      \"subject\": \"一杯紅色液體\",\n      \"details\": \"{argument name=\\\"glass type\\\" default=\\\"wine glass\\\"}充滿暗紅色液體，大理石表面\",\n      \"style\": \"逼真的工作室攝影\"\n    },\n    {\n      \"position\": \"左下角\",\n      \"subject\": \"棋盤\",\n      \"details\": \"標準起始位置有 32 塊木板\",\n      \"style\": \"逼真的高角度拍攝\"\n    },\n    {\n      \"position\": \"右下角\",\n      \"subject\": \"兩顆骰子\",\n      \"details\": \"左側骰子在頂部顯示 {argument name=\\\"left die top\\\" default=\\\"5\\\"}，右側骰子在頂部顯示 {argument name=\\\"right die top\\\" default=\\\"2\\\"}\",\n      \"style\": \"普普藝術漫畫書半色調與紅色和藍色爆裂\"\n    }\n  ]\n}"
+  },
+  "74": {
+    "sourceSha256": "d4e6b2893f1eb5bf81663c97bd75b9db755950a17ea52157a0e1b00c2a603cef",
+    "text": "請根據{argument name=\"theme\" default=\"animals\"}產生高品質的直版《科普百科圖片》。\n\n該影像不是普通的海報或簡單的插圖，而是具有「圖鑑、百科全書、資訊結構、收藏性」感的模組化科普資訊圖表。整體風格應參考高階自然歷史插圖、現代百科全書頁面、生活方式知識卡和高度共享的社交媒體資訊圖表的組合。\n\n請在框架中包含：\n- 主題清晰美觀的主視覺\n- 幾個當地特色的放大細節\n- 多個圓形模組化資訊部分\n- 清晰的標題層次結構和關鍵標籤\n- 簡潔而豐富的百科內容\n- 視覺評分、要點總結或前 5 個模組\n\n內容欄應根據主題自動適配，優先考慮以下方向：基本概況、分類資訊、外觀特徵、習性/生態、形成機制/結構、生長或使用條件、護理或維護建議、風險和注意事項、適合受眾或場景、優缺點比較、快速評分卡。\n\n視覺需求：\n淺色乾淨的背景，柔和的調色盤，淡淡的陰影，精緻的小圖示，圓潤的資訊框，佈局整齊，資訊密度高但不擁擠，閱讀體驗良好。整體效果必須看起來像一張真正的科學百科全書卡片，適合出版、閱讀、收藏、連載製作，而不是廣告。\n\n請不要將其作為常規的商業宣傳海報。突顯「知識組織+模組化資訊+插畫式展示」的特色。"
+  },
+  "75": {
+    "sourceSha256": "d4e6b2893f1eb5bf81663c97bd75b9db755950a17ea52157a0e1b00c2a603cef",
+    "text": "請根據{argument name=\"theme\" default=\"animals\"}產生高品質的直版《科普百科圖片》。\n\n該影像不是普通的海報或簡單的插圖，而是具有「圖鑑、百科全書、資訊結構、收藏性」感的模組化科普資訊圖表。整體風格應參考高階自然歷史插圖、現代百科全書頁面、生活方式知識卡和高度共享的社交媒體資訊圖表的組合。\n\n請在框架中包含：\n- 主題清晰美觀的主視覺\n- 幾個當地特色的放大細節\n- 多個圓形模組化資訊部分\n- 清晰的標題層次結構和關鍵標籤\n- 簡潔而豐富的百科內容\n- 視覺評分、要點總結或前 5 個模組\n\n內容欄應根據主題自動適配，優先考慮以下方向：基本概況、分類資訊、外觀特徵、習性/生態、形成機制/結構、生長或使用條件、護理或維護建議、風險和注意事項、適合受眾或場景、優缺點比較、快速評分卡。\n\n視覺需求：\n淺色乾淨的背景，柔和的調色盤，淡淡的陰影，精緻的小圖示，圓潤的資訊框，佈局整齊，資訊密度高但不擁擠，閱讀體驗良好。整體效果必須看起來像一張真正的科學百科全書卡片，適合出版、閱讀、收藏、連載製作，而不是廣告。\n\n請不要將其作為常規的商業宣傳海報。突顯「知識組織+模組化資訊+插畫式展示」的特色。"
+  },
+  "76": {
+    "sourceSha256": "d4e6b2893f1eb5bf81663c97bd75b9db755950a17ea52157a0e1b00c2a603cef",
+    "text": "請根據{argument name=\"theme\" default=\"animals\"}產生高品質的直版《科普百科圖片》。\n\n該影像不是普通的海報或簡單的插圖，而是具有「圖鑑、百科全書、資訊結構、收藏性」感的模組化科普資訊圖表。整體風格應參考高階自然歷史插圖、現代百科全書頁面、生活方式知識卡和高度共享的社交媒體資訊圖表的組合。\n\n請在框架中包含：\n- 主題清晰美觀的主視覺\n- 幾個當地特色的放大細節\n- 多個圓形模組化資訊部分\n- 清晰的標題層次結構和關鍵標籤\n- 簡潔而豐富的百科內容\n- 視覺評分、要點總結或前 5 個模組\n\n內容欄應根據主題自動適配，優先考慮以下方向：基本概況、分類資訊、外觀特徵、習性/生態、形成機制/結構、生長或使用條件、護理或維護建議、風險和注意事項、適合受眾或場景、優缺點比較、快速評分卡。\n\n視覺需求：\n淺色乾淨的背景，柔和的調色盤，淡淡的陰影，精緻的小圖示，圓潤的資訊框，佈局整齊，資訊密度高但不擁擠，閱讀體驗良好。整體效果必須看起來像一張真正的科學百科全書卡片，適合出版、閱讀、收藏、連載製作，而不是廣告。\n\n請不要將其作為常規的商業宣傳海報。突顯「知識組織+模組化資訊+插畫式展示」的特色。"
+  },
+  "77": {
+    "sourceSha256": "d4e6b2893f1eb5bf81663c97bd75b9db755950a17ea52157a0e1b00c2a603cef",
+    "text": "請根據{argument name=\"theme\" default=\"animals\"}產生高品質的直版《科普百科圖片》。\n\n該影像不是普通的海報或簡單的插圖，而是具有「圖鑑、百科全書、資訊結構、收藏性」感的模組化科普資訊圖表。整體風格應參考高階自然歷史插圖、現代百科全書頁面、生活方式知識卡和高度共享的社交媒體資訊圖表的組合。\n\n請在框架中包含：\n- 主題清晰美觀的主視覺\n- 幾個當地特色的放大細節\n- 多個圓形模組化資訊部分\n- 清晰的標題層次結構和關鍵標籤\n- 簡潔而豐富的百科內容\n- 視覺評分、要點總結或前 5 個模組\n\n內容欄應根據主題自動適配，優先考慮以下方向：基本概況、分類資訊、外觀特徵、習性/生態、形成機制/結構、生長或使用條件、護理或維護建議、風險和注意事項、適合受眾或場景、優缺點比較、快速評分卡。\n\n視覺需求：\n淺色乾淨的背景，柔和的調色盤，淡淡的陰影，精緻的小圖示，圓潤的資訊框，佈局整齊，資訊密度高但不擁擠，閱讀體驗良好。整體效果必須看起來像一張真正的科學百科全書卡片，適合出版、閱讀、收藏、連載製作，而不是廣告。\n\n請不要將其作為常規的商業宣傳海報。突顯「知識組織+模組化資訊+插畫式展示」的特色。"
+  },
+  "78": {
+    "sourceSha256": "de684c374aa0e0168ef3b0445a26a69f6e2d7dd5fdce854741707cec53f44a22",
+    "text": "[CORE TASK]\n將提供的輸入影像轉換為姿勢和光線分析表。\n\n這不是完成的人物插圖。\n這不是衣服床單。\n這不是為了美觀而進行的重畫。\n\n這是一個白線粗糙人體模型轉換。\n\n[PRIMARY GOAL]\n僅提取和視覺化：\n- 姿勢結構\n- 身體平衡\n- 相機角度\n- 身體線條流暢\n- 推斷光源位置\n- 照明區域和光強度\n\n[INPUT ROLE]\n使用提供的影像作為嚴格錨點：\n- 姿勢\n- 相機角度\n- 身體傾斜\n- 重量分佈\n- 大概的照明狀況\n\n不要保留：\n- 臉部渲染\n- 髮型渲染\n- 服裝細節\n- 配件\n- 武器細節\n- 背景架構\n- 角色身份\n- 情緒表達\n\n[FIGURE CONVERSION]\n單一粗糙的人體模型般的人物形象\n白色的身體輪廓線\n白色內部構造線\n簡單的人體模型頭\n沒有臉\n沒有眼睛\n沒有嘴\n沒有睫毛\n沒有個性\n沒有個人身份\n\n人物形象應該是這樣的：\n- 粗略姿勢人體模型\n- 解剖代理\n- 基於線條的身體指南\n- 結構草圖\n- 白線粗糙假人\n\n保留：\n- 姿勢可讀性\n- 剪影流\n- 頭部傾斜\n- 軀幹方向\n- 骨盆方向\n- 肢體放置\n\n[BACKGROUND]\n純黑色背景\n底片式暗場\n沒有風景\n沒有道具\n沒有架構\n沒有環境故事\n\n[LINE STYLE]\n粗略的白線畫\n乾淨但畫素描\n構造線感\n解剖引導線可見\n關節流可見\n強調身體輪廓\n沒有拋光插圖完成\n\n[LIGHT ESTIMATION]\n從輸入影像預測可能的光源位置\n僅使用綠光視覺化光源和照明區域\n\n使用具有變化的綠光強度：\n- 光線直射處最強的綠色\n- 中綠色用於包裹光\n- 柔和的綠色表示反射光或褪色光\n\n以標籤和箭頭標記估計的光源，例如：\n- 主燈\n- 邊緣光\n- 補光燈\n- 地板彈跳\n- 背光\n僅在適當的情況下\n\n重要：\n不要發明隨機燈\n從原始輸入影像推斷光照\n如果照明不明確，請保持註解簡單且合理\n\n[GREEN LIGHT VISUALIZATION]\n顯示綠光：\n- 頭部/顱骨平面\n- 頸部\n- 肩膀\n- 胸部平面\n- 胸腔方向\n- 骨盆邊緣\n- 大腿平面\n- 膝蓋接觸點\n- 地板接觸彈跳（如果適用）\n\n使用綠光不作為裝飾，\n但作為照明分析資訊\n\n[POSE PRIORITY]\n1. 保留姿勢結構\n2. 保持拍攝角度\n3.保持身體平衡\n4. 保持頭部與軀幹的關係\n5. 想像可能的光線方向\n6. 顯示具有可讀綠色強度變化的照明區域\n\n[NEGATIVE]\n完成的人，\n可愛的女孩，\n詳細的臉部，\n頭髮渲染，\n服裝效果圖、\n武器強調，\n美麗的解剖學"
+  },
+  "79": {
+    "sourceSha256": "de684c374aa0e0168ef3b0445a26a69f6e2d7dd5fdce854741707cec53f44a22",
+    "text": "[CORE TASK]\n將提供的輸入影像轉換為姿勢和光線分析表。\n\n這不是完成的人物插圖。\n這不是衣服床單。\n這不是為了美觀而進行的重畫。\n\n這是一個白線粗糙人體模型轉換。\n\n[PRIMARY GOAL]\n僅提取和視覺化：\n- 姿勢結構\n- 身體平衡\n- 相機角度\n- 身體線條流暢\n- 推斷光源位置\n- 照明區域和光強度\n\n[INPUT ROLE]\n使用提供的影像作為嚴格錨點：\n- 姿勢\n- 相機角度\n- 身體傾斜\n- 重量分佈\n- 大概的照明狀況\n\n不要保留：\n- 臉部渲染\n- 髮型渲染\n- 服裝細節\n- 配件\n- 武器細節\n- 背景架構\n- 角色身份\n- 情緒表達\n\n[FIGURE CONVERSION]\n單一粗糙的人體模型般的人物形象\n白色的身體輪廓線\n白色內部構造線\n簡單的人體模型頭\n沒有臉\n沒有眼睛\n沒有嘴\n沒有睫毛\n沒有個性\n沒有個人身份\n\n人物形象應該是這樣的：\n- 粗略姿勢人體模型\n- 解剖代理\n- 基於線條的身體指南\n- 結構草圖\n- 白線粗糙假人\n\n保留：\n- 姿勢可讀性\n- 剪影流\n- 頭部傾斜\n- 軀幹方向\n- 骨盆方向\n- 肢體放置\n\n[BACKGROUND]\n純黑色背景\n底片式暗場\n沒有風景\n沒有道具\n沒有架構\n沒有環境故事\n\n[LINE STYLE]\n粗略的白線畫\n乾淨但畫素描\n構造線感\n解剖引導線可見\n關節流可見\n強調身體輪廓\n沒有拋光插圖完成\n\n[LIGHT ESTIMATION]\n從輸入影像預測可能的光源位置\n僅使用綠光視覺化光源和照明區域\n\n使用具有變化的綠光強度：\n- 光線直射處最強的綠色\n- 中綠色用於包裹光\n- 柔和的綠色表示反射光或褪色光\n\n以標籤和箭頭標記估計的光源，例如：\n- 主燈\n- 邊緣光\n- 補光燈\n- 地板彈跳\n- 背光\n僅在適當的情況下\n\n重要：\n不要發明隨機燈\n從原始輸入影像推斷光照\n如果照明不明確，請保持註解簡單且合理\n\n[GREEN LIGHT VISUALIZATION]\n顯示綠光：\n- 頭部/顱骨平面\n- 頸部\n- 肩膀\n- 胸部平面\n- 胸腔方向\n- 骨盆邊緣\n- 大腿平面\n- 膝蓋接觸點\n- 地板接觸彈跳（如果適用）\n\n使用綠光不作為裝飾，\n但作為照明分析資訊\n\n[POSE PRIORITY]\n1. 保留姿勢結構\n2. 保持拍攝角度\n3.保持身體平衡\n4. 保持頭部與軀幹的關係\n5. 想像可能的光線方向\n6. 顯示具有可讀綠色強度變化的照明區域\n\n[NEGATIVE]\n完成的人，\n可愛的女孩，\n詳細的臉部，\n頭髮渲染，\n服裝效果圖、\n武器強調，\n美麗的解剖學"
+  },
+  "80": {
+    "sourceSha256": "de684c374aa0e0168ef3b0445a26a69f6e2d7dd5fdce854741707cec53f44a22",
+    "text": "[CORE TASK]\n將提供的輸入影像轉換為姿勢和光線分析表。\n\n這不是完成的人物插圖。\n這不是衣服床單。\n這不是為了美觀而進行的重畫。\n\n這是一個白線粗糙人體模型轉換。\n\n[PRIMARY GOAL]\n僅提取和視覺化：\n- 姿勢結構\n- 身體平衡\n- 相機角度\n- 身體線條流暢\n- 推斷光源位置\n- 照明區域和光強度\n\n[INPUT ROLE]\n使用提供的影像作為嚴格錨點：\n- 姿勢\n- 相機角度\n- 身體傾斜\n- 重量分佈\n- 大概的照明狀況\n\n不要保留：\n- 臉部渲染\n- 髮型渲染\n- 服裝細節\n- 配件\n- 武器細節\n- 背景架構\n- 角色身份\n- 情緒表達\n\n[FIGURE CONVERSION]\n單一粗糙的人體模型般的人物形象\n白色的身體輪廓線\n白色內部構造線\n簡單的人體模型頭\n沒有臉\n沒有眼睛\n沒有嘴\n沒有睫毛\n沒有個性\n沒有個人身份\n\n人物形象應該是這樣的：\n- 粗略姿勢人體模型\n- 解剖代理\n- 基於線條的身體指南\n- 結構草圖\n- 白線粗糙假人\n\n保留：\n- 姿勢可讀性\n- 剪影流\n- 頭部傾斜\n- 軀幹方向\n- 骨盆方向\n- 肢體放置\n\n[BACKGROUND]\n純黑色背景\n底片式暗場\n沒有風景\n沒有道具\n沒有架構\n沒有環境故事\n\n[LINE STYLE]\n粗略的白線畫\n乾淨但畫素描\n構造線感\n解剖引導線可見\n關節流可見\n強調身體輪廓\n沒有拋光插圖完成\n\n[LIGHT ESTIMATION]\n從輸入影像預測可能的光源位置\n僅使用綠光視覺化光源和照明區域\n\n使用具有變化的綠光強度：\n- 光線直射處最強的綠色\n- 中綠色用於包裹光\n- 柔和的綠色表示反射光或褪色光\n\n以標籤和箭頭標記估計的光源，例如：\n- 主燈\n- 邊緣光\n- 補光燈\n- 地板彈跳\n- 背光\n僅在適當的情況下\n\n重要：\n不要發明隨機燈\n從原始輸入影像推斷光照\n如果照明不明確，請保持註解簡單且合理\n\n[GREEN LIGHT VISUALIZATION]\n顯示綠光：\n- 頭部/顱骨平面\n- 頸部\n- 肩膀\n- 胸部平面\n- 胸腔方向\n- 骨盆邊緣\n- 大腿平面\n- 膝蓋接觸點\n- 地板接觸彈跳（如果適用）\n\n使用綠光不作為裝飾，\n但作為照明分析資訊\n\n[POSE PRIORITY]\n1. 保留姿勢結構\n2. 保持拍攝角度\n3.保持身體平衡\n4. 保持頭部與軀幹的關係\n5. 想像可能的光線方向\n6. 顯示具有可讀綠色強度變化的照明區域\n\n[NEGATIVE]\n完成的人，\n可愛的女孩，\n詳細的臉部，\n頭髮渲染，\n服裝效果圖、\n武器強調，\n美麗的解剖學"
+  },
+  "81": {
+    "sourceSha256": "f891d808ee50b992c49e9332c5504e5aeac9a7a0dcf7032b01a1ff6e2f05557d",
+    "text": "{\n  \"type\": \"科學硬體圖\",\n  \"layout\": {\n    \"main_scene\": \"光學平臺的 3D 渲染，其中紅色雷射光束穿過安裝在黑色柱子上的 11 個對齊的光學元件。\",\n    \"top_brackets\": [\n      {\n        \"label\": \"雙調變\",\n        \"span\": \"SLM1\"\n      },\n      {\n        \"label\": \"4f 中繼光學元件\",\n        \"span\": \"鏡頭 L1 至鏡頭 L2\"\n      },\n      {\n        \"label\": \"成像光學\",\n        \"span\": \"SLM2 至鏡頭 L4\"\n      },\n      {\n        \"label\": \"偵測\",\n        \"span\": \"相機\"\n      }\n    ],\n    \"optical_components_left_to_right\": [\n      {\n        \"name\": \"雷射\",\n        \"labels\": [\n          \"雷射\",\n          \"λ = {argument name=\\\"laser wavelength\\\" default=\\\"632.8 nm\\\"}\"\n        ]\n      },\n      {\n        \"name\": \"SLM1\",\n        \"labels\": [\n          \"SLM1\",\n          \"（相位/極化模式）\"\n        ]\n      },\n      {\n        \"name\": \"鏡頭L1\",\n        \"labels\": [\n          \"鏡頭L1\",\n          \"(f1)\"\n        ]\n      },\n      {\n        \"name\": \"鳶尾花\",\n        \"labels\": [\n          \"傅立葉平面\",\n          \"（瞳孔平面）\",\n          \"鳶尾花\",\n          \"（高階過濾）\"\n        ]\n      },\n      {\n        \"name\": \"熱熔水壓\",\n        \"labels\": [\n          \"熱熔水壓\",\n          \"(λ/2)\"\n        ]\n      },\n      {\n        \"name\": \"鏡頭L2\",\n        \"labels\": [\n          \"鏡頭L2\",\n          \"(f1)\"\n        ]\n      },\n      {\n        \"name\": \"SLM2\",\n        \"labels\": [\n          \"SLM2\",\n          \"（相位/極化模式）\"\n        ]\n      },\n      {\n        \"name\": \"鏡頭L3\",\n        \"labels\": [\n          \"鏡頭L3\",\n          \"(f2)\"\n        ]\n      },\n      {\n        \"name\": \"鏡頭L4\",\n        \"labels\": [\n          \"鏡頭L4\",\n          \"(f2)\"\n        ]\n      },\n      {\n        \"name\": \"線性偏光鏡\",\n        \"labels\": [\n          \"線性\",\n          \"-偏光鏡\",\n          \"（全域性分析器）\"\n        ]\n      },\n      {\n        \"name\": \"偏光相機\",\n        \"labels\": [\n          \"偏光相機\"\n        ]\n      }\n    ],\n    \"inset_box\": {\n      \"position\": \"右下角\",\n      \"title\": \"偏振相機微偏振器陣列（每畫素分析儀）\",\n      \"grid\": \"帶有方向箭頭的 4x4 彩色方塊網格\",\n      \"legend_count\": 4,\n      \"legend_items\": [\n        \"紅色方塊，水平箭頭，0° (H)\",\n        \"綠色正方形，垂直箭頭，90° (V)\",\n        \"藍色正方形，對角線箭頭，45° (D)\",\n        \"黃色正方形，對角線箭頭，135° (A)\"\n      ]\n    },\n    \"bottom_caption\": {\n      \"figure_prefix\": \"{argument name=\\\"figure number\\\" default=\\\"Fig. 5.\\\"}\",\n      \"title\": \"{argument name=\\\"system name\\\" default=\\\"Ellipsography Hardware Setup.\\\"}\",\n      \"text\": \"解釋雙調變配置、4f 中繼光學元件和偏振相機的科學文欄位落。\"\n    }\n  }\n}"
+  },
+  "82": {
+    "sourceSha256": "68527e84692e19cf5425192c073a65372b429412559ea83a095502bd9c361ce9",
+    "text": "{\n  \"type\": \"科學光學設定圖\",\n  \"main_setup\": {\n    \"base\": \"帶有安裝孔網格的光學麵包板桌子\",\n    \"beam\": \"紅色雷射光束水平穿過所有元件\",\n    \"top_grouping_brackets\": [\n      \"{argument name=\\\"first component group\\\" default=\\\"Dual Modulation\\\"}\",\n      \"4f繼電器光學元件\",\n      \"成像光學\",\n      \"偵測\"\n    ],\n    \"components_left_to_right\": [\n      {\n        \"name\": \"鐳射\",\n        \"label\": \"{argument name=\\\"laser wavelength\\\" default=\\\"λ = 632.8 nm\\\"}\",\n        \"appearance\": \"黑色矩形盒子\"\n      },\n      {\n        \"name\": \"SLM1\",\n        \"label\": \"(Phase/Pol. Mod.)\",\n        \"appearance\": \"支柱上的黑色方形裝置\"\n      },\n      {\n        \"name\": \"鏡頭L1\",\n        \"label\": \"F1\",\n        \"appearance\": \"黑色環形安裝鏡頭\"\n      },\n      {\n        \"name\": \"Iris\",\n        \"label\": \"傅立葉平面(瞳孔平面)/(高階篩選)\",\n        \"appearance\": \"上面有虛線的黑色環形支架\"\n      },\n      {\n        \"name\": \"HWP\",\n        \"label\": \"(λ/2)\",\n        \"appearance\": \"黑色環形安裝紫色光學鏡片\"\n      },\n      {\n        \"name\": \"鏡頭L2\",\n        \"label\": \"F1\",\n        \"appearance\": \"黑色環形安裝鏡頭\"\n      },\n      {\n        \"name\": \"SLM2\",\n        \"label\": \"(Phase/Pol. Mod.)\",\n        \"appearance\": \"支柱上的黑色方形裝置\"\n      },\n      {\n        \"name\": \"鏡頭L3\",\n        \"label\": \"F2\",\n        \"appearance\": \"黑色環形安裝鏡頭\"\n      },\n      {\n        \"name\": \"鏡頭L4\",\n        \"label\": \"F2\",\n        \"appearance\": \"黑色環形安裝鏡頭\"\n      },\n      {\n        \"name\": \"線性偏光片\",\n        \"label\": \"（全域性分析器）\",\n        \"appearance\": \"黑色環形安裝鏡頭\"\n      },\n      {\n        \"name\": \"偏振相機\",\n        \"label\": \"偏振相機\",\n        \"appearance\": \"藍色和黑色相機\"\n      }\n    ]\n  },\n  \"inset_diagram\": {\n    \"position\": \"右下角，虛線邊框\",\n    \"title\": \"{argument name=\\\"inset title\\\" default=\\\"Polarization Camera Micro-Polarizer Array\\\"} （每畫素分析器）\",\n    \"visuals\": \"帶有白色方向箭頭的彩色方塊的4x4網格\",\n    \"legend_count\": 4,\n    \"legend_labels\": [\n      \"紅色右箭頭0° (H)\",\n      \"綠色向上箭頭90° (V)\",\n      \"藍色對角線箭頭45° (D)\",\n      \"黃色對角線箭頭135° (A)\"\n    ]\n  },\n  \"bottom_caption\": {\n    \"figure_number\": \"圖5\",\n    \"title\": \"{argument name=\\\"setup title\\\" default=\\\"Ellipsography Hardware Setup.\\\"}\",\n    \"description\": \"{argument name=\\\"figure caption\\\" default=\\\"Our prototype display system employs a dual-modulation configuration to achieve simultaneous control of phase and polarization. A 4f relay optics setup transfers the modulated wavefront...\\\"}\"\n  }\n}"
+  },
+  "83": {
+    "sourceSha256": "5a30edc3a1283435ad2596ea6e60ce0c783402dc8ba38d05aa6d09b40d9dda5f",
+    "text": "{\n  \"type\": \"運動比賽資訊圖表海報\",\n  \"theme\": \"歐洲冠軍聯賽\",\n  \"background\": \"深藍色和紫色的宇宙天空，發光的藍色六邊形線條，底部反射在水上的照明體育場\",\n  \"header\": {\n    \"logo\": \"歐洲冠軍聯賽\",\n    \"title\": \"{argument name=\\\"stage\\\" default=\\\"HALBFINALE\\\"}\",\n    \"subtitle\": \"DAS ZIEL ： {argument name=\\\"location\\\" default=\\\"BUDAPEST 2026\\\"}\",\n    \"venue\": \"PUSKÁS ARÉNA\"\n  },\n  \"matchup\": {\n    \"player_left\": \"{argument name=\\\"team 1 player\\\" default=\\\"Harry Kane\\\"}紅色FC拜仁套裝\",\n    \"player_right\": \"{argument name=\\\"team 2 player\\\" default=\\\"Ousmane Dembélé\\\"}藍色PSG套件\",\n    \"center_logos\": \"拜仁慕尼黑足球俱樂部和巴黎聖日耳曼足球俱樂部\",\n    \"date_box\": \"calendar icon, MITTWOCH, {argument name=\\\"date\\\" default=\\\"06.05.2026\\\"}\"\n  },\n  \"facts_section\": {\n    \"title\": \"搜尋\",\n    \"count\": 5,\n    \"items\": [\n      \"獎盃圖示： DIE KÖNIGSKLASSE 2025/26\",\n      \"條形圖圖示：頂級形態中的凱恩\",\n      \"閃電標誌： DEMBÉLÉ ÜBERFLIEGER\",\n      \"兩人圖示： BISHER 14 DUELLE\",\n      \"體育場地標誌：布達佩斯廢墟\"\n    ]\n  },\n  \"footer\": {\n    \"trophy\": \"右側的冠軍聯賽獎盃\",\n    \"stadium_image\": \"夜晚的Puskás Aréna\",\n    \"tagline\": \"EIN TRAUM. EIN ZIEL. EIN TITEL.\",\n    \"bottom_text\": \"通往2026年布達佩斯之路\"\n  }\n}"
+  },
+  "84": {
+    "sourceSha256": "32d52f5f3e4d7ed117a70b72834d647437d218354db210b286c48790d971c8e4",
+    "text": "請根據{argument name=\"theme\" default=\"Demon Slayer\"}產生高設計人物關係地圖海報。 這張圖片不應該是簡單的插圖，而是結合資訊視覺化、敘事結構、海報設計感和風格逼真的角色關係圖。\n\n請自動填寫以下內容：\n-識別與主題相對應的工作和核心設定\n-提取最具代表性的6–12個關鍵字，必要時不超過15個\n-識別和顯示關鍵角色關係，包括血緣、浪漫、友誼、聯盟、敵意、大師門徒等。\n-根據作品的特點自動選擇合成方法，例如以主角為中心、雙核心對抗、以陣營為基礎、家譜樹或時間順序演變\n-自動細化作品的風格DNA ，包括顏色、世界觀符號、紋理、情緒、排版和代表性元素\n-將這些風格元素轉化為關係地圖的整體視覺設計，而不是簡單地複製官方海報\n-使用不同的顏色、線條型別和箭頭來區分不同的關係，確保清晰的線條和圖層沒有混亂\n-使核心人物最突出，其次是重要人物，並削弱下屬人物以形成清晰的視覺層次結構\n-確保每個角色名稱都清晰可辨，並在必要時附上身份或陣營標籤\n\n最終產品應滿足：\n-立即瞭解性格層級和關鍵關係\n-與原創作品的氣質和環境明顯一致\n-結合資訊圖的清晰度與海報的優質設計\n-統一、精緻、完整，適合社交媒體分享或海報展示\n-避免廉價的流程圖感覺、凌亂的堆疊和資訊超載。"
+  },
+  "85": {
+    "sourceSha256": "32d52f5f3e4d7ed117a70b72834d647437d218354db210b286c48790d971c8e4",
+    "text": "請根據{argument name=\"theme\" default=\"Demon Slayer\"}產生高設計人物關係地圖海報。 這張圖片不應該是簡單的插圖，而是結合資訊視覺化、敘事結構、海報設計感和風格逼真的角色關係圖。\n\n請自動填寫以下內容：\n-識別與主題相對應的工作和核心設定\n-提取最具代表性的6–12個關鍵字，必要時不超過15個\n-識別和顯示關鍵角色關係，包括血緣、浪漫、友誼、聯盟、敵意、大師門徒等。\n-根據作品的特點自動選擇合成方法，例如以主角為中心、雙核心對抗、以陣營為基礎、家譜樹或時間順序演變\n-自動細化作品的風格DNA ，包括顏色、世界觀符號、紋理、情緒、排版和代表性元素\n-將這些風格元素轉化為關係地圖的整體視覺設計，而不是簡單地複製官方海報\n-使用不同的顏色、線條型別和箭頭來區分不同的關係，確保清晰的線條和圖層沒有混亂\n-使核心人物最突出，其次是重要人物，並削弱下屬人物以形成清晰的視覺層次結構\n-確保每個角色名稱都清晰可辨，並在必要時附上身份或陣營標籤\n\n最終產品應滿足：\n-立即瞭解性格層級和關鍵關係\n-與原創作品的氣質和環境明顯一致\n-結合資訊圖的清晰度與海報的優質設計\n-統一、精緻、完整，適合社交媒體分享或海報展示\n-避免廉價的流程圖感覺、凌亂的堆疊和資訊超載。"
+  },
+  "86": {
+    "sourceSha256": "32d52f5f3e4d7ed117a70b72834d647437d218354db210b286c48790d971c8e4",
+    "text": "請根據{argument name=\"theme\" default=\"Demon Slayer\"}產生高設計人物關係地圖海報。 這張圖片不應該是簡單的插圖，而是結合資訊視覺化、敘事結構、海報設計感和風格逼真的角色關係圖。\n\n請自動填寫以下內容：\n-識別與主題相對應的工作和核心設定\n-提取最具代表性的6–12個關鍵字，必要時不超過15個\n-識別和顯示關鍵角色關係，包括血緣、浪漫、友誼、聯盟、敵意、大師門徒等。\n-根據作品的特點自動選擇合成方法，例如以主角為中心、雙核心對抗、以陣營為基礎、家譜樹或時間順序演變\n-自動細化作品的風格DNA ，包括顏色、世界觀符號、紋理、情緒、排版和代表性元素\n-將這些風格元素轉化為關係地圖的整體視覺設計，而不是簡單地複製官方海報\n-使用不同的顏色、線條型別和箭頭來區分不同的關係，確保清晰的線條和圖層沒有混亂\n-使核心人物最突出，其次是重要人物，並削弱下屬人物以形成清晰的視覺層次結構\n-確保每個角色名稱都清晰可辨，並在必要時附上身份或陣營標籤\n\n最終產品應滿足：\n-立即瞭解性格層級和關鍵關係\n-與原創作品的氣質和環境明顯一致\n-結合資訊圖的清晰度與海報的優質設計\n-統一、精緻、完整，適合社交媒體分享或海報展示\n-避免廉價的流程圖感覺、凌亂的堆疊和資訊超載。"
+  },
+  "87": {
+    "sourceSha256": "32d52f5f3e4d7ed117a70b72834d647437d218354db210b286c48790d971c8e4",
+    "text": "請根據{argument name=\"theme\" default=\"Demon Slayer\"}產生高設計人物關係地圖海報。 這張圖片不應該是簡單的插圖，而是結合資訊視覺化、敘事結構、海報設計感和風格逼真的角色關係圖。\n\n請自動填寫以下內容：\n-識別與主題相對應的工作和核心設定\n-提取最具代表性的6–12個關鍵字，必要時不超過15個\n-識別和顯示關鍵角色關係，包括血緣、浪漫、友誼、聯盟、敵意、大師門徒等。\n-根據作品的特點自動選擇合成方法，例如以主角為中心、雙核心對抗、以陣營為基礎、家譜樹或時間順序演變\n-自動細化作品的風格DNA ，包括顏色、世界觀符號、紋理、情緒、排版和代表性元素\n-將這些風格元素轉化為關係地圖的整體視覺設計，而不是簡單地複製官方海報\n-使用不同的顏色、線條型別和箭頭來區分不同的關係，確保清晰的線條和圖層沒有混亂\n-使核心人物最突出，其次是重要人物，並削弱下屬人物以形成清晰的視覺層次結構\n-確保每個角色名稱都清晰可辨，並在必要時附上身份或陣營標籤\n\n最終產品應滿足：\n-立即瞭解性格層級和關鍵關係\n-與原創作品的氣質和環境明顯一致\n-結合資訊圖的清晰度與海報的優質設計\n-統一、精緻、完整，適合社交媒體分享或海報展示\n-避免廉價的流程圖感覺、凌亂的堆疊和資訊超載。"
+  },
+  "88": {
+    "sourceSha256": "39eadafec753f1a42660053da7eafc8fa7da5a3e3e45e0aa50a8cc58c0d49f40",
+    "text": "GPT-Image-2提示：請自動產生以{argument name=\"theme\" default=\"ranking of emperors in Chinese history\"}為中心的頂級概念海報/資訊圖表風格的電影海報。\n\n要求AI根據此主題自動匯出並統一設計以下整個視覺系統，而無需我的額外規格：\n-核心主題（自動判斷是否適合人物、產品、建築、文物、符號、場景或抽象影像）\n-底部支撐結構\n-上方懸停符號或靈性符號\n-場景包裝元素\n-比喻系統\n-顏色層次結構\n-材質對比\n-照明邏輯\n-標題、字幕和輔助文案\n-品牌感和高階表達\n\n最終的框架必須是：一張震撼、精確、統一、電影化、超高細節的概念關鍵視覺海報，適合高階印刷。\n\n[Overall Style]\n超逼真的3D商業CGI渲染，融合電影燈光、豪華視覺語言、未來主義概念設計和史詩構圖。 影像必須具有「單一主視覺核心」，而不是凌亂、不像拼貼，也不像普通的電子商務海報。\n\n[Automatic Derivation Rules]\nAI必須根據[theme]自動決定：\n1.核心視覺隱喻\n2.受試者型別和姿勢\n3.支撐結構形式\n4.懸浮元素的形式\n5.場景外殼與空間氛圍\n6.主要、輔助和強調顏色\n7.材料組合\n8.文字氣質與版面風格\n\n[Composition Rules]\n-絕對的高品質感\n-強大的中央秩序，整體團結\n-允許在中心軸附近進行軸向對稱或史詩組合\n-清晰的視覺重力，從上到下形成清晰的水平\n-邊緣負空間乾淨、受限，並有呼吸的空間\n\n[Visual Quality]\n-超高細節\n-清晰的體積光線\n-正宗材料\n-自然反射、折射、陰影、霧和景深\n-高階品牌宣傳活動整體標準關鍵視覺/奢華邀請海報/概念編輯海報\n\n[Typography System]\n-整體90%視覺效果， 10%文字\n- AI會根據[theme]自動產生最匹配的主標題和副標題\n-標題必須簡潔、銳利且有力\n-文字應盡可能簡短且準確；請勿堆疊文字\n\n[Signature Requirement]\n在底部角落自然新增作者簽名： @ a9quant"
+  },
+  "89": {
+    "sourceSha256": "39eadafec753f1a42660053da7eafc8fa7da5a3e3e45e0aa50a8cc58c0d49f40",
+    "text": "GPT-Image-2提示：請自動產生以{argument name=\"theme\" default=\"ranking of emperors in Chinese history\"}為中心的頂級概念海報/資訊圖表風格的電影海報。\n\n要求AI根據此主題自動匯出並統一設計以下整個視覺系統，而無需我的額外規格：\n-核心主題（自動判斷是否適合人物、產品、建築、文物、符號、場景或抽象影像）\n-底部支撐結構\n-上方懸停符號或靈性符號\n-場景包裝元素\n-比喻系統\n-顏色層次結構\n-材質對比\n-照明邏輯\n-標題、字幕和輔助文案\n-品牌感和高階表達\n\n最終的框架必須是：一張震撼、精確、統一、電影化、超高細節的概念關鍵視覺海報，適合高階印刷。\n\n[Overall Style]\n超逼真的3D商業CGI渲染，融合電影燈光、豪華視覺語言、未來主義概念設計和史詩構圖。 影像必須具有「單一主視覺核心」，而不是凌亂、不像拼貼，也不像普通的電子商務海報。\n\n[Automatic Derivation Rules]\nAI必須根據[theme]自動決定：\n1.核心視覺隱喻\n2.受試者型別和姿勢\n3.支撐結構形式\n4.懸浮元素的形式\n5.場景外殼與空間氛圍\n6.主要、輔助和強調顏色\n7.材料組合\n8.文字氣質與版面風格\n\n[Composition Rules]\n-絕對的高品質感\n-強大的中央秩序，整體團結\n-允許在中心軸附近進行軸向對稱或史詩組合\n-清晰的視覺重力，從上到下形成清晰的水平\n-邊緣負空間乾淨、受限，並有呼吸的空間\n\n[Visual Quality]\n-超高細節\n-清晰的體積光線\n-正宗材料\n-自然反射、折射、陰影、霧和景深\n-高階品牌宣傳活動整體標準關鍵視覺/奢華邀請海報/概念編輯海報\n\n[Typography System]\n-整體90%視覺效果， 10%文字\n- AI會根據[theme]自動產生最匹配的主標題和副標題\n-標題必須簡潔、銳利且有力\n-文字應盡可能簡短且準確；請勿堆疊文字\n\n[Signature Requirement]\n在底部角落自然新增作者簽名： @ a9quant"
+  },
+  "90": {
+    "sourceSha256": "39eadafec753f1a42660053da7eafc8fa7da5a3e3e45e0aa50a8cc58c0d49f40",
+    "text": "GPT-Image-2提示：請自動產生以{argument name=\"theme\" default=\"ranking of emperors in Chinese history\"}為中心的頂級概念海報/資訊圖表風格的電影海報。\n\n要求AI根據此主題自動匯出並統一設計以下整個視覺系統，而無需我的額外規格：\n-核心主題（自動判斷是否適合人物、產品、建築、文物、符號、場景或抽象影像）\n-底部支撐結構\n-上方懸停符號或靈性符號\n-場景包裝元素\n-比喻系統\n-顏色層次結構\n-材質對比\n-照明邏輯\n-標題、字幕和輔助文案\n-品牌感和高階表達\n\n最終的框架必須是：一張震撼、精確、統一、電影化、超高細節的概念關鍵視覺海報，適合高階印刷。\n\n[Overall Style]\n超逼真的3D商業CGI渲染，融合電影燈光、豪華視覺語言、未來主義概念設計和史詩構圖。 影像必須具有「單一主視覺核心」，而不是凌亂、不像拼貼，也不像普通的電子商務海報。\n\n[Automatic Derivation Rules]\nAI必須根據[theme]自動決定：\n1.核心視覺隱喻\n2.受試者型別和姿勢\n3.支撐結構形式\n4.懸浮元素的形式\n5.場景外殼與空間氛圍\n6.主要、輔助和強調顏色\n7.材料組合\n8.文字氣質與版面風格\n\n[Composition Rules]\n-絕對的高品質感\n-強大的中央秩序，整體團結\n-允許在中心軸附近進行軸向對稱或史詩組合\n-清晰的視覺重力，從上到下形成清晰的水平\n-邊緣負空間乾淨、受限，並有呼吸的空間\n\n[Visual Quality]\n-超高細節\n-清晰的體積光線\n-正宗材料\n-自然反射、折射、陰影、霧和景深\n-高階品牌宣傳活動整體標準關鍵視覺/奢華邀請海報/概念編輯海報\n\n[Typography System]\n-整體90%視覺效果， 10%文字\n- AI會根據[theme]自動產生最匹配的主標題和副標題\n-標題必須簡潔、銳利且有力\n-文字應盡可能簡短且準確；請勿堆疊文字\n\n[Signature Requirement]\n在底部角落自然新增作者簽名： @ a9quant"
+  },
+  "91": {
+    "sourceSha256": "681ba0b69ea163be14e7ad5700da5b17662e51a5b2dcbcbe281d49d7e07bd9c9",
+    "text": "非常詳細、逼真的第一人稱影片遊戲截圖，展示了下一代基於體素的世界。頂部中央有一個大而粗體的3D標誌，上面寫著「{argument name=\"game title\" default=\"MINECRAFT 2\"}」。場景以{argument name=\"environment\" default=\"lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background\"}為特色。世界將逼真的光線、體積雲和高解析度紋理與立方體體素幾何結合在一起。在左側的前景中，一個{argument name=\"mob 1\" default=\"blocky green creeper\"}站在草地上，而一個{argument name=\"mob 2\" default=\"blocky brown wolf\"}站在右側的土路上。在最右邊 玩家的手以第一人稱視角握住{argument name=\"held item\" default=\"pixelated blue diamond sword\"}。螢幕底部是一個遊戲使用者介面，其中包括一個帶有10顆紅心的健康條，一個帶有數字“16”的綠色體驗條，一個帶有10個棕色肉類圖示的飢餓條和一個9槽庫存熱條。熱條從左到右包含：帶有綠色高亮框的精選藍色工具、綠色工具、刀具、數字為「3」的扳手、帶有「6」的肉、燈籠 有「24」、有「10」的汙垢塊、水桶和海綿塊。"
+  },
+  "97": {
+    "sourceSha256": "a574350f925dc198b14a3c7f16b2857bd3403c3bacfc512b00f11645af51169c",
+    "text": "打造高品質日文{argument name=\"thumbnail type\" default=\"webinar thumbnail\"}。{argument name=\"aspect ratio\" default=\"16:9 widescreen\"}。有很多文字，但主副本突出。"
+  },
+  "102": {
+    "sourceSha256": "519b5996bfe763e9239ad4f1926c766d81a239cc8ad6a765c1f417637dfa428f",
+    "text": "在網頁上搜尋{argument name=\"performance description\" default=\"this week’s standout individual performance in Champion’s League\"} ，使用確切的統計資料和遊戲摘要， {argument name=\"colors\" default=\"bold team colors\"} ，清晰的分數明細，並產生{argument name=\"card type\" default=\"Highlight card\"}。"
+  },
+  "103": {
+    "sourceSha256": "58a6e42c930ddd8376352e0da20470b2b2aa5f0046d4704540427b2e1e102baa",
+    "text": "{argument name=\"pianist\" default=\"Vladimir Horowitz\"}在{argument name=\"platform\" default=\"YouTube\"}上執行{argument name=\"event\" default=\"live piano recital\"}流"
+  },
+  "104": {
+    "sourceSha256": "78d22b5d9e0b0a520197df1dc6eaa8eea5fb0adfe5b2aaf3d63b6766c6070bbe",
+    "text": "{\n  \"type\": \"YouTube直播使用者介面\",\n  \"top_nav\": {\n    \"logo\": \"YouTube Premium\",\n    \"search\": \"{argument name=\\\"search query\\\" default=\\\"bilal fraiha\\\"}\",\n    \"icons\": 3\n  },\n  \"player\": {\n    \"subjects\": [\n      \"{argument name=\\\"female guest\\\" default=\\\"Sydney Sweeney\\\"}白色開衫\",\n      \"米色夾克鬍子男大笑\"\n    ],\n    \"bg\": \"沙發、2個銀色按鈕、公羊標誌「SARDI」\",\n    \"overlays\": {\n      \"chat\": {\n        \"pos\": \"左\",\n        \"count\": 15,\n        \"desc\": \"彩色使用者名稱，白色文本\"\n      },\n      \"goal\": {\n        \"pos\": \"右上\",\n        \"text\": \"今晚目標： 0至25\"\n      },\n      \"banner\": {\n        \"pos\": \"中下\",\n        \"text\": \"K {argument name=\\\"streamer name\\\" default=\\\"MOREBILAL\\\"}\"\n      }\n    },\n    \"controls\": {\n      \"count\": 10\n    }\n  },\n  \"details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"FULL STREAM | سيدني سويني مع بلال\\\"}\",\n    \"channel\": \"{argument name=\\\"channel name\\\" default=\\\"More Bilal No Filter\\\"}\",\n    \"buttons\": 5\n  }\n}"
+  },
+  "106": {
+    "sourceSha256": "14f4020283f0f64dff081b52b0d65452c9559e59a74536185b1b8d4348f603bb",
+    "text": "{\n  \"type\": \"YouTube縮圖圖片\",\n  \"style\": \"動漫、前衛、霓虹粉和黑色配色方案、垃圾和飛濺口音\",\n  \"character\": {\n    \"appearance\": \"動漫女孩， {argument name=\\\"hair color\\\" default=\\\"silver\\\"}頭髮，貓耳朵，紫色的眼睛\",\n    \"expression\": \"{argument name=\\\"expression\\\" default=\\\"shocked and sweating\\\"} ，張嘴\",\n    \"accessories\": \"黑色貓咪髮夾配粉紅色十字架，黑色頸圈配心環\",\n    \"action\": \"拿著印有漩渦標誌的粉紅色智慧型手機\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"position\": \"中下\",\n      \"style\": \"巨大，粗體， 3D排版，垃圾紋理\",\n      \"lines\": [\n        {\n          \"text\": \"{argument name=\\\"main title top\\\" default=\\\"스레드 논란\\\"}\",\n          \"color\": \"霓虹粉\"\n        },\n        {\n          \"text\": \"{argument name=\\\"main title bottom\\\" default=\\\"읽어드림 ;;\\\"}\",\n          \"color\": \"白\"\n        }\n      ]\n    },\n    \"ui_elements\": [\n      {\n        \"type\": \"社交媒體動態模型\",\n        \"position\": \"中左\",\n        \"header\": \"← 스레드\",\n        \"post_count\": 3,\n        \"details\": \"頭像、韓文文字、按讚、留言、轉貼的互動圖示\"\n      },\n      {\n        \"type\": \"即時聊天模型\",\n        \"position\": \"右側邊緣\",\n        \"message_count\": 4,\n        \"details\": \"粉紅色使用者圖示，韓文文字\"\n      }\n    ],\n    \"text_callouts\": [\n      {\n        \"type\": \"尖銳的語音泡泡\",\n        \"position\": \"中上\",\n        \"text\": \"{argument name=\\\"speech bubble text\\\" default=\\\"이게 맞아?;;\\\"}\"\n      },\n      {\n        \"type\": \"霓虹盒\",\n        \"position\": \"右上\",\n        \"text\": \"실시간 반응 중\"\n      },\n      {\n        \"type\": \"浮動垃圾文字\",\n        \"position\": \"最左\",\n        \"line_count\": 3,\n        \"text\": [\n          \"OO 논란\",\n          \"충격 실화\",\n          \"역대급 사건\"\n        ]\n      },\n      {\n        \"type\": \"帶箭頭的手寫文字\",\n        \"position\": \"右下\",\n        \"text\": \"여러분의 생각은 어떠신가요?\"\n      }\n    ],\n    \"logos\": [\n      {\n        \"type\": \"App 圖示\",\n        \"position\": \"左上\",\n        \"description\": \"黑色圓形方塊上的白色漩渦標誌\"\n      }\n    ]\n  }\n}"
+  },
+  "107": {
+    "sourceSha256": "cc18704d91056784183775ab0409a6427473ef42d3a5e2ba2f0532dcb78dfc25",
+    "text": "{\n  \"type\": \"YouTube桌面深色模式UI模型\",\n  \"header\": {\n    \"logo\": \"YouTube\",\n    \"search_bar\": \"搜尋\",\n    \"icons_count\": 5,\n    \"icons\": [\n      \"搜尋\",\n      \"麥克風\",\n      \"建立\",\n      \"通知\",\n      \"描述檔\"\n    ]\n  },\n  \"video_player\": {\n    \"top_left_badge\": \"LIVE\",\n    \"left_side\": {\n      \"subject\": \"{argument name=\\\"presenter description\\\" default=\\\"man in green sweater at wooden podium\\\"}\",\n      \"podium_logo\": \"OpenAI\"\n    },\n    \"right_side_presentation\": {\n      \"text_elements\": [\n        \"OpenAI\",\n        \"隆重推出\",\n        \"{argument name=\\\"product name\\\" default=\\\"GPT-Image-2\\\"}\",\n        \"{argument name=\\\"tagline\\\" default=\\\"More Realistic. More Useful. More Creative.\\\"}\"\n      ],\n      \"sample_images_count\": 4,\n      \"sample_images\": [\n        \"山湖（有船）\",\n        \"燈光閃爍的女士肖像\",\n        \"森林裡有燈籠的可愛機器人\",\n        \"星空之夜咖啡館繪畫\"\n      ]\n    },\n    \"bottom_controls_count\": 10,\n    \"bottom_controls\": [\n      \"暫停\",\n      \"下一個\",\n      \"音量, 音量\",\n      \"LIVE\",\n      \"進度條\",\n      \"CC\",\n      \"設定\",\n      \"迷你玩家\",\n      \"劇院模式\",\n      \"全螢幕\"\n    ]\n  },\n  \"video_details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"OpenAI Live: Introducing GPT-Image-2\\\"}\",\n    \"channel\": {\n      \"name\": \"{argument name=\\\"channel name\\\" default=\\\"OpenAI\\\"}\",\n      \"verified\": true,\n      \"subscribers\": \"1.36 M\",\n      \"button\": \"訂閱\"\n    },\n    \"action_buttons_count\": 5,\n    \"action_buttons\": [\n      \"像12K\",\n      \"不喜歡497\",\n      \"分享\",\n      \"Submit\",\n      \"更多\"\n    ],\n    \"description_box\": {\n      \"stats\": \"95,237正在觀看7分鐘前開始串流\",\n      \"tags\": \"# OpenAI # GPTImage2 # AI\",\n      \"text\": \"加入我們的特別現場活動，介紹我們最新和最先進的影像產生模型GPT-Image-2。檢視新功能、現場示範，並聆聽團隊的意見...更多\"\n    }\n  }\n}"
+  },
+  "108": {
+    "sourceSha256": "6d758e728562ef41e146c2f7027d23fd1252e6e6ebc085153423ebecbdc8aa4c",
+    "text": "{argument name=\"subject\" default=\"A beautiful internet celebrity\"}正在直播{argument name=\"activity\" default=\"game\"}。"
+  },
+  "109": {
+    "sourceSha256": "6d758e728562ef41e146c2f7027d23fd1252e6e6ebc085153423ebecbdc8aa4c",
+    "text": "{argument name=\"subject\" default=\"A beautiful internet celebrity\"}正在直播{argument name=\"activity\" default=\"game\"}。"
+  },
+  "110": {
+    "sourceSha256": "d57ff0c50f83169dff0f0bae4a9564677363ff3a86cfde8369be57df3c1af331",
+    "text": "YouTube開箱影片縮圖， {argument name=\"topic\" default=\"opening all overdue bills\"}、{argument name=\"quantity\" default=\"100 in a row\"}的影片"
+  },
+  "111": {
+    "sourceSha256": "0921b0f002592bf6c422b15554722550b5bccbc9d121dcc4baec59de4cbed422",
+    "text": "{argument name=\"overall mood\" default=\"dark, dramatic, true crime investigation\"}的YouTube縮圖樣式拼貼。中間是{argument name=\"central figure\" default=\"older man with grey hair and deep wrinkles resembling Jeffrey Epstein\"}的高度細緻的特寫肖像，身穿黑色Polo衫，淡淡的紅色發光輪廓將他與背景分開。左側是{argument name=\"left background scene\" default=\"tropical island with luxury villas and a flying airplane in a dark sky\"}。在島嶼下方，陰謀板圖案正好有2個紅色推釘，由3條粗紅色弦連線。右上角是{argument name=\"right background scene\" default=\"US Capitol building with the silhouettes of 3 men in suits facing it\"}的朦朧，深褐色的描繪。在底部 右邊是一個開啟的馬尼拉資料夾，其中包含{argument name=\"document type\" default=\"heavily redacted dossier with thick black marker lines and a smaller photograph of the central man\"}。整體作品充滿電影氣息，風格鮮明，適合拍攝紀錄片。"
+  },
+  "112": {
+    "sourceSha256": "4865ee32809d8acf6dfbe8db7b042c5a4c2ddaddc8763fa8d43e2913d0970f4e",
+    "text": "以16: 9的寬高比產生12張聖鬥士金色聖徒的12格卡牌影像，每張卡牌都有對應的中文名字，每行4張卡牌。"
+  },
+  "113": {
+    "sourceSha256": "4bafeb0d61d5d8b47329ce5882d5f02c93411f1a44a2f14653fb4d164bbcfd9d",
+    "text": "一個非常詳細的動畫插圖，描繪了一個兇猛的女戰士，長長的{argument name=\"hair color\" default=\"black\"}頭髮和刺眼的{argument name=\"eye color\" default=\"blue\"}眼睛，穿著銀色板甲與金色飾邊和{argument name=\"outfit color\" default=\"blue and white\"}外衣。她被捕獲在動態的戰鬥姿態中，擺動巨大的{argument name=\"weapon type\" default=\"segmented metallic whip-sword\"} ，大幅彎曲到極端前景。武器留下了一條掃蕩的動能和風的痕跡。場景設定在戲劇性的{argument name=\"background setting\" default=\"ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind\"} 多雲的天空。藝術品具有電影般的照明、激烈的動作和武器的戲劇性強制視角。"
+  },
+  "114": {
+    "sourceSha256": "0b4fb457987c72dec5dcf1dcef5f0ebbc7831a5e053430d07fd18220d0dcdf63",
+    "text": "{\n  \"type\": \"4面板垂直連環漫畫\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"black and white pencil sketch, crosshatch shading, satirical caricature comic\\\"}\",\n  \"characters\": {\n    \"subject_1\": \"{argument name=\\\"main character\\\" default=\\\"Sam Altman\\\"}、捲髮、休閒毛衣\",\n    \"subject_2\": \"{argument name=\\\"interviewer\\\" default=\\\"Ronan Farrow\\\"} ，西裝，領帶，記事本\"\n  },\n  \"layout\": {\n    \"panels\": [\n      {\n        \"panel_number\": 1,\n        \"top_caption\": \"山姆奧特曼認為這會是一個不錯的小檔案…\",\n        \"scene\": \"subject_1看似沾沾自喜，雙手傾斜； subject_2看似認真的做筆記。\",\n        \"thought_bubble\": \"我會很迷人，它會是一個很棒的角色作品人們會喜歡它。\",\n        \"center_text\": \"RONAN FARROW的採訪\",\n        \"inset_portraits\": {\n          \"count\": 2,\n          \"labels\": [\n            \"HARVEY WEINSTEIN曝光\",\n            \"萊斯利·穆恩斯曝光\"\n          ]\n        },\n        \"info_boxes\": {\n          \"count\": 3,\n          \"text\": [\n            \"羅南·法羅（ RONAN FARROW ） ：普利策獎得主記者，他在《紐約客》曝光了哈維·溫斯坦（ HARVEY WEINSTEIN ）\",\n            \"還有CBS的LESLIE Moonves\",\n            \"權力、濫用、問責。\"\n          ]\n        }\n      },\n      {\n        \"panel_number\": 2,\n        \"top_caption\": \"剪下到...\",\n        \"scene\": \"SUBJECT_1的特寫鏡頭看起來既震驚又恐懼。\",\n        \"article_header\": \"{argument name=\\\"publication\\\" default=\\\"THE NEW YORKER\\\"}\\nSAM ALTMAN的個人資料\\nOPENAI執行長的複雜任務\\n作者： Ronan Farrow\"\n      },\n      {\n        \"panel_number\": 3,\n        \"top_caption\": \"文章發表後不久...\",\n        \"scene\": \"subject_1看起來壓力極大，出汗，把手機放在耳邊。周圍有6隻手拿著智慧型手機。\",\n        \"phone_labels\": [\n          \"VC\",\n          \"報表\",\n          \"EX-STAFFEE\",\n          \"投資者\",\n          \"技術執行長\",\n          \"前同事\"\n        ],\n        \"shouts\": {\n          \"count\": 8,\n          \"text\": [\n            \"{argument name=\\\"main accusation\\\" default=\\\"LIAR\\\"} ！\",\n            \"強迫性騙子！\",\n            \"病態的騙子！\",\n            \"你無法停止說謊！\",\n            \"謊言\",\n            \"反社會者！ （據稱）\",\n            \"他說的一切都是謊言！\",\n            \"操縱的騙子！\"\n          ]\n        },\n        \"sound_effects\": \"鈴！鈴！鈴！\"\n      },\n      {\n        \"panel_number\": 4,\n        \"top_caption\": \"報告總結說...\",\n        \"scene\": \"subject_1看起來完全被擊敗和沮喪。\",\n        \"quote_box\": \"「ALTMAN經常且持續地對投資者、員工、董事會甚至親密朋友撒謊。」\\n「他似乎沒有安慰說謊。」\\n「根據很多人的說法，他是一個強迫性的騙子和反社會者。」\\n（涉嫌）\",\n        \"thought_bubble\": {\n          \"scene\": \"HAPPY SUBJECT_1拿著「世界最佳執行長」的馬克杯。\",\n          \"text\": \"我以為這會是一個不錯的小檔案…\",\n          \"sparkle_words\": {\n            \"count\": 4,\n            \"text\": [\n              \"天才\",\n              \"有遠見的\",\n              \"鼓舞人心的\",\n              \"傑出的領袖！\"\n            ]\n          }\n        },\n        \"bottom_caption\": \"取而代之的是暴露他的個人資料\"\n      }\n    ]\n  }\n}"
+  },
+  "117": {
+    "sourceSha256": "6efd1d8ee7302e1abc33507ccc2d1c7853d0a7f42a7e8630392444e0677e00a8",
+    "text": "在舒適的辦公室裡進行治療的幽默3D卡通插圖。在左側，一把{argument name=\"patient character\" default=\"sad anthropomorphic avocado half missing its pit\"}坐在棕色皮革躺椅上，用細小的棍狀手臂做手勢。上面有一個大的語音泡泡，上面寫著「{argument name=\"speech text\" default=\"I just feel so empty inside\"}」。在右邊，一位名叫{argument name=\"therapist character\" default=\"anthropomorphic silver spoon\"}的治療師坐在綠色扶手椅上，拿著一支黃色鉛筆，在標有「音符」的記事本上寫字。房間有溫暖的照明、木地板上的米色地毯和帶紙巾的書架 方塊和書籍，其中一個標題為「反映聆聽驗證」。左牆上掛著一張帶框的海報，上面寫著“{argument name=\"poster text\" default=\"IT'S OKAY TO FEEL YOUR FEELINGS\"}” ，上面有一顆小心臟。右牆上掛著一張框架文憑，上面寫著「{argument name=\"diploma text\" default=\"SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION\"}」，上面有一個小勺子插圖和一個金色印章。"
+  },
+  "118": {
+    "sourceSha256": "8ef0f82fb746d9234fb83064b5cd4319bc792516e530fe7e016623bf34b29daf",
+    "text": "一幅高對比度的黑白插圖，描繪一位穿著尖銳西裝、畫著武士武士刀的老人。這名男子有著光滑的白髮、深深的皺紋，以及強烈而專注的表情，低頭看著刀刃。他穿著深色西裝，穿著白色襯衫，打著深色領帶。他的雙手在前景中凸顯出來，當他們抓住武士刀的華麗手柄和鞘時，顯示出明顯的靜脈和皺紋。背景是完全黑色的 強調男性臉部、手部和衣服上的戲劇性照明和複雜的交叉陰影細節。風格類似於細緻、粗糙的漫畫或平面小說。"
+  },
+  "120": {
+    "sourceSha256": "1595283d138540f64c26bb895358247a5bde8aad7067650cbfc3f76795e63369",
+    "text": "一個動態動畫插圖，一個女孩的頭髮是尖刺的{argument name=\"hair color\" default=\"blonde\"} ，綁在一條高馬尾辮上，蝴蝶結是黑色的，眼睛是深藍色的，眼睛是{argument name=\"outfit style\" default=\"dark purple and black magical uniform with gold trim and diamond gems\"}。她處於緊張的蹲伏超級英雄著陸姿勢，一隻手壓在地上，另一隻手舉起，施展{argument name=\"magic color\" default=\"glowing purple\"}魔法圈。她正在打破玻璃屏障，尖銳的鋸齒狀玻璃碎片向外飛向觀眾。透過她身後破碎的框架，一個{argument name=\"background scene\" default=\"stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky\"} 可見。藝術品以{argument name=\"art style\" default=\"sharp angles, high contrast cel-shading, and vibrant colors\"}為特色。"
+  },
+  "124": {
+    "sourceSha256": "566c73a308b4192714981a9b68c53f06be21e403adaa9e473698d46b960e4c16",
+    "text": "虛構動畫的動漫風格關鍵視覺海報。在左前方，一個精力充沛的金髮動漫女孩戴著{argument name=\"main character outfit\" default=\"American flag t-shirt and denim shorts\"} ，用一片煙薰肉夾住觀眾。在右前方，一位長著深色頭髮、穿著白色毛衣的溫柔女孩坐在木桌旁，在筆記本上寫字。在背景中，還有兩個女孩在場：一個拿著棕色馬尾辮拿著木柴 另一個是銀色短髮拿著藍色杯子場景是一個陽光明媚的戶外燒烤區，有一個大型黑色吸煙燒烤架，上面有一個標誌，上面寫著{argument name=\"background grill sign\" default=\"LONE STAR BBQ\"}。最前面是{argument name=\"food platter\" default=\"massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles\"} ，還有捲心菜和麵包等配菜。在左上角，一個大而可愛的泡泡動漫標誌寫著{argument name=\"anime title\" default=\"もくもく すもーく ガールズ\"} ，上面有煙霧和烤架圖案。在左下角，有一個{argument name=\"credits text block\" default=\"staff credits block with names and roles\"}。在右下角，一小段文字 方塊列出了四個字元名稱。整體氛圍開朗、非常細緻、充滿活力。"
+  },
+  "129": {
+    "sourceSha256": "6aac6f256a1ccafd1566d6919c9cca26c21586aab060551878e28996e47de82e",
+    "text": "兒童繪本封面的水彩插圖。主要科目是{argument name=\"character appearance\" default=\"cute furry kemonomimi girl with short green hair, cat ears, and green eyes\"}。她是{argument name=\"action\" default=\"smiling happily while holding up her middle finger\"} ，一隻白色的毛手。她穿著一件帶有蓬鬆白領的綠色衣服。背景以柔軟的綠色葉子和紋理紙上的小黃花為特色。在頂部，大型手繪綠色日文文字寫著「{argument name=\"main title\" default=\"なかゆびさん\"}」。下面的棕色日文文本為“{argument name=\"subtitle\" default=\"こんにちは\"}”。在左中部，較小的黑色文字 讀取「{argument name=\"author text\" default=\"さく・え：とらの\"}」。影像的左邊緣有一個可見的書脊，強調實體書籍格式。"
+  },
+  "143": {
+    "sourceSha256": "459d65c5eb4d1827025e8dd4888f677c196910235a7893a1d3e15c85942b06d5",
+    "text": "一張逼真的業餘相片，拍攝客廳淺木紋桌上的定製積木組合。背景中矗立著一個帶有紅色標誌的大型產品盒子，上面寫著「{argument name=\"brand name\" default=\"BRICKLY\"}建築套裝」。文字顯示為「8 +」、「540 PCS」、「5 FIGURES」，主標題為「{argument name=\"set title\" default=\"WATTERSON FAMILY HOUSE\"}」。盒子上的紅色圓形徽章上寫著「定製套裝風扇設計」，盒子藝術描繪了藍天下的房子和人物。在 前景是{argument name=\"house color\" default=\"blue\"}兩層郊區房屋的完整組裝塊模型，房屋有棕色屋頂、白色門廊、紅色臺階、白色糾察柵欄和塊狀綠樹。房子的左邊是一輛{argument name=\"car color\" default=\"pink\"}旅行車的積木模型。房子前面排成一排，正好有5個定製的迷你方塊：一隻穿著棕褐色褲子的藍色貓，一條有腿的橙色魚，一隻穿著白色襯衫和領帶的高大的粉紅色兔子，一隻穿著白色貓的藍色貓 襯衫和一隻穿著橘色洋裝的粉紅色小兔子背景是略微模糊的客廳，配有灰色沙發和白色百葉窗。"
+  },
+  "145": {
+    "sourceSha256": "854297911370d1351a1ba7bfbd3dc0a5108117758572399c958f9b8cea4620be",
+    "text": "{argument name=\"robot model\" default=\"T-800 robot\"}的{argument name=\"platform\" default=\"Taobao\"}產品詳細資訊頁面，顯示：機器人的正面、側面和背面三檢視、產品價格、產品詳細資訊、功能和使用場景等。"
+  },
+  "146": {
+    "sourceSha256": "854297911370d1351a1ba7bfbd3dc0a5108117758572399c958f9b8cea4620be",
+    "text": "{argument name=\"robot model\" default=\"T-800 robot\"}的{argument name=\"platform\" default=\"Taobao\"}產品詳細資訊頁面，顯示：機器人的正面、側面和背面三檢視、產品價格、產品詳細資訊、功能和使用場景等。"
+  },
+  "147": {
+    "sourceSha256": "854297911370d1351a1ba7bfbd3dc0a5108117758572399c958f9b8cea4620be",
+    "text": "{argument name=\"robot model\" default=\"T-800 robot\"}的{argument name=\"platform\" default=\"Taobao\"}產品詳細資訊頁面，顯示：機器人的正面、側面和背面三檢視、產品價格、產品詳細資訊、功能和使用場景等。"
+  },
+  "148": {
+    "sourceSha256": "854297911370d1351a1ba7bfbd3dc0a5108117758572399c958f9b8cea4620be",
+    "text": "{argument name=\"robot model\" default=\"T-800 robot\"}的{argument name=\"platform\" default=\"Taobao\"}產品詳細資訊頁面，顯示：機器人的正面、側面和背面三檢視、產品價格、產品詳細資訊、功能和使用場景等。"
+  },
+  "154": {
+    "sourceSha256": "3e3ba87192e2e6bbb5479e321d2f44add2440b0b6d5b3e1775116aab9d4c028a",
+    "text": "一張{argument name=\"car model and color\" default=\"bright blue Alpine A110 R sports car\"}停在巨大飛機庫前景的逼真高解析度商業相片。該車配備黑色碳纖維引擎蓋、黑色車頂、黑色合金車輪和前車牌號碼為「{argument name=\"license plate text\" default=\"A110 R\"}」。車子後面是一條藍色尾巴的{argument name=\"airplane model\" default=\"white Airbus A320 commercial airliner\"}。機庫有一個高度拋光、反光的混凝土地板，反映了汽車和飛機。左邊是一個標誌 金屬牆上寫著「{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}」。機庫門敞開，露出明亮多雲的天空和遙遠的城市景觀。燈光柔和而電影化，突出了兩輛車的流暢空氣動力學曲線。"
+  },
+  "155": {
+    "sourceSha256": "dbc9ebd7286d85ee67040aa2601a43659db5e200940e85203feb9cbfd319dbd5",
+    "text": "為{argument name=\"style\" default=\"live-action\"}中的標準{argument name=\"character type\" default=\"Vtuber\"}建立{argument name=\"items\" default=\"fan goods\"}"
+  },
+  "157": {
+    "sourceSha256": "62bc70311f013cc79bcac1503b60fd7f34d55bd8de08e635fca4a35cabef2ede",
+    "text": "{\n  \"type\": \"電子商務產品資訊圖表\",\n  \"theme\": \"帶有{argument name=\\\"accent color\\\" default=\\\"orange\\\"}口音的深色模式\",\n  \"product\": {\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"MEAN WELL\\\"}\",\n    \"model\": \"{argument name=\\\"product model\\\" default=\\\"ELG-100-24B\\\"}\",\n    \"description\": \"100W恆定電流LED驅動器，矩形銀色金屬外殼，兩端帶有黑色電纜和詳細規格標籤。\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"name\": \"英雄部分文本\",\n        \"elements\": [\n          \"左上角的品牌標誌\",\n          \"標題：&#39;{argument name=\\\"main headline\\\" default=\\\"Stable Power For Outdoors\\\"}&#39;\",\n          \"Subtext:寬輸入電壓，受保護的外殼...\",\n          \"大角度產品拍攝\",\n          \"背景中褪色的“100W”水印\"\n        ]\n      },\n      {\n        \"name\": \"功能亮點\",\n        \"count\": 3,\n        \"panels\": [\n          {\n            \"title\": \"精確構建\",\n            \"visual\": \"規格標籤的特寫\"\n          },\n          {\n            \"title\": \"安全連結\",\n            \"visual\": \"電纜入口和安裝耳的特寫\"\n          },\n          {\n            \"title\": \"主要功能\",\n            \"visual\": \"以3條標註線指向文字的角度產品拍攝：「100 ~ 305VAC輸入」、「恆定電流」、「IP67/IP65外殼」\"\n          }\n        ]\n      },\n      {\n        \"name\": \"應徵者\",\n        \"count\": 4,\n        \"panels\": [\n          {\n            \"title\": \"適用於街道照明\",\n            \"visual\": \"由路燈照亮的夜間高速公路\"\n          },\n          {\n            \"title\": \"適用於戶外專案\",\n            \"visual\": \"採用建築景觀照明的現代化建築外觀\"\n          },\n          {\n            \"title\": \"適用於室內系統\",\n            \"visual\": \"配備線性天花燈的現代商業走廊\"\n          },\n          {\n            \"title\": \"適用於調光控制\",\n            \"visual\": \"具有4個標籤的電氣控制盒：「0-10V」、「PWM」、「電阻器」、「DALI」\"\n          }\n        ]\n      },\n      {\n        \"name\": \"環境保護\",\n        \"elements\": [\n          \"產品躺在潮濕的表面上，有水滴和雨水的效果\",\n          \"標題：「受保護的績效」\",\n          \"有關室內/室外使用和有效PFC的描述文字\",\n          \"徽章： '{argument name=\\\"warranty years\\\" default=\\\"5\\\"} -年保修'\"\n        ]\n      },\n      {\n        \"name\": \"技術規格\",\n        \"elements\": [\n          \"標題：「照明電源技術」\",\n          \"4個打勾專案符號：「100 ~ 305VAC輸入」、「有源PFC」、「低待機< 0.5W」、「0 ~ 10V/PWM/電阻/DALI」\",\n          \"產品鏡頭在高科技電路板背景上發光\"\n        ]\n      }\n    ]\n  }\n}"
+  },
+  "160": {
+    "sourceSha256": "4488c4e060ae228da54b45f9b0f85e09a75519a4134535225d96a98f7f9d8adc",
+    "text": "在{argument name=\"style\" default=\"retro skeuomorphic style\"}中為{argument name=\"device\" default=\"vintage electronic equipment\"}產生一組圖示，包括圖片中的圖示名稱。"
+  },
+  "161": {
+    "sourceSha256": "32664ffb7d5a7f3d45f1cd18c22eee7835d4c1ce49b8f0873e93447081f1af64",
+    "text": "{\n  \"type\": \"電玩截圖模型\",\n  \"perspective\": \"第三人稱肩膀以上\",\n  \"character\": {\n    \"description\": \"男主角從背後看\",\n    \"clothing\": \"灰色背心，圖案「{argument name=\\\"shirt graphic\\\" default=\\\"LEONIDA MARINE CENTER\\\"}」，迷彩工貨短褲\"\n  },\n  \"environment\": {\n    \"setting\": \"熱帶沿海城鎮，泥土路，陽光明媚的白天，雲層分散\",\n    \"left_side\": \"木製歡迎標語，上面寫著“歡迎來到{argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"}你的天堂” ，粉紅色的塑膠火烈鳥，熱帶葉子，遙遠的水塔\",\n    \"center\": \"綠色建築，有「魚」標誌和馬林魚圖案，標誌上寫著「釣魚冰啤酒葡萄酒」，行人步行\",\n    \"right_side\": \"兩層木質建築「Brian's Boat Works & Marina」、「Brian's Bar」霓虹標誌、停放的皮卡、拖車上的噴氣式滑雪板\"\n  },\n  \"ui_elements\": {\n    \"count\": 5,\n    \"components\": [\n      {\n        \"position\": \"左上角\",\n        \"type\": \"任務目標\",\n        \"text\": \"{argument name=\\\"mission title\\\" default=\\\"MEET RAUL\\\"}\\n{argument name=\\\"mission description\\\" default=\\\"Raul has some work for you at his boatyard\\\"}\"\n      },\n      {\n        \"position\": \"右上角\",\n        \"type\": \"status HUD\",\n        \"text\": \"13:47\\n$ 1,142\",\n        \"icon\": \"粉棕櫚樹\"\n      },\n      {\n        \"position\": \"左下角\",\n        \"type\": \"縮圖\",\n        \"description\": \"帶有紫色邊框的圓形地圖，白色地圖圖示，包括北方的「N」\"\n      },\n      {\n        \"position\": \"迷你地圖左下角、右側\",\n        \"type\": \"location text\",\n        \"text\": \"{argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"}\\n棕櫚島\"\n      },\n      {\n        \"position\": \"右下角\",\n        \"type\": \"浮水印\",\n        \"text\": \"{argument name=\\\"game title\\\" default=\\\"GTA VI\\\"}\\nPRE-ALPHA素材\"\n      }\n    ]\n  }\n}"
+  },
+  "162": {
+    "sourceSha256": "dbe72778fa36c710a442a9019b2ef61334b5b303866de45a5530dfb3f62f6fbe",
+    "text": "{argument name=\"voice\" default=\"chatgpt voice\"}如果是字元"
+  },
+  "272": {
+    "sourceSha256": "55234219fe8b79736688b309fb002a9cae3d702460a6b6126370e3d852107600",
+    "text": "35毫米膠片攝影，溫暖復古的日本溫泉日式旅館美學，柔和的環境木燈照明與柔和的自然窗光混合，微妙的膠片顆粒，柔和的色移，高氛圍的編輯風格，親密的中型鏡頭， 20年代初美麗的中國女性偶像，具有超逼真的精緻中國特色，誘人的杏仁形狐狸眼睛與天然的雙眼皮，高鼻橋，小而尖銳的V形下顎線，無瑕疵 陶瓷皮膚，溫暖的象牙底色，明顯的微妙皮膚質地和微小的毛孔，柔軟的天然化妝，露水般的光澤，臉頰上微妙的玫瑰色沖洗，自然柔軟的粉紅色嘴唇微微分開，長長的深棕色頭髮綁在鬆散的低麵包中，一些凌亂的髮絲落在臉部和頸部，穿著鬆散的白色浴衣（傳統的日式浴袍）故意從單肩上滑下並鬆散地綁在腰部，織物微開放露出來 光滑的皮膚和微妙的裂縫，赤腳，誘人的放鬆坐在古董溫泉日式旅館傳統木製Engawa陽臺的邊緣上，身體微微轉向相機，一條腿彎曲，腳放在木地板上，另一條腿輕輕地晃動，一隻手輕輕地握住浴衣領，另一隻手放在身後的木地板上支撐，輕輕地拱起，輕輕地突出曲線，強烈的誘惑 溫柔而引人入勝的視線直視觀眾，柔軟的雌鹿眼睛充滿安靜的誘惑和溫暖，溫暖的木質內部，帶有紙製滑動門和柔和焦點的遠處蒸氣溫泉，柔和的邊緣照明突出皮膚和織物的質地，正宗的復古薄膜色彩分級，溫暖的色調，極其銳利而柔軟的皮膚渲染，天然的頭髮絲，逼真的織物皺紋和浴衣上的垂褶，沒有塑膠皮膚，沒有數字 過度銳化，沒有氣刷，沒有瑕疵，沒有痣，沒有油性皮膚，沒有水印，沒有文字，正宗的35毫米薄膜日本溫泉日式旅館氛圍"
+  },
+  "323": {
+    "sourceSha256": "23a42db560e71bf00d8a506c049aa40885384f0ff44a98554d25a41872043ca2",
+    "text": "建立超逼真、電影般的Instagram貼文佈局，其中Instagram UI以實體、有形的3D物件形式存在，像優質商業產品拍攝一樣拍攝。 結果應該與真實的攝影棚照片無法區分。\nInstagram框架（ UI準確度–關鍵）\n正宗的Instagram介面呈現為實心白色實體3D卡片\n光滑的霧麵塑膠表面，微妙的微紋理\n邊緣略有厚度，逼真的斜面\n完美圓角（精確的Instagram半徑）\n柔和的工作室反射和逼真的邊緣亮點\n頂端列（畫素精確的UI ） ：\n左側的圓形個人頭像\n使用者名稱文字： Instagram預設粗體UI字型中的「June」\n比例正確的淺藍色追蹤按鈕\n三點選單圖示與最右側對齊\n與真實Instagram應用程式相符的精確間距、排版和圖示大小\n長寬比1: 1、居中、均衡、優質成分。\n主題（姿勢–與參考圖片完全匹配）\n一位逼真的運動女性，部分走出Instagram框架，進入真實的3D空間\n坐姿與參考影像相同：\n雙腿彎曲並向側面傾斜\n一隻膝蓋稍微擡高並靠近胸部\n雙臂輕輕纏繞在擡起的膝蓋上\n手放鬆，手指自然休息\n軀幹稍微向後靠在鏡框邊緣\n表情：冷靜、周到、自信\n凝視：稍微向側面和向上看，不要接合相機\n自然的身體比例，放鬆的姿勢，編輯現實主義\n沒有誇張的曲線，沒有人為的姿勢\n服裝（僅限耐克–逼真剪裁）\n靜音象牙色/灰白色耐克合身短袖襯衫\n柔和的中性色調，與背景形成美麗對比\nVISIBLE WHITE NIKE SWOOSH\n天然布料彈性和張力\n深藍色耐克運動褲，長至膝蓋\n量身定製、效能合身的剪影\n逼真的面料重量，膝蓋彎曲處有細微的褶皺\n乾淨的縫線和透氣的運動材料\n乾淨的白色Nike運動鞋\n輕微磨損的現實主義\n正確的鞋底紋理和縫線\n高階運動服裝外觀，真正的商業造型\n無失真，無幻想時尚\n背景（僅限Instagram帖子內部）\n深色室內健身房或單間公寓環境\n涼爽的藍色和靜音的紫色電影燈光\n背景中的柔和霧霾\n微妙的體積光束幾乎看不見\n景深淺，背景柔和模糊\n主旨和Instagram框架保持清晰和主導\n燈光與寫實主義\n工作室級電影照明\n柔和的按鍵光線自然照亮受試者\n車身和Instagram框架輪廓柔和的輪廓燈\n逼真的肌膚質感，可見毛孔和自然亮點\n主體觸控邊框的準確接觸陰影\n物理校正光衰和反射\n頁尾使用者介面（參與度區段）\nInstagram動作圖示：按讚、留言、分享、儲存（正確圖示）\n文字顯示：「785個讚」\n說明文字從6月開始\n說明文字：\n自由不是在舒適中找到的。\n它建立在紀律與信念相遇的安靜時刻。\n部分可見且自然裁剪的標籤\n整體風格與品質\n超高解析度\n廣告級現實主義\n乾淨、現代、編輯式的Instagram美學\n3D物體與真實攝影的超逼真融合\n沒有額外的元素\n沒有文字錯誤\n無失真\n看起來像是真正的產品攝影，而不是人工智慧藝術"
+  },
+  "341": {
+    "sourceSha256": "3064955a684bc9e11c9cd70313dbae96f87916cf0b98d8d7085a914da65ecf07",
+    "text": "請建立關於「[math concept / topic]」的數學視覺化資訊圖表。「我們的目標是幫助觀眾直觀地瞭解它是什麼，為什麼它的工作原理，它的幾何或結構直覺，以及它在不同背景下的行為。視覺效果應該像是高品質的數學講義，結合手繪教育海報。它應該優雅、清晰、資訊豐富，但不要凌亂。視覺風格：縱向或 風景。使用乾淨、淺色紙質背景，主內容為深藍色標題和黑色或深灰色線條。新增少量精緻的強調色，例如藍色、藍綠色、金色和紅色。加入圓角卡片、細邊框、編號標籤、手繪箭頭、放大圖說文字方塊和摘要部分。整體設計應美觀、平衡、學術，讓觀眾掌握 概念的結構以及為什麼它的工作原理一目瞭然。"
+  },
+  "342": {
+    "sourceSha256": "b8ddd68d264a91b869604fb07a2ddf6d63c2323c3d4dda9494dcf17110819fcf",
+    "text": "第1階段-產品： [MATERIAL]包裝中的[ITEM] ，最小標籤設計\n第2階段-網格： 2x2季節性網格，四個不同的品牌世界\n第3階段-組成：每個象限都有完整的活動場景，包括道具和環境\n第4階段-一致性：相同的產品輪廓，四個不同的調色盤\n\n掉期： [ITEM]/[MATERIAL]/[LABEL STYLE]"
+  },
+  "343": {
+    "sourceSha256": "fe4cafe15f9429b67de2ae9279c4b0da8a63ec4d95ef4e07212408ff9e1771d0",
+    "text": "超高階時尚雜誌封面， Louis Vuitton風格的社論。 一位自信的女士的特寫肖像，柔軟的玫瑰金色頭髮和自然通風的劉海，微風吹動。 她穿著奢華的夏季服裝：結構輕盈的亞麻或絲綢夾克，溫暖的金黃色調，分層在適度的高領上衣上，搭配大膽的金色項鍊和精緻的耳環。\n面料自然流淌，帶有夏季微風，略帶紋理和透氣性，捕捉優質的季節感。 造型優雅、樸素、精緻，沒有暴露的衣服。\n\n照明是高階工作室，融合了自然的黃金時光：溫暖的亮點，柔和的陰影，發光的皮膚與光澤的編輯完成。\n\n背景是豐富的夏季漸層（日落黃金褪成柔軟的珊瑚色或溫暖的米色） ，乾淨但視覺上引人注目。\n構圖是動態的，略帶電影色彩：頭髮在動，景深淺，銳利聚焦在臉上。\n\n排版：頂部大型優雅的襯線標語“Louis Vuitton” ，加粗的封面線條“您的選擇在這裡結束” ，高階編輯佈局，最小的支援文字。\n超逼真、超細緻的肌膚質感、8K解析度、清晰對焦、光滑的雜誌印刷品質、電影色彩分級、奢華時尚攝影、無裸露、高雅和編輯。"
+  },
+  "344": {
+    "sourceSha256": "355b4407b601254b23cfd541d71d548884bca225f57b6ce39f25f81e56915eb6",
+    "text": "為現代街頭服飾品牌NOIR打造高階、高度逼真的一對一活動海報。在濕潤的混凝土地板、戲劇性的低光照、空氣中的微妙煙霧和原始的街道能源的堅韌城市背景下，展示一件超大英雄連帽衫作為主要焦點。新增品牌名稱NOIR的大膽簡約排版，以及簡短的宣傳活動標題，例如「Wear the Dark. “讓它感覺像一個真正的高階街頭服飾編輯，清晰的細節，逼真的 織物紋理，現代和前衛，深黑色調與微妙的灰色口音，沒有雜亂，沒有拼貼。"
+  },
+  "345": {
+    "sourceSha256": "6be0cd8e97a19711c8a4f021bd1c6b6b891bd562c8474e6c2dd3e4de4b84f4c0",
+    "text": "用手工製作的類比感，在老化奶油紙上製作垂直的海報構圖。 使用粗糙的破紙邊緣、分層雜誌裁切、影印紋理、半色調紋理、墨水流出和稍微不完美的絲網印刷配準。 保持主題為主要的黑白相片肖像，突出放置在中心或上中心。 用深紅色、鈷藍色、暖黃色、黑色和象牙色的圖形塊包圍主題。\n新增輔助拼貼片段，如下雨的歐洲街道、電影片段邊框、剪報、都市剪影和電影細節，像手工製作的1960年代藝術電影海報一樣排列。 使用帶有強大視覺層次結構的粗體精簡排版。 新增大標題文字：「[MAIN TITLE]」。 新增較小的副標題文字：「[SUBTITLE]」。 新增底部文本： “[BRAND NAME / EVENT NAME / COMING SOON / DATE]”。 如有需要，請包括一個小的頂行，上面寫著「[TAGLINE]」。\n最終的結果應該是電影、智力、叛逆和編輯的感覺，就像一張失落的20世紀60年代歐洲電影海報，有著強烈的觀點。保持原始、觸覺、印花、不完美和手工製作。避免光滑的現代塗裝。"
+  },
+  "347": {
+    "sourceSha256": "abb0e29d7ac89438ba0b8d5eb94689ce5ec2fa54ccabca30b9f99bd837b72425",
+    "text": "[STYLE]\n單色灰階插圖、3D渲染字元、乾淨的教學參考表、白色背景、漫畫風格的細胞網格佈局、技術圖美學。\n\n[LAYOUT]\n4 × 4網格佈局，共16面板。 每個面板由細黑色邊框線分隔。 儲存格編號從1到16 ，面板大小一致。\n\n[CHARACTER]\nimage1 （相同的字元始終出現在所有面板中）\n\n[PANEL STRUCTURE – per cell]\n左上角：粗體數字徽章+英文標題文字\n中間：全身人物姿勢插圖\n左下角：英文說明文字（ 3–4行）\n疊加：指示移動的方向箭頭\n\n[ARROWS / MOTION INDICATORS]\n放置在角色周圍的弧形箭頭、直線箭頭和圓形旋轉指示器，以顯示運動流和方向。\n\n[RENDERING STYLE]\n高度細緻的3D雕刻風格、柔和的工作室照明、微妙的陰影、無色彩、灰度陰影、乾淨的線條、遊戲概念藝術品質。\n\n[NEGATIVE]\n沒有背景場景，沒有色調，沒有額外的字元，沒有複雜的背景。"
+  },
+  "348": {
+    "sourceSha256": "4f632758c754237100fd17073776e1deaaa93953c2a4d7f6a547d7b4fcf17626",
+    "text": "從參考影像中建立一個優質的“鬍鬚風格分析”海報，其中包含同一個男人。顯示臉部形狀、鬍鬚密度、下顎線定義、鬍鬚生長模式和鬍鬚適用性評分。包括不同的鬍鬚風格比較，如胡茬、短盒鬍鬚、全鬍鬚、山羊鬍子、Van Dyke、乾淨刮鬍子。新增側面基本資料和正面基本資料檢視畫面。現代深藍色豪華背景，專業美容資訊圖表風格，高細節， 逼真的臉部一致性，時尚的排版，優質的男性美容海報。"
+  },
+  "349": {
+    "sourceSha256": "1b9baf7c0259314c6ec763fc204551cdc5226b09ba8223f3d1f0291d29ace751",
+    "text": "電影運動時尚拼貼， 3面板佈局，頂板大型英雄鏡頭，一名女網球運動員自信地坐在大型傾斜網球拍上，深綠色豪華球場背景，反光光面地板，背景中大膽的超大排版“精確” ，戲劇性的編輯燈光，超清晰的構圖，高階時尚運動美學。\n左下角面板：運動員的特寫肖像，皮膚發光，化妝最少，光線柔和，文字“FOCUS”和“Fuel”巧妙放置。\n\n右下角面板：全身蹲伏的姿勢，強烈的姿勢，文字“紀律驅動優勢” ，基於網格的佈局線條，優質的運動品牌感。\n\n一致的色彩分級、深綠色和白色調色盤、清晰的細節、電影般的陰影、奢華的宣傳活動風格、1: 1的長寬比。"
+  },
+  "350": {
+    "sourceSha256": "b3ab7d161debe1761904c0e2ce9a4183eb587d285e86fdc9f9b8c6db4b076c36",
+    "text": "建立[PLAYER_NAME]的剪貼簿塗鴉式足球海報。\n\nAI自動產生真實的職業統計資料（俱樂部和國家隊）。\n\n主要照片：逼真，不變（ [PLAYER_NAME]在動作中或標誌性姿勢）。\n\n塗鴉和手寫筆記：白色和[PRIMARY_COLOR]霓虹墨水（除非另有說明，否則無暖色）、箭頭、星星、塗鴉、粗略的輪廓。 在玩家的身體周圍新增一個發光的[PRIMARY_COLOR]輪廓。\n\n版面配置（粗體手寫標題和統計資料） ：\n-頂部標題： “[PLAYER_NAME]”加上“[NICKNAME/TITLE]”\n-俱樂部職業生涯：總比賽和目標以及2–4個主要俱樂部（應用程式和目標）\n-亮點： 2–3項傑出成就（例如， UCL進球、Ballon d 'Or、最佳射手）\n-國家隊：上限和目標加上1–2項國際成就\n\n風格：現代足球海報x筆記本美學，乾淨但充滿活力，略帶凌亂的塗鴉，高對比度，深色或靜音背景上的霓虹燈口音。\n重要提示：所有統計資料必須切合實際，並與玩家的真實職業生涯成正比。"
+  },
+  "351": {
+    "sourceSha256": "b067a33b6c13bf7f20f11d9bbf89be9e47fe7da1e92369b17bcae621682987a7",
+    "text": "電影健身活動，超大啞鈴對角放置，就像一個宣告道具，女性模特穿著紅色表演服和白色短褲坐在啞鈴的一側，一條腿彎曲，一條擴充套件，最小的黑色工作室，反光地板，大字型背後的大膽單詞“力量” ，銳利的照明，超乾淨的構圖，豪華運動美學， 1 ： 1。"
+  },
+  "355": {
+    "sourceSha256": "96d77232f31d8d0d3fe5ddb8062e718eb804b75a7b56b0f07ac9f37f444fbd89",
+    "text": "為確切的標題建立一張已完成的高階概念排版海報：\n\n“[INPUT_TEXT]”\n\n僅單張海報。沒有情緒板、網格、演示板、模型、標題、提示文字、流程表或範例標籤。\n\n標題「[INPUT_TEXT]」必須是海報的主要視覺結構：巨大、可讀、有力且拼字準確。請勿翻譯、縮短、替換或拼字錯誤。不要新增其他大的可讀文字。只有在保持微妙和次要的情況下才允許使用可選的微型目錄文字。\n\n默默解讀標題的意義、意境、文化氣場、象徵聯想、心理張力、視覺節奏。將這種解釋轉化為一個強烈的視覺隱喻。\n\n排版是英雄。設計客製化外觀的字型，其粗細、寬度、對比、間距、節奏、扭曲、負空間、邊緣品質和墨水紋理表達了標題的氣質。該字型應該讓人感覺是經過精心設計的，而不是像預設字型。\n\n如果「[INPUT_TEXT]」指的是廣為人知的人物，則將大型社論肖像或全身/半身人物作為主要視覺存在，約佔構圖的 40-70%。該人物應該透過光環、姿勢、造型、時代、表達、燈光和象徵氣氛來讓人感覺可識別，但不應複製特定的現有照片、官方海報、活動影像、標誌、口號或受版權保護的構圖。肖像必須與版式互動：重疊字母、從字母中顯現、被它們包圍、在它們上投射陰影、突破它們或部分隱藏在它們後面。\n\n對於所有其他標題，僅在強化意義時才使用人物、風景、物件或氛圍設定。它必須與版式互動並加深概念，而不是裝飾它。\n\n使用與主題相匹配的豐富但剋制的 4-6 種顏色系統：主導背景顏色、主要版式顏色、圖形/風景色調、情感強調色、柔和的支撐顏色以及微妙的紙張/墨水紋理色調。除非概念上有必要，否則避免使用純黑-白-紅預設值。\n\n構圖風格：高階編輯海報、博物館品質的平面設計、戲劇性的規模、強烈的層次感、很少的元素、智慧空白、大膽的平面色彩區域、銳利的裁剪、絲網印刷/平版印刷/立體印刷紋理、紙張纖維、微妙的墨水缺陷、精緻的視覺張力。\n\n最終影像應該感覺像是一個完整的視覺句子：標題、圖形或設定、顏色和排版相互解釋。\n\n避免通用藝術字、光滑的 3D 字型、隨機圖示、庫存照片寫實主義、雜亂的拼貼畫、過多的垃圾、旅遊陳詞濫調、官方標誌、複製的口號、複製的競選美學、不相關的文本和拼寫錯誤的排版。\n\n-----\n\nINPUT_TEXT：鳳凰重生"
+  },
+  "356": {
+    "sourceSha256": "66535c65b794b75a6d4169a9e97f3bc86633eeef2e9f182bc56c39a68d4dd10d",
+    "text": "超現實的概念肖像，描繪的是一位年輕女子的超現實概念肖像，她留著長捲髮，五官柔和，戴著玫瑰色矩形太陽鏡，穿著超大象牙色短款 T 卹，穿著合身的淺色水洗牛仔褲和乾淨的白色運動鞋。她隨意地坐著，姿勢自信又輕鬆。\n\n變化是：她坐在地上的一個巨大的、超現實的、與她自己分離的頭部版本上。頭部按比例放大，側臥，五官相同，墨鏡相同，營造出超現實的自我反省概念。\n\n構圖：居中、全身拍攝，中性工作室背景，柔和的腮紅和奶油色調，簡約的美感。清潔負空間。\n\n融入背景的版面：\n\n頂部的手寫樣式文字：“過度思考”\n\n下面是較小的文字：“困在我自己的心裡”，“心”被劃掉\n\n深粉紅色的大而粗糙的潦草文字：“MIND”\n\n燈光：柔和的漫射工作室燈光、微妙的陰影、高細節、時尚的編輯品質。\n\n風格：超現實主義與現代奢華街頭運動的融合，柔和的女性美感，簡約而富有表現力，高解析度，8k，銳利的焦點，自然的皮膚紋理。\n\n情緒：內省、情緒重、認同、自我意識、安靜的自信。"
+  },
+  "357": {
+    "sourceSha256": "de2aa7b5282823809dbb02b7cd956b92803f1d3538484435947937f6a5c84c7d",
+    "text": "[your photo as reference] 的魚眼鏡頭特寫鏡頭，正在從藍綠色/綠松石色的咖啡杯中啜飲，身體前傾，親密地對著鏡頭。透過或靠近圓形鏡子拍攝。復古咖啡館內部配有光滑的青色地鐵瓷磚、老式電器、吊燈。黑色T卹，黃色圓框眼鏡。溫暖喜怒無常的色調。"
+  },
+  "358": {
+    "sourceSha256": "a654bfa971eb9a86ba5c876f576ee7fadf4fdda7612138f7415aa1a84fef9b7d",
+    "text": "融合能量飲料和運動品牌的超現實商業廣告。一位充滿活力的運動女性在空中跳躍，穿著現代運動服（淺色半透明夾克、橙色短褲、白色運動鞋），周圍是爆炸性飛濺的紅色草莓液體和飛舞的冰塊。前景中是一罐冰冷的金屬能量飲料（草莓口味），裡面充滿了水滴，上面覆蓋著冷凝水。新鮮的草莓散落在光滑的反光錶面上。\n\n明亮的電影燈光，具有戲劇性的亮點和運動效果。充滿活力的橙色漸變背景與主題後面大膽的發光排版。超細緻、高對比、銳利對焦、商業產品攝影風格、8K解析度、廣告海報唯美、活力、有力、清爽意境。"
+  },
+  "359": {
+    "sourceSha256": "ba016de460697107873c6f660dca72766f00f0cead2b826d882467d63838f81b",
+    "text": "[SUBJECT]電影角色宣傳海報，垂直構圖（9:16），採用精緻的東亞水墨美學和高階視覺敘事設計。\n\n結構：\n頭重腳輕的分層佈局。上半部以[SUBJECT]的頭/臉/面具/上半身為特徵，具有高辨識度的大型輪廓，形成大膽、標誌性的主要形狀。輪廓應該可以立即辨識。\n\n中下部分以全身版的[SUBJECT]為次要主體，以穩定的姿勢或微妙的動作姿態站立，形成視覺核心。\n\n構圖風格：\n在大型剪影內部和角色周圍，使用雙重曝光和拼貼來講故事。整合多個元素：\n- 與[SUBJECT]相關的關鍵場景\n- 象徵意象與環境\n- 小敘事人物與互動\n- 支援視覺主題\n\n使用雲、霧、墨水擴散和負空間無縫地融合一切。\n\n視覺流程：\n建立從上到下連續流動的視覺路徑，連結：\n- 上部輪廓\n- 內部拼貼元素\n- 全身主題\n\n確保流暢的視線引導和構圖凝聚力。\n\n側面元素：\n在左右兩側新增平衡的支撐元素，以創造張力、深度和空間變化。\n\n風格與氛圍：\n- 大面積的負空間\n- 水墨擴散邊緣、柔和褪色、細微碎裂\n- 東方美學：空虛與細節的平衡\n- 平靜、優質、內斂、電影般的基調\n\n品質：\n超細緻、高解析度、層次深度、柔和的燈光、大氣的視角、連貫的系列式設計。\n\n輸出：\n9:16 的寬高比，適合海報的構圖。"
+  },
+  "360": {
+    "sourceSha256": "c50a0e8f147bf103259ede02caef9e2fd1aacded6ed3b861b22af09ee48cbe4e",
+    "text": "使用不同的男模特兒（同一張臉）建立專業的「髮型分析」資訊圖，該男模特兒的頭髮長而濃密（6-10 英寸），質地略呈波浪狀。\n\n風格應該是乾淨、現代、優質的美容指南（佈局相似但不相同）。\n\n頂級標題：\n《髮型分析-長髮版》\n\n左面板（帶圖示的主要功能）：\n臉型：橢圓形\n髮質：濃密\n紋理: 波浪狀\n長度: 長\n\n最佳選項（頂行有綠色指示器）：\n分層流剪裁（增加動感和體積）\n現代窗簾髮型（時尚且平衡）\n紋理長波（自然&飽滿）\n寬鬆光滑後背（有控制但不平坦）\n\n不太討人喜歡（底行有紅色指示器）：\n平直長髮（無捲）\n過於油膩的光滑背部（太重）\n不均勻的長層（凌亂的形狀）\n過度捲曲的外觀（不受控制）\n\n最佳頭髮長度部分：\n理想：6-10英寸，有層\n避免：底部太平或太重\n\n最佳髮色：\n深棕色\n自然黑\n暖棕色\n灰棕色\n\n設計風格：\n乾淨的網格資訊圖\n白色/米色背景\n柔和的陰影\n優質雜誌外觀\n逼真的臉部和頭髮細節\n一致的間距和排版\n高解析度，4K"
+  },
+  "361": {
+    "sourceSha256": "6a659fe827f9c4dee37d7158cb831911e0fdd84dac9a92ae3fc0fca5c0893cf7",
+    "text": "建立 [subject or object] 的 3D Insane 詳細分解組裝圖"
+  },
+  "362": {
+    "sourceSha256": "b4d29aa655bd4017cfe7c09b2e5ced3cdbb0dae60bb289b8d1996d16e22c0211",
+    "text": "為現代生活風格品牌創造優質的「抹茶品牌接觸點系統」視覺板：\n\n“抹茶模式”\n\n建立一個完整的品牌識別系統，而不是單一的形象。\n\n英雄場景：\n\n超現實的抹茶飲料裝在陶瓷杯中，放置在乾淨的自然表面上。\n\n– 充滿活力的綠色抹茶泡沫，帶有微氣泡\n– 附近的竹拂（chasen）\n– 柔和的自然光\n– 表面有輕微的抹茶粉灰塵\n– 簡約的日本美學\n氣氛：\n– 平靜、溫暖、柔和的日光\n– 乾淨的背景（灰白色或米色）\n– 微妙的陰影和反射\n– 健康和奢華的感覺\n完整的品牌體系：\n– 外帶杯（紙+玻璃瓶）\n– 包裝盒（簡約設計）\n– 手提袋（優質生活方式）\n– 標籤、貼紙、密封件\n– 標明價格的選單卡（6.50 美元、8.90 美元等）\n– 無所不在的小字型\n– 微妙的缺陷（寫實）\n\n設計語言：\n\n– 現代簡約排版\n– 日本風格的佈局\n– 柔和的綠色調色盤\n– 優雅的間距\n\n包括：\n– 抹茶拿鐵\n– 冰抹茶\n– 抹茶甜點\n– 組合套裝\n– 生活風格鏡頭\n構圖必須感覺像是高階設計機構的演示。\n\n超詳細、真實、乾淨、美觀且高度可分享。"
+  },
+  "363": {
+    "sourceSha256": "cd5bb6c6368ccefc07ca473b4dc679b685c114cbf399e7988092a1fa663c313d",
+    "text": "將上傳的標誌轉換為超現實場景，其中徽標輪廓由鐵屑對磁場的反應形成。徽標必須保持其精確的形狀和比例，看起來就像一塊形狀像徽標的磁鐵（或隱藏在表面之下）正在影響檔案自然地對齊到可識別的結構中。材質詳情：\n具有鋒利、尖刺、針狀結構的細鐵屑。\n沿著磁場線密集聚集，形成標誌輪廓。\n密度變化－磁極附近較厚，向外較薄。\n霧面深色金屬質感，帶有微妙的反光。\n\n物理行為：\n鐵屑必須遵循真實的磁場模式—形成尖峰和脊線的徑向和曲線。\n更強的吸引力區域會產生更厚、凸起的簇。\n外部區域顯示出更柔和、更分散的排列。\n自然的隨機性和輕微的不規則性－沒有完美的邊緣。\n一些鬆散的銼屑散落在主要形狀之外。\n\n表面互動作用：\n平坦的表面，例如實驗室桌子、玻璃板或霧面黑色托盤。\n銼屑停留在表面，但由於磁力（尖刺紋理）而在某些區域明顯抬起。\n周圍有細微的灰塵和微粒。\n\n環境與人類存在：\n現實的教室、科學實驗室或創意工作室環境。\n部分可見的人 - 雙手握住或移動表面下方或附近的磁鐵。\n可能是兒童或成人觀察或互動（增加情緒好奇心）。\n其他微妙的元素：筆記本、工具或失焦的實驗室物品。\n\n照明：\n定向頭頂光從凸起的銼屑產生陰影。\n金屬邊緣上有微妙的亮點。\n平衡的自然或室內照明。\n\n氛圍：\n好奇心。\n發現。\n具有教育意義但視覺上令人滿意。\n安靜但迷人的時刻。\n\n相機與構圖：\n自上而下或略微傾斜的特寫檢視。\n透過鐵屑形成清晰可見徽標。\n人手或互動在講故事時稍微偏離中心。\n\n格式：\n縱橫比：嚴格 4:5 垂直。\n沒有文字疊加。\n\n風格：\n超真實微距+環境攝影。\n物理上準確的磁行為。\n電影般但又紮根的寫實。"
+  },
+  "364": {
+    "sourceSha256": "52c80362adc2b5f8c7361dbb9bdb542048259a55cf92917b22c2cb4337888cd8",
+    "text": "奢華的個人色彩設定檔 — 編輯版面\n以主體為錨點的工作室肖像 — 皮膚經過修飾，達到發光玻璃般的完美效果，保留了自然結構，逼真的毛孔紋理，柔和的方向鍵照明，沒有面部改變。背景：溫暖的米色羊皮紙，帶有微妙的亞麻紋理。版面讀起來就像是印在厚重霧面紙上的《Vogue Italia》美容增刊。結構化編輯網格，3 列不對稱，寬負空間，襯線壓縮顯示標題，所有標籤均採用間隔大寫跟蹤，所有面板均採用有凝聚力的溫暖象牙色/沙色/本色背景系統，超真實感 8K，柔和的漫射工作室照明，平坦優雅的表面，無陰影。\nPANELS:\n① 底音診斷－從冷灰到暖琥珀色的音調頻譜條，物件讀數上有精確的針標記。標籤：冷色/中性-冷色/中性/中性-暖色/暖色。精細的註釋文字。\n② 季節調色盤 — 受試者最佳季節的 10-12 個織物紋理樣本。每個標籤都標有詩意的顏色名稱和十六進位制。分組：強力色彩/最柔和的選項/協調中性色。\n③ 應避免的顏色－一排不飽和的衝突色調，帶有精美的編輯刪除線。乾淨、不刺耳的示範。\n④ MAKEUP CARTOGRAPHY — Eyeshadow gradient dust swatches / blush tones fanned on skin strip / lip spectrum barely-there to bold / highlighter finishes labeled: champagne, rose gold, pearlescent ivory.\n⑤ 髮色光譜 — 曲線漸層條：基礎、尺寸、高光、對比色調。最佳選項的黃金括號指標。\n⑥ 珠寶與金屬指南 — 平鋪編輯渲染：黃金、玫瑰金、氧化銀、鉑金飾面以及互補的石材色調。最小的造型。\n⑦ YOU IN YOUR PALETTE — 3–4 editorial lookbook frames, subject in palette-correct outfits.心情標籤：安靜的奢華/下班後的社論/晚間的存在。\n⑧ 膠囊衣櫃網格 — 服裝平鋪：上衣、下裝、外套、鞋子、包包 — 所有調色盤均正確。協調線顯示可互換性。Net-a-Porter 的編輯美學。\n⑨ 印花與圖案 — 4 種織品印花縮圖：微觀幾何、抽象色調、經典條紋、花卉比例。每張列印單行樣式註解。\n⑩ 風格原型－單一印刷面板。風格標誌標題設定大（例如“現代浪漫主義/溫暖古典主義”）。三個定義美學的詞。四行編輯衣櫃哲學筆記。\n渲染規格：超真實感、8K、社論雜誌印刷品質、溫暖的中性色彩分級、所有面板上一致的柔和漫射工作室照明、一種襯線顯示字型 + 一種精細的無襯線正文字型、無漸變、僅平面啞光錶面。"
+  },
+  "365": {
+    "sourceSha256": "20ae42223b0ab2edfe56a5571bbf5dc9ce4f94690a5ae250777e015c3156dd08",
+    "text": "2x2 網格，為歷史上 4 位著名科學家做這個：為 [TOY / FIGURE / DESIGNER OBJECT] 設計一個收藏級的發布視覺效果，以原始英雄形式顯示，以及可互換配件、替代表達、包裝設計、比例參考、貼紙細節、稀有度指示器和特寫材料亮點。該物品應該感覺像是一件奢侈品，介於藝術玩具文化和精英產品品牌之間。配件佈置：將 [ACCESSORY 1]、[ACCESSORY 2]、[ALT VERSION]、[PACKAGING FEATURE] 和 [LIMITED EDITION DETAIL] 精心佈置在人物周圍。一切都應該讓人感覺令人滿意、整潔並且「拆箱」。視覺風格：炒作文化收藏品展示與優質電子商務發布活動相結合。乾淨、有光澤、觸感、設計師玩具般的精緻，帶有俏皮但昂貴的感覺。構圖指南：英雄人物仍佔主導地位。配件應平衡且間隔優雅。包裝應該醒目但不搶鏡。整個影像應該感覺就像產品收藏家會立即截圖。燈光與背景：柔和的商業燈光，帶有微妙的鏡面高光，[BACKGROUND STYLE] 中的拋光背景，清晰的陰影，優質的分色，超銳利的細節，無水印。"
+  },
+  "366": {
+    "sourceSha256": "28f4c1a7487e859937e25d3baa3bff512f15710489ba963aacf5b34c31ff60da",
+    "text": "一位時尚的年輕女子坐在戶外咖啡桌旁，嘴唇旁拿著一杯熱咖啡。她留著黑色捲髮，戴著超大有色太陽眼鏡，穿著米色短毛衣、寬鬆的棕色高腰褲和厚實的白色運動鞋。她的肩上掛著一個帶有極簡咖啡主題插圖的手提包。\n\n該場景將逼真的攝影與有趣的 2D 卡通疊加融為一體。她周圍漂浮著動畫咖啡元素：帶有心形拿鐵藝術的微笑卡布奇諾杯，帶有小臉的可愛咖啡豆，以及形成漫畫風格形狀的程式化焦糖飛濺。柔軟的塗鴉蒸氣升到心靈和星星。\n\n桌上：一個羊角麵包、一本寫有草圖的筆記本和第二個咖啡杯。\n\n背景：一條現實舒適的咖啡館街，有磚牆、植物、溫暖的黃金時段燈光和柔和的陰影。景深較淺，拍攝物件清晰。\n\n風格：照片寫實主義和充滿活力的卡通插圖的混合，波普藝術美學，高飽和度但溫暖的色調，乾淨的構圖，值得Instagram的，柔和的發光，4k細節。"
+  },
+  "367": {
+    "sourceSha256": "72447a3e03b53a701c634361d554e5c4590c0194f01636b71886a865ec7eafbe",
+    "text": "{\n  \"image_type\": \"奢華香水廣告海報\",\n  \"resolution\": \"4K 超高畫質 (4096x5120)\",\n  \"aspect_ratio\": \"肖像 (4:5)\",\n  \"style\": {\n    \"aesthetic\": \"高階香水廣告活動（Tom Ford、Dior 靈感）\",\n    \"tone\": \"黑暗奢華、感性、優雅、強大\",\n    \"color_grading\": \"深黑色陰影，帶有濃鬱的金色高光和溫暖的琥珀色光芒\",\n    \"lighting\": \"電影聚光+金邊光+柔和補光，戲劇性陰影\",\n    \"contrast\": \"高電影對比度\",\n    \"depth_of_field\": \"淺而清晰地聚焦在臉部和香水瓶上\"\n  },\n  \"camera\": {\n    \"type\": \"85mm人像鏡頭\",\n    \"aperture\": \"f/1.6\",\n    \"angle\": \"略低角度，優質視角\",\n    \"framing\": \"模特兒上半身+產品前景\"\n  },\n  \"subject\": {\n    \"gender\": \"女\",\n    \"age_appearance\": \"年輕的成年人\",\n    \"expression\": \"自信、感性、冷靜\",\n    \"styling\": {\n      \"hair\": \"蓬鬆、略顯凌亂、有光澤、帶有金色亮點的髮絲\",\n      \"makeup\": \"soft glam, glowing skin, bold lips\",\n      \"outfit\": \"brown tailored blazer with patterned silk scarf\",\n      \"accessory\": \"thin transparent eyeglasses\"\n    }\n  },\n  \"product\": {\n    \"type\": \"luxury perfume bottle\",\n    \"brand\": \"VELORA PARFUMS\",\n    \"label\": \"香水\",\n    \"design\": \"透明水晶玻璃瓶，內裝金色液體，金屬金色瓶蓋\",\n    \"placement\": \"有光澤的黑色大理石表面的底部中心前景\",\n    \"effects\": \"強烈的反射、金色的光芒、微妙的凝結、電影般的光澤\"\n  },\n  \"environment\": {\n    \"background\": \"黑暗模糊的豪華內飾，帶有溫暖的金色光條紋\",\n    \"surface\": \"帶有反光的黑色大理石\",\n    \"extra_elements\": \"瓶子附近的小花，金色顆粒，柔和的煙霧\"\n  },\n  \"typography\": {\n    \"logo\": \"V 字母組合 + VELORA 香水\",\n    \"headline\": \"不僅僅是一種香味，它是您的簽名。\",\n    \"tagline\": \"一款先於你說話的香水。\",\n    \"secondary\": \"擁有你的本質。留下遺產。\",\n    \"features\": [\n      \"持久\",\n      \"優質原料\",\n      \"充滿熱情精心打造\"\n    ],\n    \"notes\": [\n      \"前調：梨子、佛手柑、粉紅胡椒\",\n      \"中調：茉莉、玫瑰、鳶尾草\",\n      \"基調：香草、廣藿香、麝香\"\n    ],\n    \"font_style\": \"奢華襯線+優雅手寫體\",\n    \"color\": \"金金屬\",\n    \"placement\": \"左上+左中+下平衡佈局\"\n  },\n  \"post_processing\": {\n    \"sharpness\": \"臉部和瓶子上超鋒利\",\n    \"glow\": \"金色的電影光芒\",\n    \"retouch\": \"高階編輯完成\",\n    \"vignette\": \"微妙的黑暗小插圖\"\n  },\n  \"mood\": \"高階奢華香水廣告、電影、大膽的品牌標識\",\n  \"quality\": \"超逼真、4K 超高畫質、商業級、屢獲殊榮的香水廣告\"\n}"
+  },
+  "370": {
+    "sourceSha256": "224ca59b0bc974770598f8cdf306c5fa0b9f242222e4d3db1da88ccdc44febbd",
+    "text": "設計概念：Crumple Chair 核心概念：將丟紙球的「受控混亂」轉化為雕塑般的高舒適度座椅體驗。\n\n第一階段：觀察和形態分析目標是將皺巴巴的紙的影像解構為可用的幾何資料。摺痕對映：辨識主要的「谷」和「脊」線。這些代表椅子中潛在的結構肋骨或接縫。多面平面：將球體分解為一系列不均勻的多邊形。紙張的每個平坦表面都成為椅子內飾或外殼的潛在面板。陰影研究：分析「拋擲」形式如何產生深凹。這些天然的口袋引導使用者的體重放在哪裡。\n\n第二階段：迭代形式探索透過「數位壓皺」從球體轉移到座位。減法雕刻：將紙球想像成固體。使用布林運算「雕刻」出適合人體形狀的座位空腔，同時保持外部鋸齒狀紋理。張力模擬：使用 3D 軟體（如 Rhino 或 Blender）來模擬被壓縮的平板材料。這確保了褶皺看起來真實而不是「模仿」。「拋擲」邏輯：試著以重力為基礎的模擬，讓數位網格掉落，看看它如何自然沉降，模仿「拋擲」原點。\n\n第三階段：人體工學翻譯和藍圖將原始美學提煉為功能性物體。舒適核心：在皺巴巴的形狀上覆蓋標準人體工學範本（座椅角度：105°–110°）。調整內部「褶皺」以提供腰部支撐和壓力緩解。藍圖產生：建立技術正交檢視（正面、側面、頂部）。繪製尺寸： 座椅高度：450 毫米 總寬度：850 毫米 表面平滑：保持外殼上鋒利的“紙邊緣”，同時軟化內部接觸點，使皮膚舒適。\n\n第四階段：結構整合和擴充套件使概念在物理上可行。骨架：設計一個隱藏的內部框架（可能是 CNC 彎曲鋼棒或 3D 列印的格子），該框架遵循紙折最突出的脊線以提供剛性。材質選擇： * 選項 A（高階）：白色粉末塗層的多面鑄鋁。選項 B（軟質）：真空成型再生塑膠外殼，覆蓋「記憶折疊」技術織物，保留褶皺外觀。\n\n第 5 階段：最終原型製作和材料飾面紋理複製：在材料上應用霧面、微孔飾面，以模仿重磅紙的觸感。照明對比：在最終渲染中使用定向工作室照明來強調「拋擲」陰影，使椅子看起來像是一塊被丟棄的靈感的巨大碎片。設計提示：為了保持「拋擲」的外觀真實，避免對稱。皺巴巴的紙球最引人注目的方面是其獨特的不規則性——確保椅子的左側和右側平衡平衡但不同"
+  },
+  "371": {
+    "sourceSha256": "c33dec9261244d38b355340d801e69c392965ea24459b2d31145afaad8640cf7",
+    "text": "將提供的參考影像轉換為舒適美觀的剪貼簿式構圖，同時嚴格保留原始主題、身份、姿勢、燈光和背景。\n\n新增同一個人的多個小“迷你版”角色（赤壁/娃娃風格），自然放置在場景周圍（物體、桌子、肩膀等）。這些迷你人物必須與拍攝物件的臉部、髮型、服裝和氛圍一致，設計成可愛的 3D 收藏人物。讓他們進行不同的活動（閱讀、擺姿勢、拍照、放鬆）。\n\n在影像上疊加手寫風格的塗鴉和註釋：箭頭、心形、星星、閃光、圖示和與場景中的元素相關的有趣標題。\n\n使用柔和的調色盤（白色底色，帶有粉紅色、桃色、藍色點綴）。\n\n保持框架視覺上豐富和充滿，但平衡和乾淨。\n\n風格：溫暖、舒適的燈光、夢幻般的 Instagram 剪貼簿美感、柔和的景深、高度細節、精緻但有趣。\n\n最終結果必須看起來像是用迷你另一個自我和美學註釋增強的相同原始影像——而不是重新建立或不同的場景。"
+  },
+  "372": {
+    "sourceSha256": "071afbc828feaf3b32370c9d1a871190d144d06f053cb8d76479e03c6afb5ccc",
+    "text": "受上傳影像的啟發，建立一個可愛的女性角色設計表。\n\n風格：溫暖、柔和、半寫實的卡通插圖，帶有舒適的日本卡哇伊氛圍（柔和的色調、平滑的陰影、乾淨的線條）。\n\n使其成為一個乾淨的角色概念海報佈局，包括：\n\n一幅大型主要女性肖像（正面，詳細）\n\n臉部表情集（快樂、害羞、惱怒、睏倦、驚訝、興奮）\n\n2–3 個全身姿勢（站立、行走/跑步、嬉戲姿勢）\n\n符合她個性的小配件/物件圖示（髮夾、可愛的包包、手機吊飾、咖啡杯、鑰匙圈）\n\n一個簡單的調色盤部分（皮膚、頭髮、服裝、強調色）\n\n個人資料資訊框包含：姓名、年齡範圍、個性特徵、喜歡/不喜歡、簡短描述\n\n整體外觀應該感覺迷人、舒適、女性化，並且像動畫角色設計表一樣專業地佈置。\n高品質，乾淨的背景，柔和的燈光。"
+  },
+  "376": {
+    "sourceSha256": "94ebc15c246ed89fc1ffa3ed65f272292ab51850c56747b9003ba80f094bc8c0",
+    "text": "一張真實的垂直智慧型手機照片，顯示室外石頭路面上溢位的綠色冰飲料，一個透明的一次性塑膠杯側躺在綠色水坑內，附近有透明的塑膠蓋，飲料中漂浮著分散的冰塊，表面上有小泡沫，綠色液體自然散佈在粗糙的方形地磚上，強烈的正午陽光，刺眼的現實陰影，深色的人影輪廓投射在地面上，部分覆蓋在溢位物上，意外的街頭時刻，城市紀實攝影，手持手機攝像頭視角，略微自上而下的角度，自然色彩，逼真路面紋理，未經編輯的原始照片外觀，高細節，真實的日常場景，9:16垂直構圖\n\n否定提示：\n卡通, 插圖, 動漫, CGI, 3D渲染, 幻想風格, 工作室照明, 過於完美的構圖, 過於乾淨的地板, 假液體, 不切實際的反射, 塑膠外觀的液體, 過飽和的綠色, 模糊, 低解析度, 扭曲的杯子, 熔化的塑膠, 額外的杯子, 重複的綠色, 模糊, 低解析度, 扭曲的杯子, 熔化的塑膠過度銳利化, 過度處理, 不切實際的陰影, 浮冰, 變形的透視"
+  },
+  "377": {
+    "sourceSha256": "93e759ac84c1335457671700c0a4b12669d314205a18bb7134252b248eb607eb",
+    "text": "編輯提供的影像，同時保留相同的面部身份、形狀和麵部特徵，而不改變年齡、種族或結構。保持平靜、放鬆的表情，讓主體不看鏡頭。\n\n拍攝物件：年輕女性（18-23歲），擁有柔和的女性美、光滑發光的肌膚、自然的質感。\n姿勢（嚴格）：坐在木椅上，身體側向（45-70°），雙腿自然交叉，上半身稍微前傾，頭背對鏡頭，目光看向一側。她用雙手拿著一個有吸管的飲料杯。\n取景：全身垂直（9:16），頭部到鞋子可見，居中但稍微偏移，以實現自然構圖。\n服裝：淺粉紅色白色條紋校隊夾克，柔和的粉紅色內搭，適中的及膝百褶裙，白色運動鞋。\n配件：米色報童帽、太陽眼鏡（臉上或帽子上）、粉紅色單肩包、小耳環。\n頭髮：整齊的低髮髻，柔軟鬆散的髮絲。\n環境：戶外花店街景，有柔和的花朵（粉紅色、柔和的色調）、裝飾植物、花卉店面。\n照明：明亮的自然光、柔和光澤的皮膚高光、均衡的曝光、柔和的陰影。\n相機：低/蛙角（略低於，仰視），50mm鏡頭，淺景深。\n色彩分級：溫暖柔和的調色盤（粉紅色、奶油色）、乾淨明亮的生活方式美學。\n品質：超真實感、8K 細節、DSLR 真實感、自然皮膚紋理。\n負面：正面、目光接觸、特寫、裁剪身體、迷你/短裙、室內場景、暗光、動漫、卡通、CGI、塑膠皮膚、扭曲的解剖結構。\n--ar 9:16 --風格原始 --品質高"
+  },
+  "378": {
+    "sourceSha256": "278a3a8533f28efbd46c9b7fef33976fb95f50d102e8bc5fc975cf89cfe4629d",
+    "text": "將輸入照片轉換為高階風格化 3D 收藏人物。頭大，五官略顯誇張，同時又不失身分。超細緻的肌膚紋理，細緻的毛孔、逼真的皺紋和電影般的表情。\n\n光滑的霧面乙烯基表面。柔和的工作室燈光，乾淨的黑色背景。超銳利焦、8K 渲染、逼真材質、皮克斯品質渲染、居中構圖、全身、高階設計師玩具美學。"
+  },
+  "379": {
+    "sourceSha256": "901e975a360bd67005216979dbd0b47d8249299414a3b2055d75b824da87ea65",
+    "text": "使用上傳的徽標，建立一個非常詳細的漫畫風格的資訊圖表海報：\n\n“這個品牌給人甚麼感覺”\n\n目標：\n將品牌變成一個活生生的個性，並以視覺方式解釋它如何表現、說話以及與世界互動。\n這一定感覺像是：品牌策略+角色設計+漫畫故事的結合。\n\n---\n\n核心規則：\n一切都必須來自標誌：\n- 顏色\n- 風格\n- 語氣\n- 個性\n\n沒有通用的人格特質。\n\n---\n\n主要結構：\n垂直4:5海報\n具有多個面板的密集佈局\n漫畫+資訊圖表混合\n\n---\n\n頂部：\n- 品牌名稱\n- 簡短的個性陳述（最多 6 個字）\n例如：“鋒利的邊緣帶來安靜的自信”\n\n---\n\n主要角色（非常重要）：\n創造代表品牌的中心人物：\n- 品牌人性化版本\n- 服裝體現品牌風格\n- 姿勢+表情體現個性\n\n---\n\n圍繞角色：\n建立 6-8 個漫畫面板，展示品牌在不同情況下的表現。\n\n---\n\n場景設想：\n- 與客戶交談\n- 處理競爭\n- 銷售產品\n- 社群媒體存在\n- 對批評的反應\n- 每日「品牌生活」時刻\n\n---\n\n對於每個面板：\n包括：\n- 簡短標題（最多 6 個字）\n- 言語泡沫或內部思想\n- 清晰的視覺動作\n\n---\n\n語氣範例：\n奢侈品牌：冷靜、自信、少言寡語\n俏皮的品牌：響亮、混亂、富有表現力\n科技品牌：精確、邏輯、乾淨\n\n---\n\n人格特質部分：\n新增小標記塊：\n- 語氣（例如冷靜、大膽、俏皮）\n- 能量水平（低/中/高）\n- 社交行為（內向/外向）\n- 溝通方式\n\n用途：\n- 圖示\n- 短標籤\n\n---\n\n做/不做部分：\n新增分割區塊：\n做：\n- 品牌該如何行動\n不要：\n- 是什麼破壞了身份\n\n保留：\n- 非常簡短的短語\n\n---\n\n視覺元素：\n- 泡泡\n- 圖示\n- 箭頭\n- 小反應\n- 誇張的漫畫表情\n\n---\n\n風格：\n- 漫畫+社論混合\n- 稍微誇張但仍然優質\n- 富有表現力但不幼稚\n\n---\n\n顏色：\n- 嚴格基於標誌調色盤\n- 使用顏色來強化個性\n\n---\n\n深度：\n- 20–40 視覺元素\n- 多個小面板\n- 分層組合\n\n---\n\n重要規則：\n- 必須感覺自己還活著\n- 必須感覺具體\n- 沒有通用的行銷字詞\n- 沒有空白區域\n- 保持文字簡短但有影響力\n\n---\n\n最終感覺：\n像：\n- 品牌策略轉化為個性\n- 視覺說故事板\n- 人們儲存和研究的東西\n\n不是：\n- 平坦\n- 一般\n- 最小"
+  },
+  "380": {
+    "sourceSha256": "ab758ddfad1f8323d095c0eb6d2f36ce75cd7446d0d23476898103bd3f723b63",
+    "text": "說明> [SUBJECT]=冠狀病毒。這是一張根據單一輸入產生的超寫實 3D 縮放序列資訊圖：[SUBJECT]。系統會自動偵測從原子／子元件到完整情境檢視的尺度層級。\n\n版面結構（重要）：以 6–8 個圓形或六邊形框架組成逐步放大的序列；最內層框架呈現可辨識的最小細節，最外層呈現環境中的完整主體。以細緻的縮放路徑線連線各框架，每個框架都要顯示新的細節層級，不要重複尺度。\n\n框架設計：每個縮放層級都包含該尺度的超細緻 3D 渲染、微型標籤（尺度名稱，例如「分子」、「細胞」、「結構」，以及 3–5 字的重點說明），並可選擇加入測量標籤或放大倍率。\n\n情境光環：圍繞整個序列，只加入與尺度相關的參考，例如測量單位、科學記號或文化尺度比喻；不要使用泛用的放大鏡圖示。\n\n尺度面板（替代版面）：縮放層級、3–5 字的重點洞察、尺度倍率標籤、細節圖示（網格、波形、粒子等）。標題使用「[SUBJECT]：各種尺度皆呈現」，或使用「縮放：[SUBJECT] 的世界」。\n\n風格：超寫實 3D 渲染、科學編輯資訊圖表、精準的微距照明、全域照明、淺景深、乾淨的連續版面。 </instructions>"
+  },
+  "381": {
+    "sourceSha256": "c5baea05b64e81a1315fb9423b877831002965d5b401e768db153ce9fd296f49",
+    "text": "{\n  \"type\": \"場景參考板 — 90 年代公寓客廳，電影之夜\",\n  \"style\": \"電影膠片攝影、35 毫米顆粒、溫暖的琥珀色陰影填充、深明暗對比照明、超詳細的內飾、製作設計參考質量\",\n  \"layout\": {\n    \"main_panel_center_left\": {\n      \"label\": \"相機 A — 前檢視\",\n      \"scene\": \"廣角鏡頭、L 型棕褐色組合沙發、灰色針織毯、木製咖啡桌（遙控器、馬克杯、煙灰缸、滾石堆）、熔岩燈（左）、檯燈（右）、雨痕城市窗戶後、Nirvana 海報左牆。35毫米顆粒。\"\n    },\n    \"main_panel_center_right\": {\n      \"label\": \"攝影機 B — 反向檢視\",\n      \"scene\": \"沙發後面的寬反面。CRT 電視突出右側，灰色靜態螢幕。高高的書架，VHS錄影帶。相機後面的窗戶發出涼爽的藍色背光。深深的陰影。\"\n    },\n    \"prop_strip_bottom\": \"6 個特寫圖塊： 1. 熔岩燈 — 鍍鉻底座，藍綠色蠟塊； 2. 咖啡桌——遙控器、杯子、煙灰缸、雜誌； 3. 涅槃海報——黑色笑臉、牆面紋理； 4. CRT電視——靜態螢幕、VHS堆疊； 5. 窗/雨——城市紋理散景、水紋；\",\n    \"top_right_inset\": \"SOURCE REF 縮圖 — 原始照片\",\n    \"footer\": \"2700K 實用 · 4100K 城市夜景 · 24mm · 35MM\"\n  },\n  \"background\": \"深木炭 #1a1a1a，薄白色分離器\",\n  \"dimensions\": \"寬風景 3:1，高解析度\"\n}"
+  },
+  "382": {
+    "sourceSha256": "572fba60175e708533a75b424faa53bee67c52439077acdc380ce26f07b6f086",
+    "text": "這是一張高品質的三幅垂直照片拼貼畫，在照片上傳的是一位令人驚嘆的女士，她有著柔軟、豐盈的捲發，在金色的陽光下閃閃發光。她穿著質地細膩的米色繫帶復古襯衫，搭配橄欖綠高腰飄逸長褲，頭戴微微傾斜的寬邊草帽，打造出時尚的社論造型。淺金色珠寶（細鏈、戒指）增添了微妙的奢華氣息。\n\n背景是一片夢幻般、充滿活力的黃色芥末花田，在明亮的藍天和柔軟的雲彩下，在黃金時段的燈光下呈現出神奇的光芒。\n\n頂部面板：張開雙臂站在田野上的女人的後檢視，陽光在她的頭髮周圍形成發光的光環，花朵中出現輕微的運動模糊，營造出電影般的感覺。\n\n中圖：特寫肖像，她對著鏡頭自然地微笑，風輕輕地吹動她的頭髮，她的手伸向鏡頭，創造出深度和稍微模糊的前景，達到單反效果。\n\n下圖：俏皮的姿勢，她側身在花叢中，做出雙重和平手勢，坦率地笑著，捕捉了真實的歡樂時刻。\n\n新增可愛、時尚的白色塗鴉疊加層（笑臉、閃光、星星、小心形），具有微妙的動畫/素描感覺。包括漏光、太陽耀斑和軟膠片顆粒，以實現優質的 Instagram 美感。\n\n超寫實、4K、電影燈光、淺景深、高動態範圍、自然膚色、編輯時尚攝影、柔和柔和的色彩分級。\n\n縱橫比：4:5\n風格標籤：病毒式 Instagram 美學、Pinterest 風格、夢幻春天氛圍、坦率奢華"
+  },
+  "383": {
+    "sourceSha256": "65e1dc75fefd7aca431274b56c07fa22e6e96e978ab2cc5671d37851fc7ad54a",
+    "text": "我想看看你真正的樣子。\n畫出您日常生活的快照，就像是用 iPhone 意外拍攝的一樣。\n讓它感覺像是一個非常普通、不完美的偷拍鏡頭。\n照片應該有輕微的運動模糊，自然光線不均勻。"
+  },
+  "384": {
+    "sourceSha256": "c844389f78f2f9872571d253100827c871c6ca7aee7c7a7b603897f1f281d480",
+    "text": "一個永恆的 BeautyChatGPT 的 10 個國家電影時尚轉型提示：\n\n一幅高度美觀、超現實的電影拼貼畫，以參考影像中完全相同的美麗年輕女子為特色，在單一影像佈局（5x2 網格樣式）中以 10 種不同的姿勢顯示。每個框架都代表了不同國家的傳統文化服飾，風格現代、優雅、時尚。每個畫面中的女人都是同一個人：她有一頭齊肩的深棕色波浪發，迷人的深棕色眼睛，豐滿的嘴唇帶著微妙的自信微笑，完美無瑕的溫暖橄欖色皮膚，高顴骨，以及性感而運動的身材，突出的胸部，纖細的腰部和健美的體格 - 與所提供的參考照片中的女人完全匹配。\n\n設計細節：\n\n10 個畫面中的每一個都展示了同一位女性穿著不同的傳統服裝，靈感來自以下國家：蘇利南、蓋亞那、波多黎各、西班牙、義大利、印度、巴基斯坦、委內瑞拉、巴西和美國。\n\n每一套服裝都是對該國文化遺產的現代、優雅、時尚前衛的詮釋。\n\n每個迷你框架的右上角都有一個小國旗圖示。\n\n女人的表情各異：微笑、自信、優雅、俏皮、優雅、皇室、現代融合時尚的姿勢。\n\n高階時尚編輯攝影風格。\n\n柔和的電影燈光、超細緻的紋理、逼真的膚色。\n\n背景巧妙地匹配每個國家的文化美學（地標、街道、圖案、顏色、建築）。\n\n奢華時尚雜誌的版面風格。\n\n乾淨的網格構成、視覺平衡、高度共享的社群媒體設計。\n\n風格：超寫實、8K解析度、Vogue編輯拍攝、戲院級燈光、柔和景深、Instagram潮流美學、時尚攝影傑作。"
+  },
+  "385": {
+    "sourceSha256": "e1a182b13f200f57ec747026874b2571422b21874ab661c9fdc422e8565ed15e",
+    "text": "靈感來自青島（中國啤酒）🍺\n\n“以這款產品為靈感，設計一套酷炫風格的女裝”"
+  },
+  "386": {
+    "sourceSha256": "54623081759babfdd24c847c7077e0e4b68d4297c69a079322fe22441c5f74e5",
+    "text": "品牌信封| GPT 圖 2 提示 #89\n\n這會拍攝任何產品照片並將其包裝在您特定的品牌世界中。每次都有不同的產品。每次都是同一個品牌。\n\n第 1 階段/錨點：以 2 行描述 [BRAND IDENTITY]。調色盤、質地、情緒。\n第 2 階段/注入：將 [PRODUCT] 放入該品牌世界中，而不是相反。\n第 3 階段/格式：設定 [OUTPUT FORMAT]。英雄、方形廣告或故事。\n第 4 階段/簽名：應用 [BRAND ELEMENT]。顆粒、陰影或疊加。\n\n交換：[BRAND IDENTITY] / [PRODUCT] / [FORMAT]"
+  },
+  "387": {
+    "sourceSha256": "a8c01fee409960a3909b6eed8e37f86acace186a712f4028704470412b0f09b5",
+    "text": "建立一個 Netflix 主頁 UI，其中包含一部主要英雄電影及其標題，並且仍然根據上傳的參考產生。"
+  },
+  "388": {
+    "sourceSha256": "37f1ac0dc54929f7607abea728e5a0210d11d3c9257f3d507ffd376b75ebb35c",
+    "text": "一張虛構的 20 世紀 80 年代雜誌廣告海報，介紹“Claude”作為革命性的家庭 AI 助手，復古的商業印刷廣告風格，頂部的粗體標題為“介紹 Claude！”，帶有粉色和藍色反射的大型鍍鉻金屬 3D 排版，下方黃色斜體標語：“會說話的 AI 助手。”\n\n中心構圖：一臺米色 1980 年代 CRT 家用電腦，木桌上有厚實的鍵盤，綠色單色終端螢幕發光，螢幕上可讀文字：“克勞德”，副標題：“有用的人工智慧助手。”螢幕上，一段復古終端風格的對話內容如下：\n“你：今天你能幫我什麼忙？”\n“克勞德：我可以回答問題，幫助你寫作，總結資訊，集思廣益，並清楚地解釋主題。”\n“你：”\n\n一個歡快的80年代三口之家圍在電腦前：穿著藍色毛衣的父親，穿著粉紅色毛衣的捲發母親，穿著條紋毛衣的小男孩，個個神情驚訝、欣喜、著迷，溫暖懷舊的表情，經典的家庭科技廣告意境。\n\n背景：漆黑的星空夜空，紫色和藍色的霓虹透視網格，復古的科幻光芒，微妙的手掌輪廓，閃閃發光的亮點，鏡頭光暈，戲劇性但友好的氛圍。\n\n海報佈局：左側包含堆疊的復古功能盒，帶有發光的霓虹燈圖示，包括問號、鉛筆、燈泡和時鐘。每個功能盒都包含簡短的復古廣告文案：\n「回答問題」－用日常語言獲得有用、清晰的答案。\n「幫助您寫作」—輕鬆起草想法、筆記、信件等。\n「產生想法」——集思廣益、創造並思考更大的問題。\n「無論您需要什麼，都可以提供幫助」—無論白天還是晚上，Claude 都隨時準備為您提供幫助。\n\n新增一個描述克勞德的復古小文本塊：\n“這是第一次，你可以與人工智慧助理進行對話。提出問題。獲得答案。分享想法。寫草稿、筆記和報告。探索主題、組織想法並解決問題。克勞德理解自然語言，並以清晰、有用的方式做出回應。”\n\n新增一個簡短的突出顯示的複製區塊：\n「這很有幫助。很周到。\n它永遠在你身邊。 」\n\n底部區域包括一個帶有彩色斜復古條紋的大型“Claude”品牌字標，以及口號：\n“一種更聰明的思考、寫作和探索方式。”\n\n右下角有一個白色的促銷價格標籤區域，上面有粗體的粉紅色文字：\n“免費！！”\n下面較小的文字：\n“現在可供世界各地好奇的人使用。”\n\n右上角有一個亮黃色的星爆徽章，上面寫著：\n「人工智慧援助的一場革命！”\n\n在桌子上放一個復古的產品盒，上面標有“Claude”，並帶有小文字：\n“適合現代思想家的智慧軟體。”\n\n在桌子上放一個標有“Claude”的杯子或配件。\n\n視覺風格：1985年消費者電腦廣告，噴繪插圖，光面印刷紋理，半色調細節，懷舊復古未來主義，高飽和度，電影產品照明，真實的20世紀80年代排版和佈局，可讀的廣告構圖，詳細的復古商業海報，高度拋光，溫暖的家庭友好情緒，復古科技幻想，垂直海報。\n\n負面提示：\n現代筆記型電腦，智慧型手機，平面設計，極簡主義，未來派2020年代介面，賽博朋克超載，凌亂的佈局，不可讀的排版，扭曲的文本，拼寫錯誤的單詞，變形的手，額外的手指，不良的解剖結構，重複的人，塑膠鍵盤，曝光過度的燈光，低解析度，影像模糊，扭曲的結構，破碎的海報，雜亂電腦層次的結構不一致，雜亂的圖形結構不一致的設計，扭曲的電腦層次，破碎的海報，雜亂電腦層次的結構"
+  },
+  "389": {
+    "sourceSha256": "1bfb8c70f2277dd001600d55b6cb8bb79c53169ed006f08a8094a90e1dcc289f",
+    "text": "製作一張引人注目的活動海報，讓人們停下來滾動瀏覽透明實驗室水合物。\n\n大膽的高影響力補充廣告，具有戲劇性的黑色和深電藍色調色盤、堅韌的優質健身美學、銳利的電影燈光、光澤反射、淡淡的煙霧氛圍、強烈的對比度。\n\n頂部巨大的標題字型以超大的仿舊白色和電藍色文字寫著“透明實驗室水合物”。\n\n中心構圖以所附參考影像中的精確女性為特色，她是一位身材健美的運動女模特，自信地坐在工作室地板上，拿著搖搖瓶，表情專注而有力。\n\n將她的衣服換成時尚的黑色健身服：黑色運動胸罩/背心和高腰黑色緊身褲，搭配厚實的白色運動鞋。主題後面巨大的發光「1%」圖形象徵著每天的進步。\n\n左前前景顯示一個啞光黑色透明實驗室水合物浴缸，上面有現代奢華標籤，上面寫著“水合物”，一勺電解質粉末灑在容器旁。\n\n在海報周圍貼上乾淨的基於圖示的好處標註：補充電解質、支援水合作用、促進恢復、提高耐力、增強表現、零糖、經過實驗室測試、優質、無填充物。強烈的激勵文案，例如「每日補充水分。最佳表現」。\n\n超現實的紋理，精美的商業修飾，優質的運動營養品牌，現代的版式佈局，社交媒體廣告格式，超詳細，高解析度。"
+  },
+  "390": {
+    "sourceSha256": "160b0b607287ee6f7278f49839eaba18a00340a7b7b10ed503cf7a6761026644",
+    "text": "國: [INSERT COUNTRY NAME]\n\n由蓬鬆的紗線、羊毛和針線製成的微型毛氈立體模型，設計成一個單一的有凝聚力的小世界（不是拼貼畫），反映了這個國家的真實景觀、文化和日常生活。\n\n結構：\n- 選擇 4-7 個自然整合的元素（景觀、建築、交通、街頭生活、文化）\n- 一切都必須作為一個環境一起流動\n\n前景：\n日常生活——小商店、咖啡館、市場、人們互動、當地服裝、街道細節、微妙的動作、溫暖的人類存在\n\n中景：\n連線流線——街道、橋梁、河流、小路、交通、文化空間，自然引導視線從前到後\n\n背景：\n一個強而有力的身份錨點——地標、天際線、山脈或像徵性景觀，清楚地代表國家（保持乾淨，不要過度擁擠）\n\n風格：\n手工羊毛氈、紗線、針氈紋理、可見纖維、柔軟邊緣、微型工藝、高階立體模型現實主義\n\n照明：\n溫暖的黃金時段或明亮的正午，柔和的陰影，清晰的可見度，柔和的輝光增強深度\n\n顏色：\n柔和但飽和的調色盤反映了該國的自然色調（綠色、天藍色、建築色調、文化特色）、溫暖而平衡\n\n成分：\n垂直框架，平衡或居中視角，輕微自上而下或沉浸式角度，清晰的前景-中景-背景深度\n\n心情：\n溫暖、感性、平靜、精緻——就像現實生活的手工童話版本（不幼稚）\n\n規則：\n- 無徽標或文字覆蓋\n- 沒有拼貼風格的構圖\n- 沒有隨機的符號混亂\n- 保持現實，但風格化為手工製作的微型世界\n\n品質：\n16K、超細緻、超現實的微型紋理、電影深度、銳利的焦點\n\n輸出目標：\n一個單一、有凝聚力的毛氈立體模型世界，透過整合的景觀、文化和日常生活立即傳達所選國家的身份和氛圍"
+  },
+  "391": {
+    "sourceSha256": "45c50228a49a497f3913ebc10364976aaa2cd2f162325b3079fcae3554bc42d9",
+    "text": "<instructions> 輸入：大陸選擇該大陸的 4 個鮮為人知的國家 function drawx($鮮為人知的國家){ > 錨點 1：“$鮮為人知的著名建築”（它的紋理、材料和顏色） > 錨點 2：“$紋理為人所知的著名時尚”（它的紋理、材料和顏色） > 錨點 2：“$ 紋理、紋理的著名時尚”（它的紋理、材料和顏色） > 顏色的顏色：“$3）。 **說明：** 渲染位於該三角形正中心的服裝設計。 } 輸出：2x2 網格，drawx（對於每個鮮為人知的國家）"
+  },
+  "392": {
+    "sourceSha256": "81dca2427d7bf9f096863352a84877f5cfb905b88ceaea9577da7f8410f1abb4",
+    "text": "隱藏在人類頭髮中的微型城市的宏觀照片，清晰地在真實的人類頭上，部分前額和髮際線可見，有毛孔的逼真皮膚紋理，微小的人在髮絲之間走過街道，極小但逼真的比例，微距攝影，85毫米鏡頭，淺景深，自然光，中性色彩，無暖色調，超現實的頭髮，可見根部，自然缺陷，略顯凌亂的髮絲，逼真的材料，略髒的建築物，沒有完美的表面，逼真，看起來像真實照片，沒有插圖，沒有CGI，沒有發光"
+  },
+  "393": {
+    "sourceSha256": "c1e1cb7fa7843819c7cba20c8d78d73ac8fc7a56d5eea0215cb9be7b0909e6fe",
+    "text": "一個美麗的年輕金髮女子的坦率肖像，21 歲，容光煥發的陽光親吻的皮膚，穿著淡粉色絲絨運動服，頭髮上夾著蝴蝶夾，對著鏡頭燦爛地微笑，黃金時刻溫暖的光線，棕櫚樹，y2k 美學，有光澤的嘴唇"
+  },
+  "394": {
+    "sourceSha256": "5a82147e0de81e3f1041e66f680e4e0b666342d9b6f6874ff5da404af7206ef9",
+    "text": "以超逼真的 3D 遊戲概念藝術風格、寬螢幕 16:9 打造電影般的黑暗奇幻中世紀街景。在前景中，兩名成年精靈冒險家並肩走過一條泥濘的鵝卵石村莊道路，走向觀眾。左邊的角色是一個皮膚蒼白的精靈女人，長著凌亂的{argument name=\"left character hair color\" default=\"ash blonde\"}辮子，尖耳朵，分層的橄欖綠德魯伊長袍，皮帶，小袋，懸掛的金屬吊飾，項鍊，撕裂的織物條，葉子和羽毛的細節，以及沿著雙前臂盤旋的發光的白色藤蔓狀魔法紋身。正確的角色是一位膚色較深的精靈女性，有著長長的{argument name=\"right character hair color\" default=\"dark brown\"}長髮、尖耳朵、綠色和棕色的皮革遊俠服裝、毛皮肩披、羽毛裝飾、臂帶、腰帶、鎖鏈、護身符和自信的戰士姿勢。兩張臉都被故意隱藏在以臉部為中心的普通不透明 {argument name=\"face covering color\" default=\"dark brown\"} 方形審查塊中。背景設定在一個細節豐富的中世紀市集村莊，有木屋和茅草屋，右側店面掛著成捆的乾香草，桶，籃子，木攤，遠處的鎮民，還有一座巨大的石頭城堡，背景中有塔樓和城垛。使用{argument name=\"lighting mood\" default=\"warm late-afternoon golden sunlight\"}、戲劇性陰影、體積霧霾、淺景深、逼真的織物和皮革紋理、高細節、喜怒無常的幻想氛圍、電影構圖、虛幻引擎品質、無文字、無標誌。"
+  },
+  "395": {
+    "sourceSha256": "fd709aebcf6709462d874988e3e37bf6b25d0f8da217f61938776655ccc33ba8",
+    "text": "在廢棄的大教堂大廳中創造一個電影般的黑暗奇幻動作場景：在左側前景中，{argument name=\"hero type\" default=\"female armored knight-mage\"} 蹲伏在防禦性的弓步中，穿著華麗的深色鋼鐵和皮革板甲，搭配一件奶油色和黑色的長袍，一隻手臂伸到身後，握著一把尖刺狼牙棒或閃爍著金色火花的晨星，溫暖另一盾後面有一個圓號在她對面的右中地是一個巨大的{argument name=\"enemy type\" default=\"headless stone golem\"}，它是用破裂的灰色磚石板建造的，並用斷裂的鏈條束縛著，舉起一隻巨大的拳頭，碎石從它的身上掉落下來。戰鬥發生在一個宏偉的、受損的宮殿大教堂內部，裡面有高聳的拱門、雕刻的石柱、高高的破碎窗戶、帶有圓形幾何圖案的金邊大理石地板、散落的石塊、灰塵和碎片。使用魔像背後明亮的拱形窗戶的戲劇性背光、盾牌和武器上溫暖的金色魔法高光、深陰影、體積塵埃光束、逼真的紋理、高細節盔甲和石頭、動態低角度廣角構圖、淺電影深度、史詩般的遊戲電影現實主義、16:9 寬屏、無文本、無 UI UI。"
+  },
+  "396": {
+    "sourceSha256": "b3a7f6daa4401a6c67e814b9fc15fdb9b858bd791294b28f976e696c922966a2",
+    "text": "建立高度細緻的 A4 垂直復古幻想百科全書風格的龍種海報。\n\n風格：中世紀生物圖集、古代神話手稿、博物館奇幻檔案、舊探險家日記。\n\n主要科目：\n一條巨大的超現實龍自豪地站在中心，鱗片細緻，鼻孔冒煙，巨大的翅膀部分張開。\n\n背景：\n風雨如磐的山脈，古老的廢墟，霧層，燒焦的羊皮紙紋理。\n\n調色盤：\n深翡翠色、灰灰色、褪色金色、古棕色、深紅色。\n\n包括資訊圖表部分：\n物種型別，\n消防能力，\n機翼結構，\n氣質量表，\n棲息地地區，\n戰鬥力，\n遠古傳說，\n規模模式，\n頭骨圖，\n獵人筆記。\n\n新增：\n雕刻幻想草圖，\n古老的符號，\n舊地圖紋理，\n墨粒，\n具有收藏價值的海報佈置。\n\n沒有現代使用者介面。\n沒有未來主義元素。\n沒有扁平化的極簡主義。\n\n超詳細。\n8K 可列印傑作。"
+  },
+  "398": {
+    "sourceSha256": "06f27506605d968d750ff38a419623d76d5754cb04b4add5354d344eb467e166",
+    "text": "穿著 8 件不同的全身休閒裝，在乾淨的奶油色工作室背景上有機地排列，創作一幅自由形式的時尚編輯拼貼畫。保持我的臉在所有造型中都相同，比例一致，視覺上讀作圍繞（高度），沒有說明高度。包括微妙的手寫箭頭和標籤，突出顯示關鍵部分。避免任何網格、邊框或盒裝佈局。"
+  },
+  "399": {
+    "sourceSha256": "6e037efeb7bde50d6bff34de4a610b395abea1e5964b3933fc1e76d259cadafc",
+    "text": "用例：真實感-自然\n資源型別：電影肖像影像，最終目標尺寸1216x1536肖像\n\n創造一個虛構的 20 多歲的韓國成年女性偶像的逼真形象，與任何真實的名人都不相同。保持日本負片的外觀：柔和的過度曝光、褪色的中性色、低對比度、微妙的顆粒和不完美的快照取景。\n\n場景/背景：一棟小型唱片公司大樓的後樓梯間，有移動的箱子、磨損的混凝土臺階、灰色的金屬扶手和蒼白的安全燈。氣氛應該讓人感覺安靜、略顯親密和日常，就好像在練習後和搬家期間的私人時刻一樣。\n\n物件：一位韓國女偶像，具有天生的吸引力，低調的性感，而不是明顯的魅力。她應該感覺安靜、有魅力、放鬆、有點戲弄而不挑釁。\n\n衣櫃/道具：一件略短的黑色西裝外套，隨意穿著，微微敞開，外面穿著一件合身的石南灰色羅紋T卹，柔和地勾勒出身材，但不會暴露乳溝，寬鬆的卡其色工裝褲自然地落在腰間，一條細銀鍊項鍊，一卷黑色的膠帶放在她身邊，還有一條半系的運動鞋鞋帶。與純粹的休閒風格相比，造型應該感覺更微妙、更性感、更有女人味，但仍然完全謙虛、不暴露。\n\n構圖/取景：高大肖像。受試者坐在樓梯上，一隻膝蓋稍微抬起，一條腿放鬆地放在臺階上，輕輕向後傾斜，一隻手支撐在樓梯上以提供支撐。另一隻手靠近她半繫帶的運動鞋，好像她剛在繫鞋帶時停了下來。她的西裝外套自然地沿著身體垂落，她的姿勢營造出柔和優雅的輪廓。她的頭朝鏡頭傾斜，表情平靜，略帶性感，泰然自若。這個姿勢應該讓人感覺坦誠又微妙地誘人，自然而不是做作。\n\n燈光/氣氛：平坦的樓梯間燈光，低調的後台寫實主義，柔和的紋理，柔和的色調，柔和的高光綻放，以及安靜親密的氣氛。保持影像逼真、剋制和電影化，沒有過度的魅力和裸露。\n\n在右下角新增白色小手寫簽名文字“BubbleBrain”。\n\n--2:3"
+  },
+  "401": {
+    "sourceSha256": "50fc20f97dd406fdf7e65ba48c0ddd140d6f0de11374ec142b393f0322700cc4",
+    "text": "為 [country] 建立風格化的旅行海報/圖形拼貼畫。主要主題應該是訪問[country]的時尚國際遊客，明確呈現為旅行者而不是當地居民。展示遊客穿著現代旅行時尚，攜帶相機、背包、太陽鏡、地圖或手提箱等細節，探索[country]的文化和氛圍。將遊客置於充滿活力的構圖中，周圍環繞著與 [country] 相關的標誌性建築、街道、景觀、地標、交通、食物、標牌和文化元素。將逼真的角色細節與由分層紙張紋理、撕裂的海報邊緣、貼紙元素、半色調點、編輯排版和大膽的幾何形狀組成的圖形拼貼背景融合在一起。包括[country]中的真實視覺主題，但保持遊客的外觀和造型在全球範圍內時尚且明顯與環境不同。新增一個可讀的大標題：「LOST IN [country]」。現代、藝術、優質的社論旅遊海報美觀、佈置平衡、構圖值得印刷。"
+  },
+  "405": {
+    "sourceSha256": "e954ca25fc59ca4e6e2afef0c61d9687aa400d76e1dc993116e45a899bb345d4",
+    "text": "以紙工藝風格重新建立此影像，簡化細節以使其適合紙工藝藝術品。將整體構圖安排得賞心悅目、柔和可愛。您可以新增迷人的裝飾元素，如小鳥、蝴蝶、花朵等，在保持原始形象的同時增強可愛的氛圍。"
+  },
+  "406": {
+    "sourceSha256": "23138bf6289f08b76938347c69e8cc90533f6bb85b9a3de72925bbc6c9da6a56",
+    "text": "奢華的未來派街頭服飾活動海報，一個自信的運動女孩坐在一個巨大的超大復古遊戲控制器上，而不是太陽鏡，乾淨的社論廣告美學，背景中巨大的大膽排版寫著“能量”，光滑的反光地板，電影工作室燈光，柔和的霓虹燈調色盤，帶有薰衣草色、銀色和柔和的青色地板。\n\n女孩留著及肩的捲髮，輕鬆自信的態度，身穿超大號白色圖案T卹，寬鬆黑色運動短褲，高筒白襪，摩登運動鞋。休閒運動時尚造型，自然妝容，青春Z世代街頭服飾氣息。她隨意地坐在巨大的遊戲控制器上，一條腿垂下，一隻膝蓋抬起，目光從鏡頭上移開，帶著冷靜、輕鬆的自信。\n\n超大遊戲控制器細節極為豐富，配有未來派按鈕、發光裝飾、優質霧面材料和柔和的 LED 反射。控制器側的最小奢華品牌。巨大的奶油色字型以粗體壓縮字型垂直填充背景。\n\n環境：無縫工作室背景與光滑的地板反射，高階商業時尚攝影，超逼真的紋理，戲劇性的陰影，優質的編輯佈局，現代科技時尚廣告美學，對稱構圖，豪華產品活動風格，4：3的縱橫比，超詳細，逼真。"
+  },
+  "407": {
+    "sourceSha256": "84947bbea080de52596ddd3bdf9704a85d7e9d0284120a4908c571017e9c8bcf",
+    "text": "建立一個高階方形“神經人工智慧混合系統資訊圖”，設計為科學認知工程手冊頁面。\n\n視覺方向：\n• 1:1 組合\n• 深色中性背景與發光神經網路覆蓋\n• 調色盤：電藍色、紫羅蘭色、柔和的白色、銀色\n• 優雅的科學版式和模組化面板\n• 中央超細緻人腦+AI電路融合渲染\n\n主要主題：\n真實的人腦與人工智慧神經網路和數位電路融合。\n\n包括標註：\n• 記憶體編碼系統\n• AI增強層\n• 認知訊號通路\n• 情緒反應圖\n• 感覺統合節點\n• 神經資料傳輸系統\n• 學習適應迴圈\n\n模組：\n• 腦部功能概述\n• AI 增強層\n• 訊號流程圖\n• 認知表現指標\n• 人類與人工智慧比較表\n• 神經安全協議\n• 未來的演進路徑\n\n風格：\n《神經科學+AI工程手冊》、《高階認知系統圖》"
+  },
+  "408": {
+    "sourceSha256": "e54df9ebb325463d199ecaf6679b2f20e43d5a0796186ac0d3879cb2c60fda43",
+    "text": "夢幻般的電影學習美學，年輕的亞洲女孩，長著黑長發，在黃金時段在木桌戶外學習，舒適的超大綠色毛衣和圍巾，在開啟的筆記型電腦旁的筆記本上書寫，歷史悠久的大學校園背景，溫暖的夕陽燈光，柔和的光芒，秋天的氣氛，美學塗鴉和手寫筆記漂浮在影像周圍，卡哇伊剪貼簿風格覆蓋，柔和的心和星星，勵志文本，淺景深，懷舊的膠片顆粒，柔和的米色和溫暖的綠色色調，平靜的生產氛圍，超詳細、Pinterest美學、真實感、舒適的學術風格、35 毫米膠片外觀"
+  },
+  "409": {
+    "sourceSha256": "33ba1b288f6b4c9b57df8a4c75a65ee82d699de6efb1596d0cef33dd5c6d8e57",
+    "text": "請以最笨拙、最混亂、最可悲的方式重新繪製所附影像。使用白色背景，使其看起來像是用滑鼠在 MS Paint 中繪製的。它應該隱約類似於原版，但實際上並非如此——就像它在某些地方是正確的，但總體上卻奇怪地偏離和尷尬。強調低品質、畫素化的外觀，並使其看起來繪製得非常糟糕。……其實，沒關係——隨心所欲地畫吧。"
+  },
+  "410": {
+    "sourceSha256": "9e10e4b5a65c05d27419e4dc2c78b5a2a4ab9bf01d971915db9b942413ea317e",
+    "text": "根據上傳的主題建立流行的動漫藝術風格影像。使用帶有輕微變化的自信線條，並使用平面陰影形狀將卡通著色降至最低。使用明亮、飽和的顏色和乾淨的圖形照明。該風格的定義是誇張的卡通人物比例，具有高度表現力、簡單的面部特徵，允許巨大的情感範圍，具有高度變化的拉伸解剖結構。透過有趣的透視扭曲和簡化的物體，將環境轉變為稍微扭曲的空間。在完全程式化的非現實世界中，構圖和基調應該是充滿活力、活潑和喜劇的"
+  },
+  "411": {
+    "sourceSha256": "a0ee46f92fef8bd2ca160481db14a20d3f4007dacdd063492a75b3ab1b59e5d7",
+    "text": "以您選擇的著名建築地標為中心設計一張豪華簡約海報 ([building name])。焦點元素是建築物的插圖渲染。在其後面，以設計前衛的字型放置一個巨大的粗體英文單詞，其字元與建築物的身份相匹配，附近較小的正文副本描述其設計理念。該作品應被視為超高階藝術海報。使用剋制、低調的調色盤，其中圖形元素與建築物相互交織，看起來好像它們構成其結構元件的一部分或從其輪廓向外延伸。"
+  },
+  "412": {
+    "sourceSha256": "a60d7c41849c8f9cc8461816eabf6456d2314f6cd9b1adff9bca3a44d4d28237",
+    "text": "使用參考影像作為風格指南。\n超現實主義簡約時尚編輯攝影，以充滿活力的超大彩色按鈕作為主要視覺主題（青色、橙色、黃色、紅色調色盤）、光滑的 3D 表面設計、乾淨的工作室燈光、超平滑的漸變和高階商業時尚外觀。\n分離式構圖：\n\n左側：全身女模特兒從上到下站立，穿著參考風格的大膽簡約時尚服裝，自信的姿勢，乾淨的工作室背景充滿了超大的彩色按鈕，電影燈光，柔和的陰影，超乾淨的構圖。\n\n右側（垂直分成兩部分）：\n右上：半身女模特，不同的臉型，不同的姿勢，受相同紐帶美學啟發的不同服裝變化，不同的背景顏色情緒。\n右下：另一個半身女模特，完全不同的表情和姿勢，不同的造型，不同的背景色調，保持著同樣的超現實紐扣宇宙美感。\n\n每個部分在視覺上截然不同，但透過彩色按鈕啟發的設計語言、光滑的表面、柔和的工作室反射和時尚雜誌編輯的感覺統一起來。\n超寫實、電影級燈光、超乾淨構圖、高階奢華運動風格、深度、對比、8k、1:1 寬高比 --style raw --v 6 --ar 1:1"
+  },
+  "413": {
+    "sourceSha256": "db452fdd7a034127f0e33d6a0fab89aaf598238c8b9d20f1fe649019a55a63ed",
+    "text": "建立一個原始的現代舞蹈表演故事板，重點關注激烈的身體動作和現場演唱。使用角色的參考影像。16:9 故事板，12 個電影面板。\n\n實際的故事板繪圖必須是黑白的：粗糙的鉛筆線條、最少的細節、快速的手勢繪圖能量、簡單的解剖結構和強大的輪廓可讀性。保持藝術作品輕盈、動態且未完成，就像早期的編舞預覽一樣。\n\n一位孤獨的女錶演者在一個巨大的空蕩蕩的野獸派大廳裡不斷地唱歌，同時表演充滿情感的現代舞。\n\n舞蹈編排充滿侵略性、流暢且不斷演變：快速轉身、地板滑行、爬行過渡、尖銳的身體孤立、顫抖的雙手、極端的平衡轉變、頭髮鞭打、弓步、跳躍、崩潰的動作和扭曲的雕塑姿勢。\n\n每個面板都必須包含可見的動作和強大的身體動力。避免靜態站立姿勢。表演者應該感到被困在儀式、疲憊和情感釋放之間。\n\n使用具有手持能量、快速平移、軌道運動、俯視鏡頭、側面輪廓、激進的特寫鏡頭、長鏡頭壓縮和極端負空間的電影藝術攝影作品。\n\n環境極小：僅空曠的空間、煙霧、織物運動、刺眼的光束和潮濕的地板反射。\n\n註釋顏色系統：紅色箭頭=身體運動藍色箭頭=攝影機運動綠色標記=取景/構圖註釋橙色標記=照明方向紫色標記=聲音/情感強調黑色文字=簡短的鏡頭註釋和麵板標籤無時間戳。\n\n以在嚴酷的孤立聚光燈下的一個壓倒性的最後動作結束。"
+  },
+  "414": {
+    "sourceSha256": "d1851e75e25cbf5cdc5c9d5e4d02ba08755c7e3e68736b9d5c94ee020916bd97",
+    "text": "一個普通的早晨，一位年輕的日本女性在臥室裡的近中鏡頭，以真實的日常生活攝影捕捉到一個自然而坦率的時刻。她側身坐在床邊，尚未完全醒來，從略高的四分之三角度拍攝，晨窗的光線從左側進入，從冷到暖。\n20歲出頭的東亞年輕女性。杏仁形的眼睛搭配柔軟自然的單眼皮，眼角微微拉長，依然帶著剛睡醒的沉重。筆直精緻的鼻子，精緻的鼻梁。膚色白皙至淺米色 - 在柔和的定向早晨窗光下可見皮膚表面下的散射，鏡面微高光輕輕地捕捉在她的顴骨和鼻梁上，細膩的皮膚紋理可察覺，沒有化妝。自然直的細黑髮鬆散地聚集在一起，因睡眠而略顯蓬亂。\n她穿著一件寬鬆的超大棉質睡衣和柔軟的短褲，沒有什麼風格。她的目光飄向窗外，姿勢輕鬆又不慌不忙，一隻手放在膝蓋上，另一隻手面朝下勉強拿著手機。臥室的背景暗示著現實生活——略顯粗糙的亞麻布、窗戶附近部分處於陰影中的盆栽植物、雜亂的床頭小物品。兩三根零散的頭髮自然不對稱地落在她的臉頰上，而不是幾何排列。\n柔和的定向晨光從側窗射入，冷色到暖色的過渡穿過她的臉和肩膀，長長的柔和的陰影落在她身後的床上用品上。心情靜靜地漂流著——不悲傷，不表演，只是在一天的最初幾分鐘裡不緊不慢地懸浮著。陰影區域存在微妙的 ISO 400 底片顆粒，攝影雜訊紋理而非 CG 渲染平滑度。長寬比 2:3。沒有浮水印，沒有文字疊加，不是卡通，不是數位繪製，不是插圖，不是動畫。"
+  },
+  "416": {
+    "sourceSha256": "2416fc33899162bc49e9aab423ac20865b9e8c9387c1afdf07eba70bf13f3eea",
+    "text": "使用提供的女性主題作為唯一參考建立新影像。零改動地保留她準確的臉部特徵、身份和特徵。\n\n主要科目——土元素\n她代表了土元素的整體：腳踏實地、優雅、感性、平靜、穩定、耐心、安靜的力量和自然的奢華。放鬆的接地姿勢，站立或坐著，柔軟自然的手部放置，沉穩的女性肢體語言，紮根的存在。\n\n服裝\n單一有凝聚力的地球風格編輯外觀，採用橄欖色、鼠尾草色、灰褐色、摩卡色、米色、粘土色、奶油色、苔蘚色和溫暖的中性色。柔軟結構的優雅廓形，精緻的剪裁、垂墜、紋理對比或分層結構。布料：亞麻、棉質、霧面緞面、針織、仿麂皮紋理、柔軟剪裁。簡約的精製金色或自然色調配件。\n\n頭髮\n柔和的灰棕色，具有自然的尺寸。健康、拋光、柔和豐盈的波浪或光滑的波浪，帶有微妙的光澤，可控的紋理，修飾臉型的髮絲，接地氣和奢華的感覺。\n\n彩妝\n韓國柔光底色，帶有泥土色調。溫暖的米色、玫瑰色、赤土色、黃褐色或裸桃色腮紅。眼睛顏色有灰褐色、摩卡色、焦糖色、淡青銅色、橄欖棕色。柔軟眼線、香檳米色高光、緞面或天鵝絨裸色/摩卡唇色。整體拋光、感性、安靜、奢華的美感。\n\n環境\n接地氣的社論 地球風格的環境，包括石頭、木材、亞麻、植物、乾燥植物、天然織物、鄉村奢華的造型、溫暖的日光或漫射的社論燈光、柔和的陰影、寧靜的電影般的靜止。調色盤：奶油色、橄欖色、苔色、黏土色、灰褐色、米色、柔和的綠色、暖棕色。\n\n赤壁迷你係統\n在她周圍放置多個具有相同臉部、頭髮和身份的中型逼真 3D 赤壁迷你版。高階的娃娃造型，超大的頭部，嬌小的身體，閃亮的眼睛，逼真的頭髮，細緻的妝容，微型時尚服裝，柔和的電影3D燈光。\n\n土象星座赤壁\n金牛座－感性柔軟奢華浪漫造型，針織或優雅女性化中性裝束，豐富質感，金色點綴。超長分段雙低馬尾辮，白色織物帶綁在框架周圍，引人注目。\n處女座——精緻的完美主義美學，搭配精緻的簡約剪裁、簡潔的線條、結構感十足的迷你連身裙或精緻的協調造型。\n摩羯座－時尚的權力著裝，搭配西裝外套或訂製套裝，輪廓鮮明，低調奢華。將頭髮編成超長的雕塑辮子，並用金鍊和金屬飾品包裹。\n\n塗鴉+剪貼簿覆蓋\n手繪泥土剪貼簿塗鴉：樹葉、藤蔓、花、樹枝、蘑菇、蝴蝶、星星、火花、石頭、心、太陽塗鴉、植物圖示。舒適的墨水筆紋理。\n\n手寫文字：\n“地球標誌”\n“接地氣、發光”\n“軟實力”\n“植根於美”\n“安靜的奢華”\n“穩定的能量”\n“冷靜的力量”\n“天然磁性”\n\n事實泡沫：\n“元素：土”\n“星座：金牛座、處女座、摩羯座”\n“特質：腳踏實地、忠誠、優雅”\n“能源：穩定、精緻、可靠”\n\n成分\n主要主題集中並佔主導地位。赤壁動態地放置在肩膀、手、側面和下框架周圍。塗鴉像剪貼簿一樣自然分層。平衡、富有表現力、優質的構圖。\n\n風格\n電影編輯生活方式影像，時尚與插圖的混合，高細節，銳利的焦點，溫暖的中性色調，微妙的現實主義顆粒，逼真的人體渲染與風格化的 3D 赤壁和手繪覆蓋。社群媒體就緒的優質美學。\n\n相機\n與眼睛齊平或略高於眼睛，中等全身或 3/4 取景，35 毫米或 50 毫米生活方式肖像外觀，清晰的細節與柔和的大氣深度。"
+  },
+  "417": {
+    "sourceSha256": "87d7f954ea9995171d4767acebc84718e82dba5a5b4b5700b965fac715358d5e",
+    "text": "超逼真復古印尼貓薄荷廣告海報，復古 20 世紀 70 年代紙張紋理，仿舊印刷，褪色。一隻黑白燕尾服貓，穿著可愛的復古家庭主婦衣服，在聞到貓薄荷後快樂地漂浮在空中，欣快的表情，旋轉的貓薄荷葉，荒謬的印度尼西亞模因能量。大膽的復古字型：「BIKIN KUCING SENENG FLY！」假貓薄荷罐產品、老式徽章、價格標籤、懷舊的小吃店廣告美學、電影燈光、紋理、劃痕、正宗的舊海報外觀。"
+  },
+  "418": {
+    "sourceSha256": "e7164a8cabd239a7942a16f439728006adb282f24efe311df6c018abd9623ac0",
+    "text": "為 [CITY NAME] 建立一張以 [LANDMARK] 為特色的垂直中世紀旅行海報。使用嚴格的三色調色盤：奶油色紙、黑色技術線條和[COLOR]。\n風格：極簡等距鳥瞰圖，具有超精細的陰影線和絲網印刷紋理。\n顏色使用：整個天空使用純色[COLOR]，屋頂或街道上有小點綴。沒有漸層。\n內文：頂部為奶油色粗體無襯線“[CITY NAME]”，下方較小的奶油色文字為當地語言名稱。"
+  },
+  "419": {
+    "sourceSha256": "e7a6a2a6d628bed2d3c2d607188ef06769f94039d69860de72652ac116be8d85",
+    "text": "為牛角麵包麵包師製作一張清晰、乾淨的資訊圖表故事板海報。寬螢幕 16:9 佈局、白色背景、黑色邊框、大膽的黑​​色排版、優質皮克斯 3D 風格化渲染、明亮生動的色彩 — 溫暖的金黃色、濃鬱的奶油色、片狀棕色、柔軟的糕點白色、溫暖的法式麵包店晨光。\n頂部標題：\n\n牛角麵包師\n影片總時間：12 秒\n8 鏡頭 · 溫暖 · 飄逸 · 不可抗拒\n圖例圖示：動作、熱、時間提示、成分\n細而溫暖的金色強調線在標題下方全寬延伸\n\n皮克斯風格的年輕法國男麵包師貫穿始終：白色的麵包師夾克，沾滿麵粉的手，溫暖的正宗法式麵包房環境，大理石檯面，溫暖的晨光透過窗戶，背景是麵包架。明亮、溫暖、美味。每個面板都有完全不同的成分和顏色。\n8 個面板：\n\n開場白——麵包師在黎明前到達麵包店的廣角鏡頭，繫上圍裙，開啟溫暖的廚房燈光，大理石櫃檯可見，麵包架在後面，麵粉撒在空氣中，完整的世界已建立，明亮而電影化\n奶油塊——貝克用雙手將一塊巨大的冷歐洲黃油猛擊到大理石櫃檯上，戲劇性的撞擊，麵粉雲膨脹起來，手上的特寫，這是骨頭時刻——一切的開始\n層壓 — 麵包師將麵團精確地折疊在黃油塊上，擀麵杖用力壓下，分層，側角拍攝顯示美麗的分層開始，自信而熟練\n卷 — 麵團被擀成一張大薄片，麵包師以全身重量靠在擀麵杖上，大理石櫃檯，麵粉撒滿各處，廣角鏡頭顯示麵團的大小\n形狀－從麵團上切出三角形，麵包師將每個三角形從寬端捲成緊密的新月形，雙手快速而自信地移動，特寫造型，美麗而精確\n雞蛋洗 — 麵包師用糕點刷在每個形狀的牛角麵包上刷上金色的雞蛋洗，每個牛角麵包都閃閃發光，特寫頭頂角度，溫暖的金色，令人驚嘆的構圖\n烤箱－羊角麵包放在托盤上滑入熾熱的烤箱，烤箱門關閉，透過烤箱玻璃，羊角麵包明顯膨化並變成深金色，層層明顯分離，發出溫暖的橙色光芒\n眼淚——貝克從架子上拿出一個完美的金色牛角麵包，舉起它，慢慢地把它撕開，露出裡面數百層難以置信的片狀黃油，蒸汽逸出，黃油閃閃發光——這是乳酪拉動的時刻，是整個影片的英雄鏡頭\n\n頁尾：\n\n影片流程：8 個鏡頭 × 1.5 秒 = 12 秒。奶油塊撕開。\n相機提示：開場器上的廣角，黃油猛擊和成型的特寫，層壓上的側角，蛋洗的頭頂，面板 7 的烤箱玻璃，撕裂揭示上的極端特寫\n燈光與風格：溫暖的金色法國麵包店晨光、奶油奶油色調、空氣中的麵粉灰塵、明亮生動的皮克斯色彩、特寫鏡頭的淺景深\n麵包師筆記：一位麵包師，一份完美的羊角麵包，一顆難以抗拒的眼淚。層壓層和最後的撕裂就是一切——讓它們令人驚嘆。"
+  },
+  "420": {
+    "sourceSha256": "c45726fa837d3ec03ce423f7b3f6b738d5c31f26f65286c56cfa199c744d611a",
+    "text": "使用上傳的肖像照片作為人物的外觀參考。創造一個明亮、逼真的戶外肖像，展示一位年輕女子躺在現代白色拱形人行橋的紅色跑道上。超廣角低角度自拍視角，前景中手臂伸向鏡頭，姿勢輕鬆，脖子上掛著有線耳機，白色無袖上衣，寬鬆的灰色褲子，黑髮披散在地上。乾淨的藍天，柔和的白雲，強烈的正午陽光，清晰的陰影，高畫質晰度，清新的青春心情，建築對稱，逼真的皮膚紋理，電影構圖，3:4垂直影像\n\n否定提示：\n\n浮水印、標誌、文字、標題、簽名、AI標籤、多餘的手指、變形的手、扭曲的臉、錯誤的身份、重複的人、模糊的臉、低解析度、過度平滑的皮膚、塑膠皮膚、不自然的解剖結構、不良的視角、凌亂的背景、粗糙的偽影、過度曝光、曝光不足"
+  },
+  "421": {
+    "sourceSha256": "3173bb08fffa063c78eb15b04484d55751a5f187b0f80f05764ebcdcdb6394d0",
+    "text": "使用 iPhone 拍攝的超現實創意肖像，從參考影像中準確保留身分。一位女士站在商店內，面對玻璃櫥窗或反光牆，從稍微抬高的正面角度拍攝。她將智慧型手機水平放在臉前，遮住眼睛和臉的上半部。手機螢幕對準鏡頭，清楚地顯示出她臉部的即時影像。"
+  },
+  "422": {
+    "sourceSha256": "5b67c29215f6dd1cdff5efcd4ea41860273b87cd993cc7702e8b4bf1b7c1b9ee",
+    "text": "電影生存驚悚故事板提示\n\n為著名的冬季生存驚悚片建立優質電影故事板簡報。\n超詳細的專業電影預製作佈局，乾淨的編輯設計，帶有標記部分和技術註釋的灰度藍圖背景。\n長寬比 16:9 水平主機板。\n\n共享選擇標題\n\n* 切割次數：10\n* 調色盤：冰藍色+鋼灰色+松綠色+琥珀色\n*環境指紋：白雪覆蓋的松樹空地、翻倒的馬屍、撕裂的營地碎片、若隱若現的針葉林、飄移的冬霧\n\n---\n\n1. 人物參考\n\n一位 30 歲出頭的真實南亞男子，穿著深炭色商務套裝、白色正裝襯衫、黑色領帶、擦亮的黑色鞋子。\n雪落在肩膀和頭髮上。\n表情平靜卻又憂心忡忡。\n顯示：\n\n* 前檢視\n* 側面輪廓\n* 後檢視\n* 臉部特寫\n* 側面特寫\n* 服裝布料細節\n* 袖子細節受損\n* 雪地裡的鞋子\n\n人物註釋：\n「一位聰明的城市專業人士被困在殘酷的荒野中。\n外在的冷靜在原始的恐懼下慢慢崩潰。\n西裝=身份、負擔和最後的控制線。 」\n\n調色盤樣本：\n\n* 冰藍色\n* 鋼灰色\n* 松綠色\n* 餘燼琥珀\n\n---\n\n2. 環境/佈景設計\n\n黃昏時分白雪皚皚的森林空地的自上而下的航空地圖。\n死馬部分埋在雪中。\n營地帳篷被毀。\n血跡劃過冰凍的土地。\n茂密的深色松樹在空地周圍形成了一道幽閉恐怖的牆。\n冬天的濃霧飄過森林。\n\n新增電影攝影機移動標記：\n\n1. 吊車下降\n2. 賽道\n3. 推入\n4. 手持式\n5. 斯坦尼康\n6. 向右平移\n7. 推入\n8. 機架聚焦\n9. 弧光射擊\n10. 拔出\n\n包括箭頭和頭頂電影框圖。\n\n側立面面板：\n\n* 起重機下降拍攝\n* 霧層\n* 輪廓比例參考\n* 針葉樹圍護結構\n\n位置元素圖例：\n\n* 樹線\n* 破爛的營地\n*馬屍碎片\n* 血跡斑斑的雪\n* 主角\n* 狼接近區\n\n---\n\n3. 故事板（10 個鏡頭）\n\n剪下1\n\n從空中吊車向下拍攝的寬闊冰凍空地。\n身材矮小、西裝革履的男人被毀滅所包圍。\n喜怒無常的藍色黃昏燈光。\n\n剪下2\n\n中景拍攝的是一名男子在雪地和破爛的帳篷中小心翼翼地行走。\n風吹動織物碎片。\n\n剪下3\n\n75 毫米特寫鏡頭推入臉部。\n冰冷的氣息可見。\n他的眼中慢慢浮現出恐懼。\n\n切4\n\n極端特寫手持鏡頭，顫抖的手緊握著血跡斑斑的雪地附近撕裂的冷凍織物。\n\n切5\n\n斯坦尼康中景鏡頭顯示狼群在他身後的樹林間出現。\n\n切 6\n\n右搖廣角鏡頭掃過森林邊緣。\n霧中可見多隻狼的輪廓。\n\n切7\n\n過肩推車向在雪中緩慢接近的頭狼移動。\n\n切8\n\n機架對焦插入鏡頭將焦點從冰凍的手轉移到雪中狼的痕跡。\n\n切9\n\n當狼群收緊隊形時，弧線圍繞著該人盤旋。\n雪和松枝在冰冷的風中移動。\n\n切 10\n\n特寫鏡頭從他疲憊的臉上拍攝出來，在昏暗的餘燼余光中展現了他身後的全面屠殺。\n\n---\n\n4. 燈光/氣氛/風格註釋\n\n* 冰冷的黃昏氛圍\n* 冷藍色背光\n*餘燼餘輝透過霧氣逐漸消失\n* 濕織物鏡面高光\n* 電影體積霧\n* 雪粒飄過框架\n* 高對比的威望驚悚寫實主義\n\n心情關鍵字：\n\n* 隔離\n*冬天的恐懼\n* 生存本能\n* 威望驚悚寫實主義\n* 原始張力\n*心理恐懼\n\n攝影注意事項：\n\n* 變形鏡頭（40mm / 50mm / 75mm / 100mm）\n* 淺景深\n* 壓縮森林層\n* 自然的手持運動\n* 逼真的雪景氛圍\n* 好萊塢電影般的生存驚悚片美學\n*超詳細\n*逼真\n* 膠片顆粒\n* 8k製作設計板\n* 優質電影宣傳影片風格"
+  },
+  "423": {
+    "sourceSha256": "28d5d80930631cec226a9691d0aa91b17cb55abd930a7bd9a64aef5b8f06ac5a",
+    "text": "產生你想像中的「我」的插圖。日式插畫風格，人物特徵鮮明，情感表達自然，半身構圖，動感的姿勢，精緻的服裝細節，手繪塗鴉風格，潑墨筆觸，流暢的線條，粉彩與水墨的交融，漫畫素描質感，極簡的白色背景，周圍的象徵元素，氛圍濃厚，細節高，品質高。"
+  },
+  "424": {
+    "sourceSha256": "b56926d44a951cee03dcca5022e2d91be02018031c7f3ebb6410ad2176db9483",
+    "text": "印度珍寶珠的超現實電影快速消費品廣告牌廣告海報，重點關注俏皮的能量、大膽的風味爆炸和 Z 世代糖果文化。\n\n場景：夜晚，一根巨大的光滑的珍寶珠棒棒糖漂浮在充滿活力的印度街道上，糖果碎片和液體風味在半空中爆炸。\n\n環境：受孟買夜生活啟發的霓虹燈城市背景、發光的標誌、反光的潮濕街道、色彩繽紛的薄霧。\n\n主題：超大草莓漩渦棒棒糖為主角，超細緻的光澤紋理，電影風味的飛濺動作。\n\n視覺故事敘述：標誌性的珍寶珠花朵標誌在包裝上微妙地發光，在潮濕的表面上可見反射，糖果糖漿飛濺。\n\n構圖：戲劇性的低角度鏡頭，巨大的中心產品主導框架，動態爆炸沿著對角線蔓延到廣告看板構圖。\n\n版式：\n左上角－珍寶珠標誌。\n中心巨大－「UNWRAP THE FUN」超大膽有趣的字型。\n產品後面（超大分層文字）-“舔/旋轉/重複”。\n中左—「流行風味。」粗體壓縮字型。\n左下—「草莓爆裂·全球偶像·2026版」。\n右下角 — “http://chupachups.com”.\n左垂直邊緣——「樂趣·風味·糖果文化」。\n\n版式風格：俏皮大膽的無襯線字型、光澤分層不透明、超大廣告看板比例。\n\n調色盤：充滿活力的紅色、黃色、粉紅色、霓虹橙色、光澤糖果紋理。\n\n燈光：引人注目的霓虹燈背光，帶有發光的亮點和糖果反射。\n\n氣氛：糖粒、薄霧、糖漿飛濺、漂浮的糖果粉塵。\n\n心情：充滿活力、年輕、令人著迷、充滿活力。\n\n使用 ARRI Alexa Mini LF 拍攝，35 毫米變形，HDR，超電影，優質快速消費品廣告牌風格，4:5 肖像。"
+  },
+  "425": {
+    "sourceSha256": "d150f9e291d38872765ef5597e2e006e7dd9e0851b9b9f581b7c95d5d1839910",
+    "text": "{\n  \"prompt\": \"垂直海報拼貼設計，米色背景，四個堆疊的水平圓角矩形，其中包含同一位年輕女子戴著墨鏡、擺出不同時尚姿勢的黑白電影肖像。前景為左側的全綵高品質女性剪影，穿著粉紅色合身襯衫、黑色褲子、太陽眼鏡，自信酷的姿勢，現代時尚編輯風格，柔和的工作室燈光，超現實，高階雜誌美感，深度和陰影效果，乾淨的最小佈局，2:3 寬高比。\",\n  \"aspect_ratio\": \"2:3\"\n}"
+  },
+  "426": {
+    "sourceSha256": "e3e65fd0ad9bc063bad5c56d87712818bac5c8d27785bca39c5928034a38f59c",
+    "text": "超現實舒適的日韓咖啡館攝影，一對可愛的年輕[Japanese/Korean]夫婦自然地坐在時尚美學咖啡館裡。這對年輕情侶應該看起來時尚又年輕，穿著[fashion style/outfit colors]，微笑著，一起享用甜點。\n\n桌上擺滿了漂亮的[desserts/foods]，如煎餅、草莓蛋糕、馬卡龍、羊角麵包、糕點、冰咖啡、抹茶拿鐵、水果甜點和美觀的飲料，排列得視覺上令人滿意。在桌子上新增小型美學咖啡館道具，例如 [flowers/ribbons/books/candles/pearls/notebooks]，以獲得優質的 Pinterest 情緒板感覺。\n\n柔和的 [lighting style] 燈光透過咖啡館的窗戶進入，創造出夢幻般的亮點、奶油般的陰影、飲料上的光澤反射和逼真的甜點紋理。背景應包含柔和模糊的 [Japanese/Korean] 標誌、發光的咖啡館板、手寫的日文文字、霓虹燈排版和美學城市咖啡館元素，以營造真實的東京/首爾氛圍。\n\n使用 [doodle color] 墨水在影像周圍新增可愛的剪貼簿風格的塗鴉和手寫筆記 - 小心形、星星、閃光、絲帶、箭頭、笑臉草圖、蝴蝶結、日記貼紙和手寫咖啡館筆記。\n\n調色盤應專注於 [color theme] 色調。風格靈感來自病毒式的 Pinterest 咖啡館攝影、韓國生活方式美學、日本舒適的咖啡館文化、夢幻般的 Z 世代浪漫情緒、淺景深、電影構圖、超現實的食物質感、柔和的模糊背景、超詳細的現實攝影、乾淨的美學佈局、8k。"
+  },
+  "427": {
+    "sourceSha256": "a075df7d336fa7753fa5529955e95876e34fe4e677b74262b95784aa94ea07af",
+    "text": "編輯這張照片，不要改變臉部，肖像9:16。9幀時尚肖像拼貼畫，展現一位時尚年輕女性的俏皮表情和運動街頭服飾美學。這個概念結合了現代模型測試攝影、Z 世代的休閒活力和乾淨的編輯工作室氛圍。每個畫面都捕捉到了不同坦率的面部表情和微妙的態度姿勢，營造出一種冷靜、自信、略帶調皮的情緒。極簡構圖，重點在於面部表情、帽子造型和柔和的時尚人像照明。\n\n框架描述（9 個姿勢）\n\n第 1 格 – 閉著眼睛，表情頑皮地皺起，微笑，肩膀放鬆。\n框架2－雙唇微張，目光微微側向，自信隨興的態度。\n第三格－頭微仰，表情平靜，直接酷女孩能量。\n第四格－閉眼微吐舌頭，俏皮坦誠的氛圍。\n第5格－雙食指按住臉頰，做出鴨唇，可愛俏皮的表情。\n第 6 格 – 直接眼神接觸，微笑，輕鬆自然的姿勢。\n第 7 格 – 身體側向一側，手靠近下巴，自信的編輯側臉外觀。\n第8格－眼睛緊閉，嘴唇撅起，誇張的俏皮表情。\n第9格－皺鼻咬牙，叛逆的時尚態度。\n\n她穿著超大的黑色長袖。柔軟的霧面面料，具有運動街頭服飾的輪廓。寬鬆版型，袖子略大。黑色紐約洋基棒球帽前後戴不同鏡框。最小的珠寶。柔軟的金色波浪長髮。柔軟鬆散的波浪，質感自然。中分髮型。頭髮自然地披散在肩膀上。柔和迷人的抖音女孩妝容。露水玻璃皮膚表面。刷過的自然眉毛，翼形眼線，纖細的自然睫毛，柔和的粉紅色腮紅（igari 腮紅風格），漸變的玫瑰粉色嘴唇，帶有光澤。\n\n背景最小的白色工作室背景。帶有黑框邊框的照相亭風格拼貼佈置。使用佳能 EOS R6 / Sony A7 III / 富士 X-T5 拍攝。高階時尚人像攝影風格。50mm 或 85mm 人像鏡頭。眼睛水平取景。緊湊的肖像裁剪。居中構圖。受照相亭啟發的特寫。柔和的漫射演播室燈光。平衡的正面光。最小的刺眼陰影。乾淨的編輯照明。冷色調的中性色調。黑色稍微不飽和。柔和的對比與清晰的細節。微妙的膠片顆粒。現代時尚編輯色彩分級。"
+  },
+  "428": {
+    "sourceSha256": "ab33f5bcc53a1abe3143d59f88f76852996c94ad76e91894cd5f6e84a99bdb75",
+    "text": "超逼真的F1直播電視轉播截圖。在一級方程式比賽期間，一位 25 歲的年輕女子正坐在 VIP 圍場/車隊車庫裡，她有著明亮的淺藍色頭髮和迷人的天藍色眼睛，非常美麗。在官方比賽直播中，她以 F1 車手的女朋友的身份出現，正在透過專業賽車耳機收聽車隊廣播。這是最後一圈，她帶著自豪而迷人的微笑看著車庫監視器。\n她穿著合身的白色背心，肩上披著一件超大的賽車隊夾克（帶有通用、無品牌或空白的球隊標誌），戴著帶有麥克風的大型黑色團隊無線電耳機，戴著金色珠寶，化著柔和迷人的妝容。一張細長的、無品牌的圍場通行證自然地掛在她的脖子上。\n加上逼真的 F1 廣播圖形：「FINAL LAP」橫幅、顯示最後一圈的圈數計數器、左側的車手計時塔、F1 風格的小徽標錯誤、「LIVE」指示器以及將她識別為車手夥伴/圍場客人的下三分之一（例如「MIA ANDERSEN - 圍場客人/夥伴」）。沒有假的超大徽章，沒有自拍角度。\n團隊工作人員（穿著通用套件）、耳機、車庫螢幕和通用比賽裝置在她周圍都很模糊。從車庫對面拍攝的長焦廣播攝影機、專業景深、壓縮偽像、數位雜訊、明亮的圍場照明、自然皮膚紋理、無平滑、8k 品質、電影照明。"
+  },
+  "429": {
+    "sourceSha256": "95b6ddcec093973f64e09ea4bdff21ec1dd4970579f2d4fdc9cf8e603ecdd5f2",
+    "text": "超現實舒適的韓國便利商店肖像，一位美麗的韓國女人在夜間站在發光的冰箱過道前，穿著一件超大蓬鬆的淡粉色連帽衫，連帽衫都開啟了。她一手拿著一瓶草莓牛奶，另一手拿著一個小草莓蛋糕，害羞地看著鏡頭。柔順的黑色長髮，水汪汪的眼睛，自然的肌膚紋理，淡淡的腮紅妝容，溫柔的表情，青春的韓式美人美學。便利商店溫暖的螢光燈與逼真的 iPhone 閃光燈攝影相結合。飲料瓶和玻璃冰箱門上的微小倒影，夢幻般的浪漫氛圍，柔和的粉紅色和奶油色調色盤，生活片段動漫現實主義與電影攝影的融合，高度細緻、舒適的深夜首爾便利店氛圍，淺景深，逼真的韓國零食包裝，坦率的美學，柔和的光芒，超真實感。"
+  },
+  "430": {
+    "sourceSha256": "7672c884eadf6a899bc836620135d99f47934d380f9b0de25fc9cc49d42d7c70",
+    "text": "一幅高細節數位插圖，展示了一位時尚女性優雅地坐在石架上，一隻手靠近下巴，雙腿交叉擺姿勢。她戴著復古風格的圓形太陽眼鏡，穿著一件捲起袖子的白色襯衫，穿著牛仔背帶褲和粗獷的繫帶軍靴。主題以不飽和的單色鉛筆素描風格呈現，具有柔和的交叉影線和木炭紋理。在背景中，一個巨大的、充滿活力的實心橙色圓圈與乾淨的淺灰色背景形成了大膽的幾何對比。整體構圖極簡、社論，具有乾淨的「獨立雜誌」美學、銳利的線條和柔和的陰影。\n\n寬高比為 9:16"
+  },
+  "431": {
+    "sourceSha256": "439ff30c3c4faf0ee43d80fc94c332ffd9fe4ef50e7664ed67e6c2c3807bcbba",
+    "text": "以 [CITY NAME] 為主題的超高解析度排版旅行海報。16:9 海報比例。\n\n重要提示：海報上的每個可見單字都必須是英文、拼字完美、排版專業。沒有扭曲的字母，沒有隨機的符號，沒有損壞的文本，沒有人工智慧的亂碼。\n\n核心組成：\n將巨大的英文單字「[CITY_NAME]」放在前面和中間。每個字母都是高大、粗體、拉長的無襯線字型，每個字母都描繪出城市中不同的插圖場景，就像一排畫廊的窗戶。將地標、街道、交通、自然、文化和建築分佈在字母上，使場景從一個字母流到下一個字母，形成一個相互連線的城市全景。\n\n頂部水平條：\n海報的頂部有一條薄薄的全景帶：城市天際線輪廓、汽車、電車或火車、合適的船隻、鳥類、雲彩、太陽。保持簡約、優雅、節奏平衡。\n\n風格：中世紀現代社論海報、瑞士平面設計、最小向量插圖、建築資訊圖感覺、旅行排版海報、平面幾何插圖、超乾淨的構圖、優質雜誌設計、絲網印刷海報氛圍、復古未來主義旅行品牌。\n\n圖解：\n僅平面向量形狀。沒有真實感，沒有漸變，沒有噪音。乾淨的幾何陰影，簡化的建築形式，地圖式自上而下與側檢視城市景觀的混合。微妙的線條藝術細節、清晰的向量邊緣、強烈的負空間、字母之間和諧的節奏。\n\n版式：\n巨型粗體無襯線字母佔據了畫布的大部分高度。畫素完美對齊。每個字母都充當自己的框架插圖面板。適合的地方採用柔和的圓角。編輯間距。可列印且幾何形狀乾淨。\n\n調色盤：\n受 [CITY_NAME] 啟發，打造一個有凝聚力的調色盤：\n海岸城市 -> 水綠、沙色、珊瑚色、柔和的青色\n沙漠城市 -> 赤土色、米色、暖奶油色\n網路城市 -> 薄荷色、海軍藍、鋼藍色\n歷史悠久的歐洲城市 -> 塵土飛揚的玫瑰色、橄欖綠、羊皮紙\n柔和的粉彩，柔和的復古旅行海報色彩，低飽和度。最多 4 至 6 種顏色。\n\n內容：\n包括標誌性地標、著名的街道和交通、當地城市格局、附近的自然風光、天際線輪廓、橋梁/河流/海岸線（如果相關）、文化象徵性建築、可識別的當地氛圍。\n\n成分：\n白色或柔軟的象牙色背景上的居中排版。有很大的呼吸空間。頂部的全景帶平衡了下面厚重的版面。不對稱但視覺上平衡。每個字母都顯示了自己的場景深度和視角。博物館品質的海報層次結構。\n\n氣氛：優質、知性、冷靜、設計前衛、旅遊編輯、夠時尚，適合博物館禮品店的牆壁。\n\n品質：8K 超詳細、可列印、銳利的向量邊緣、完美的排版、零扭曲文字、零隨機字元、零拼字錯誤、零 AI 偽影。"
+  },
+  "432": {
+    "sourceSha256": "6b914db708a8c3b2d2c82f36a69b520f12d4787bdc6ed2c3bbc0baf89f0684c8",
+    "text": "創作澳洲大堡礁的優質社論旅遊海報插畫。\n風格：平面向量插圖、超乾淨的極簡主義、中世紀現代旅遊海報美學，靈感來自復古旅遊印刷品和斯堪的納維亞平面設計。沒有真實感，沒有紋理，沒有噪音，沒有漸層。使用清晰的形狀、平滑的色塊和和諧的充滿活力的色調。\n構圖（垂直3:4佈局）：\n前景（水下）：豐富的珊瑚礁生態系統，充滿了粉紅色、橙色、黃色和紅色色調的彩色珊瑚。包括各種熱帶魚（條紋、亮黃色、藍色和橙色），以及一隻優雅地向右遊動的大海龜。清澈碧綠的海水，能見度很高。\n中景：一名女性浮潛者在水面下水平游泳，穿著腳蹼和浮潛面罩，觀察底下的珊瑚礁。光線巧妙地穿過水面。\n背景（水面上）：平靜的熱帶海洋，透過清澈的海水可以看到淺礁斑塊。左邊一艘白色的休閒船安靜地漂浮著，遠處出現了一艘小帆船。地平線上，柔軟的綠色島嶼或山丘綿延不絕。\n天空：蔚藍的天空上飄著蓬鬆的白雲，還有幾隻鳥在飛翔，增添了寧靜的度假氣氛。\n版式：\n在海報底部包含粗體大寫文字：\n“大堡礁”\n下面是較小的間隔文字：\n“澳大利亞”\n在分隔線之間新增一個小裝飾珊瑚圖示。\n氣氛與燈光：明亮的日光、平靜、誘人的熱帶天堂氛圍。顏色應該給人清新、充滿活力和放鬆的感覺，珊瑚礁色和海洋藍色之間形成強烈的對比。"
+  },
+  "433": {
+    "sourceSha256": "19dc3c592d16bb3c4b3c78068288d841351a7c892d85a1d7a63f8179930d9da4",
+    "text": "寧靜的韓國城市街道的夢幻水彩旅行插圖，手繪城市素描本風格，精緻的水墨線條與柔和的水彩水洗混合，舒適的咖啡館店面，溫暖的麵包店燈光透過窗戶發光，小雨後安靜的早晨氣氛，反光濕路面，帶雨傘和手提袋的行人，停在狹窄街道上的腳踏車，傳統的韓國標誌和版式，微妙的韓國文字標籤，柔軟的米色紙張紋理背景，建築素描美學，平靜的日常城市生活，柔和的泥土調色盤與溫暖的棕色，褪色的綠色、乳白色和柔和的藍色點綴、高度細緻的鋼筆畫、寬鬆表現力的筆觸、旅行日記構圖、社論明信片佈局、頂部優雅的襯線標題文本（“SEOUL”、“JEONJU”、“DAEJEON”）、手寫筆記和日期印章、復古旅行日記美學、舒適的東亞城市風景、電影生活片段、水彩出血邊緣、自然視角、大氣深度、和平的說故事插圖、簡約負片空間感、超細緻水彩紋理、寫生旅行美學、懷舊咖啡館文化氛圍、吉卜力工作室啟發的現實主義、歐洲城市素描風格與韓國街頭風景的融合、柔和的日光、平靜而詩意的構圖、垂直海報設計、優質的藝術印刷品質。"
+  },
+  "434": {
+    "sourceSha256": "889c680679937c43c5d0314476f426d8fb53091031c035a0833c83888e094ec4",
+    "text": "膠卷攝影，坦率的街頭快照美學，對主題的銳利聚焦，淺景深與柔和模糊的城市背景，明亮的日光，稍微過度曝光的亮點，生動的對比度，微妙的模擬膠片紋理，厚重的膠片顆粒，懷舊的電影氛圍，安靜火車站附近的東京後街社群場景，狹窄的步行街兩旁志，沿著瓷磚人行道停放的腳踏車，實用天空中延伸的電線桿和架空電線，地上散落的落葉，遠處的行人和路過的出租車在背景中輕輕模糊，溫暖的午後陽光與深藍的天空，現實的街頭時尚攝影風格，輕鬆的酷街頭氛圍，鮮豔的色彩與略顯柔和的褪色電影色調，19歲中國女皮膚網，白略的精緻自然的妝容，光澤柔軟的嘴唇，輪廓分明的眉毛，精緻的睫毛，柔軟凌亂的黑色長發，自然流動的曲線，穿著露肩的白色蓬鬆人造皮草外套，俏皮而又微妙誘惑的表情，柔軟的夢幻復古濾鏡，超高品質的細節，刻意的手機拍照感覺，自發的偶然構圖，不完美的取景，慵強烈的iPhone有魅力的女孩在人行道中央隨意擺姿勢，身體背向鏡頭，頭轉向鏡頭，目光直接接觸，輕鬆的姿勢，輕柔的風吹動頭髮，情感的青春氛圍，現代亞洲街頭時尚社論，柔和的霧霾，分層構圖，傑作，最佳質量，超詳細，慢速快門造成的輕微運動模糊，真實的日常主義，底角上簽名的“BubbleBrain” --ar 9:16"
+  },
+  "435": {
+    "sourceSha256": "8aeb7d32a314c872efbe944c480c3e4a20692a93099d4795650aa0f6b6ef2275",
+    "text": "{\n  \"style\": \"分層剪紙插畫、紙藝立體模型、手工美學\",\n  \"technique\": {\n    \"layering\": \"多個堆疊的紙層，每層之間具有柔和的陰影\",\n    \"depth\": \"從前景到背景的 5–7 個可見深度平面\",\n    \"edges\": \"光滑、圓形、略微傾斜的剪紙邊緣\",\n    \"texture\": \"所有表面都有細微的紙紋和纖維紋理\",\n    \"shadows\": \"每層下方柔和、擴散的內部陰影顯示物理深度\"\n  },\n  \"character_design\": {\n    \"proportions\": \"赤壁/可愛簡化版－大圓頭，小身子（1:1.5比例）\",\n    \"face\": {\n      \"eyes\": \"小圓點眼睛，光澤高光\",\n      \"cheeks\": \"柔和的圓形玫瑰腮紅貼片\",\n      \"nose\": \"缺少或最少的點\",\n      \"mouth\": \"簡單的小曲線微笑\"\n    },\n    \"limbs\": \"四肢短、圓、粗\",\n    \"outline\": \"乾淨光滑的輪廓，沒有尖角\"\n  },\n  \"color_palette\": {\n    \"mood\": \"溫暖、舒適、柔和\",\n    \"tones\": [\n      \"軟奶油\",\n      \"塵土飛揚的玫瑰\",\n      \"鼠尾草綠\",\n      \"暖桃\",\n      \"天藍色\",\n      \"蜂蜜黃\"\n    ],\n    \"saturation\": \"低到中、柔和且柔和\",\n    \"background\": \"暖灰白色或柔和漸層\"\n  },\n  \"lighting\": {\n    \"type\": \"頂部前方發出柔和的環境光\",\n    \"highlights\": \"頂層有柔和的白色邊緣亮點\",\n    \"shadows\": \"剪下層下方的暖淺棕褐色/米色陰影色調\"\n  },\n  \"environment\": {\n    \"foliage\": \"簡化的圓形葉子和花朵形狀作為單獨的紙層\",\n    \"ground\": \"彎曲的地平線暗示著起伏的山丘\",\n    \"details\": \"微小的裝飾元素——星星、小心、圓點——從紙上剪下來\"\n  },\n  \"overall_mood\": \"溫暖、異想天開、舒適、手工、故事書\",\n  \"render_quality\": \"超細緻的紙藝藝術、工作室攝影照明、對圖層邊緣的銳利聚焦\"\n}"
+  },
+  "436": {
+    "sourceSha256": "dd3272d9a0598647999fca4c85265e9cb04fd64c8a16cbe9da82322bb2f85759",
+    "text": "小型數位相機螢幕在黑暗的室內環境中明亮發光的逼真特寫鏡頭。液晶顯示器上顯示的是一張 2010 年代早期風格的照片，照片上是一位年輕的東亞女性，留著長長的深色波浪發，站在一個木架子旁邊，木架子上堆滿了色彩繽紛的漫畫書和雜誌。\n\n她穿著黑色細肩帶上衣，雙肩隨意垂著一件寬鬆的白色開襟衫，下身是褪色的藍色牛仔褲。這張照片中，她的臉微微側向一邊笑，她的表情顯得自然自然，頭髮輕輕地落在臉頰的一部分。\n\n輕便相機發出的刺眼直射閃光在她的臉部和開襟衫上形成強烈的高光，同時使背景中的陰影變平，產生真正的懷舊相機美感。輕微的運動模糊和數位顆粒增強了真實感。\n\n相機 UI 覆蓋在 LCD 螢幕上清晰可見，包括時間戳記「2012 年 1 月 8 日凌晨 3:15」、曝光資料「1/30 F3.4 ISO 100」、對焦指示器以及角落的綠色小電池符號。\n\n此影像保留了可見的螢幕畫素結構、輕微的眩光反射、色彩柔和度和壓縮的數位紋理。在液晶顯示器之外，周圍的黑暗逐漸變得模糊，突出了發光的懷舊螢幕。\n\n拍攝效果類似於 2010 年代初期的正宗索尼 Cyber​​-shot 傻瓜相機，使用 CCD 感測器，具有老式數位渲染和不完美的閃光曝光。"
+  },
+  "437": {
+    "sourceSha256": "1fafc9ee7968c7790fc4958dc9dcaafc727ac59426e4acf35178282c96d8fdc0",
+    "text": "根據上傳的人像照片，製作出乾淨、極簡、奢華風格的臉部美學分析報告。\n設計風格：\n超現代的黑白介面，優質的編輯美學，纖細優雅的分隔線，柔和的圓形卡片，微妙的陰影，寬敞的佈局，奢華的護膚品/時尚雜誌氛圍，單色調色盤，蘋果風格的使用者介面精緻。\n包括：\n– 根據主題繪製簡單的臉部輪廓線藝術圖\n– 臉部對稱性分析\n– 人臉形狀識別\n– 比例分析（眼睛、鼻子、下巴、嘴唇、額頭）\n– 皮膚紋理觀察\n– 髮型相容性建議\n– 修飾和時尚建議\n– 誠實的吸引力評估和平衡的批評\n– 客觀地解釋臉部的強項和弱項\n– 可行的發光建議\n– 以優雅的圖表或儀表顯示信心分數和臉部和諧分數\n風格備註：\n保持報告以資料為導向，視覺上精緻，真實，但不要過於奉承。\n避免誇大的讚美。\n使用乾淨的排版、優質的間距、現代的資訊圖表、微妙的幾何裝飾和專業的美容諮詢美學。\n視覺構成：\n雜誌品質的示範、奢華的美容報告儀錶板、高度組織的佈局、電影般的單色感覺、簡約的資訊圖表設計、逼真的臉部結構解釋、現代男性美容分析。\n渲染：\n超細緻、銳利的 UI 設計、逼真的肖像適應、精緻的編輯呈現、高階的品牌美學、4K 畫質。"
+  },
+  "438": {
+    "sourceSha256": "33e6dd9ca7bcc158c93642b3350c3b915be951911b4d98b7cb7e932cc0d48363",
+    "text": "以電影微型世界風格製作超詳細的豪華廣告海報。一條巨大的皇家鑽石項鍊，鑲嵌著複雜的金絲和巨大的紅寶石，矗立在中心，就像一座建築紀念碑。項鍊周圍和珠寶內部建造了一個未來派的微型城市，包括摩天大樓、高架高速公路、橋梁、螺旋樓梯、微型人物、豪華廣告看板、無人機、直升機和電影般的城市活動。使用深紅色單色背景並帶有金色和紅寶石色。新增優質的時尚廣告美學、超逼真的紋理、光澤反射、戲劇性的工作室照明、景深、移軸微型效果和高階商業構圖。在頂部新增大膽優雅的字型，寫著：「擁抱非凡」。風格靈感來自奢華珠寶活動、超現實的城市建設概念和優質 3D 廣告渲染。超逼真、8K、辛烷渲染、銳利焦點、高度細節、電影陰影、對稱構圖。"
+  },
+  "439": {
+    "sourceSha256": "9f9e5385bbf383e99abef329437aee0d7f54374010e84fdb5ca93b45c2a12239",
+    "text": "超細緻的賽博龐克動漫角色設計表，是一位名叫「NEO // RIN」的天才駭客少女，全身翻轉（正面、側面、背面）以及特寫肖像和配件標註。銀白色鮑伯短髮，帶有霓虹青色和洋紅色漸變條紋，一隻眼睛上戴著發光的半透明網路面罩，蒼白的皮膚，銳利的紫羅蘭色眼睛，平靜自信的表情。超大科技服裝夾克，搭配黑色戰術工裝褲、腰帶、肩帶、懸掛式實用標籤、短款上衣、未來派運動鞋、全像配件、條碼貼花、警告符號、「BYTE//NULL」字型、駭客美學。\n調色盤：啞光黑、深灰、白色、霓虹青色、霓虹粉色。\n風格靈感源自日本高階概念藝術、未來街頭服飾、賽博龐克時尚、《阿基拉》+《攻殼機動隊》+現代動畫關鍵視覺美學。\n包括乾淨的角色參考表佈局，帶有標籤細節、徽標設計、UI 圖形、小工具特寫和白色背景的調色盤。\n高度拋光的賽璐珞著色，清晰的線條，柔和的發光效果，複雜的衣服褶皺，分層的配件，動態的時尚輪廓，專業的遊戲概念藝術質量，4k，超詳細。"
+  },
+  "440": {
+    "sourceSha256": "34812e323058235b7ba82c98bc64fd44cccc02ead38348d62f8460912b259d07",
+    "text": "建立筆記型電腦螢幕的原始智慧型手機照片，而不是螢幕截圖。寬高比 3:4，夜間站在桌子旁的高角度向下視角。筆記型電腦顯示器佔據了大部分框架，底部可見一條狹窄的黑色鍵盤和觸控板。強烈的真實感：可見的 RGB 子畫素網格、微妙的莫爾條紋、小灰塵斑點、微弱的指紋、不均勻的玻璃反射、手持電話噪音、輕微的透視傾斜、無工作室拋光。macOS 深色模式。後台應用程式：Apple Notes，帶有標題為「設計批判」的深夜學習筆記和簡短的可見專案符號：「佈局」、「照明」、「來源連結」、「明天發貨」。前臺應用程式：FaceTime 即時預覽視窗浮動在右下角，顯示一個虛構的 20 多歲成年男子坐在凌亂的辦公桌前，穿著連帽衫，表情疲憊但有趣，身後有溫暖的檯燈，房間裡有書籍和便條。第二個帶有影像縮圖的小 Finder 視窗在其後面部分可見。讓它感覺就像一張工作筆記型電腦螢幕的意外真實手機照片。沒有真人肖像，沒有美顏濾鏡，沒有完美的UI，沒有截圖，沒有浮水印，沒有卡通，沒有3D渲染。"
+  },
+  "441": {
+    "sourceSha256": "f9a7fa6d23534dddf65926e46ec0af633d4b2f473bebc8b49de3c3c32daa3537",
+    "text": "一張戶外探險廣告海報上，一個身著全套徒步裝備、留著鬍鬚的粗壯男子自信地站在一個比他高三倍的巨大橙色露營帳篷旁邊，帳篷完全紮在一片引人注目的森林空地上，周圍是深邃的星空下高聳的松樹。帳篷的雨篷上縫有醒目的白色「WILDCAMP」標誌。溫暖的電影篝火照明以逼真的陰影和豐富的戶外紋理照亮場景，營造出優質的冒險商業美感。粗獷的大型襯線字型“WILDCAMP”以大膽的橙色字型佔據了黑暗的天空區域，而標語“在星空下睡覺”。優雅地出現在底部。右上角的灰色小文字寫著「Designed with GPT Image 2」。逼真、超詳細、電影化的戶外廣告風格，具有戲劇性的氛圍和高階的商業構圖。"
+  },
+  "442": {
+    "sourceSha256": "5d4606dea06950a4575212eeda34f35e01f1073acb0baf4438527c18fba20430",
+    "text": "一幅充滿活力、異想天開的數位插圖，展示了一家舒適的獨立美髮沙龍，其中有一個長著棕色長髮的年輕女孩正在由時尚髮型師設計她的頭髮。明亮的粉紅色、紫色、橙色和桃色調色盤，搭配俏皮的復古裝飾、室內植物、圖案牆壁、五彩紙屑形狀、美容工具、鮮花和柔和的環境照明。可愛的女性美學，夢幻的卡通風格，表情豐富的紅潤臉頰的人物，高度細緻的紋理，現代平面插畫與繪畫陰影的混合，豐富多彩的構圖，時尚的Pinterest美學，舒適的創作氛圍，超詳細的2D編輯藝術風格。"
+  },
+  "443": {
+    "sourceSha256": "c9bd4f23e9fad229382532b1cab65104943328360db035ed57a75a01e468b40b",
+    "text": "建立超現實的玉米餅爆炸垂直資訊圖表組合。\n\n頂部→底部結構：\n新鮮生菜（脆嫩的綠色質地，自然褶皺）\n→ 番茄和莎莎醬層（多汁的番茄丁和莎莎醬混合）\n→ 融化的起司（光滑的切達乾酪質地）\n→ 烤肉餡（多汁的調味肉細節）\n→ Taco Shell Base（脆皮金殼質地）\n完美的垂直對齊、質樸的背景、柔和的工作室燈光、每個浮動元素下方的逼真陰影。\n\n使用這些精確的標籤新增帶有細指標線的乾淨的資訊圖表文字標籤：\n“生菜”\n“薩爾薩舞”\n“起司”\n“肉”\n“貝殼”\n超細緻的食物紋理，優質的商業美學，8K。"
+  },
+  "446": {
+    "sourceSha256": "52fa5e9e5cd8d1e4427e0c316817a3a45736ef90bf1d51660e9072b558d34f11",
+    "text": "創造一個高度詳細的低多邊形紙藝肖像的時尚年輕人，設計像摺紙紙雕塑。角色有一頭深棕色捲髮，修剪整齊的鬍鬚，戴著略帶黑色細框的幾何太陽眼鏡。他的襯衫是中灰色的，帶有尖銳的多邊形褶皺和逼真的紙張紋理。在臉部、頭髮和衣服上使用多面角形狀，並具有逼真的陰影和分層的紙張深度。簡約乾淨的白色工作室背景，柔和的燈光，超現實的紙工藝美學，現代幾何藝術風格，高細節，居中構圖，8k 品質。"
+  },
+  "447": {
+    "sourceSha256": "50b0ff81fa860e9d0f719f3e7cbde1fa66492eabb7dcdd95127802d116d5057b",
+    "text": "建立一個優質廣場“參考式城市交通資訊圖”，以名為 {METRO_NAME} 的未來現代地鐵系統為中心，設計為精美的交通工程手冊頁面，而不是公共交通廣告。\n\n該構圖應該感覺像是一本現代視覺百科全書，混合了精英鐵路基礎設施現場指南和高階編輯資訊圖表系統。\n\n視覺方向：\n\n• 1:1 方形構圖\n• 深色高階城市科技背景，帶有微妙的鐵路示意圖、地鐵地圖和未來藍圖疊加\n• 優雅的調色盤，採用深海軍藍、霧面黑、鋼灰色、電藍色色調和柔和的白色燈光\n• 精緻的編輯版式層次結構與現代交通美學\n• 圓形模組化資訊卡，間距乾淨\n• 柔和逼真的反射和進階 HUD 式分隔線\n• 最小的交通系統圖示\n• 在未來派地鐵站內以戲劇性的四分之三視角觀看極其詳細的中央地鐵列車渲染\n• 細細的精密註釋線指向交通系統和智慧工程功能\n• 乾淨、有組織的「知識優先」佈局，資訊密度高，但間距透氣\n\n主要主題介紹：\n\n位於中心的 {METRO_NAME} 現代地鐵列車的超詳細逼真渲染令人驚嘆，具有時尚的空氣動力學列車設計、發光的目的地顯示器、逼真的不銹鋼紋理、照明車站照明、智慧玻璃窗、優質的城市環境現實主義和未來鐵路基礎設施。\n\n在地鐵周圍貼上科學和工程標註，解釋：\n\n• 再生煞車系統\n• 智慧訊號傳送和CBTC 控制\n• 電力推進系統\n• 乘客資訊系統\n• 安全與監控技術\n• 月臺門\n• 節能設計\n• 智慧通風系統\n• 輔助功能\n• 軌道和基礎設施工程\n\n包括模組化資訊圖表部分，例如：\n\n• 地鐵系統概述\n• 技術規格\n• 列車尺寸和佈局\n• 客運能力與流量\n• 智慧控制系統\n• 永續發展特點\n• 軌道與基礎建設工程\n• 訊號與自動化\n• 車站設計與設施\n• 安全與緊急系統\n• 乘客體驗功能\n• 城市連結性與網路地圖\n• 能源效率比較\n• 建造和擴建時間表\n• 「5大智慧創新」部分\n• 專為未來智慧城市打造\n\n新增小型高階視覺化模組，例如：\n\n• 地鐵網路地圖\n• 火車藍圖\n• 車站佈局圖\n• 客流視覺化\n• 訊號工作流程圖\n• 能源效率比較圖表\n• 列車配置圖\n• 智慧城市連結圖形\n• 平臺安全圖\n• 基礎設施橫斷面視覺效果\n\n風格關鍵字：\n\n“優質城市出行百科全書”\n《地鐵工程手冊》編輯\n“高階交通資訊圖”\n“科學鐵路基礎設施海報”\n“博物館品質的交通參考頁面”\n“模組化智慧城市知識體系”\n“清潔交通編輯設計”\n“超詳細的地鐵視覺化”\n\n避免：\n\n• 雜亂的公共廣告美學\n• 卡通交通造型\n• 不切實際的科幻懸浮列車\n• 賽博朋克霓虹燈過多\n• 混亂的城市場景\n• 通用地鐵海報佈局\n\n最終結果應類似於為交通愛好者、建築師、工程師、城市規劃師、交通設計師和教育基礎設施檔案館建立的專業出版的鐵路基礎設施參考書頁。"
+  },
+  "448": {
+    "sourceSha256": "7ed228b6ab73b66501572499d9cb528db558c6d54df424b92c9fcba0f3f1e281",
+    "text": "超寫實的電影“1942城市”場景，現實生活中復古二戰街機射擊風格的大都市，激烈的空戰氛圍，垂直4:5編輯構圖\n\n男性，精確的臉型，從頭到腳復古軍事飛行員風格的街頭服飾，帶有復古航空補丁的飛行員夾克，合身的工裝褲，堅固的作戰靴，無指手套，掛在脖子上的飛行員護目鏡，在戰鬥機在頭頂上翱翔時，帶著無所畏懼的王牌飛行員表情漫步在城市中\n\n✈️ 1942 城市世界建築\n\n整個城市就像一個活生生的 1942 年街機射擊遊戲宇宙\n• 大型二戰戰鬥機在摩天大樓上空纏鬥\n• 屋頂上安裝了巨型高射砲\n• 無盡的子彈圖案劃破多雲的天空\n• 復古軍用機場融入市區\n• 龐大的「任務開始」警報投射到雲端\n• 戲劇性的爆炸痕跡照亮了夜間的天際線\n• 航空母艦停靠在未來城市港口旁邊\n• 漂浮在空中戰區的發光加電圖示\n• 巨型雷達系統在市中心塔樓上方旋轉\n• 無盡的敵方中隊從暴風雲中湧現\n• 大都會周圍的電影海洋和戰區環境\n\n😂 喜劇細節\n\n• 上班途中隨意躲避戰鬥機的隨機平民 😭\n• 一名飛行員無緣無故劇烈翻滾\n• 巨大的廣告看板閃爍：「PLAYER 1 READY」。\n• 行人將未遂爆炸視為正常交通\n• 有人仍在嘗試收集空中的每一個漂浮道具\n• 隨機機械師使用純粹的信心修理飛機\n• 一位傳奇飛行員僅透過街機邏輯在不可能的情況下生存\n\n💡 燈光與風格\n\n復古戰爭電影電影般的燈光，火熱的空戰氛圍，戲劇性的雲彩和爆炸反射，超細緻的寫實紋理與懷舊街機射擊美學的融合，濃鬱的戰爭大片能量，傑作品質\n\n🎥 相機\n\n電影般的空中跟蹤鏡頭、身臨其境的混戰氛圍、戰機和爆炸的動態運動模糊、紀錄片與復古街機現實主義的結合、馬尼拉風格的1942年未來大都市、「經典街機空戰成為文明」的氛圍"
+  },
+  "449": {
+    "sourceSha256": "6d3e3921a99997c14a809410c353805109b728cd420b299ea06ad10ae62cce6d",
+    "text": "2x2 網格 16:9，對 4 個有史以來最昂貴、最奇怪的手錶執行此操作：\n\n高階鐘錶 DNA 類：\ndef __init__(自身):\nself.subject = \"[TIMEPIECE]\"\n自我.父母= {\n\"composition_parent\": \"透明外殼的分解運動圖\",\n\"material_parent\": \"拉絲鈦金屬、藍寶石水晶、玫瑰金齒輪、鱷魚皮\",\n\"graphic_parent\": \"帶有優雅資料面板的瑞士製造技術手冊\",\n\"atmosphere_parent\": \"清晰的日光工作室，純白色背景，拋光錶面上的微妙反射\"\n}\n自我突變 = {\n\"semantic_mutation\": \"平衡輪揭示了內部滴答作響的微型宇宙\",\n\"information_mutation\": \"動力儲存指示器、頻率、複雜功能標註、手動修飾等級、組裝時間表\",\n\"medium_mutation\": \"帶有浮雕標誌的光滑霧面優質紙\",\n\"scale_mutation\": \"日內瓦波紋精加工和寶石軸承的顆粒級檢視\"\n}\nself.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]\n\ndef產生_主題（自我）：\n主題=“””\n[TIMEPIECE] 展現出其完整的機械榮耀。錶盤、指標、機芯，\n和錶帶在明亮、乾淨的背景下完美對齊。\n每個齒輪和彈簧都清晰地突出顯示。\n”“”\n返回渲染（\n主題，\nformat=\"帶技術插入的豪華手錶廣告\",\n標題=“[MODEL REFERENCE]”，\n副標題=“[MANUFACTURE / COLLECTION]”，\n約束=“明亮的白色空間、金屬光澤、超細節、現代優雅”\n）"
+  },
+  "450": {
+    "sourceSha256": "cf39133d56a12f3ef52a3c1be9baa4b6b80e3affc12459bb53e6ee2f3c4cc38c",
+    "text": "一張中景真實的日常生活照片，自然坦率的時刻，一位東亞年輕女子站在一間小側屋裡，只有矮石架上的一根蠟燭照亮。85mm 鏡頭，腰部以上取景，淺景深。蠟燭偏離畫面左側；她身後的房間僅作為黑暗而溫暖的暗示而存在。\n\n20歲出頭的東亞年輕女性。杏仁狀的眼睛接收蠟燭溫暖的閃爍——虹膜短暫地暴露在光線中，然後又回到陰影中。筆直精緻的鼻子，鼻梁上有一條狹窄的溫暖條紋。膚色呈淺米色，完全被燭光加熱成琥珀色。定向燭光下可見皮膚次表面散射，顴骨和鼻梁上有鏡面微高光，可察覺細粉底粉末顆粒。\n\n她穿著一件古老的琥珀絲綢旗袍，上面繡著菊花，色調為古銅色和灰土色——琥珀色顏料的溫度與蠟燭本身的光線相同，刺繡隨著角度的不同而出現和消失。中式立領，短袖。她面朝蠟燭站著，沒有看它，雙臂放在身體兩側，一動也不動。房間裡其他地方都是空的。兩三根散亂的毛髮因微弱的空氣運動而移位，自然的意外缺陷，不具有幾何對稱性。\n\n單支蠟燭 — 溫暖的琥珀橙色，方向性且易碎。它把她的左臉從黑暗中雕刻出來，讓右臉處於近乎黑色的陰影中。琥珀色的旗袍和燭光共享一個溫度記錄器：房間將她折疊到光線中。深明暗對比，沒有人工填充。陰影區域存在微妙的 ISO 400 底片顆粒，攝影雜訊紋理而非 CG 渲染平滑度。寬高比 9:16。沒有浮水印，沒有文字疊加，不是卡通，不是數位繪製，不是插圖，不是動畫。"
+  },
+  "452": {
+    "sourceSha256": "b59dc28615f58abedb73cae0c6f5e508553acc15e4e0028f340f64869d17c12a",
+    "text": "將照片轉變成精緻的簡約手繪兒童插畫，具有柔和異想天開的童話美感。使用簡單的拉長形狀、細長的不完美手繪線條、平坦的柔和色彩、極簡的細節以及帶有紅潤臉頰、微小的面部特徵和簡化的解剖結構的可愛娃娃般的角色風格。新增微妙的紙張紋理、柔軟的鉛筆和柔和的陰影、水彩的柔和度以及帶有小星星或閃光的乾淨的白色背景。\n\n透過簡化的形狀和柔和的裝飾細節，以有趣的故事書方式設計服裝風格。整體氛圍應該感覺輕鬆、舒適、天真和迷人，就像現代斯堪的納維亞苗圃明信片或兒童書籍插圖一樣。避免照片寫實主義、3D、電影燈光、光澤表面、複雜陰影、逼真的解剖結構和超細節。"
+  },
+  "454": {
+    "sourceSha256": "590258228bd3e56db6a5281d066413e4697c96478a5e0878b09b1584f3202b92",
+    "text": "[CITY/COUNTRY] 的超詳細優質旅遊食品廣告海報，垂直構圖，靈感來自豪華樂事風格的薯條廣告。一個逼真的籌碼包放置在底部中心作為主要英雄物件，與浮動籌碼活動的精確優質商業佈局相匹配。\n\n一條由醬汁、奶油、雲朵、蒸汽或風味漩渦組成的電影螺旋絲帶從薯片包中向上升起，動態地包裹著 [CITY/COUNTRY] 的標誌性地標、當地美食和文化元素。\n\n漂浮的脊狀薯片在整個螺旋運動中自然懸浮，與地標和微型旅行者互動。洋芋片包裝設計必須讓[CITY/COUNTRY]感覺真實，具有地理色彩、排版、圖案和當地風味靈感，同時仍明顯看起來像優質洋芋片包裝。\n\n僅包含 [CITY/COUNTRY] 中最具標誌性的地標，仔細間隔，構圖乾淨，無雜亂。加入與環境自然互動的微型旅行者：\n- 拍照\n- 探索地標\n- 坐在浮動晶片上\n- 搭乘當地交通工具\n- 觀察風景\n- 穿過漩渦路徑\n\n包括與 [CITY/COUNTRY] 相關的正宗當地食品、配料和氛圍元素。\n\n背景應該是柔和的柔和的或溫暖的豪華漸變，頂部有一個圓形天花板入口，發出電影聚光燈光束。\n\n優雅的優質商業照明、柔和的陰影、漂浮的顆粒、逼真的深度、平衡的負空間、豪華旅遊活動美學、超現實的 CGI、高度詳細但極簡、值得 Instagram 的海報設計。\n\n組成規則：\n- 一個主導的中心籌碼包\n- 整個構圖中漂浮的脊狀薯片\n- 一次連續向上的螺旋運動\n- 垂直分層的地標\n- 微型人物稀疏且有意\n- 沒有重複的地標\n- 沒有過度擁擠\n- 乾淨的溢價等級\n- 透過比例對比講述電影故事\n- 優質廣告構圖搭配高階晶片廣告"
+  },
+  "455": {
+    "sourceSha256": "3e3df334d9057e75ccc4647504fe12d8b79275773dad146642537efd683ca31b",
+    "text": "超現實的優質產品廣告：超大的未來主義舒適木底鞋坐落在光滑的反光地板上。現代模特兒穿著柔和的中性色調運動休閒裝（米白色/米色），以輕鬆、自信的姿勢隨意靠在巨大的鞋子上。\n\n背景：乾淨的漸層從柔和的天藍色流向微妙的薰衣草色，巨大的粗體無襯線字型“STEP INTO EASE”垂直延伸，部分隱藏在主題後面。\n\n照明：高階工作室照明、柔和的高光、柔和的地板反射以及微妙的邊緣光，可追蹤模型和產品的深度。\n\n構圖：社論雜誌佈置、主題完美居中、寬敞的負空間、奢華的活動氛圍。\n\n底部的小文字：“專為全天舒適而設計。與您一起移動。”\n\n風格：超乾淨的蘋果風格極簡主義與時尚宣傳、超現實、優質商業攝影、8K、銳利的細節相結合。"
+  },
+  "456": {
+    "sourceSha256": "dd22cf7c495d32ec6e3e92fc8358905e4ebff3251f562190bcde604aae7c11d3",
+    "text": "2x2 網格，16:9，對 4 個著名歷史事件執行此操作：\n\n渲染目標 =\n( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_在_[CITY] * 1.2 )\n+ ( 第一人稱帳戶資訊圖表 UI_From_The_Perspective_Of_[ROLE] * 1.5 )\n+ ( 週期準確的_Studio_Background_With_[ERA]_Artifacts * 1.0 )\n+ ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 )\n- ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )\n- ( Anachronistic_Props_From_Wrong_Decade / 2.5 )\n- ( Flat_Wikipedia_Timeline_Graphic / 2.0 )"
+  },
+  "457": {
+    "sourceSha256": "5aacf4166778c58307d17edb9b2cdde560302e8d0584e07c3627f8f0271db5f8",
+    "text": "<instructions>\n輸入 = 3 位傳奇舞者/編舞\n輸入 = ai 推斷的簽名移動序列\n\n函式render_kinesphere（$舞者，$運動）\n錨：\n[figure composed entirely of motion trails] :: [the $ movement sequence traced as continuous luminous bands that coalesce into a portrait of $ dancer]::5\n\n形態：\n阿拉伯式花紋的痕跡編織著頭骨，巨大的噴射弧形成了顴骨，手臂的掃過形成了下巴，負空間暗示著靜止::4\n\n材料物理：\n發黑的銀明膠印跡、微弱的化學殘留物、輕微的運動模糊、像馬雷輪照片一樣發光的燈絲痕跡::3\n\n照明：\n完全黑暗，具有類似生物發光的光跡，無外部光源，高對比::2\n\n渲染堆疊：\n計時攝影、藝術舞蹈研究、8k、動態雕塑概念::1\n\n負面：\n[still body parts, studio lights, solid silhouettes]::-1\n</instructions>"
+  },
+  "458": {
+    "sourceSha256": "722f7574f3095617250c9aff561dee9af90a6a6c89c21ac7a3bb8f7d35a16132",
+    "text": "秋季巴黎街頭的全身時尚插畫，身穿駝色長款大衣敞開，內搭黑色羅紋高領毛衣和高腰奶油色闊腿褲，左手拎著帶有互扣CC標誌和鏈帶的棕褐色絎縫皮革單肩包，右手插在口袋裡，深棕色波浪短髮被微風輕拂，珍珠耳釘、柔和的自然清新的風光和淡景，熱情的黑暗風格電影；格建築上微妙的散景，模糊背景中緩慢移動的汽車，人行道上散落的落葉；半寫實的數位繪畫/時尚插畫風格，具有乾淨的線條、柔和的漸變、高細節的織物紋理和逼真的褶皺，強調優雅的輪廓和觸感材料，柔和的秋季調色盤（駝色、奶油色、黑色、光滑、垂直構色）、垂直構圖、清晰的光澤和調色的前景。"
+  },
+  "460": {
+    "sourceSha256": "22a4e88177d365bf7630d2e52131607863b8e8bc2ec204913ef65e20e26eb504",
+    "text": "超逼真的奢華時尚活動海報從光滑的棋盤桌上以戲劇性的低角度視角拍攝。時尚的年輕男模特，五官銳利，捲髮質感十足，戴著薄薄的奢華眼鏡，穿著合身的無袖針織棕色背心，身體前傾，擺出自信的姿勢。一隻手伸向鏡頭，以強制視角握著一顆巨大的白色王棋，佔據了前景。手臂上的刺青清晰可見，臉部表情強烈而自信，目光直接接觸。優雅的復古皇家室內背景，深色鑲板牆，溫暖的吊燈壁燈，電影琥珀色燈光，喜怒無常的陰影，豪華的編輯氛圍。棋子散佈在棋盤上的前景和背景中以獲得深度。高對比高階時尚廣告風格，超細緻的皮膚紋理，對臉部和棋子的銳利聚焦，淺景深，棋盤上的光澤反射，戲劇性的商業廣告攝影，奢華男裝品牌美學。底部大膽的排版寫著“DRESSED TO DOMINATE”，優質海報佈局，電影色彩分級，高階時尚廣告，社論雜誌品質，4:5 寬高比。"
+  },
+  "461": {
+    "sourceSha256": "d75c35170dfe3a5866efd15ea0fa0535d1206a2bdc7c786cfe745ae7b3aee0d2",
+    "text": "可愛的卡哇伊家庭旅行拼貼，將四個不同的場景融合在一張作品中，可愛的動漫風格父母、朋友和孩子一起自拍和探索，手工剪紙立體模型風格，分層紙板和毛氈紋理，微型世界美學，舒適柔和的調色盤，柔和的電影燈光，俏皮的度假氛圍，城市車站無縫的自拍角，戶外公園和擁擠的遊樂場貼紙般的白色輪廓人物，背景中的小遊客和行人，異想天開的手工紋理，柔和的景深，高度詳細的紙工藝插圖，溫暖的懷舊情緒，可愛的休閒服裝，眼鏡，帽子，包和涼鞋，夢幻般的Instagram卡哇伊美學，故事書構圖，超詳細的微型環境，3D手工藝"
+  },
+  "464": {
+    "sourceSha256": "b47a98b97c278f65bfd43a5353b6e66d23a524438bbb1025ebf80527ee0dd249",
+    "text": "臺灣高雄的水彩和拼貼旅行海報，垂直佈局，柔和的粉彩和溫暖的黃金時段調色盤。\n\n場景：夕陽下的海濱長廊，右邊是現代化的輕軌電車，左邊是一個人在騎腳踏車，人們在小路上漫步。背景：高雄天際線、85 大樓和其他摩天大樓、停泊著渡輪、港口起重機的港口，以及帶有壁畫的駁二藝術特區。海鷗在天空中飛翔，步道兩旁的樹木，平靜的水面反射著光線。\n\n設計元素：\n- 左上角大文字：“KAO HSIUNG 2026”，下方較小文字“海風慢光南城”\n- 右上：垂直漢字，下方小寫“KAOHSIUNG TAIWAN”\n- 左下：座標「22.6273° N 120.3014° E」、「高雄臺灣」、波浪圖示\n- 底部中央：手寫體“高雄”\n- 右下：垂直清單“港藝輕軌人慢活”，垂直中文文字\n- 疊加效果：半透明幾何形狀、水彩潑濺以及青色和米色紋理層\n\n風格：現代旅行海報遇上水彩畫，空靈大氣，插畫與照片拼貼的融合，氣氛溫馨寧靜，細節豐富。"
+  },
+  "466": {
+    "sourceSha256": "386754aca33ba0ce73ccbedc1602d8a7072d03d0f6f7b86c2162e7660db4ca35",
+    "text": "使用上傳的參考影像作為主要拍攝物件的準確身分基礎。保持真實的臉部結構、可辨識的外觀、髮型、身體比例、膚質、整體身份，一致性高。完全忽略原始影像中任何不相關的背景。\n\n用原始的狗仔隊能量和意外的喜劇創造出一種超級混亂的 2000 年代早期日本相機快照美學。\n\n場景：拍攝對像在繁忙的城市街道上狂奔，在一片混亂中又叫又笑，拼命地想要抓住一隻剛從市場攤位上偷走了一條閃亮的大魚的淘氣貓。貓緊緊地叼著那條滑溜溜的銀魚，徑直跑向鏡頭。\n\n作文必須優先考慮兩個焦點主題：\n\n1. 主要焦點 → 貓的臉\n2. 次要焦點 → 人物臉部\n\n貓佔據了前景畫面的主導地位，它的臉荒謬地靠近鏡頭，在右下側附近被部分裁剪。巨大的魚眼變形極大地拉伸了它的特徵——巨大的凸出的眼睛、誇張的鬍鬚、細緻的毛皮紋理、帶有水滴的魚劇烈拍打和向外飛舞的運動條紋。\n\n在貓身後，物件正以強烈的能量積極地向前衝鋒，在奔跑中向貓伸出手。他們的表情大聲、混亂、喜劇，目光直視貓，產生強烈的互動和追逐張力。\n\n造型：\n隨機分層的 Y2K 東京街頭服飾，靈感源自混亂的澀谷夜生活時尚 - 超大拉鍊連帽衫、復古網狀層、迷你包、低腰單品、條紋保暖套、厚重配件、2000 年代早期運動鞋造型、凌亂的時尚青年美學。\n\n相機及取景：\n極低角度魚眼鏡頭、超廣角侵入視角、嚴重荷蘭角、不對稱取景、扭曲的空間扭曲、誇張的深度壓縮、激進的透視。\n\n運動治療：\n徑向條紋、快門拖曳、CCD 感測器拖曳、定向速度軌跡、意外相機震動、拉伸高光、扭曲的移動物體、不完美的混亂快照定時帶來的極度強烈的運動模糊。\n\n環境：\n陽光明媚、擁擠的城市街道，鴿子在畫面上飛翔，散落的報紙和碎片在空中飛舞，行人扭曲，市場元素被運動抹去，過度曝光的陽光漏進畫面的一角。\n\n燈光和紋理：\n刺眼的直射閃光與明亮的戶外陽光相結合，骯髒的 CCD 相機紋理，高光溢位，色差，數字噪音，光暈偽影，壓縮的 2000 年代早期相機外觀，堅韌的懷舊網路混亂氛圍。\n\n超原始坦誠的能量，凌亂的構圖，幽默的偶然傑作美學。"
+  },
+  "471": {
+    "sourceSha256": "2f4478fab1746c5b984a27ebbb7ee3c4b370e1b93f049c9cfb7ba3adf76b411c",
+    "text": "超詳細的動漫風格的年輕女孩肖像，有著富有表情的大眼睛、柔和的腮紅臉頰和精緻的五官。她穿著一件充滿活力的花卉和服，上面有複雜的彩色圖案。大朵盛開的花朵像配件一樣插在她的頭髮上。珊瑚和桃色色調的平滑漸變溫暖背景。柔和的戲院燈光、夢幻氣氛、高階數位插畫"
+  },
+  "472": {
+    "sourceSha256": "4391a8a68b38955384d761d41310176d0a9be4f34d313565de43a04d68a4ff4b",
+    "text": "夏日早晨通勤時，一位年輕女子站在上海地鐵月臺上的抓拍，真實的日常生活攝影，自然的抓拍瞬間。半身取景，從中等距離以視線水平拍攝——即將抵達的火車在她身後留下一條運動模糊的條紋，黃色安全線在她腳下。\n20歲出頭的東亞年輕女性。杏仁形的眼睛，自然的雙眼皮，眼角略微拉長－目光向下，專注。筆直精緻的鼻子，精緻的鼻梁。膚色從淺米色到淺米色 (NC10–NC20) — 在頭頂冷光下可見皮膚次表面散射，顴骨和鼻梁上有鏡面微高光，可察覺細粉底粉粒。夏日清新妝容，無厚重遮瑕力，唇部淺色。\n她穿著一件寬鬆的超大白色襯衫裙，領子輕輕敞開，袖子寬鬆地捲到肘部以上。她的肩膀上掛著一個挺括的自然棕褐色帆布手提包，手臂下夾著一本實體小說——翻開已儲存的一頁。她站著，重心放在一側臀部，低頭凝視著開啟的書，全神貫注，在早晨的忙碌中保持著自己的寧靜。背景：白色和灰色瓷磚地鐵牆，高架路線標誌，到達的火車運動模糊到一側，其他通勤者模糊而遙遠。兩到三根雜亂的頭髮因火車到達時的空氣位移而移位，自然的意外缺陷，不具有幾何對稱性。\n涼爽的頭頂螢光燈帶有輕微的綠色偏光，平坦的正面照明被後面平臺入口處的溫暖溢位所抵消。全神貫注，目光向下，渾然不覺──上海的早晨，公共空間內的一個私人時刻。陰影區域存在微妙的 ISO 400 底片顆粒，攝影雜訊紋理而非 CG 渲染平滑度。長寬比 2:3。沒有浮水印，沒有文字疊加，不是卡通，不是數位繪製，不是插圖，不是動畫。"
+  },
+  "473": {
+    "sourceSha256": "148f9c1e53fc939a4122556d4d4392330a2a1b29249ed6df3c1e54cbffea53b7",
+    "text": "**Rogue VIPER — 電玩概念藝術表提示**\n\n---\n\n官方 AAA 電玩概念藝術表，標題為 **“ROGUE VIPER”**，適用於虛幻引擎 5 第三人稱動作潛行遊戲。專業遊戲開發檔案佈局在深色木炭 #1A1A1A 背景上，並帶有金色範本標籤排版。四個帶有清晰標籤的面板排列在 2×2 網格中，並帶有頁首和頁尾。\n\n---\n\n**表頭** — 粗體金色範本字型標題文字：**ROGUE VIPER** 位於頂部居中。下面的副標題採用較小的追蹤重標籤字型：**角色和環境概念表|虛幻引擎 5 |動作/潛行－第三人稱**\n\n---\n\n**面板 1 — 左上角 — 標籤：「主角：MEI LIU / ROGUE VIPER」**\n\n30 歲東亞華裔女特工的全身角色轉盤參考。身高 5 英尺 8 英寸，黑色長直髮披散，表情平靜，中性，眼神銳利。穿著合身的霧面黑色戰術連身衣，肩部、前臂和大腿上有金色接縫，腰部有金色眼鏡蛇蛇皮帶扣，高筒黑色戰術靴帶有微妙的金色鑲邊。兩側臀部各裝有一對消音 9 毫米手槍，帶有定製的毒蛇鱗握把紋理，一把鋸齒狀戰鬥刀垂直護套右大腿上安裝有緊湊型氣動抓鉤發射器，並排排列的三個檢視：基於物理的虛幻引擎 5 渲染、逼真的皮膚和織物材料、可實現最大清晰度的中性 3 點工作室照明、金色和啞光黑色配色方案。\n\n---\n\n**面板 2 — 右上角 — 標籤：「敵人型別 01：黑曜石協議執行者」**\n\n三名敵方士兵在黑暗背景下作為角色參考。這些是精英私人軍事承包商，為名為「黑曜石協議」的影子武器卡特爾工作。他們的製服：石板灰色和黑色的模組化板甲，肩部有深紅色幾何六角形徽章，全臉防彈面罩配有深紅色鏡片，黑色戰術手套，強化戰鬥靴。配備紅色雷射瞄準器的緊湊型無托突擊步槍。一個人物以中立巡邏姿勢站立，一個人物蹲伏在準備戒備的位置，一個人物舉起步槍進行瞄準。所有三個都以相同的比例顯示以進行比較。相同的 UE5 逼真 PBR 渲染風格。深紅色和石板灰色的色彩語言與 Viper 的金色和黑色形成鮮明對比。\n\n---\n\n**面板 3 — 左下 — 標籤：「隱形環境：黑曜石協議黑色站點 — 高山研究設施」**\n\n隱形任務環境的寬幅電影場景鏡頭。隱藏在白雪覆蓋的山脈中的高海拔研究設施，只能透過地鐵到達。室內建築採用野獸派混凝土和磨砂玻璃，昏暗的燈光下有冷白色螢光頂燈條和琥珀色緊急照明，在拋光的混凝土地板上投射出長長的戲劇性陰影。牆上排列著一排排機密伺服器終端和低溫儲存單元。走道上方的天花板上可見通風井。安全攝影機以緩慢的弧線掃過下方的中央走廊。在前景中，盜賊毒蛇被壓在深深的陰影中的一根混凝土柱子上，身體低垂，看著兩名黑曜石協議執行者在下面巡邏，其中一人拿著手電筒。這個場景傳達了緊張、耐心和戰術機會。虛幻引擎 5 流明全域性照明、體積冷空氣霧、逼真的冰和混凝土材料、深壓碎的黑色與冷白色和琥珀色的照明對比。面板內的電影寬幅 2.39:1 風格構圖。\n\n---\n\n**面板 4 — 右下 — 標籤：「動作場景：黑曜石協議貨運站 — 塌陷的橋梁峽谷」**\n高強度交火環境的寬幅電影動作鏡頭。黃昏時分，陡峭的懸崖峽谷邊緣有一個龐大的露天工業貨運站，下面的峽谷上懸掛著一座倒塌的吊橋。海運貨櫃和重型起重機裝置提供蓋子幾何形狀。盜賊毒蛇在動態槍戰姿勢中被捕捉到——身體低下，兩把消音手槍舉起並開火，槍口的閃光用銳利的白光照亮了她的臉。三名黑曜石協議執行者位於她周圍——一名潛入貨櫃後面，一名從起重機平臺頂部開火，一名從儲存庫平臺邊緣向後墜落。背景：深深的峽谷，橘色的河流反射著遠處的夕陽，灰塵和煙霧從交火中升起，一架軍用直升機在遠處逼近。溫暖的黃昏琥珀色和涼爽的峽谷陰影藍色形成了戲劇性的色彩對比。UE5 金屬容器表面的光線追蹤反射、灰塵和槍口煙霧的粒子系統、背景元素的電影景深。\n\n---\n\n**紙張頁尾** — 紙張底部的調色盤行：霧面黑色 #1A1A1A、深木炭 #2B2B2B、毒蛇金 #D4AF37、青銅色 #3E3E3E、黑曜石深紅 #8B1A1A、板岩灰色 #6B7280、冷白色 #E8EEF44。晶片上方標籤：**調色盤**。下面的頁尾文字：**動作/潛行 — 第三人稱 — UNREAL ENGINE 5 — © ROGUE VIPER GAME STUDIOS**\n\n---\n\n**通用樣式限制 - 適用於所有面板：**\n僅在整張紙上具有照片級真實感。沒有動漫，沒有卡通，沒有風格化插圖，沒有卡通著色，沒有漫畫書渲染。使用基於物理的材質實現虛幻引擎 5 電影級渲染品質。所有環境鏡頭中的變形鏡頭特徵。所有面板上都有壓碎的黑色和不飽和的中間色調。專業 AAA 遊戲工作室概念檔案格式，可與 Naughty Dog、Ubisoft 或 Guerrilla Games 內部製作藝術相媲美。"
+  },
+  "474": {
+    "sourceSha256": "4e590d6ca18bdf7f3701705240c63e86f7b7d6ddb996609405d80ee32b7fdb4a",
+    "text": "世界各地標誌性目的地的極簡平面旅行海報插畫系列，乾淨的向量藝術風格，斯堪的納維亞調色盤，柔和的色調，平靜大氣的風景，哈爾施塔特奧地利湖畔村莊與高山山脈和倒影，挪威卑爾根色彩繽紛的港口房屋與峽灣背景，京都日本傳統河濱小鎮與藍色櫻花和寶塔，聖托里尼塔，超乾淨的構圖，幾何景觀形狀，平滑的漸變，帶有目的地名稱的優雅排版，現代旅遊海報美學，寧靜的旅行心情，清晰的向量線，電影廣角風景，寧靜的天空與風格化的雲彩，高度詳細的環境藝術，當代平面插畫，優質編輯旅行設計，平衡的構圖，最小的陰影，夢幻般的度假Airbnb 海報氛圍，Behance 趨勢風格，4k，超詳細"
+  },
+  "475": {
+    "sourceSha256": "a60a62c2c7ee4d8d4179666aba4fec45122f8befb4126cf284168066f1d8251a",
+    "text": "使用附圖，為包裝（包裝型別）建立專業工業設計包裝的插圖表。中心英雄 3D 渲染具有逼真的材質、柔和的工作室燈光和商業品質的飾面。周圍有技術檢視：正面、側面、頂部、底部、傾斜透視和平面位置。包括框架結構、摺痕線、接縫細節和尺寸箭頭（以毫米為單位）的草圖。以手寫註釋顯示材料和飾面（霧面、光面印刷、塑膠、紙張、玻璃等）。新增色樣、逼真的產品插圖和微妙的陰影。乾淨的素描本背景，逼真的渲染+鉛筆素描風格，現代設計設計，超詳細，作品集準備就緒。"
+  },
+  "476": {
+    "sourceSha256": "e721e355990ca0b989588a9bce395bd37c573f8119013b37d35fbc972808120b",
+    "text": "創造超精細高細節的3D逼真微型赤壁般的可愛女孩，穿著奶油色上衣和牛仔褲，休息並漂浮在奶油色拿鐵杯上，風格化紋理陶瓷杯上，睡著的表情，頭後塞著緞面柔軟的枕頭。拿鐵奶油用可愛的手寫體寫下了「早安」的文字。柔焦簡約背景，明亮的自然光，8K 超高畫質。"
+  },
+  "477": {
+    "sourceSha256": "941ac2c3490b724c5c97252de97ed1f76728a9b1f4c60060ccf5099ec6e9dc12",
+    "text": "4 個真人坐在方形餐桌旁的自上而下的超廣角超現實鏡頭。將相機向後拉，使整個場景周圍環繞著一圈空蕩蕩的地板，形成乾淨的最小構圖。場景 [ATMOSPHERE + WARDROBE]：這四個人的樣式為 [OUTFIT STYLE]。每個人都在做一些特定的事情：[DESCRIBE EACH PERSON'S ACTION]。\n\n桌子本身就是一個實體道具，看起來就像從上面看的 Instagram 貼文：\n- 純白色帶僅沿著頂部和底部邊緣延伸，左側或右側沒有白色。\n- 頂部帶：一個小的繪製輪廓頭像，帶有 [LOGO DESCRIPTION]、手柄“[USERNAME]”、旁邊有一個微小的藍色驗證支票，最右側有一個“...”。\n- 底部帶：紅色心形、評論氣泡和共享圖示繪製在左側，書籤圖示繪製在右側。\n\n表格的中心是一種平面顏色：[EXACT COLOR + HEX CODE]。所有食物、飲料、道具以及任何與它們互動的手都必須嚴格留在中心彩色區域內，任何東西都不能越過白色帶子或桌子邊緣。桌子周圍的地板是[FLOOR COLOR]，以建立清晰的視覺分隔。專業工作室照明，具有清晰的陰影、8k、銳利的焦點。"
+  },
+  "478": {
+    "sourceSha256": "0eddbf44a2524ff493fc110ca4ecb2694868072a2596dab36aa84cc18fea881e",
+    "text": "[BRAND NAME]。您是一位世界級的編輯設計師。\n\n第 1 步，動態主題邏輯：\n- 主題選擇：獨立學習[BRAND NAME]並選擇適當的英雄主題。\n- 三明治分層：透過背景形狀編織主題。汽車或人物的部分必須隱藏在幾何塊後面，而其他部分（車輪、四肢、道具）則重疊在這些塊的前面，以偽造真實的 3D 深度。\n\n第 2 步，網格和幾何：\n- 佈局：乾淨的 2x2 網格組合。\n- 疊加：在網格頂部放置一個大的粗體幾何弧和圓。\n- 視覺平衡：將一個標誌性產品道具（用於汽車的浮動鑰匙扣、用於運動的球等）放置在其自己的象限中以平衡主題。\n\n第 3 步，精緻的靜音調色盤：\n- 沒有侵略性的霓虹燈，沒有過度飽和的顏色。\n- 拉動 [BRAND NAME] 的核心顏色並將其移至「複雜的靜音」範圍。使用不飽和、土色、灰褐色版本的品牌顏色（灰玫瑰色代替亮粉色，鼠尾草綠代替亮薄荷色，石板藍色代替寶藍色）。\n- 表面處理：霧面平面色塊，零漸層。\n\n第 4 步，攝影與燈光：\n- 主題風格：高階商業影樓攝影。\n- 燈光：柔和的漫射工作室光，柔和的高光，無刺眼的陰影。\n- 整合：主題必須感覺物理上嵌入到圖形網格中。\n\n第 5 步，極簡品牌：\n- 在一個背景區塊的正中心放置一個乾淨的單色 [BRAND NAME] 標誌。沒有標語，只有標誌性符號。"
+  },
+  "479": {
+    "sourceSha256": "46b046daf5552a9ac9a1ad8a31fe5432de1c9711006cee30e648098ba9f3091d",
+    "text": "使用剪紙將上傳的影像轉換為雜誌拼貼風格的簡約插圖。保留原始影像的主要主題、姿勢和整體概念，但將其重新想像為溫暖的手工編輯拼貼畫。風格：雜誌紙拼貼風格的極簡插圖，平面分層的紙張形狀，柔和的粉彩紙張紋理，撕破的紙張邊緣，紙張陰影效果，整齊的黑色塗鴉口音，手工剪貼簿氛圍，現代韓國編輯設計，簡單可愛的構圖，大面積乾淨的白色空間。角色：可愛、簡化的韓國文字，具有極簡的五官、輕鬆的小微笑、柔和圓潤的比例、簡單休閒的服裝以及由分層剪紙構成的輪廓。構圖：長寬比為 3:4，主要主體位置稍低且偏離中心，在另一側留出較大的開放空間，形成輕鬆、簡約的構圖，避免混亂。物件：只新增一些合適的拼貼元素：紙質便籤、小心形、植物、一杯咖啡、一扇窗戶、膠帶碎片和簡單的塗鴉圖示。版式：加入適合場景氛圍的優雅手寫英文標題。使用簡短的短語，例如：[\"May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.\",\"Take a small break,\" or \"Good day, good mood.\"] 氣氛：平靜、舒適、溫暖、甜蜜和編輯風格。避免：寫實風格、動漫風格、水彩風格、3D黏土風格、過於細緻的背景、過多的拼貼元素、奢華的海報氛圍、暗色調、刺眼的陰影、草率的文字。"
+  },
+  "480": {
+    "sourceSha256": "a8b0bde593c30303492b3552249f37248edb1bcf811134fb2ec8e0935bae83aa",
+    "text": "把我畫得就像一個痴迷的粉絲藝術家填滿了整個素描本頁面——凌亂、重疊、全身姿勢、微小的赤壁塗鴉、誇張的表情以及他們的手或眼睛的隨機特寫。\n白色背景。沒有網格，沒有順序。純粹的混沌能量。搭配（任何顏色）美觀的衣服"
+  },
+  "481": {
+    "sourceSha256": "70dab289a240b8c414b0a77f202cd1fdfee24fe4eddb85b7f6e2baf26424a667",
+    "text": "可愛的韓國春天美學剪貼簿海報，夢幻般的K時尚肖像，柔軟的金發女孩站在盛開的花園裡，柔和的藍天背景，奶油色花卉襯衫分層在針織象牙色毛衣背心下，淺藍色高腰牛仔褲，自然的微笑，發光的白皙肌膚，柔和的妝容，櫻花樹，色彩繽紛的春天花朵，舒適的鄉村花園，明亮的自然陽光，卡哇伊塗鴉覆蓋，手繪白心，笑臉，星星，火花，彩虹，俏皮的手寫字型，寶麗來相框，美紋膠帶貼紙，剪貼簿拼貼佈局，Pinterest美學，韓國雜誌社論，鄉村時尚，夢幻般的春天氛圍，健康的心情，柔和的調色盤，乾淨的構圖，美學社交媒體海報，超詳細，真實感，高品質，可愛迷人的氛圍，微妙的散景，生活方式攝影，捲軸封面，時尚主題"
+  },
+  "482": {
+    "sourceSha256": "781fd2d989a581a63897b9640fddcdf65ca7d5cfe224281ae80e9ff6e20ac80e",
+    "text": "超現實的概念肖像，一個捲髮和淺色胡茬的年輕人，戴著黃色矩形太陽眼鏡，穿著米色簡約 T 卹、藍色牛仔褲和灰白色運動鞋。他以輕鬆的姿勢隨意坐著。\n\n變化是：他坐在地上的一個巨大的、超現實的、與他自己分離的頭部版本上。頭部按比例放大，側臥，五官相同，墨鏡相同，營造出超現實的自我反省概念。\n\n構圖：居中、全身拍攝，中性工作室背景，柔和的米色調，簡約的美感。清潔負空間。\n\n融入背景的版面：\n\n* 頂部手寫樣式文字：“HEAVY”\n* 下面是較小的文字：“ON MY OWN MIND”，“MIND”被劃掉\n* 大而粗糙的黑色潦草文字：“HEAD”\n\n燈光：柔和的漫射工作室燈光、微妙的陰影、高細節、時尚的編輯品質。\n\n風格：超現實主義和現代街頭運動的融合，簡約而富有表現力，高解析度，8k，銳利的焦點，自然的皮膚紋理。\n\n情緒：內省、精神重量、認同、自我意識。"
+  },
+  "483": {
+    "sourceSha256": "60dbe047d0349cacc69b172d8525693616ab4b417b9ad48b9ae811a9f6f0fc65",
+    "text": "一幅時尚的電影肖像，一位自信的年輕女子隨意靠在有紋理的城市混凝土牆上，周圍是充滿活力的飛鳥，包括藍色金剛鸚鵡、白色海鷗和色彩繽紛的蜂鳥。牆上畫著黑色塗鴉風格的小鳥剪影，營造出街頭藝術的藝術氛圍。她穿著時尚的全白服裝——超大牛仔夾克、合身圖案T卹、緊身牛仔褲和黑色運動鞋。柔和的自然光，逼真的陰影，超細緻的時尚攝影，都市奢華美學，銳利的五官，光澤的頭髮，高階的編輯風格，動態構圖，逼真，景深，8K畫質。"
+  },
+  "484": {
+    "sourceSha256": "1dd507b9cf1bb76ea0fc83a6a5e809e571cf259fac18d19f2c3b5fecea9fd79f",
+    "text": "高對比的黑白城市肖像，一個捲髮、留著鬍鬚的男人穿著黑色皮夾克，兩根手指靠近發光的霓虹綠眼睛，帶有大膽的塗鴉塗鴉、彩色油漆飛濺、抽象箭頭、皇冠草圖和具體背景上的垃圾街頭藝術紋理、電影燈光、前衛的圖形海報風格。"
+  },
+  "485": {
+    "sourceSha256": "eb4681679ba7e8d5ace6b24f773dbc34c047594fa2b78fc3825031b686b10cc2",
+    "text": "融合街頭服飾和奢華品牌的時尚時尚目錄拍攝。女模特兒穿著酒紅色修身上衣和象牙色訂製褲子，在多個重複的框架上擺出自信放鬆的姿勢。輕微的透視傾斜、動態的佈局拼貼、柔和的日光工作室燈光和暖色調漸變。現代購物網站美學、簡約的 UI 風格構圖、高解析度時尚攝影。"
+  },
+  "486": {
+    "sourceSha256": "f40df984ef975a2100b9294fae001ce65050daaf6fe42791cbb1e3344dea8f0a",
+    "text": "超詳細的混合媒體體育海報，展示了參考影像中的同一位女性，她穿著皇家挑戰者班加羅爾 (RCB) 球衣，旁邊拿著 IPL 獎杯。逼真的肖像攝影、素描藝術、水彩潑墨、繪畫描邊、墨水塗鴉和數位繪畫效果的動態融合。爆炸性的紅色、黑色、金色和白色調色盤。五彩紙屑、煙火、歡呼的體育場人群、背景中飄揚的 RCB 旗幟、油漆飛濺紋理、手繪線條藝術裝飾和充滿活力的筆觸，營造齣戲劇性的錦標賽氛圍。\n\n這個女人有著自信的表情、大膽的紅色口紅、完美無瑕的肌膚、黑色短髮、電影燈光、超銳利的藍眼睛、高階運動時尚造型。臉頰上有 RCB 臉部彩繪，奢華的金色珠寶點綴，細節豐富的針織面料。\n\n右側大字型顯示：\n\nRCB\nIPL冠軍\n2026年\n\n左下角手寫標語：\n\nEe Sala 杯 Namde！\n\n高階冠軍海報設計、受歡迎的 Behance 藝術作品、體育雜誌封面美學、分層油漆紋理、逼真的獎杯反射、高對比度、超詳細、8K、傑作、獲獎數位藝術、鮮豔的色彩、電影構圖、飛濺藝術、素描效果、水彩效果、油漆爆炸效果、混合媒體插圖、海報設計。"
+  },
+  "487": {
+    "sourceSha256": "043cc6805a93e9a2e90359eb9795ae7a6feb8d752d337d2d8f4ad53be2aabed9",
+    "text": "35 毫米變形，2.39:1，無眩光。理膚泉 Anthelios UVMune 400 保濕霜 SPF50+ 的超現實國際法國藥局護膚品廣告。柔和的優質音樂加上觸感逼真的音效。豐富溫暖的天然紋理，優質但不過度拋光。調色盤：溫暖的象牙白、柔和的中性石色、理膚泉標誌性的橙色、微妙的臨床青藍色、陽光米色、逼真的溫暖膚色。該管具有標誌性。皮膚就是證據。每一次拍攝都以產品消失在真實皮膚中的那一刻為目標，保護變得自信。快速剪輯、宏觀親密感、觸覺真實感，一種讓人感覺值得的安靜轉變：看起來隱形、透氣、真實的防曬霜。\n\n模特兒/衣櫃\n\n在所有鏡頭中始終使用相同的女模特，與批准的角色表相匹配：苗條的自然模特比例、溫暖的中等膚色、乾淨的低髮髻的深棕色頭髮、精緻的橢圓形臉、自然的眉毛、逼真的眼下細節、微妙的嘴唇、簡約的妝容。相同的臉型、相同的髮型、相同的身體結構、相同的膚色、相同的服裝連續性。\n\n衣櫃必須樸素、優雅且完全覆蓋。沒有暴露的身體，沒有背心，沒有合身的衣服，沒有乳溝，沒有裸露的肩膀，沒有緊身的輪廓。衣櫃：寬鬆的奶油色亞麻繫扣襯衫，全袖，全扣或疊穿在高領白色內上衣上，柔軟的米色長褲（僅在可見時），最少的珠寶，精緻的法國藥房護膚造型。服裝應該讓人感覺優質、透氣、乾淨、國際化，而不是感性、暴露或註重時尚身材。\n\n相機可以展示手、臉、頸部肖像、肩膀、腰部以上、鏡子鏡頭、浴室儀式鏡頭和戶外行走生活方式鏡頭，但不得強調身體。密切注意皮膚紋理、塗抹防曬霜的雙手、產品包裝、早晨儀式以及自信的受保護面部。\n\n皮膚真實感\n\n皮膚必須看起來像人性的、未經過濾的：明顯的毛孔、桃色絨毛、微小的細紋、輕微的眼部紋理、自然的膚色變化、逼真的面部微紋理、啞光水潤的妝效。沒有光澤的皮膚，沒有油膩的光澤，沒有濕漉漉的臉，沒有蠟質AI皮膚，沒有瓷器平滑，沒有華麗的美顏濾鏡，沒有假發光。\n\n產品參考\n\n使用精準的理膚泉 Anthelios UVMune 400 保濕霜 SPF50+ 產品參考：白管、橘色方形標誌、黑色理膚泉排版、橘色 SPF50+ 面板、淺藍色保濕霜帶、橘色下方面板、白色幫浦蓋底座。產品形狀和色塊必須保持一致。\n\n音樂指導\n\n柔和優雅的優質護膚音樂貫穿始終：輕柔的鋼琴，通風的環境墊，微妙的低端溫暖，非常輕的現代電子脈衝，平靜的情緒提升。音樂應該給人一種昂貴、符合皮膚病學、值得信賴和國際化的感覺。永遠不會大聲，永遠不會戲劇化，永遠不會像預告片一樣，永遠不會分散注意力。音樂應該支援觸覺聲音設計，但又不會壓倒它。"
+  },
+  "488": {
+    "sourceSha256": "6247ad2696cf447a33b7c6d19c295736adebb9a920cdf19b0d5a53f35fe589a2",
+    "text": "超現實、高品質的肖像，描繪了一位時尚的年輕南亞女性在日落時優雅地站在色彩繽紛的城市屋頂籃球場上。她以輕鬆優雅的姿勢站立，重心自然轉移到單腿上，肩膀放鬆，一隻手輕輕放在身側，另一隻手輕輕觸碰校服的邊緣。她的身體稍微向鏡頭傾斜，營造出自信而精緻的外觀。她直視鏡頭，笑容溫暖、自然，展現出自信、魅力和輕鬆的風格。"
+  },
+  "489": {
+    "sourceSha256": "2b863eb5b9a18f42e992beb6f2f1d89d1bcd33fb2d7653ee92ab54719273b3a5",
+    "text": "建立 [CITY NAME] 的高度詳細的電影微型移軸旅行場景，其中包含逼真的 [VEHICLE NAME] 沿著蜿蜒的高架道路行駛，該道路從印刷的復古風格城市地圖中自然出現。道路應向背景天際線和 [CITY NAME] 的地標急劇彎曲，而車輛仍然是前景中的清晰焦點。\n\n將真實城市與插圖地圖表面無縫融合，使道路看起來與地圖本身融為一體。包括與 [CITY NAME] 相關的可識別的當地地標、水道、建築、植被和氛圍，但保持構圖乾淨整潔。\n\n顯示直接印在前景地圖上的大粗體字樣「[CITY NAME]」。使用溫暖的黃金時段照明、淺景深、逼真的紋理、電影陰影、空中透視和逼真的細節。整體美感應該像是一張高階 Instagram 旅行海報與微型立體模型的混合體。\n\n長寬比 1:1。"
+  },
+  "490": {
+    "sourceSha256": "c85e8485dcb871820144322d14b720917a885c11c3f2cc772eddd655ad524f3a",
+    "text": "電影般的雙重曝光時尚肖像，其中一位女士戴著時尚的金屬飛行員太陽眼鏡，100% 使用上傳的臉部作為參考。構圖巧妙地將左側臉部的大半透明特寫輪廓與右側自信站立的全身身材融為一體。她穿著開放式淺灰色紋理燈芯絨襯衫，內搭深灰色合身 T 恤和深色牛仔褲，雙手插在口袋裡，擺出自然的姿勢。她有一頭飄逸的長髮、完美的肌膚、優雅的女性特質以及自信、精緻的表情。\n\n背景是簡約的中性工作室設定，使雙重曝光構圖保持視覺焦點。色彩分級採用精緻的溫暖不飽和棕褐色和木炭調色盤，右上角柔和的金橙色漏光耀斑增強了色彩分級的效果。專業 85mm 鏡頭攝影搭配高對比度而柔和的電影燈光，突顯了織物紋理、臉部細節和層次分明的人像效果。\n\n超逼真的皮膚紋理、奢華的時尚編輯美學、優質的雜誌封面品質、微妙的膠片顆粒、電影般的深度、優雅的陰影、精緻的色彩分級、現代復古風格的造型、傑作的構圖、超銳利的焦點、視覺上引人注目的故事講述、高階商業時尚運動外觀。"
+  },
+  "491": {
+    "sourceSha256": "5489daa6b3dafa3b5efd76a27d3e51a64ed6f2f54ca12962a0ebd0293daa52d6",
+    "text": "深夜在豪華高層浴室中拍攝的喜怒無常的鏡子自拍照，俯瞰著閃閃發光的城市天際線。一位年輕女子留著長長的、略顯凌亂的黑髮，身體前傾，靠在大理石水槽上，鬆散的髮絲遮住了一隻眼睛。這張照片是透過汙跡斑斑的鏡子拍攝的，上面有可見的灰塵顆粒、水斑和瑕疵，營造出真實的原始美感。強大的直接相機閃光燈在畫面中爆炸，產生刺眼的高光、鏡頭光暈和 2000 年代早期數位相機的懷舊外觀。\n\n浴室櫃檯上堆滿了奢華化妝品、護膚品、珠寶、智慧型手機和日常個人物品，增添了一種生活氣息。霓虹燈閃爍的摩天大樓和飯店窗戶的倒影在背景中閃爍，強調了城市夜生活的氛圍。柔和的蒼白膚色與深色衣服和黑髮形成鮮明對比。構圖給人一種親密、坦率、毫不費力的冷靜感。\n\n風格：Y2K閃光攝影、偷拍的鏡子自拍照、韓國編輯美學、獨立骯髒、酒店浴室場景、奢華生活方式、電影夜生活、一次性相機外觀、顆粒紋理、閃光燒傷、逼真的皮膚紋理、淺景深、真實的瑕疵、病毒式的Pinterest情緒、高階時尚休閒能量、原始的未過濾攝影。\n\n相機：直接閃光、輕便數位相機、35 毫米等效、強光、輕微運動模糊、可見雜訊、自然色彩分級、垂直構圖、超真實、高細節。"
+  },
+  "492": {
+    "sourceSha256": "57ffa1cc5db7c781749d2b2e8498354d51dfd20b93e2a9c9767b5c81e0baf421",
+    "text": "受高階時裝週社論的啟發，創作超現實的奢華時尚肖像。\n\n重要：\n僅產生一張垂直影像。\n\n風格：\n奢華時尚寫實主義。\n專業時裝攝影。\n優質的編輯氛圍。\n\n主要概念：\n一位美麗的成年亞洲時裝模特兒在豪華酒店套房內拍攝。\n\n服裝：\n優雅的黑色高階訂製迷你連身裙。\n奢華刺繡細節。\n高階設計師的時尚美學。\n\n背景：\n豪華酒店內部。\n柔和的中性裝飾。\n優雅的電影深度模糊。\n\n照明：\n柔和奢華的窗戶照明。\n專業時尚編輯反思。\n自然的皮膚紋理。\n\n心情：\n大膽。\n優雅的。\n高階時尚能量。\n\n品質：\n超真實的原生 4K HDR 真實感。\n專業雜誌品質。\n垂直 9:16。"
+  },
+  "493": {
+    "sourceSha256": "32cfb3678f4983745397c70dd738d00437a9f0dd8ed14ad750d288b03e414ba7",
+    "text": "產生年輕女性旅行部落客在多個坦誠時刻探索東京的影像，極其美麗的深色長捲髮，穿著時尚的日本風格超大街頭服飾，富有表現力和自發的個性，透過 13 幀網格拼貼捕捉（第 1 行：4 幀 | 第 2 行：5 幀 | 第 3 行：4 幀），每一幀都感覺像是不完美的休閒手機 |\n\n幀分解\n\n第 1 行 - 第 1 幀（東京塔）：低角度自拍，東京塔在她身後，地平線稍微傾斜，天空過度曝光到接近白色，她自然的微笑適應畫面，角落裡有小鏡頭汙跡，坦率的到達能量。\n第 1 行 - 第 2 格（澀谷街道層）：夜間穿過澀谷十字路口，手持運動模糊，她中途回頭看了一眼相機，霓虹燈反射在潮濕的路面上，框架稍微搖晃，裁剪不完美。\n第 1 行 - 第 3 幀（便利商店）：在一家燈火通明的便利店內，她拿著飯糰靠近鏡頭，俏皮地揚起眉毛，刺眼的螢光燈使場景變得平坦，白色略微過度曝光，後面的貨架輕輕模糊。\n第 1 行 - 第 4 格（代代木公園）：坐在樹下的長凳上，遠離鏡頭，安靜坦率的時刻，柔和的斑駁日光，眼睛輕微失焦，鏡頭底角有微妙的汙跡。\n第 2 行 - 第 5 格（章魚燒反應）：吃單章魚燒時的特寫，咬到一半時做出笑聲，輕微的運動模糊，背後溫暖的燈籠燈，臉部因運動而稍微失焦。\n第2行第6格（自動販賣機之夜）：站在發光的自動販賣機前，藍色和粉紅色的燈光在她臉上投射出不均勻的色調，隨意按下按鈕，高ISO顆粒清晰可見。\n第 2 行 - 第 7 格（火車反射）：晚上，她的臉反射在火車窗上，城市燈光在後面閃爍，分層反射效果，玻璃上有輕微的重影，她的目光遠離鏡頭。\n第 2 行 - 第 8 格（鳥居門）：她走過鳥居門的低角度鏡頭，從稍遠的後方拍攝，她的運動中出現運動模糊，明亮的天空造成輕微的鏡頭眩光。\n第 2 行 - 第 9 格（數位藝術展覽）：在沉浸式燈光展覽中，彩色燈光（藍色、紫色、金色）掃過她的臉，她敬畏地向上看，輕微的運動模糊，可見低光雜訊。\n第 3 行 - 第 10 格（高達雕像）：低角度廣角鏡頭，她站在畫面中很小，而大型雕像聳立在上方，手機鏡頭造成輕微的桶形畸變，天空略微被吹散。\n第 3 行 - 第 11 格（燈籠巷）：穿過溫暖燈籠照亮的狹窄巷子，從後面拍攝，她短暫地回頭看了一眼，曝光不足的陰影，顆粒狀的夜晚細節。\n第 3 行 - 第 12 幀（屋頂天際線）：以東京天際線為背景的自拍，手臂伸展，風將頭髮部分吹過鏡頭，地平線稍微傾斜，溫暖的城市光芒在遠處過度曝光。\n第 3 行 - 第 13畫面（奈良公園）：蹲在奈良的一個公園裡，她向一隻鹿伸出一塊鹿餅乾，鹿向她低下頭，她在反應中爆發出真正的笑聲，驚訝並稍微向後傾斜，另一隻鹿從後面推了她，導致她稍微失去平衡，相機捕捉到的瞬間不完美，輕微晃動和偏離中心的取景，柔和公園的自然日光樹\n\n年輕女性旅行部落客在網格拼貼中跨越 13個坦率時刻探索東京，極其美麗的深色長捲髮，穿著時尚的日本街頭服飾，表現力和自發性，場景包括東京塔自拍、夜間澀谷十字路口、便利店小吃時刻、公園長椅安靜場景、章魚燒反應、自動售貨機發光、火車窗戶反射、鳥居門步行、沉浸式燈光展覽、雕像低角度、燈籠步行、空天街邊步行、鳥居門步行，沉浸式燈光展覽、雕像低角度、燈籠步行、無天鏡框步行、原宿。"
+  },
+  "494": {
+    "sourceSha256": "94ce3a1e49699baf6e41783512dd20f5dbf1e055b5cc7898a783e7207405277b",
+    "text": "建立一個優質方形“參考式永續交通資訊圖表”，以名為 {E_BUS_NAME} 的未來電動城市公車為中心，設計為精心策劃的城市交通手冊頁面，而不是商用車廣告。\n\n該構圖應該感覺像是一本現代視覺百科全書，混合了精英公共交通工程指南和高階編輯資訊圖表系統。\n\n視覺方向\n\n• 1:1 方形構圖\n• 高階智慧城市背景，包含微妙的交通藍圖、受電路啟發的疊加層和城市基礎設施示意圖\n• 優雅的調色盤，採用深海軍藍、石墨黑、電綠色、鋼灰色和柔和的青色色調\n• 精緻的編輯版式層次結構\n• 圓形模組化資訊卡，間距乾淨\n• 柔和逼真的反射和優質的交通系統分隔線\n• 最少的交通工程影像\n• 極其詳細的中央電動巴士渲染以戲劇性的四分之三視角呈現，行駛在未來智慧城市大道上\n• 細細的精確註釋線指向關鍵系統和技術\n• 乾淨、有組織的「知識優先」佈局，資訊密度高，但間距透氣\n\n主題演講\n\n位於中心的 {E_BUS_NAME} 的令人驚嘆的超詳細真實渲染，具有：\n\n• 時尚的空氣力學機身設計\n• 全景擋風玻璃\n• 發光目的地顯示屏\n• 低樓層無障礙佈局\n• 未來主義 LED 照明系統\n• 優質電動傳動系統細節\n• 真實的城市倒影\n• 智慧城市交通現實主義\n\n在匯流排周圍貼上工程標註，解釋：\n\n• 電池組技術\n• 電動機系統\n• 再生煞車系統\n• 充電基礎設施相容性\n• 智慧車隊管理系統\n• 乘客無障礙功能\n• 熱電池管理\n• 能源效率技術\n• 安全監控系統\n• 智慧駕駛輔助功能\n\n包括模組化部分\n\n• 電動巴士概述\n• 技術規格\n• 車輛尺寸和容量\n• 動力系統與能源系統\n• 電池技術細分\n• 充電解決方案\n• 乘客舒適度特點\n• 安全可靠性系統\n• 車隊管理技術\n• 環境影響分析\n• 營運成本比較\n• 建築與材料工程\n• 永續性生命週期評估\n• 智慧城市一體化\n• 全球採用趨勢\n• 「你知道嗎？」事實部分\n• 電動大眾運輸的未來\n\n新增高階視覺化模組\n\n• 電池架構圖\n• 充電工作流程圖形\n• 能源消耗圖表\n• 乘客容量視覺化\n• 智慧城市一體化地圖\n• 傳動系統剖面圖\n• 環境影響比較\n• 車隊管理儀錶板\n• 車輛圖紙尺寸\n• 生命週期可持續性圖表\n\n風格關鍵字\n\n“優質交通百科全書”\n“編輯電動車手冊”\n“高階公共交通資訊圖”\n《科學交通海報》\n“博物館品質的電動巴士參考頁”\n“模組化智慧城市知識體系”\n《清潔工程編輯設計》\n“超詳細的移動視覺化”\n“未來交通展示”\n“永續城市交通設計”\n\n避免\n\n• 通用車輛廣告\n• 商業宣傳冊佈置混亂\n• 卡通交通造型\n• 不切實際的飛行巴士概念\n• 賽博朋克霓虹燈過多\n• 低細節庫存車輛渲染\n\n最終目標\n\n最終結果應該類似於為城市規劃者、交通工程師、永續發展研究人員、建築師、公共交通當局和智慧城市愛好者建立的專業出版的交通工程參考書頁，結合了技術準確性、永續性見解和優質的編輯設計。"
+  },
+  "495": {
+    "sourceSha256": "de30ba54ece4bd2ee86c16e7a80282b7bd2c6ae18911c88df02bf9a6e1671f25",
+    "text": "故事書風格的肖像插圖，描繪了一位年輕的成年女性探索巴黎街道的故事。她閉著眼睛開心地笑，手裡拿著咖啡杯。她有一頭長長的捲髮，戴著貝雷帽。場景發生在一家巴黎咖啡館附近，氣氛寧靜的早晨。女人笑容甜美，迷人。柔和夢幻的氛圍、浪漫的巴黎街頭氛圍、柔和的燈光和細緻入微的藝術品。"
+  },
+  "496": {
+    "sourceSha256": "50ad48c732ee111fd6841b9c793ec4546de77261220a7a4fb27342f846d4def1",
+    "text": "建立一個由標誌性全球品牌標誌組成的優質 3x2 網格拼貼畫，完全根據動態水層進行重建，漂浮在充滿活力的藍天下水晶般清澈的海洋之上。每個面板都有一個由逼真的透明水雕刻而成的不同徽標，具有詳細的飛濺、水滴、反射、折射和流動的液體紋理。水的形態應該看起來物理上準確、優雅，並且可以立即識別，同時仍然完全由水組成。"
+  },
+  "497": {
+    "sourceSha256": "2885fe28dd49a66f6f114e52a70f6416748bb28be7142ab184dff55b941e9df3",
+    "text": "[CITY NAME]、[COUNTRY] 的極簡復古水彩旅行海報插圖，完全採用優雅的單色 [COLOR] 水彩畫和精細的墨水線條呈現。\n\n長寬比：4:5 垂直構圖，針對海報和社群媒體演示進行了最佳化。\n\n寧靜的清晨街景，前景為標誌性的 [PRIMARY LANDMARK] 和 [SECONDARY LANDMARK/LOCATION]，從略低的行人視角觀看。歷史悠久的當地建築、優雅的外牆、華麗的細節、拱形窗戶、裝飾飛簷和傳統的街道元素排列在寬敞的環境中，營造出永恆的城市氛圍。經典的 [LOCAL STREET ELEMENT OR LAMP STYLE] 醒目地矗立在左側，而成熟的綠葉樹木構成了場景的一部分，它們的葉子塗有柔和的水彩畫和精緻的飛濺紋理。遠處，[DISTANT LANDMARK OR SKYLINE FEATURE] 優雅地矗立在天際線上，成為一個公認的文化地標。復古的 [LOCAL VEHICLE] 或幾個小行人增添了微妙的生機和規模，而又不打擾寧靜的心情。\n\n構圖包括大面積乾淨的白色負空間、天空中柔和的多雲水彩紋理、精緻的紙紋和微妙的水彩花朵。人行道、街道或廣場在前景中戲劇性地延伸，將觀眾的目光引向地標建築群。左上角的字型以精緻的襯線字型寫著“[CITY NAME]，[COUNTRY]”，其風格就像一本精緻的旅行日記或具有收藏價值的城市海報。\n\n手工水彩插圖、建築素描美學、寧靜的城市氛圍、柔和的自然晨光、柔和的單色調色盤、高度詳細的線條藝術、優雅的旅行海報設計、簡約奢華的牆壁藝術風格、永恆的當地魅力、優質文具插圖、超詳細、高解析度、乾淨的構圖、值得 Pinterest 值得、Instagram 值得、品質畫廊的藝術品。"
+  },
+  "498": {
+    "sourceSha256": "a5b68d85ec03dcd108f6155d6d12d580c2e716441099e88dc86ccf301674e38c",
+    "text": "在紙上建立 [image] 打哈欠的手繪鉛筆插圖，作為背景。\n\n加上 [foto] 的 3D 皮克斯風格渲染，隨意站在巨型手繪鉛筆插圖前。柔和的電影燈光。8K解析度。3:4比例"
+  },
+  "499": {
+    "sourceSha256": "7897bd3c7069422ccbc5f461a54332550c4fab06217f5985993c16a8970562b5",
+    "text": "一張全身時尚編輯照片，照片上是一位美麗的年輕女子，她的外貌與參考照片相同，有光澤的長髮、柔軟的劉海、白皙的皮膚和精緻的女性特徵。她隨意地站在一家高檔簡約時尚精品店裡，穿著超大的淡藍色針織毛衣，搭配黑色百褶網球風格裙子、白色圓襪和厚實的名牌運動鞋。輕鬆自信的姿勢，溫柔的微笑，豪華零售室內裝飾與現代服裝架，中性色調的服裝，溫暖的環境照明，木材和石材紋理，乾淨的建築線條，電影景深，逼真的燈光，優質時尚廣告，時尚風格的社論，超詳細，銳利的焦點，真實感，4K。"
+  },
+  "500": {
+    "sourceSha256": "18c557ed7fbe068bb6ba6eb20a1033ddfa1de7c4ca2bf7318b238c5f8cf912ae",
+    "text": "超現實的空靈奇幻肖像，描繪了一位令人驚嘆的年輕女子，她擁有精緻的瓷質皮膚、柔和的灰藍色眼睛和自然的玫瑰色嘴唇。她溫柔地凝視著觀眾，表情平靜而夢幻，指尖輕觸下巴。纖細的灰棕色頭髮在微風中輕輕飄逸，寬鬆浪漫的盤髮造型，飾有柔和的腮紅玫瑰、閃閃發光的水晶飾品、精緻的羽毛和復雜的花卉配件。她戴著優雅的垂墜水晶耳環，穿著半透明、飄逸的禮服，禮服由透明的虹彩面料製成，上面繡有閃閃發光的小花朵。\n\n場景沐浴在柔和的晨光中，在她的臉和肩膀周圍營造出明亮的光芒。背景被漂浮的蝴蝶、閃閃發光的塵埃顆粒、半透明的花瓣和夢幻般的花卉紋理所包圍，背景融合了柔和的薰衣草色、珍珠白、腮紅粉和銀色色調。電影級美術攝影，童話般的美學，迷人的花園氛圍，魔幻寫實主義，超細緻的皮膚紋理，柔焦高光，體積照明，背景虛化，傑作品質，高度細節，8K解析度，細膩的女性之美，浪漫的幻想藝術品，優雅的構圖，夢幻的色彩分級，柔和的輝光，仙境氛圍。"
+  },
+  "501": {
+    "sourceSha256": "4d6d2b87ef17b4929c72ea07b99298199a7227c9048f97c369c702fe40e82b4b",
+    "text": "電影級人像攝影，超真實感，2160x3840垂直構圖，50mm或85mm人像鏡頭渲染，淺景深，乾淨半透明的夏季自然光調色－不過分黃，不過分濾鏡。\n\n物件：一位年輕美麗的成年東亞女性，[describe face shape and features, e.g. soft heart-shaped face, refined classical features, bright almond/fox eyes, petite nose bridge, naturally full lips]，整體氣質甜美、陽光、充滿活力、可愛又帶著一絲誘惑。目光高度吸引人──明亮、清晰、自然的聚光燈，彷彿會說話；嘴角微微上揚，表情溫柔、生動、自然。\n\n她沿著[scene, e.g. garden stone path / tree-lined lane / European street / courtyard]行走，右手向後伸去握住身後某人的手；只有他們的手出現在左下角——就像第一人稱情侶的 POV 快照一樣。她回頭看了一眼鏡頭，身體保持向前行走的動作，姿勢優雅自然，分明是一個偷拍的瞬間，帶著淡淡的戀愛感覺。\n\n[hair color]長髮，[style, e.g. naturally wavy / relaxed big waves / airy bangs / half-up]，許多髮絲在風中凌亂飛揚，層次豐富，動感十足。強烈的自然側背光環繞髮際——乾淨、明亮的邊緣光和半透明的光澤，髮際邊緣彷彿被陽光照亮，光線明亮。這是影像的核心亮點。\n\n她穿著[outfit, e.g. white lace slip dress / beige slip dress / light-blue short-sleeve top with white skirt / light-pink fitted dress]，布料質感自然，材質輕薄柔軟。明亮的自然夏季陽光以柔和、乾淨的高光過渡真實地溫暖了她的皮膚、肩膀、鎖骨和衣服。\n\n肌膚紋理：極為真實－可見細小的毛孔，自然的肌膚紋理，微弱的瑕疵，微妙的色調變化，柔和的光澤。臉頰、鼻尖、肩膀在陽光下呈現出自然細膩的層次感。半透明、健康、真實、精緻——沒有塑膠外觀，沒有蠟製品，沒有過度平滑。\n\n背景：柔和的大氣模糊，絕不分散注意力。\n\n避免：過度平滑、塑膠皮膚、CG外觀、動漫外觀、假髮外觀、僵硬的表情、呆滯的眼神、僵硬的姿勢、整體泛黃、臉部過度曝光、扭曲的特徵、錯誤的手指、變形的手、雜亂的背景、重度影響者修飾。"
+  },
+  "502": {
+    "sourceSha256": "d4e9a038c4782f6fb0f168e9c4d28bc76f1825ef27a00e1c5288440c4ecdd8bc",
+    "text": "使用我上傳的臉部影像作為主要身份參考。以極高的保真度保留我準確的臉部特徵：相同的臉部結構、下巴、顴骨、眼睛形狀、眉毛、鼻子、嘴唇、鬍鬚圖案、髮型、髮質、膚色、皮膚紋理和整體可識別的外觀。不要美化、改變或重新詮釋我的臉。保持真實的解剖結構和真實的相似性。\n\n創造超詳細、電影般、超現實的豪華撲克牌藝術品。\n\n主要主題是我作為黑桃K，佔據了一張華麗的、皇家Ace品質的撲克牌的完整設計。我穿著精緻的黑色和銀色黑桃主題服飾、黑曜石和拋光鋼鍛造的王冠、精緻的刺繡盔甲，以及飾有微妙黑桃符號的飄逸皇家服裝。我的表情平靜、聰明、有力。\n\n我的右手拿著一張原始的黑桃 A 牌。\n\n創意轉折：我手上拿的黑桃 A 不是一張普通的牌。它包含另一個完整的撲克牌插圖。在那張牌中，我再次以黑桃 K 的身份出現，而整張牌正優雅地握在一位威嚴的紅心皇后的手指之間。女王優雅、高貴、視覺衝擊力十足，身穿飾有心形圖案的深紅色和金色皇家服裝。\n\n這種錯覺繼續以微妙的遞迴故事講述：紅心皇后似乎正在著迷地審視這張牌，創造出「牌中牌」的視覺悖論。作品應該感覺像是一個權力、策略、愛和命運交織在一起的傳奇故事。\n\n新增不可能的埃舍爾風格視覺設計元素：\n•無限遞迴效果\n•卡牌世界自行折疊\n•漂浮的鏟子和心形符號轉變成烏鴉和玫瑰花瓣\n•華麗的金色邊框延伸到卡片的物理邊緣之外\n•懸浮在半空中的皇家棋子\n•隱藏在卡片雕刻中的分形圖案\n•優雅的煙霧形成西裝符號\n•從卡角出現的維度傳送門\n\n風格：超現實的奇幻寫實主義與豪華賭場藝術、文藝復興時期的皇家肖像畫和現代電影概念藝術相結合。\n\n燈光：戲劇性的明暗對比、立體的神光、豐富的對比、發光的金屬亮點、黑桃 A 周圍微妙的魔法能量。\n\n調色盤：\n•深黑色\n•鍍銀\n•象牙白\n•深紅色\n•古色古香的金色配件\n\n成分：\n•垂直傑作\n•博物館品質的細節\n•超現實的紋理\n•複雜的卡片雕刻\n•完美對稱的撲克牌美學與電影深度融為一體\n• 焦點集中在我的臉上\n•極高的身份保真度\n•透過視覺象徵講述史詩般的故事\n\n最終的影像應該感覺像是一款傳奇奇幻紙牌遊戲的封面，其中黑桃國王已經有了自我意識，存在於現實的多層中，同時被掌握在以紅心皇后為代表的命運本身手中。"
+  },
+  "503": {
+    "sourceSha256": "39e9b429553521c1db1ee754d8ee462a0adec82a53f3e3d92d484b687eea6d98",
+    "text": "創作超細緻的 3D 風格化創意設計師海報，其中一位酷炫的年輕數位藝術家自信地站在未來藍色霓虹燈工作室的中心。該角色穿著帶有電藍色圖案的超大黑色街頭服飾、黑色工裝褲、分層銀色鏈條、黑色太陽眼鏡和乾淨的白色運動鞋。一隻可愛的毛茸茸的小狗坐在藝術家的肩膀上。攝影機角度採用戲劇性的低角度視角，使運動鞋顯得更大，呈現出優質的海報效果。\n\n用浮動創意元素圍繞角色，包括發光筆記型電腦、專業相機、設計書籍、筆記本、3D 圖示、社交媒體符號、全息 UI 面板、圖形設計工具和未來派藍色幾何形狀。新增整合到場景中的激勵性排版，例如「設計模式」、「建立•建構•激發」和「創意永不停息」。\n\n包括一個可收藏的赤壁迷你人物版本的角色，站在展示底座上的主要主題旁邊。使用電影藍色燈光、光澤反射、體積發光、景深、浮動粒子、豪華玩具攝影美學、高階 3D 渲染、Octane 渲染質量、超銳利細節、充滿活力的霓虹藍色調色盤、未來派創作者工作空間氛圍、優質商業海報設計、流行的 ArtStation 風格、傑作品質、8K 解析度、垂直 9:16 構圖。"
+  },
+  "504": {
+    "sourceSha256": "eeff3e52d623f88fe1611c7fe3c9cd6f47b70996de6f5e292ee47298a8689916",
+    "text": "把這張照片變成一個混亂有趣的塗鴉插圖，故意弄亂和低技巧，就像用廉價記號筆、蠟筆或破舊的氈筆在紙上快速繪製的一樣。\n\n創造出誇張的面部特徵，包括尷尬的比例、不均勻的眼睛、超大的頭部、微小的身體、歪斜的微笑和笨拙的解剖結構，同時仍然保持人物的可識別性。在場景周圍使用粗糙的幼稚草圖線條、搖搖欲墜的手繪筆觸、可見的塗鴉、重疊的輪廓、意外的標記和隨機的塗鴉。新增一個簡單的卡通風格背景，其中包含繪製不佳的建築物、樹木、雲彩、街道元素和不均勻的視角。著色應該看起來粗心和不完美，具有明顯的筆觸紋理、不一致的填充區域、蠟筆紋理、標記出血和不規則的陰影。包括有趣的缺陷，如劃掉的線條、未完成的細節、隨機箭頭、小筆記、星星、漩渦和抽象塗鴉。整體美學應該是幽默的、自發的、手工製作的、充滿活力的、愚蠢的、故意未經修飾的，就像孩子的素描本與荒謬的網路迷因藝術混合在一起。高紋理細節、可見的紙紋、不對稱的構圖、尷尬的取景、富有表現力的塗鴉混亂、原始的草圖能量。"
+  },
+  "505": {
+    "sourceSha256": "7723d6a6d9103cfa064d7094ed514f39dafd82b676032a69b2439ed3fa58ccfa",
+    "text": "一位年輕的成年女性，五官柔和精緻，戴著薄薄的金屬眼鏡，留著及肩的深色凌亂頭髮，在夜晚在深色軟墊沙發上向前傾身。她穿著淺奶油色蕾絲飾邊細肩帶吊帶背心和配套的柔軟短褲。一隻手拿著一部靠近前景的智慧型手機，螢幕的光芒在她的手指和眼鏡鏡片上投射出涼爽的反射。她的表情如夢似幻，略帶疲倦，眼睛抬向鏡頭，就好像她剛從滾動中抬起頭來，嘴唇輕輕地閉上，放鬆地撅起嘴。\n\n以略高於視線高度的垂直 3:4 畫面拍攝，中特寫至四分之三肖像。溫暖昏暗的鎢絲房間燈與涼爽的手機螢幕反射混合在一起，沒有閃光，沙發和牆壁上的柔和衰減。淺景深，柔和的低光顆粒，輕微的運動模糊，自然的不完美清晰度。背景：簡單的米灰色牆壁，簡約的裝飾，深夜的氛圍。柔和迷人的妝容：精緻的眼線、長長的睫毛、光滑的皮膚、光澤的粉裸色嘴唇。現實的社交媒體夜間肖像美學。"
+  },
+  "507": {
+    "sourceSha256": "5df7148ca02cd714960af576bbcd8ed6a73e0c87b183e514c2bee327c54d7e34",
+    "text": "[subject] 手工製作的鉤針娃娃，採用柔軟的紗線紋理和複雜的針織細節製成。穿著生動的[color1]口音和精緻的[color2]服裝，拿著一個小[prop]。坐落在舒適的[setting]、溫暖靜音的氛圍、迷人的手工美學、懷舊的amigurumi 風格中。"
+  },
+  "509": {
+    "sourceSha256": "a08f345a45259654201f99dc50c7f8ead14552f3adf57b02441d57238c9bce93",
+    "text": "[subject] 的一張俏皮、高調的工作室肖像，在無縫的淺灰色背景中快樂地奔跑，拍攝到了邁步中間，一條腿抬起，臉上掛著真誠的笑容。拍攝物件穿著寬鬆的休閒服裝，採用柔和的中性色調（或鮮豔的色彩），營造出動感的運動感。在他們身後，一個簡單的黑色手繪卡通人物抓住並拉伸他們的襯衫後背，使布料看起來有彈性，彷彿試圖阻止他們。塗鴉角色以富有表現力的動作線條和幽默的面部表情自然地融入場景中。拍攝物件拿著一個有趣的道具（例如恐龍玩具、超大棒棒糖、泰迪熊或氣球），增強了有趣的故事敘述。極簡主義構圖、乾淨的工作室燈光、柔和的陰影、超清晰的焦點、逼真的皮膚紋理、充滿活力而自然的色彩、異想天開的編輯攝影、優質的兒童時尚廣告美學、高度細節、逼真、8K。"
+  },
+  "510": {
+    "sourceSha256": "6427e7f61957e58d42fbcca7bca757d65c99489587f471ce4bfe8f402f1008de",
+    "text": "名為「Bichon Shop」的應用程式的 macOS 應用程式圖示。具有平滑連續圓角的單一鬆鼠圖示，位於帶有填充的白色畫布的中心，佔據畫布的約 80%。現代輕量擬物化 macOS App Store 風格。只有一個圖示。"
+  },
+  "511": {
+    "sourceSha256": "de3142bcdb72032a85ad3af16aafcf4f6794441346ead952ff6e797266b55bba",
+    "text": "創造一個乾淨、現代的印刷旅行海報，其中城市名稱本身就是構圖。使用跨越藝術作品寬度的大號、粗體、大寫無襯線字母呈現城市名稱。將城市最具代表性的地標、建築、紀念碑、街道、交通、文化符號、咖啡館、橋梁、公園、天際線、雕塑、海濱、歷史建築和當地細節無縫融入字母、字母周圍和字母內部。讓地標自然與版式互動，同時保持易讀性。\n使用優雅的平面向量插圖風格，具有清晰的幾何形狀、最少的細節、乾淨的輪廓、微妙的陰影和優質的編輯美學。保持深海軍藍、暖奶油色、柔和的紅色和柔和的灰藍色等有限的調色盤，打造永恆的旅行海報外觀。\n新增小型裝飾元素，例如路燈、樹木、雲彩、鳥類、長凳、腳踏車、噴泉、電車、渡輪或其他適當的城市特定物體。保持寬敞的負空間、乾淨的背景和完美平衡的構圖。\n確保每個地標、建築風格、車輛、標誌和文化元素都準確地適合所選城市，避免通用或不正確的地標。如果需要，可以在城市名稱下方新增一個優雅的小標語（例如著名的暱稱或口號），並以最小的字型排版。\n風格：優質平面向量、簡約旅行海報、幾何插圖、編輯設計、旅遊品牌、乾淨的排版、高對比度、超銳利的線條、博物館品質的印刷、現代圖形設計、居中構圖、可擴充套件的 SVG 美學、8K 解析度。"
+  },
+  "512": {
+    "sourceSha256": "8fb8ed172e7a2b0c714783115a0c96e1ecf9c0bde8d0ce1b17b95dbd6d2c5b18",
+    "text": "使用上傳的參考影像作為主要角色設計參考，保留整體輪廓、比例、未來派服裝分層、頭盔幾何形狀、面罩形狀、石頭般的野獸派盔甲表面、黑色連帽外套、戰術街頭服裝結構、手套、靴子、實用腰帶和單色工業美學。\n\n受野獸派建築、工業混凝土紋理、幾何形式和簡約科幻設計語言的啟發，為 2D 風格化的未來自由式公路足球主角建立優質製作角色表。此簡報應類似於 AAA 遊戲角色週轉表與耐吉商業概念簡報的混合。\n\n角色應該給人敏捷、時尚、自信、運動的感覺，並且適合城市花式足球。保持帶有發光橙色護目鏡的混凝土紋理頭盔、超大兜帽、戰術長外套、機械手套、裝甲靴和工業細節與設計語言完全相同。足球應該自然地融入演示中。最小的灰白色背景（#F7F5F0）。\n\n專業製作板材排版。線條極為乾淨。電影概念藝術。優質的圖形設計。沒有照片寫實主義。高階風格化插圖。角色角度 前檢視 中立英雄姿勢。左側檢視 右側檢視 後方檢視 3/4 前檢視 動態自由式姿勢 單腳站立，同時平衡足球。英雄姿勢足球在腳下。長外套飄逸。自信的姿勢。特寫標註 頭盔設計 橙色發光遮陽板 混凝土野獸派表面 工業磨損 面板分解 上半身 塗層結構 帶扣 織物褶皺 裝甲整合 機械手套 手指關節 工業接頭 材料分解 實用腰帶 裝置 緊韌體 足球配件袋 靴子設計 重型野獸派幾何形狀 橙色抓地的混凝土抓地街頭材料裝飾力碳戰術布料 霧面黑色尼龍 工業橡膠 鍛造鈦合金元件 橘色能量照明 調色盤 混凝土白色 霧面黑色 石墨灰色 炭燒橘色 夜光深鋼 表情表 中立 專注 競爭 自信的微笑 遊戲面孔 勝利表情 動作剪距球雜耍相機毫米追蹤攝影機英雄姿勢 24 毫米電影鏡頭 SFX 標籤 WHOOSH SWISH TAP BOUNCE THUD ZIP SPIN VROOM RUSH MUSIC HIT CROWD CHEER 慢動作標籤 120 FPS 240 FPS 定格運動軌跡 速度斜坡指南 在所有檢視中保持一致的比例。保持野獸派設計語言的一致性。強調混凝土風格的硬表面與靈活的戰術織物的對比。將發光的橙色遮陽板作為主要焦點。使用帶有箭頭和標籤的清潔生產標註。包括測量指南、材料註釋和設計註釋。保持演示的最小化和優質。避免混亂。專業的概念藝術質量，適合 AAA 遊戲開發、電影製作和廣告宣傳片。佈局 16:9 景觀 頂部中心：主標題街道流動 // 野獸派自由式 下圖：製作角色表 中心：大型英雄角色 左：正面 • 側面 • 後檢視 右：3/4 檢視 • 動作姿勢 • 英雄姿勢 底部：特寫鏡頭 • 材料 • 調色盤 • 裝置 • 足球設計設計 • 鏡頭表情最小的灰白色背景，帶有微妙的網格參考線、技術繪圖箭頭、乾淨排版和優質的商業演示品質。"
+  },
+  "513": {
+    "sourceSha256": "c543d660dea90d699e9462774cdc141335bbe7bed6a1a0c67d96de7da173609c",
+    "text": "以簡單的手繪塗鴉風格建立 {DESTINATION} 的迷人編輯旅行插圖，就像在旅行筆記本上用黑色氈尖記號筆手繪草圖一樣。插圖應該讓人感覺是個人化的、自發性的和不完美的，而不是數位設計的。想像一下某人在探索完目的地後坐在咖啡館時可能會隨意創作的那種繪畫。 ** ## 調色盤 保持插圖幾乎完全是黑白的。**僅使用一種強調色：{ONE POINT COLOR}** ## 風格完全用黑色氈尖筆線條繪製。使用稍微晃動的手繪輪廓、自然的線條變化、鬆散的標記筆劃、草圖般的自信、微妙的瑕疵、稍微開放的線條末端、不均勻的手部壓力以及偶爾重疊的筆劃。每條線都應該看起來明顯是手工製作的。避免完美平滑的曲線、機械精確的輪廓、拋光的向量圖形或過於清晰的數位渲染。## 主題 展示 **{DESTINATION}** 的獨特氛圍和立即可識別的身份，而不是製作現實的城市景觀。選擇目的地最具代表性的地標、特色建築、當地交通、著名風景、本土植物、當地動物、當地美食和文物。專注於目的地的精神而不是字面的準確性。## 構圖 將所選元素排列成平衡的編輯構圖，並留有大量空白。佈局應該給人開放、輕鬆、輕鬆的感覺，類似設計師的旅遊素描本。讓物體自然重疊，而不會變得擁擠。每個元素都應該有呼吸的空間。保持構圖視覺上輕鬆、整齊。將藍色謹慎地應用於選定的細節，例如水、天空、窗戶、標誌、服裝配件、裝飾亮點或小型建築特徵。切勿引入任何額外的顏色。## 繪圖風格 保持每個物件簡單並有意簡化。使用具有最少內部細節的平面形狀。避免逼真的紋理、漸層、陰影、繪畫筆觸、光澤表面或複雜的渲染。插圖應保持乾淨、通風、低調且高度生動。## 線條品質 黑色標記線是主要的視覺特徵。線條應該給人自信、隨興、活潑、富有表現力、自然不完美的感覺。鼓勵輕微不均勻的輪廓、開放的邊緣、可變的線條粗細和小的繪圖誤差，因為它們增強了真實的手繪感覺。## 心情溫暖。友好的。輕鬆。好玩。最小。社論。當代的。簡約中透出優雅。完成的藝術品應該類似於設計精美的旅行筆記本、精品旅遊指南、社論雜誌插圖或生活方式素描本，而不是精美的數位插圖。## 重要 沒有照片寫實主義。沒有 3D 渲染。沒有繪畫效果。沒有漸層。沒有沉重的陰影。沒有光澤的燈光。沒有向量乾淨的藝術品。沒有過多的細節。沒有繁忙的作文。保留充足的空白。保持平面編輯塗鴉美學和明顯的手工製作特徵。最終的影像應該透過簡單、富有表現力的黑色氈尖草圖和微妙的天藍色口音立即喚起**{DESTINATION}**。"
+  },
+  "514": {
+    "sourceSha256": "5d7b53dc7f4d280c8a00d0e3ba93a0c79d4ef639e12704dc7d1677283b28bace",
+    "text": "霧面檔案紙上的引人注目的硬邊現代藝術作品，具有可見的絲網印刷層和輕微的墨水錯位。一位年輕的東亞女性的四分之三側面輪廓清晰。她的面部特徵呈現出精確、清晰的輪廓，與似乎從她的皮膚內部散發出來的抽象、發光的幾何形狀形成鮮明對比。她穿著一件深午夜藍色的時尚高領夾克，飾有一枚醒目的尖三角形霓虹珊瑚胸針。她的深色頭髮被設計成一種嚴肅的、有建築感的鈍邊鮑勃造型。她的表情平靜而超然，眼睛凝視著畫面外。背景是一個乾淨的建築空間，具有清晰的白色和深石板的尖銳對角平面。高對比的明暗燈光突出了她輪廓的邊緣。精緻的調色盤：深邃的午夜藍、清爽的白色、電光霓虹珊瑚色。流浪貓尾巴在左下角被渲染為尖銳的幾何向量。Ultra-modern artistic style.沒有數字 CGI 的感覺。\ndutch angle, stray cat tail --ar 9:16"
+  },
+  "515": {
+    "sourceSha256": "4ffc1cdd3ca431b7658003eb69baf297434470b2773182a5987cdaf8afa5bf34",
+    "text": "@Crea una imagen {\n\"style\": \"電影復古電影海報 — 墨西哥瓜達拉哈拉\",\n\"target_tool\": \"DALL-E 3 (ChatGPT)\",\n\"prompt\": \"產生一個垂直縱向格式的電影海報影像，高大於寬，長寬比為 2:3。該影像是墨西哥瓜達拉哈拉的電影復古旅行電影海報，採用舊大畫幅電影海報的視覺紋理進行渲染：厚重的 35mm膠片顆粒，特別是在陰影區域，略微褪色和暖移的色調，就像列印在舊的啞光紙上一樣，中間色調中可見微妙的半色調點圖案，並且非常輕微高對比度邊緣的墨水滲色賦予其真實的複古印刷海報感覺：前景是一個孤獨的墨西哥流浪音樂家靜靜地站在畫面中央底部，呈現為純粹純粹的復古印刷海報感覺：前景是一個孤獨的墨西哥流浪音樂家靜靜地站在畫面中央底部，呈現為純粹乾淨的黑色剪影，看不到任何面部特徵——傳統的寬邊查羅寬邊帽，合身的查羅西裝輪廓，拿著一把吉他——在解放廣場的蜂蜜色坎特拉石鋪地上投射出長長的溫暖陰影。 下面，紅色、橙色、綠色和黃色剪紙薄紙的彩色紙皮卡多橫幅在建築物之間以鬆散的對角曳線串起，輕輕搖曳線串起，輕輕的對角線， ，構成了上部構圖，除了單個剪影人物外沒有其他人，沒有車輛，沒有現代物體中景：德戈拉多劇院宏偉的蜂蜜琥珀色坎特拉石新古典主義立面直接在剪影後面升起，其華麗的柱狀門廊和三角形山牆在黃金時段的低照下溫暖地照亮。石頭上，溫暖的琥珀色火山石在金色的光芒下閃爍著強烈的光芒：瓜達拉哈拉大都會大教堂的雙座新哥德式尖頂高聳入上框，映襯著廣闊的深藍色天空，在地平線附近過渡到焦琥珀色和深橙色，一朵分散的雲從下面捕捉到紫色和金色的光芒，大教堂的正面與溫暖的蜂蜜石相匹配。 Teatro Degollado 的調色盤：飽和的溫暖琥珀色和金色蜂蜜色調在石頭建築中佔主導地位，上層天空呈深鈷藍色，地平線附近呈濃鬱的焦橙色，陰影區域中的褪色溫暖棕褐色與復古印刷海報一致。\n\"target\": \"🎯 目標：DALL-E 3 (ChatGPT) — 💡 前景/中景/背景分離將 Teatro Degollado 和大教堂置於不同的空間層次中，墨西哥流浪樂隊的輪廓被指定為無特徵的輪廓，以消除畸變風險，復古印花紋理以視覺方式描述，而不是作為標籤風格標籤。\"\n}"
+  },
+  "516": {
+    "sourceSha256": "dd5b6dfdb9d3c1bab500e1332727f70859d688ed7d8f5262060d5cb65ace5aaa",
+    "text": "建立 {Object} 的超詳細超逼真 3D 渲染，由彎曲成設計精確形狀的厚工業橡膠管形成，靈活而緻密的結構，光滑的圓形輪廓，微妙的啞光飾面，逼真的彈性體紋理，微弱的模製接縫線，每條曲線的柔和張力，真實的材料壓縮和拉伸行為，略微抓地力的表面質量，工程物件真實感，使用正宗官方品牌調色盤 [brand]進行著色，忠實的品牌匹配色調應用於整個管材、遵循原始徽標設計的準確色塊、優質工作室產品攝影美學、純白色無縫背景隔離、柔和的漫射工作室照明、逼真的接觸陰影、宏觀細節、銳利的焦點、照片級真實感、8k、16:9、無水印、無額外文本。"
+  },
+  "520": {
+    "sourceSha256": "19577b86569857d9cd8c0f1c2a1b68c8c655442604e825255e2d0d5de09bfe65",
+    "text": "以深海軍藍色 T 卹為中心的圖形插圖，描繪了從側面觀看坐在月球表面上的太空人。太空人穿著精緻、笨重的太空服和頭盔，靠在月球的一個小巖層上，手裡拿著一個熱氣騰騰的小杯子，表明他們正在享受平靜的飲料。背景中太空人正前方是一幅巨大而雄偉的地球檢視，以白色、淺藍色和海軍藍的色調呈現，具有突出的漩渦雲層。整個藝術品是單色的，採用冷色調的藍白色調，營造出一種寧靜、孤獨和沈思的氛圍。月球地面佈滿隕石坑和塵埃，與廣闊、黑暗的天空和上方明亮、旋轉的行星形成鮮明對比。風格乾淨、藝術、標誌性，讓人想起網版印刷的服裝設計。"
+  },
+  "522": {
+    "sourceSha256": "11949921e8436a8d16eb233c3221c483e07ef238c624ca49639c08c957f5d099",
+    "text": "使用單張上傳的照片作為唯一的視覺參考。將角色轉變成可愛的手繪 2D 兒童故事書角色，同時保持其身份易於識別。\n\n完全保留照片中的內容：\n- 臉部特徵和膚色\n- 真實的髮型、長度、質地和顏色\n- 精確的服裝、顏色、圖案和層次感\n- 眼鏡、珠寶、頭飾、包包和所有可見配件\n\n請勿從任何參考藝術品發明或複製髮型、服裝、配件、辮子、辮子、蝴蝶結、帽子或頭巾。\n\n### 角色\n超大圓頭、小巧緊湊的身軀、短臂、窄肩、柔和圓潤的輪廓、可愛童趣的比例。保持頭部在視覺上佔主導地位。避免現實的解剖結構。\n\n### 臉\n簡化為微小的圓點/橢圓形眼睛、最小的鼻子、微小的微笑嘴、圓形的臉頰和柔和的桃色/粉紅色腮紅。保持可辨識的臉部特徵。沒有逼真的眼睛、細緻的嘴唇、動漫特徵、光滑的 3D 渲染或濃重的陰影。\n\n### 頭髮和服裝\n根據上傳的照片重新建立準確的髮型和服裝，並簡化為粗壯的手繪形狀。保留重要的顏色、圖案、珠寶、眼鏡和其他可識別的細節。\n\n### 風格\n使用軟水粉、蠟筆、色鉛筆和乾粉彩手工製作 2D 圖畫書美學。使用稍微不規則的深棕色線條、微妙的紙紋、不均勻的顏料、柔軟的刷痕和不完美的塗漆邊緣。避免乾淨的向量藝術、CGI、動漫或照片寫實主義。\n\n### 成分\n方形 1:1 肖像，胸部/腰部以上，居中，大部分面向前方，具有平衡的負空間。使用輕鬆、迷人的姿勢。\n\n### 背景\n簡單溫暖的芥末色、黃油黃色、赭石色或奶油色背景，具有微妙的紙張紋理。沒有風景、物件、文字、邊界或乾擾。\n\n最後的感覺：同一個人被精心重畫成極其可愛、溫暖、健康、懷舊、手工製作的童書人物——同樣的身份、同樣的頭髮、同樣的衣服、同樣的配飾，完全簡化可愛。"
+  },
+  "523": {
+    "sourceSha256": "2459c90b2604b453a6e7036f64a43400c5cd7930653cb11b9df953327ae94dc8",
+    "text": "受復古歐洲旅行海報的啟發，創作垂直的編輯旅行插畫，以宏偉的城市公園中寧靜的夏日午後為背景，以可識別的曼哈頓風格天際線為背景。在溫暖的紋理奶油色紙上使用精緻的手繪墨水輪廓與柔軟、略帶瑕疵的水彩畫相結合。展現出一片寬闊的綠色草坪，人們正在放鬆、閱讀、散步、慢跑、騎腳踏車和野餐。在前景中，一對穿著休閒的年輕夫婦坐在野餐毯上，旁邊是一個編織籃。包括優雅的黑色復古公園燈、蜿蜒的小路、構成構圖的茂密綠葉樹木，以及公園後面拔地而起的細緻的歷史和現代摩天大樓。在藝術品底部附近平靜的池塘上新增一座風景如畫的小石拱橋。使用柔和的鼠尾草綠、橄欖色、溫暖的米色、柔和的藍色、淺灰色和微妙的金色陽光，搭配自然的水彩滲色、紙紋、精細的鋼筆陰影線和通風精緻的旅行日記美學。沒有文字，沒有字母，沒有徽標，沒有排版，沒有標題，沒有標誌。垂直4:5構圖，細緻、優雅、懷舊、手工水彩和水墨插圖。"
+  },
+  "524": {
+    "sourceSha256": "8f0d30b20db7afb247ca1e3fa60d6743985b6e6428061f1c86922651ef1e38d9",
+    "text": "創造一個優質的、異想天開的手工紙質拼貼立體模型，靈感完全來自上傳的參考影像。\n\n使用上傳的女孩參考作為唯一的人類主體。最準確地保留她的面部特徵：準確的臉型、眼睛、眉毛、鼻子、嘴唇、膚色、髮型、髮際線和可識別的面部特徵。嚴格的臉部身分鎖定－不得重新設計、美化、風格化、老化、減齡或更換臉部。\n\n女孩獨自站在構圖的中央，擺出優雅、自然的編輯姿勢。她面對鏡頭，表情輕鬆自信，笑容微妙自然。她的身體微微傾斜，營造出一種坦率的時尚編輯感。她雙手自然地舉在身前，捧著一束美麗的混合小花。一條腿稍微交叉在另一條腿前面，呈現出優雅放鬆的姿勢。\n\n服裝\n\n完全改變原來的服裝，同時保持完全謙虛和優雅：\n\n- 優雅的象牙色/奶油色長袖紐扣襯衫\n- 高腰寬腿米色長褲\n- 完全覆蓋的全長褲\n- 簡單的奶油色閉趾鞋\n- 棕色小號皮革肩背包\n- 不穿暴露的衣服\n- 沒有暴露的腹部\n- 精緻的鄉村時尚編輯\n- 自然逼真的織物褶皺和紋理\n\n環境\n\n創造美麗的手工 3D 紙質立體模型鄉村場景：\n\n- 遠處層層疊疊的藍色山脈\n- 綠色的森林和起伏的山丘\n- 寧靜的藍色湖泊\n- 湖邊綠草如茵的風景\n- 前景有紋理的米色紙路\n- 女孩身後質樸的白色木柵欄\n- 夢幻般的柔和天空\n\n以粉紅色、桃色、奶油色、白色和淺藍色的超大手工紙花和分層的綠色紙葉圍繞構圖。\n\n加入漂浮在天空中的裝飾紙元素：\n\n- 粉紅色紙心\n- 黃紙星星\n- 藍色星星\n- 柔和的白色和淡藍色雲彩\n- 彩色小紙點\n\n在背景中的湖邊放置兩輛小型老式汽車：一側是一輛奶油色老式露營車，另一側是小型老式藍綠色汽車。\n\n藝術指導\n\n整個環境看起來應該是用優質紋理紙手工製作的，而女孩則保持照片般的真實感並無縫地融入紙質世界。\n\n用途：\n手撕紙邊緣、可見的紙纖維、分層卡片紙、微妙的瑕疵、逼真的紙張陰影、立體剪紙元素、觸覺紋理、柔和的自然光、電影深度、柔和的大氣視角、優質的編輯攝影。\n\n最終的影像應該感覺像是一本豪華的手工紙本故事書，以真實的攝影主題栩栩如生。\n\n成分\n\n中心全身女孩\n臉部清晰可見，細節清晰\n自然優雅的姿勢\n花束自然握持\n質樸的柵欄構成了主題\n湖光山色營造深度\n下角均飾有大花\n雲彩和裝飾元素填充上方背景\n平衡對稱的構圖與有機手工缺陷\n女孩依然是最強焦點\n\n最終造型\n\n逼真的女孩+手作紙藝術環境\n夢幻般的柔和色彩\n奢華的編輯美學\n異想天開的微型立體模型\n柔和的電影日光\n高度細緻的紙張紋理\n自然逼真的肌膚\n銳利的臉部辨識\n專業時尚攝影\nPinterest/Instagram 病毒式視覺美學\n雜誌品質的構圖\n\n垂直4:5肖像構圖，全身取景，超細節，高解析度，乾淨的拋光錶面，視覺衝擊力，美學平衡，優質手工紙質拼貼攝影。"
+  },
+  "525": {
+    "sourceSha256": "ba872111ad4a8c81f2617f1eae5c610653d8d992f6406b19bcfaa41ea57a644f",
+    "text": "使用提供的影像作為準確的面部參考，呈現出電影般的超現即時尚男士特寫肖像。保留他自然的面部特徵，濃密的自然捲曲的深棕色頭髮，修剪整齊的椒鹽鬍鬚，強烈的男性面部結構和逼真的面部比例。他戴著精緻的圓形復古琥珀色太陽眼鏡，身穿高階深酒紅色絨面革夾克，內搭合身的黑色絲綢針織襯衫，營造出精緻奢華的時尚美感。\n\n溫暖的電影工作室燈光，柔和的琥珀金色主光從左前方照亮臉部，輔以微妙的深紅色邊緣光勾勒出頭髮和肩膀的輪廓。背景是濃鬱的酒紅色、酒紅色和深紫紅色漸變，柔和的大氣霧和微妙的漫射光營造出深度，但不會分散主體的注意力。優雅的溫暖亮點與深色服裝形成鮮明對比。\n\n極其細緻的自然皮膚紋理、單獨的鬍鬚、逼真的毛孔、微妙的面部瑕疵、略微有色鏡片後面可見的銳利眼睛、太陽眼鏡上的自然反射、豐富的立體陰影、逼真的織物和絨面革紋理、淺景深。奢華奢華的時尚宣傳片，神秘自信的心情，優質男士編輯攝影，電影級調色，真實感，HDR，專業影棚攝影，85mm人像鏡頭，f/1.8，清晰的面部細節，柔和的背景散景，居中構圖，頭肩取景，強大的陽剛氣息，低調的優雅，3:4的精緻高比。"
+  },
+  "527": {
+    "sourceSha256": "d37e97eedf944f43f6c429b7d0ee157a7470477cdc952d8d1337e8c7e4085feb",
+    "text": "受裡約熱內盧啟發，建立高度詳細、逼真的微型旅行海報立體模型，在溫暖的象牙色、略帶紋理的背景上佈置為手工製作的 3D 紙場景。\n\n在前景中，一隻逼真的人手在左側垂直握住一張老式巴西旅行票或裡約主題交通卡。賦予卡片老化的紙張紋理、微妙的印刷瑕疵、優雅的排版和真實的旅行細節。從卡片後面，微型裡約熱內盧風景像一個複雜的彈出式立體模型一樣向外升起。\n\n讓救世主基督成為主要的中心地標，位於微型城市景觀之上，周圍環繞著鬱鬱蔥蔥的綠色山脈。下面，建造一條真實的裡約小街，其中有一輛經典的黃色計程車、色彩繽紛的建築、棕櫚樹、行人、騎腳踏車的人、路燈、瓷磚人行道和巴西小城市細節。遠處添加了科帕卡巴納海灘元素，包括小雨傘、海灘遊客和大西洋的一瞥。將建築和地形分層，使一切看起來都是由紙張、木材、石膏和微型材料物理構建的，具有令人信服的深度、投射陰影、重疊的表面和輕微的四分之三透視。\n\n圍繞著主要 3D 場景，在奶油色紙上融入精緻的黑色、木炭色和柔和的棕褐色手繪旅行插圖。包括左上角的小舒格洛夫山草圖、右上角的科帕卡巴納長廊藝術插圖、右側的詳細塞拉隆階梯草圖以及靠近底部的伊帕內瑪海濱天際線小圖。新增微妙的手寫旅行筆記、微小的地圖示記、建築輪廓、指南針符號、郵票細節和低調的巴西旅行註釋。\n\n保持構圖精緻而不是擁擠。將逼真的微型攝影與復古旅行日記設計、觸感紙纖維、微弱的墨水滲色、不完美的手繪線條、溫暖的自然工作室燈光、柔和的陰影、微妙的膠片顆粒以及精緻的奶油色、木炭色、柔和的綠色、海洋藍色和巴西黃色調色盤融為一體。\n\n最終影像應該感覺像是一張高階收藏級裡約熱內盧旅行明信片轉變成一個物理微型世界，中央立體模型清晰細緻，周圍的插圖稍微柔和。高度逼真的人手和手指、可信的微縮材質、電影產品攝影、編輯旅遊雜誌美學、淺景深、超精細紋理、逼真的 3D 細節、垂直 4:5 構圖、8K 品質。"
+  },
+  "528": {
+    "sourceSha256": "1bda7820090044e8dbce63a365deaebe6fd4183846c6faf7770144fbd764c372",
+    "text": "使用上傳的影像作為主要參考。將角色轉變成可愛的手繪動漫/赤壁角色，同時保留原始人物可識別的臉部特徵、髮型、服裝、姿勢和配件。\n\n一位可愛的年輕女子在藍色時刻站在現代城市街道上，周圍是高大的燈火通明的摩天大樓和節日的聖誕裝飾。一棵巨大的發光聖誕樹掛滿了溫暖的金色燈光，就矗立在她身後，營造出神奇的節日氛圍。街道上佈滿了優雅的裝飾燈光、行人、現代建築以及柔和的夜晚城市燈光。\n\n以迷人的日本手繪動漫/赤壁插畫風格渲染角色，富有表現力的大眼睛，臉頰上柔和的腮紅，精緻的面部細節，紋理鉛筆和墨水輪廓，微妙的水彩般的色彩，以及略顯不完美的手工草圖細節。保持背景逼真且高度細緻，在插圖人物和現實世界環境之間形成美麗的對比。\n\n電影構圖，自然透視，柔和的夜晚燈光，溫暖的聖誕光輝，逼真的背景深度，細緻的服裝質感，舒適的冬季氛圍，高細節，美觀，垂直肖像構圖。"
+  },
+  "529": {
+    "sourceSha256": "92b2896098082138300278f9d5620fbcab20ffff4f74681835909e8a4d9bc9d9",
+    "text": "根據@image1 中的人物建立夢幻般的超真實感戶外時尚照片。\n\n身分與臉孔：\n保留 @image1 中人員的準確臉部身分。保持相同的臉型、臉部比例、眼睛、眉毛、鼻子、嘴唇、膚色、髮型、髮際線和所有可識別的臉部特徵。該人必須保持清晰可辨並與參考影像一致。請勿重新設計或更換臉部。\n\n姿勢與構圖：\n創造一個自然站立在長滿青草的山脊上的人的全身垂直肖像。身體稍微轉向相機，而臉部自然地朝向觀看者。一隻手輕輕握住幾條長長的白色繩子，這些繩子連線著巨大的蓬鬆白雲，漂浮在人的正上方，就像一束異想天開的氣球花束。另一隻手自然地放在身體旁邊。\n\n場景：\n令人驚嘆的高海拔山地景觀，遠處的藍綠色山脈層層疊疊地延伸到地平線。拍攝物件站在天然的草脊上，腳邊長著嬌嫩的野草。廣闊的天空佔據了構圖的上部。\n\n雲氣球：\n在主體正上方建立一個巨大的柔軟白色積雲，視覺上類似一個巨大的浮雲氣球。多條白色細繩從雲中落下，優雅地匯聚到人的手中。弦線應該看起來物理上可信並且自然地連線到雲。雲蓬鬆、體積大、亮白色，在陽光的照射下美麗極了。\n\n服裝：\n為對方穿上完全端莊、優雅、完全遮蓋的服裝：\n\n長至腳踝的飄逸淺藍色超長洋裝\n\n寬鬆的長袖完全覆蓋手臂\n\n高而適度的領口\n\n不透明不透明布料\n\n飄逸長裙\n\n簡約白色閉趾運動鞋\n\n小號編織斜背包\n不露腰，不穿深領口，不穿透明布料，不穿短裙，不穿暴露的衣服。穿著應顯得優雅、舒適、優雅、健康。\n\n配件：\n加上雅緻的圓形深色太陽眼鏡和簡約的編織單肩/斜背包。保持配件簡約、自然。\n\n頭髮：\n盡可能保留@image1 中該人的原始髮型和頭髮顏色。讓幾縷自然的頭髮在山風中輕輕飄動。\n\n照明：\n明亮的自然正午陽光，柔和的大氣照明，白雲和衣服上的真實高光，微妙的自然陰影，清晰但柔和的曝光，美麗的藍天對比。\n\n攝影風格：\n超真實的專業旅行時尚攝影，真實的皮膚紋理，自然的織物細節，物理上精確的照明，真實的景深，電影般的大氣透視，高動態範圍，清晰的主體與柔和細緻的背景。\n\n調色盤：\n天藍、柔白、淡粉藍、天然的綠草、遠方的青山。乾淨、通風、夢幻的色彩分級，營造出寧靜的夏日氛圍。\n\n成分：\n9點16分的垂直肖像，全身從頭到鞋都清晰可見，主體位置略低於中心，巨大的藍天和雲彩佔據上半部分，遠山形成柔和的水平地平線，平衡的負空間，視覺上引人注目的社論旅行照片。\n\n重要：\n保留@image1 的確切身分。請勿改變該人可辨識的臉孔或臉部結構。保持服裝完全樸素、不透明且完全遮蓋。保持真實的解剖結構、自然的手、真實的比例以及人、弦、雲、草和山環境之間可信的互動。"
+  },
+  "530": {
+    "sourceSha256": "38a01bced41e9e7c96e001f26467a8be4446d450c6b069b8b3541daff91ed05e",
+    "text": "僅將上傳照片中的人物轉換為可愛的手繪塗鴉人物，同時保持原始照片背景不變。\n\n核心規則：\n背景=原始的真實照片。\n人=可愛的手繪塗鴉人物。\n\n保留背景：\n保持原始的天空、風景、建築物、水、傢俱、地面、植物、欄桿、物體、燈光、顏色、透視、拍攝角度、取景和紋理盡可能接近原始照片。\n\n請勿對背景或環境物件重新繪製、簡化、說明或應用塗鴉/蠟筆/鉛筆效果。\n\n只改變人：\n用迷人、天真的塗鴉版本替換每個人，同時保留：\n- 確切人數\n- 原始位置和相對比例\n- 正面/背面/側面/四分之三方向\n- 頭部和身體方向\n- 姿勢和手勢\n- 手臂和腿部的位置\n- 與人或物體的互動\n- 髮型、服裝顏色和主要配件\n\n重要：\n如果有人背向一側，請讓他們背對著。\n如果側向，請將它們保持側向。\n如果面向前方，請保持向前。\n切勿將人物轉向觀看者或捏造一張不可見的臉。\n\n可愛的塗鴉風格：\n自由地將現實的解剖結構重新詮釋成一個可愛的、不完美的角色：\n- 超大圓頭\n- 小巧的機身\n- 簡化的短手臂和腿\n- 小手小腳\n- 可愛尷尬的比例\n- 鬆散的潦草頭髮\n- 可見的小圓點眼睛和簡單的臉部特徵\n- 適當時在臉頰上塗上紅潤的潦草圖案\n\n保持原來的姿勢可識別，但為了可愛而簡化並稍微誇張。\n\n繪畫風格：\n寬鬆天真的手繪塗鴉，就像快速的兒童素描。\n使用細長的、不穩定的黑色輪廓、不完美的形狀、重疊的草圖線、潦草的彩色鉛筆或蠟筆填充、不均勻的顏色、白色間隙和稍微凌亂的邊緣。\n\n這個角色看起來應該是故意畫得很粗糙，但又非常可愛。\n\n物件：\n物體、傢俱、風景和人們周圍的物品應盡可能保持照片清晰。塗鴉角色可能會自然地觸控或握住真實的攝影物件。\n\n整合：\n保持正確的比例、地面接觸、深度和遮擋，以便塗鴉角色自然地佔據與原始人物相同的位置。\n\n最終外觀：\n感覺應該是真實的人物被從原始照片中刪除，並被可愛的手繪塗鴉版本所取代，而現實世界的背景保持不變。\n\n優先考慮：\n1. 原始攝影背景\n2.人物位置和比例\n3. 準確的身體方向\n4. 姿勢和手勢\n5.可愛又誇張的塗鴉人物設計\n\n避免全圖插圖、背景塗鴉、逼真的解剖學、動畫、漫畫、3D 卡通、精美的數位藝術、向量線、改變姿勢、改變方向、新增人物或發明臉。"
+  },
+  "531": {
+    "sourceSha256": "302c5401b1ce48af9e4d8e7a4055950b43a703803bcf672a7f3e5d824b7558b6",
+    "text": "以優雅的優質旅遊活動的精確視覺語言建立豪華、夢幻的鄉村旅行藝術系列：大型透明水晶/玻璃建築框架或拱形玻璃顯示器矗立在光滑的反光錶面上，包含目的地的高度詳細的電影插圖。對於[COUNTRY]，將其最具標誌性的地標、歷史建築、獨特的景觀、當地交通、文化元素、國旗、鮮花和可識別的風景排列成一幅無縫的詩意全景。使用溫暖的黃金時段陽光、柔和的大氣霧霾、柔和的奶油色、香檳色、柔和的藍色和鼠尾草色調、精緻的雲彩、微妙的鳥類、逼真的玻璃折射和邊緣的彩虹稜鏡高光。在玻璃結構下方創造完美的鏡面反射，以精美柔化的反射向下延伸整個構圖。在頂部新增優雅的編輯排版，閱讀“[COUNTRY]”，並在其下方新增較小的精緻文字“[COUNTRY] 的靈魂”和“穿越時間的旅程• 2026”。精緻的豪華旅遊雜誌美學，真實感又如繪畫般，電影般的深度，精美的構圖，極其細緻的建築，寧靜的氛圍，優質的廣告攝影，對稱平衡的取景，柔和的膠片顆粒，8K，垂直4:5，沒有雜亂，沒有現代UI元素，沒有多餘的文字。"
+  },
+  "532": {
+    "sourceSha256": "fb302b56879b7f824d551b1f7b6d87135fffab5b34635b24301102c65ead3e17",
+    "text": "為名為“LIMORA”的虛構檸檬飲料品牌建立戛納級別的優質夏季飲料宣傳海報，使用嚴格的 2 列 x 3 行網格佈局和六個完美對齊的面板。保留構圖的精確結構邏輯：每個面板都展示了在明亮的沙灘上與超大檸檬、檸檬片、檸檬汁或最終品牌飲料互動的同一個超現實的微小年輕女子，而選定的面板包括一隻從上面進入的巨大的現實人手。完整的海報必須感覺像是一個統一的高階廣告故事板，視線不斷從新鮮的柑橘類水果轉向精製飲料的慾望。檸檬產品世界必須仍然是所有六個面板中絕對的視覺英雄。\n\n整體構成：\n使用乾淨的六面板網格，具有薄的白色分隔線、相等的面板比例、一致的地平線、一致的海灘海洋背景和統一的照明。每個面板都應該感覺獨立但有節奏地連線，就好像同一個豪華夏季廣告中的六個連續場景被凍結在其最具標誌性的時刻。將微型女人和超大的檸檬相關物體保持在每個畫面的中心，背景中的大海柔和模糊，前景中的沙子清晰地呈現。整頁必須從遠處立即閱讀，具有強大的商業清晰度和精美的編輯控制。\n\n軌道視覺流：\n圍繞著從面板 1 到面板 6 的一個強烈的運動迴圈來設計整個場景。動作應該在視覺上升級：觸控、傾斜、擠壓、移動、擁抱、品嚐。在頭髮運動、手臂姿勢、腿部角度、果汁滴、勺子角度、檸檬片放置、吸管傾斜以及進入手的位置中使用重複的方向節奏，使眼睛自然地以流動的波浪掃過海報。在每個面板內建構微妙的對角能量，使柑橘世界感覺生氣勃勃、微風徐徐、閃閃發光、動感十足。整套套裝應該感覺像是夏天的能量圍繞著該品牌的檸檬飲料運轉。\n\n敘述面板順序：\n第 1 幅：小個子女人在沙上擁抱著一整顆巨大的檸檬，而一隻巨大的成年手從上方下降，小心翼翼地放置檸檬。她的姿勢活潑又略顯失衡，彷彿場景才剛開始。\n第2幅：她優雅地斜靠在半個檸檬裡，彷彿這是一張豪華的沙灘躺椅，戴著墨鏡，拿著一把小陽傘飲料鎬，而漂浮的檸檬片像光芒四射的柑橘太陽一樣從上方垂下。\n第三幅：一隻巨手從上方擠壓垂直切開的檸檬，半透明的果汁流和水滴以閃閃發光的弧線向下噴射。女人在它下面做出動態反應，雙臂舉起，身體傾斜，陷入柑橘的動作。\n第 4 幅：她乘坐一輛裝滿檸檬的精緻小木車，由一個異想天開的優質檸檬形狀生物或滾動的檸檬背帶拉著。手推車必須給人一種踏實、手工、時尚的感覺，而不是卡通化的。\n面板5：英雄高潮面板。一個高大的 LIMORA 品牌檸檬水杯佔據了整個框架，裡面裝滿了冰塊、檸檬片、淺色起泡液體、冷凝水、一根新鮮的綠色吸管和一把精緻的雞尾酒傘。小女人高興地擁抱著冰冷的玻璃，這個面板一定是整個構圖中產品銷售最強勁的時刻。\n第 6 幅：她坐在半個檸檬裡，而一把拋光的大勺子從上面降下，上面盛著光滑的檸檬冰沙或碎檸檬冰，帶著俏皮的期待創造出最後美味的服務節拍。\n\n英雄產品重點：\n真正的英雄是檸檬飲料系統：整個柑橘類水果、切片水果、榨汁、冰塊、起泡飲料、冰沙和優質的服務細節。每個檸檬都必須感覺超真實、芳香、陽光照射、多汁和觸感，具有細緻的皮膚毛孔、微妙的蠟狀油光澤、半透明的膜、濕切表面和明亮的天然柑橘果肉。圖 5 中的品牌玻璃必須是該系列中視覺上最具主導性的產品物件，具有晶瑩剔透的玻璃、精緻的原創英文品牌“LIMORA”、優雅的冷凝、優質的冰折射和發光的淡黃色飲料透明度。\n\n人物設計：\n在所有六個面板中都描繪了一位反覆出現的超現實微型年輕女子，穿著同樣合身的綠色花卉迷你連身裙和白色涼鞋，留著長長的深色波浪發和自然富有表現力的特徵。她看起來一定像一個真實的縮小版人類，被放置在一個超現實的超大柑橘世界。在每一幀中保持解剖結構連貫且可信：正確的頭部與身體比例，逼真的肩膀、鎖骨、手臂、腰部、臀部、大腿、膝蓋、小腿、腳踝和腳，形狀完美的手和五個手指清晰可見。她的表情應該逐一變化：驚訝的喜悅、放鬆的自信、俏皮的警報、興奮、快樂的清爽、有趣的期待。皮膚必須保持逼真的毛孔、自然的色調變化、淡淡的膝蓋和肘部紋理、逼真的皮膚彈性以及無塑膠的 AI 美妝效果。\n\n照明：\n使用明亮的優質海濱日光，柔和的左上方太陽方向和柔和的大氣擴散。在所有六個場景中保持明亮、清新的夏季照明，並具有短而柔和的邊緣陰影和清晰的立體高光。果汁滴、檸檬果肉、冰塊、湯匙邊緣、太陽眼鏡、玻璃杯邊緣和冷凝物都應該捕捉到乾淨閃亮的亮點。各個面板之間的照明必須感覺豪華、清爽且物理一致。\n\n材料：\n檸檬：超細緻的果皮毛孔、微妙的凹痕、自然的果皮厚度、閃閃發光的濕果肉、可信的切面半透明度、逼真的果汁行為。\n飲料杯：高畫質晰度優質玻璃，準確的折射，厚重的底座，凝結珠，清晰的標誌印刷，冰的透明度，閃閃發光的碳酸液體感覺。\n冰糕和果汁：有光澤、半透明、冷、濕、開胃、物理準確。\n洋裝：輕質夏季棉質布料，帶有綠色小花卉印花、自然皺紋、布料張力和防風邊緣。\n頭髮和皮膚：逼真的髮絲、精細的飄逸、自然的光澤、可信的皮膚紋理。\n大手：逼真的成人手指，柔軟的皮膚壓縮，自然的指甲，連貫的尺度視角。\n推車和道具：精緻溫暖的木紋、拋光的輪子、可信的接頭和安全帶元件。\n海灘環境：陽光照射下的細沙，帶有微型腳印和壓痕，柔和的海岸線模糊，乾淨的碧綠海水，帶有淺色泡沫。\n\n色彩系統：\n圍繞著檸檬黃、清新的柑橘綠、綠松石海、淺天藍、溫暖的海灘米色、清爽的白色高光和內斂的自然膚色構建調色盤。黃色必須仍然是主要的英雄顏色，並輔以綠色和綠松石色。保持影像明亮、開胃、充滿夏日氣息、乾淨且國際商業化。避免隨機的強調色。\n\n版式與品牌：\n不要複製範例中的任何文字。保持版式最小化和原創。僅在英雄玻璃上放置精緻的英文品牌，並可選擇在整個網格下方放置一條小廣告線，例如：「LIMORA — Bright in Motion」。排版必須給人一種優質、現代、簡約的感覺，並且相對於視覺敘事來說是次要的。\n\n藝術指導：\n超真實的優質超現實廣告攝影、奢華的快消品行銷活動、故事板能量、優雅的幽默、電影般的微觀世界幻覺、高階飲料造型、全球夏季發布海報、精美的雜誌級效果、鮮明的產品現實主義、強烈的敘事節奏、優質的品牌連貫性。\n\n負面提示：\n複製文字、中文文字、現有品牌名稱、卡通風格、玩具般的人物、怪誕的超大頭部、變形的解剖結構、額外的手指、缺失的手指、融合的手指、扭曲的手腕、骨折的四肢、扭曲的腳、人工智慧塑膠皮膚、過度平滑的皮膚、假柑橘紋理、不切實際的果汁物理、渾濁的檸檬果肉、渾濁的玻璃、弱的產品焦點、不一致的照明、不一致的地平線、凌亂的網格、雜亂的道具、模因美學、廉價幽默、幼稚的插圖、低解析度細節、過飽和的顏色、死黑斑、扭曲的巨手視角"
+  },
+  "533": {
+    "sourceSha256": "4d26a0c4959e8a1b4acb3bfdbdd69f554d419f6e4fdd510b42b6e74f713c76f0",
+    "text": "將主題從參考影像轉變為可愛、古怪的手繪塗鴉插圖。\n\n使用極簡主義兒童故事書/時尚素描美學，搭配鬆散、不完美的黑色墨水線條、可見的潦草鉛筆筆觸、微妙的交叉影線和迷人的手工感覺。保留參考中角色可識別的面部特徵、髮型、臉型、服裝、配件和整體身份，同時將其簡化為可愛的插圖角色。\n\n人物設計：\n- 超大頭部和小型簡化身體\n- 簡單的點狀眼睛和極小的嘴巴\n- 柔和圓潤的臉部特徵\n- 臉頰上有淡淡的玫瑰粉色腮紅\n- 凌亂、富有表現力的手繪頭髮，帶有許多鬆散的草圖線\n- 比例略顯誇張、俏皮\n- 自然、放鬆的姿勢，帶有異想天開的時尚插畫感覺\n\n藝術風格：\n- 黑白鉛筆/墨水塗鴉\n- 粗糙、不完美的草圖線條，而不是乾淨的數字輪廓\n- 濃密的潦草頭髮和衣服細節\n- 淺色手繪裝飾\n- 微妙的水彩/蠟筆般的色彩\n- 最小的陰影\n- 白色或灰白色乾淨背景\n- 很多負空間\n- 可愛、天真、俏皮、舒適的美學\n- 看起來像原創手工筆記本/時尚塗鴉插圖\n\n保留參考影像的重要細節，同時將所有內容轉換為這種一致的塗鴉藝術風格。最終的影像應該給人一種手繪的感覺，略顯不完美，可愛，富有表現力，並且毫不費力地時尚，而不是像精美的向量藝術或 3D 卡通藝術。"
+  },
+  "534": {
+    "sourceSha256": "adacfc1291df6c9ee8ca8ab16f75399ded56af3e65b48a7c641abf2c050703e1",
+    "text": "使用以下可自訂輸入建立中等尺寸的 9:16 實驗編輯肖像海報：\n\n主題：[Adult Male or Female Portrait]\n幹擾：[Color Split / Narrow Light Beam / Horizontal Cut / Motion Veil]\n標題：[Title]\n調色盤：[Main Neutral Tones + One Accent Color]\n心情：[Sharp / Cinematic / Restrained / Experimental]\n\n創造引人注目的特寫或腰部肖像，讓拍攝物件佔據畫面的大部分。保留真實的臉部特徵、自然的皮膚紋理、真實的頭髮、真實的比例、清晰的情緒和強烈的輪廓。在應用圖形幹預之前，肖像必須在視覺上像時尚照片一樣。\n\n僅使用一種主要幹擾方法：\n\n色彩分割：不均勻的半透明帶選擇性地移動、顯示、分離或扭曲肖像的部分。\n\n窄光束：單一受控光束穿過臉部或身體，並自然地​​延續到周圍空間。\n\n水平剪下：大膽的水平帶中斷了肖像的選定區域，並與超大的版式相互作用。\n\n運動面紗：保持主肖像清晰，同時選定區域創造微妙的水平攝影運動軌跡。\n\n使版式成為構圖的一個組成部分。使用一個主導的標題，允許字母裁剪到框架之外、與主題重疊、消失在正文後面或與幹擾相互作用。\n\n保持最少的支援文字：一個小型系列標籤和一個簡短短語。\n\n主要使用黑色、白色、灰色、木炭色或深中性色調，再加上強調色。保持膚色自然，避免過度溫暖或黃色漸層。\n\n必要時僅新增一些微妙的圖形細節，例如細線、圓圈或開放角標記。\n\n最終的作品應該感覺像是一篇優質的時尚社論、當代攝影海報或實驗性藝術指導作品——乾淨、有意、精緻且視覺平衡。\n\n避免多種競爭效果、密集文字、UI 元素、嚴重故障、隨機拼貼、過度裝飾、編號、「卷」。或「問題」標籤、閃光符號、標誌、浮水印、扭曲的解剖結構、塑膠皮膚、過飽和度和通用範本美學。\n\n保持整體處理媒介的規模、精緻、適應性和普遍適用於不同的人、標題、主題、調色盤和編輯概念。"
+  },
+  "535": {
+    "sourceSha256": "23e8c4c8b02e8d4d9ce5f210ef481d9452ccc5a253f5adeeb87aa2599144dadc",
+    "text": "建立一個 12 面板網格（3 列 × 4 行，編號 1 到 12），顯示參考照片中的同一個人具有 12 種不同的髮型。這是一本髮型手冊。最終影像長寬比：4:5（垂直/縱向）。\n面板之間唯一改變的是頭上的頭髮（僅形狀、樣式和長度）。其他一切都與參考照片中的完全相同。\n身份錨（關鍵）\n臉部必須與每個面板中的參考照片相同。準確保留：臉部骨骼結構、下顎線、顴骨、鼻子形狀、嘴唇、眼睛形狀和間距、眉毛、膚色、皮膚紋理（毛孔、自然瑕疵）以及整體臉部比例。這 12 幀中都是同一個人。請勿美化、瘦身或改變臉部。與參考文獻中的年齡相同，表情相同。\n強制性規則（請勿違反）\n- 禁止配戴太陽眼鏡。眼睛在所有 12 個面板中必須完全可見。\n- 無環境背景。每個面板必須有一個樸素、統一、純淺灰色工作室背景，零物件、零紋理、零漸層。只是平的中性灰色。\n- 髮色在所有 12 個面板中均與參考照片中顯示的顏色完全相同。只是形狀、長度和款式變化，顏色卻沒有變化。\n每個面板保持相同（不要更改）\n- 化妝和皮膚：如果參考照片中的人化妝，請在每個面板中進行相同的複製。一樣的唇色，一樣的眼妝，一樣的眉毛。如果他們沒有化妝，請保持所有面板不化妝。請勿新增、移除或變更面板之間的裝飾。\n- 服裝：與參考照片中可見的相同服裝，完全複製。\n- 配件：保留參考照片中所有可見的配件（耳環、項鍊、戒指、手鍊、穿孔、手錶、眼鏡等）。請勿遺漏、調整任何配件的大小、重新著色或重新設計任何配件。如果此人配戴處方眼鏡（不是太陽眼鏡），請將其放在每個面板中。\n- 背景：每個面板中都有純色淺灰色工作室背景。沒有房間，沒有傢俱，沒有環境。\n12種髮型\n1.精靈剪裁：非常短，有紋理，頂部略微凌亂，兩側和頸背呈錐形\n2. 經典鮑伯：長度到下巴，直，末端鈍，中間部分乾淨\n3. 長層次波浪：過肩、柔軟、豐盈的波浪，具有修飾臉型的層次感\n4. 光滑的低髮髻：頭髮在後頸處平滑地向後拉成一個緊緻的低髮髻，沒有飛揚的現象\n5. 中長髮的簾式瀏海：柔軟的分岔瀏海勾勒出臉部輪廓，頭髮剛過肩\n6.高馬尾：將頭髮綁成光滑的高馬尾辮，頭頂光滑，長度落在後面\n7. 法式鮑伯：短鮑伯在下巴結束，前額有柔軟的鈍微瀏海\n8. 中分長直髮：非常長，光滑，直，垂過肩膀\n9. 毛茸茸的狼形切割：中等長度，厚重的層次，波濤洶湧的流蘇，質感豐盈，略顯野性\n10. 優雅的高髻：將頭髮盤成光滑的髮髻，帶有柔軟的臉型捲鬚\n11. 短捲髮：全身短捲髮，自然紋理，兩側逐漸變細\n12.好萊塢側掃波浪：迷人的深側長髮，雕刻般的復古波浪層疊在肩上\n攝影規格\n使用佳能 EOS R5 拍攝，配備 85mm f/1.4 鏡頭，工作室人像照明（柔和的主光，微妙的填充），淺景深，臉部銳利對焦。每個面板上都有純色淺灰色工作室背景。自然的皮膚渲染，具有可見的毛孔和逼真的髮絲（無塑膠或 CGI 外觀）。所有 12 個面板的照明、色彩分級和曝光一致。逼真、高細節、超寫實、8K。沒有插圖，沒有繪畫效果，沒有過度平滑。沒有太陽眼鏡。\n每個面板的左上角都清楚地標有 1 到 12 的編號。整體輸出長寬比4:5。"
+  },
+  "536": {
+    "sourceSha256": "08e066c2fe7545e9dc411cabe065b59c9b202fe378717ae399bd5f72ba33fdf5",
+    "text": "{\n  \"title\": \"春天的低語\",\n  \"scene\": \"溫暖的春天午後，盛開的櫻花樹下方有一條寧靜的小路。頭頂的樹冠上開滿了粉紅色的花朵，精緻的花瓣在空中優雅地飄舞。柔和的陽光透過樹枝照射進來，營造出夢幻迷人的氛圍。\",\n  \"subject\": \"一位年輕女子從鏡頭前走開，然後輕輕地將頭轉過肩，臉上帶著柔和而神秘的微笑。她身穿飄逸的天然亞麻連身裙，隨微風飄逸，凸顯出她精緻的五官和不經意的優雅。\",\n  \"detail\": \"風吹過無數粉紅色的櫻花花瓣穿過畫面，而溫暖的陽光則在整個場景中營造出閃亮的亮點。每根髮絲在微風中自然飄動，超逼真的皮膚紋理、栩栩如生的織物褶皺、柔和的花卉環境和微妙的大氣霧霾增強了電影般的真實感。\",\n  \"atmosphere\": \"優雅、平和、浪漫、夢幻、永恆、電影般、優雅、迷人。\",\n  \"lighting\": \"溫暖的春天陽光透過櫻花樹枝，柔和的自然照明，發光的高光，體積光線，柔和的環境陰影和微妙的大氣霧霾。\",\n  \"composition\": \"使用 85 毫米鏡頭拍攝的影片編輯肖像，拍攝物件採用四分之三過肩姿勢。淺景深、奶油般的散景、開花樹木的平衡取景、柔和的引導線以及身臨其境的視覺敘事。\",\n  \"style\": \"真實感、傑作、編輯時尚攝影、模擬電影美學、夢幻柔和的調色盤、超現實的皮膚紋理、高度細節、淺景深、奶油色散景、大氣霧霾、HDR、電影現實主義、8K。\"\n}"
+  },
+  "537": {
+    "sourceSha256": "365efac0b0898640345b735f2ed6be28d2da4789396d8c7eb16af5d1f030db7a",
+    "text": "用例：程式化概念\n資產型別：「你的黑暗面」主題的垂直社群媒體藝術作品\n\n在巨大的地下檔案館中創造一個原始的心理黑暗超現實主義場景。無數的書架上裝滿了密封的黑書，像摩天大樓一樣拔地而起，又消失在霧中。在中央走道中，一個穿著骨白色衣服的孤獨人物跪在地板上一本開啟的書前。沒有任何文字可見。從空白的書頁中升起一個真人大小的精緻人物，完全由濃密的黑煙組成，與跪著的人面對面站著。煙人沒有眼睛或嘴巴；相反，它的箱子裡有一扇上鎖的深紅色小門。細細的線將門與跪著的人的手連線起來，暗示著一個秘密的自我終於得到了承認。\n\n9:16的垂直取景，高聳的架子營造出一條狹窄的對稱峽谷，高角度的冷銀光軸，兩個人物位於中下部，巨大的壓迫尺度在他們上方。黑紙、陳舊的石頭、浮灰、體積霧、微妙的拋光地板反射、優質的逼真黑暗概念藝術、精緻的社論構圖、安靜的恐懼和內省，而不是恐怖奇觀。\n\n調色盤：黑曜石黑、石墨色、骨白色、冷銀色，小門上有一種柔和的深紅色調。\n\n限制：完全原創的隱喻；完全沒有文字的空白書頁；沒有可識別的人；沒有文字、符號、標誌、簽名、邊框或浮水印。\n\n避免：可見的字母或符文、肖像特寫、裂臉、皮膚上的黑色物質、發光的眼睛、血跡、頭骨、傳統的鬼魂、幻想巫師造型、模仿任何有名的藝術家。"
+  },
+  "538": {
+    "sourceSha256": "3b46f02d6b28c4e274b4fee1a2fa6158e1f6ea23df4ac4a37e8cb7353efbfd05",
+    "text": "橡皮戳旅行田野筆記海報 — 自然寫實版\n\n為我上傳的每張照片建立一個單獨的「橡皮圖章旅行田野筆記海報」。單獨輸出每張照片。切勿創作拼貼畫或組合多張照片。\n\n使用 4:3 風景構圖，在左側的原始照片和右側的舊紙田野筆記區域之間實現自然的視覺過渡。不要新增明顯的分割線。\n\n左 — 原始照片\n\n左側應佔據畫面的約 58%。\n\n保持上傳的照片視覺上真實且可識別。保留原始主題、視角、地形、建築、植物、人物、空間關係、自然光、陰影、紋理和整體氛圍。\n\n請勿重新設計或重新解釋照片。\n\n僅應用非常微妙的編輯照片處理：溫和的色調平衡、剋制的色彩分級、稍微柔化的高光以及極其精細的自然膠片顆粒。它看起來仍然應該像現場拍攝的真實照片，而不是人工智慧產生的影像。\n\n如果需要適合 4:3 佈局，則允許自然裁剪，但不要拉伸、扭曲、移動、替換或重畫主要主題。\n\n避免過度銳利化、HDR 效果、人工清晰度、影片色彩分級或過於完美的細節。\n\n右 — 老化的紙本筆記\n\n右側應大約佔據畫面的 42%。\n\n使用溫暖的灰白色、稍微老化的紙張，具有可信的物理紋理。包括非常微妙的紙張纖維、細粒、微弱的處理痕跡和霧面。\n\n保持大面積區域完全不列印。\n\n這張紙應該感覺像是建築師旅行筆記本或實地日記中的真實紙張，而不是設計的海報背景。\n\n避免過於強烈的汙漬、裝飾紋理、復古濾鏡或人造垃圾。\n\n小橡皮章\n\n研究上傳的照片並僅識別少數可以立即識別該位置的視覺特徵。\n\n將它們簡化為緊湊的、不完美的多色橡皮圖章印象。\n\n請勿逐個元素地複製照片。\n\n積極簡化並僅保留最有意義的視覺關係：\n\n- 獨特的建築和輪廓\n- 重要的屋頂、塔樓、圓頂、拱門或結構形狀\n- 山脈或地形輪廓\n- 海岸線或道路方向\n- 一些可辨識的樹木或植被形式\n- 簡化的沉降層\n- 視覺相關時一兩個重要的前景形狀\n\n移除人群、汽車、密集的窗戶、重複的建築物、微小的植被、裝飾物和無關緊要的背景細節。\n\n結果應該看起來像旅行者實際上可以刻在一個小橡皮圖章上的東西，而不是整個照片的微型插圖。\n\n將印章放在右側紙張區域的中下部分，大約佔據右側部分高度的 30-38%。\n\n在其周圍保留大量空白紙。\n\n不要將其放大為大插圖。\n\n印章顏色和印刷字元\n\n從原始照片中自然提取大約 2-4 個柔和的專色。\n\n可能的顏色包括：\n\n- 炭黑\n- 深綠色\n- 磚紅色或柔和的紅色\n- 赭色\n- 石板藍\n- 灰褐色或土棕色\n\n如果照片暗示了不同的剋制調色盤，請不要強迫使用這些顏色。\n\n每種顏色應顯示為單獨的實體墨水層。\n\n讓印刷品有真正手工製作的感覺：\n\n- 壓力略為不均勻\n- 墨水中的微小間隙\n- 乾燥地區\n- 紙張透過\n- 粗糙的雕刻邊緣\n- 不規則的線條粗細\n- 小輪廓斷裂\n- 顆粒狀墨水紋理\n- 微弱的重影\n- 輕微的自然色彩層重疊失調\n- 微妙的邊緣變化\n\n瑕疵應該小而可信，就像郵票是用手壓在紙上一樣。\n\n避免完美對齊的數點陣圖層、平滑的向量邊緣、乾淨的漸層或人為誇大的痛苦。\n\n郵票應該看起來是實體列印的，而不是數位插圖的。\n\n田野註釋版式\n\n僅根據照片中的實際位置和影像產生少量文字：\n\n地點——英文名\n編號 — 數量\n三個簡短的英文關鍵字\n公曆年份\n\n將文字放置在圖章下方或旁邊的可用空白區域內。\n使用小型、低調的打字機或檔案田野筆記風格。\n\n排版應該有非常輕微的機械不規則性，就像在舊的野外筆記本上打字或列印一樣。\n\n保持安靜，並將其置於照片的次要位置。\n\n正確拼字位置和所有單字。\n\n請勿加上口號、品牌、旅遊短語、裝飾性引言或不必要的文字。\n\n整體真實感\n\n完成的影像應該感覺像是一張真實的旅行照片，安裝在建築師個人筆記本頁面上的小型手工製作的現場印章旁邊。\n\n優先考慮微妙的物理真實性而不是視覺完美。\n\n照片應該仍然是最強烈的視覺元素。\n\n郵票應該感覺像是從照片中提取的一小段記憶，而不是第二張插圖。\n\n使用剋制的對比度、自然的瑕疵、可信的紙張紋理和稍微不完美的印刷。\n\n最終的結果應該感覺安靜、有觸感、記錄性、收藏性和真正的手工製作。\n\n避免\n\n明顯的分界線、圓形密封、郵票邊框、穿孔、蠟封、貼紙佈局、紀念卡設計、通用旅行範本、平滑向量徽標、拋光數字插圖、卡通造型、3D 渲染、塑膠紋理、光澤漸變、過度飽和度、HDR 效果、過多文本、裝飾雜亂、過於乾淨的幾何形狀、完美對齊的墨水層、對墨水的微型建築或原始照片。"
+  },
+  "539": {
+    "sourceSha256": "cf87fec8f87b0295d6fcdfae05dcbfb90d71f7103bb39131480580b74c0c1e7a",
+    "text": "[HUMAN] 的原始粗略圖形肖像海報，穿著 [CLOTHING]，半身，大畫框，緊密伴隨著 [ANIMAL]，具有最小的 [SCENERY] 背景。以粗糙而富有表現力的插圖風格進行渲染，具有破碎的黑色墨水輪廓、鬆散的草圖線條、粗糙的陰影線、不規則的筆劃粗細、不完美的線條邊緣、快速的手勢標記、簡化的解剖結構、扁平的細胞狀陰影塊和減少的細節。使用一種剋制的 [COLORS] 調色盤，其中一個佔主導地位的暖場、一個冷場、深色墨水陰影和一些淺色高光強調。保持臉部過大且居中，在軀幹中部周圍進行裁剪，並將動物放置在較低的前景或隱藏在主題旁邊，用相同的簡化原始線條繪製。將風景縮小為主體後面僅 2 或 3 個大膽的輪廓形狀，沒有詳細的環境渲染。新增狹窄的暖灰白色海報邊框和非常淺的印刷紋理。強烈的態度，圖形海報的能量，故意不完美的筆觸，原始和粗略的完成，ar 4:5"
+  },
+  "540": {
+    "sourceSha256": "0e03d27c8e6175dfcb64cf76375d866a0125532274be5791578cdc67f3e14c51",
+    "text": "創作一張視覺上令人難忘的編輯藝術海報，描繪一個夢幻般的未來世界，熟悉的日常生活與超現實的建築相遇。宏偉的雕塑建築、蜿蜒的道路、超大的植物、微小的人物、意想不到的漂浮元素、戲劇性的視角、電影般的氛圍和一個標誌性的焦點。將復古旅行海報設計與現代奢華編輯美學融為一體，精緻的柔和色彩，柔和的自然光，微妙的膠片顆粒，觸感紙張紋理，乾淨的幾何形狀，簡約的構圖，懷舊而未來，異想天開但優質，高度詳細，立即可識別的輪廓，Pinterest值得，Instagram病毒美學，收藏藝術印刷品，無雜亂，無照片寫實，垂直可識別的照片。"
+  },
+  "541": {
+    "sourceSha256": "68fb3195079836bfb754e870a8ccd667f32ebcab177b877adac22991716150f6",
+    "text": "將上傳的照片轉換為嚴格以 50/50 分割的垂直混合媒體記憶卡。\n\n上半部保持原始照片不變。在下半部分，使用有紋理的灰白色手工紙，並新增與照片色調相匹配的柔和、不規則的色塊。\n\n將主要主題重新繪製為簡單的深色蠟筆草圖，具有鬆散、不完美的線條和最少的細節。新增簡短的手寫英文短語和微妙的 Risograph 紋理。\n\n以寬敞的負空間營造出安靜、懷舊的莫蘭迪風格美學。不要新增額外的元素或完全複製參考構圖。"
+  },
+  "542": {
+    "sourceSha256": "7b31df190ce533a53531b62bdae5d8d49c14db964e114f18fc5ad16c78d0371c",
+    "text": "[HUMAN] 的高對比黑白印刷肖像海報，以側面輪廓顯示 [FEATURE]。使用大膽的黑色輪廓塊、銳利的負空間、粗糙的墨水邊緣、支離破碎的範本形狀、微小的編輯縮微文本、垂直印刷口音和富有表現力的手繪書法標記來構建肖像。將一個大的可讀文字區塊整合為 2 到 4 行堆疊的“[TEXT]”，僅放置在頸部和身體區域內，使用感覺融入輪廓的超大潦草字型。在頁尾附近新增圖形設計標誌「[LOGO]」。最小的灰白色紙張背景，不對稱佈局，裁剪垂直構圖，實驗性編輯海報設計，原始墨水列印紋理，長寬比 4:5。"
+  },
+  "543": {
+    "sourceSha256": "b082ae88d1b1929cf87e3811d1396624b00de6ed08e029e9784fd77358e40f96",
+    "text": "將參考照片變成旅行紀念琺瑯別針徽章。將其組成一個場景，而不是單一孤立的物件。\n\n主題層次：照片的定義景觀、地形或地標構成徽章的主體並佔據其大部分割槽域。如果一個人出現在照片中的顯著位置，請將其作為一個小而簡化的人物以真實的相對比例保留在該風景中 - 人物是口音，風景是主題。保留人物與周遭環境原有的空間關係與尺度。\n\n如何渲染人物：平面琺瑯色塊與照片中的真實服裝和髮色相匹配。臉部是淺膚色釉質的光滑平原區域，沒有繪製臉部特徵 - 不要將人物渲染為深色或黑色輪廓，也不要遮蔽臉部或頭部。皮膚呈現出溫暖的淺琺瑯色，明顯比衣服淺。\n\n造型：輪廓周圍和每個內部分隔線周圍都有細細的拋光金色輪廓，有光澤的琺瑯顏色填充，柔和均勻的燈光，金色線條上只有柔和的光澤，非常微妙的陰影。外部輪廓遵循場景自身的形狀，而不是簡單的矩形。\n\n背景：平坦的深海軍藍粗亞麻紋理。徽章居中，填滿約 60% 的框架。\n\n避免：黑色剪影人物、塗黑的臉、深色無特徵的頭部、人像特寫、詳細的面部特徵、人主宰徽章、裁剪風景、四分之三角度、微距產品攝影、強烈的鏡面眩光、卡通、現實場景、文字、水印。"
+  },
+  "544": {
+    "sourceSha256": "8da9b4e186c2fc8d0a59cfc9588873dae01c43ad6e53d9b8adbed1ea5e39f9e8",
+    "text": "受簡單的視覺學習卡的啟發，為學齡前/幼兒園兒童製作一張乾淨、適合兒童的教育詞彙海報。\n\n將 [FRUIT] 作為左側的主要大型現實物件，並在右側顯示相同水果的 [PART / SLICE / SEGMENT]。用一個俏皮的虛線彎曲箭頭和一個指向較小部分的簡單的小簡筆畫孩子將兩者連線起來。\n\n在頂部新增粗體大寫字母“[FRUIT NAME]”，在較小影像下方新增粗體大寫字母“[PART NAME]”。使用柔和的白色和非常淺的淡藍色背景、圓形影像面板、乾淨的間距、逼真的水果攝影、簡單的藍色版式和最小的有趣插圖。\n\n整體設計應該給人明亮、有教育意義、現代、整潔、易於幼兒理解的感覺，就像一張優質的學前詞彙學習卡。垂直4:5構圖，解析度高，光線柔和，標籤清晰，無多餘裝飾。"
+  }
+}

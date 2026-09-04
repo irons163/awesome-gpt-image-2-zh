@@ -10,6 +10,7 @@ const json = (path) => JSON.parse(read(path));
 const hash = (value) => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 const snapshot = json('scripts/upstream-snapshot.json');
 const data = json('data/cases.json');
+const promptTranslations = json('data/prompt-translations.zh-TW.json');
 const cases = [...data.cases].sort((a, b) => a.id - b.id);
 assert.equal(data.totalCases, cases.length);
 assert.equal(cases.length, snapshot.totalCases, '案例數量與上游快照不符');
@@ -21,11 +22,37 @@ const english = snapshot.englishPromptIds.map((id) => {
   return { id, prompt: item.prompt };
 });
 assert.equal(hash(english), snapshot.englishPromptsSha256, '英文原始提示詞發生變動');
+const englishIdSet = new Set(snapshot.englishPromptIds);
+const translationIds = Object.keys(promptTranslations).map(Number).sort((a, b) => a - b);
+assert.deepEqual(translationIds, [...snapshot.englishPromptIds].sort((a, b) => a - b), '英文提示詞翻譯快取不完整或包含多餘案例');
+const sourceSha256 = (value) => createHash('sha256').update(value).digest('hex');
+const translationText = (entry) => (typeof entry === 'string' ? entry : entry?.text || '');
+const protectedTokens = (value) => value.match(/https?:\/\/[^\s<>"'`\])}]+|\[(?!["'])[^\]\n]{1,160}\]|\{(?:argument\b[^}\n]*|[A-Z][A-Z0-9_ /-]{1,100})\}|<\/?[A-Za-z][^>\n]{0,80}>/g) || [];
 
 const forbidden = /提示词|来源|模板|界面|信息|視頻|軟件|代碼|項目|用戶|登錄|賬號|鏈接|數據|分辨率|默認|積分|锁定|层级|画面|明确|状态|评论|可读|约束/;
 for (const item of cases) {
   assert.ok(item.title && !/^Case \d+$/.test(item.title), `案例 ${item.id} 未解析標題`);
   assert.ok(item.prompt.trim(), `案例 ${item.id} 遺失提示詞`);
+  assert.ok(item.promptZh?.trim(), `案例 ${item.id} 遺失台灣繁中提示詞`);
+  assert.equal(
+    item.promptPreviewZh,
+    item.promptZh.replace(/\n+/g, ' ').slice(0, 220),
+    `案例 ${item.id} 的繁中提示詞預覽與全文不同步`
+  );
+  if (englishIdSet.has(item.id)) {
+    const translation = promptTranslations[String(item.id)];
+    assert.equal(translationText(translation), item.promptZh, `案例 ${item.id} 的繁中提示詞未連回翻譯快取`);
+    assert.match(item.promptZh, /[\p{Script=Han}]/u, `案例 ${item.id} 的繁中提示詞沒有中文字元`);
+    assert.notEqual(item.promptZh, item.prompt, `案例 ${item.id} 的英文原始提示詞未翻譯`);
+    assert.deepEqual(
+      protectedTokens(item.promptZh).sort(),
+      protectedTokens(item.prompt).sort(),
+      `案例 ${item.id} 的繁中提示詞遺失模板參數或網址`
+    );
+    if (translation && typeof translation === 'object' && translation.sourceSha256) {
+      assert.equal(translation.sourceSha256, sourceSha256(item.prompt), `案例 ${item.id} 的翻譯來源已過期`);
+    }
+  }
   assert.ok(existsSync(resolve(root, 'data', item.image.replace(/^\//, ''))), `案例 ${item.id} 缺少圖片`);
   assert.ok(!forbidden.test(item.title), `案例 ${item.id} 標題用語未在地化：${item.title}`);
   const file = item.githubUrl.match(/docs\/(gallery-part-\d\.md)/)?.[1];
