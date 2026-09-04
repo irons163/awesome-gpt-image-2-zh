@@ -93,11 +93,11 @@ function bulletList(values, language) {
 
 function renderReference(library) {
   const lines = [
-    '# GPT-Image2 Style Library Reference',
+    '# GPT-Image2 風格庫參考（台灣繁體中文）',
     '',
-    'Generated from `data/style-library.json`. Use this file as the detailed index for choosing GPT-Image2 prompt templates, visual styles, categories, and scene tags.',
+    '由 `data/style-library.json` 產生，提供提示詞範本、視覺風格、分類與情境標籤索引。中文欄位使用台灣繁體中文。',
     '',
-    '## Selection Rules',
+    '## 選擇原則',
     '',
     '- Match explicit product types to template categories first, such as product, poster, UI, infographic, brand, photography, character, or document.',
     '- Match visual words to style tags next, such as realistic, 3D, illustration, classical, brand, poster, or UI.',
@@ -105,7 +105,7 @@ function renderReference(library) {
     '- If a request is vague, offer 2-3 strong template directions and ask the user to choose before writing the final prompt.',
     '- Final output should include the selected template name, a copyable GPT-Image2 prompt, and concise constraints for text, aspect ratio, layout, and negative details.',
     '',
-    '## Template Index',
+    '## 範本索引',
     ''
   ];
 
@@ -118,38 +118,38 @@ function renderReference(library) {
     lines.push(`- Scenes: ${list(template.scenes)}`);
     lines.push(`- Tags: ${list(template.tags)}`);
     lines.push(`- Cover: \`${template.cover}\``);
-    lines.push(`- Template source: ${linkForTemplate(library, template)}`);
-    lines.push(`- Example cases: ${list((template.exampleCases || []).map((id) => `case ${id}`))}`);
+    lines.push(`- 上游範本來源： ${linkForTemplate(library, template)}`);
+    lines.push(`- 參考案例： ${list((template.exampleCases || []).map((id) => `case ${id}`))}`);
     lines.push('');
-    lines.push('Use when:');
+    lines.push('適用時機：');
     lines.push(`- EN: ${label(template.useWhen, 'en')}`);
-    lines.push(`- ZH: ${label(template.useWhen, 'zh')}`);
+    lines.push(`- 台灣繁中: ${label(template.useWhen, 'zh')}`);
     lines.push('');
-    lines.push('Guidance:');
+    lines.push('使用建議：');
     lines.push(bulletList(template.guidance?.en, 'en'));
     lines.push(bulletList(template.guidance?.zh, 'zh'));
     lines.push('');
-    lines.push('Pitfalls:');
+    lines.push('常見問題：');
     lines.push(bulletList(template.pitfalls?.en, 'en'));
     lines.push(bulletList(template.pitfalls?.zh, 'zh'));
     lines.push('');
   }
 
-  lines.push('## Categories');
+  lines.push('## 分類');
   lines.push('');
   for (const category of library.categories) {
     lines.push(`- ${category.value}: ${label(category.title, 'zh')} | ${label(category.description, 'en')}`);
   }
   lines.push('');
 
-  lines.push('## Styles');
+  lines.push('## 風格');
   lines.push('');
   for (const style of library.styles) {
     lines.push(`- ${style.value}: ${label(style.title, 'zh')} | Keywords: ${list(style.keywords)}`);
   }
   lines.push('');
 
-  lines.push('## Scenes');
+  lines.push('## 情境');
   lines.push('');
   for (const scene of library.scenes) {
     lines.push(`- ${scene.value}: ${label(scene.title, 'zh')} | Keywords: ${list(scene.keywords)}`);

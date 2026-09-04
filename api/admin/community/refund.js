@@ -95,7 +95,7 @@ export default async function handler(req, res) {
       bizContent: {
         out_trade_no: order.id,
         refund_amount: formatAlipayAmount(order.amount_cents),
-        refund_reason: '付费交流群人工审核退款',
+        refund_reason: '付費交流群人工稽核退款',
         out_request_no: requestNo
       }
     }, { validateSign: true });

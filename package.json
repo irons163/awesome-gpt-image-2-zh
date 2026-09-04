@@ -1,5 +1,5 @@
 {
-  "name": "awesome-gpt-image-2-site",
+  "name": "awesome-gpt-image-2-zh",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -9,14 +9,14 @@
     "ga4:oauth": "node scripts/google-analytics-oauth.mjs",
     "install:skill": "node scripts/install-style-skill.mjs",
     "pack:skill": "npm pack ./agents/skills/gpt-image-2-style-library --dry-run",
-    "publish:skill:npm": "npm publish ./agents/skills/gpt-image-2-style-library --access public",
     "predev": "npm run generate:site-data && npm run generate:style-skill",
     "dev": "vite",
     "dev:alipay-sandbox": "node scripts/alipay-webpay-sandbox-server.mjs",
     "prebuild": "npm run generate:site-data && npm run generate:style-skill",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "node --test api/_lib/*.test.js"
+    "test": "node --test api/_lib/*.test.js",
+    "check:localization": "node scripts/check-localization.mjs"
   },
   "dependencies": {
     "@google-analytics/data": "^5.2.2",
@@ -29,5 +29,8 @@
     "react-dom": "^19.2.1",
     "stripe": "^22.1.1",
     "vite": "^7.2.7"
+  },
+  "engines": {
+    "node": ">=22.12.0"
   }
 }

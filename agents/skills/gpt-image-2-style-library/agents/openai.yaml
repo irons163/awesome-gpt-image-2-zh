@@ -1,3 +1,3 @@
-display_name: GPT-Image2 Style Library
-short_description: Choose GPT-Image2 templates, styles, and prompt constraints.
-default_prompt: Use the GPT-Image2 style library to create a production-ready image prompt.
+display_name: GPT-Image2 風格庫（台灣繁中）
+short_description: 選擇 GPT-Image2 提示詞範本、視覺風格與限制條件。
+default_prompt: 使用 GPT-Image2 風格庫，以台灣繁體中文建立可直接使用的圖片生成提示詞。

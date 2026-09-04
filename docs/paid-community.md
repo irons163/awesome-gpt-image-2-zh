@@ -1,34 +1,34 @@
-# GPT-Image2 付费交流群上线手册
+# GPT-Image2 付費交流群上線手冊
 
-当前实现将付费群与积分包、会员支付完全分离：支付宝一次性支付 `¥9.90` 后，资格绑定 Supabase 用户账号；只有服务端确认订单为 `PAID` 时才能读取受保护群二维码。
+目前實作將付費群與點數包、會員付款完全分離：支付寶一次性付款 `¥9.90` 後，資格綁定 Supabase 使用者帳號；只有伺服器端確認訂單為 `PAID` 時才能讀取受保護社群 QR Code。
 
-## 本地能力
+## 本機能力
 
-- 页面：`/community`
-- 支付回跳：`/community/result`
-- 支付方式：支付宝网站支付 `alipay.trade.page.pay`
-- 固定金额：`990` 分，`CNY`
-- 订单状态：`PENDING`、`PAID`、`CLOSED`、`REFUNDED`、`REVOKED`
-- 退款处理状态：`NONE`、`PROCESSING`、`SUCCEEDED`、`FAILED`
-- 资格规则：仅 `PAID` 有效；退款处理中保持 `PAID`；支付宝确认退款成功后改为 `REFUNDED`
-- 群码：数据库 `bytea` 资源，限 PNG/JPEG/WebP、最大 2 MB，管理员通过事务 RPC 原子替换
+- 頁面：`/community`
+- 付款重新導向：`/community/result`
+- 付款方式：支付寶網站付款 `alipay.trade.page.pay`
+- 固定金額：`990` 分，`CNY`
+- 訂單狀態：`PENDING`、`PAID`、`CLOSED`、`REFUNDED`、`REVOKED`
+- 退款處理狀態：`NONE`、`PROCESSING`、`SUCCEEDED`、`FAILED`
+- 資格規則：僅 `PAID` 有效；退款處理中保持 `PAID`；支付寶確認退款成功後改為 `REFUNDED`
+- 社群 QR Code：資料庫 `bytea` 資源，限 PNG/JPEG/WebP、最大 2 MB，管理員透過交易 RPC 原子替換
 
 ## API
 
-公开与当前用户：
+公開與目前使用者：
 
 - `GET /api/community/config`
 - `GET /api/community/status`
 - `GET /api/community/qr`
 
-支付宝：
+支付寶：
 
 - `POST /api/community/alipay/checkout`
 - `GET /api/community/alipay/query`
 - `POST /api/community/alipay/close`
 - `POST /api/community/alipay/notify`
 
-超级管理员：
+超級管理員：
 
 - `GET /api/admin/community/orders`
 - `GET|POST /api/admin/community/qr`
@@ -36,45 +36,45 @@
 - `GET /api/admin/community/refund-query`
 - `POST /api/admin/community/revoke`
 
-## 环境变量
+## 環境變數
 
-生产部署必须先保持：
+正式部署必須先保持：
 
 ```dotenv
 COMMUNITY_PAYMENT_ENABLED=false
-COMMUNITY_ALIPAY_NOTIFY_URL=https://gpt-image2.canghe.ai/api/community/alipay/notify
-COMMUNITY_SUPPORT_TEXT=微信搜索苍何
+COMMUNITY_ALIPAY_NOTIFY_URL=https://your-domain.example/api/community/alipay/notify
+COMMUNITY_SUPPORT_TEXT=請填寫本站客服聯絡方式
 ```
 
-支付宝生产变量沿用现有 `ALIPAY_APP_ID`、`ALIPAY_PRIVATE_KEY`、`ALIPAY_PUBLIC_KEY`、`ALIPAY_SELLER_ID` 和生产网关配置。生产私钥只在 Vercel Sensitive Environment Variables 中配置，不写入仓库、文档或对话。
+支付寶正式變數沿用現有 `ALIPAY_APP_ID`、`ALIPAY_PRIVATE_KEY`、`ALIPAY_PUBLIC_KEY`、`ALIPAY_SELLER_ID` 和正式閘道器設定。正式私鑰只在 Vercel Sensitive Environment Variables 中設定，不寫入儲存庫、檔案或對話。
 
-## 首次部署顺序
+## 首次部署順序
 
 1. 保持 `COMMUNITY_PAYMENT_ENABLED=false`。
-2. 在目标 Supabase 项目应用 `supabase/migrations/20260722090000_paid_community.sql`。
-3. 部署同一版本代码，确认 `/community`、`/community/result` 和只读状态接口正常。
-4. 由 `super_admin` 在管理面板上传一张从未公开过的新群二维码。
-5. 在支付宝开放平台完成网站支付签约、应用配置与发布，并确认公网 HTTPS 通知地址无重定向。
-6. 配置属于同一生产应用的 App ID、应用公钥、应用私钥和支付宝公钥；Node.js 使用 PKCS#1 私钥原文。
-7. 开启 `COMMUNITY_PAYMENT_ENABLED=true`。
-8. 用同一生产版本完成一笔真实 `¥9.90` 付款和原路退款验收。
+2. 在目標 Supabase 專案應用 `supabase/migrations/20260722090000_paid_community.sql`。
+3. 部署同一版本程式碼，確認 `/community`、`/community/result` 和唯讀狀態介面正常。
+4. 由 `super_admin` 在管理面板上傳一張從未公開過的新社群 QR Code。
+5. 在支付寶開放平臺完成網站付款簽約、應用設定與釋出，並確認公用網路 HTTPS 通知地址沒有重新導向。
+6. 設定屬於同一正式應用的 App ID、應用公鑰、應用私鑰和支付寶公鑰；Node.js 使用 PKCS#1 私鑰原文。
+7. 開啟 `COMMUNITY_PAYMENT_ENABLED=true`。
+8. 用同一正式版本完成一筆真實 `¥9.90` 付款和退回原付款方式驗收。
 
-## 生产验收
+## 正式驗收
 
-真实付款必须逐项确认：
+真實付款必須逐項確認：
 
-- 前端不能提交或覆盖金额。
-- 创建的是独立 `community_orders`，不会触发积分包履约。
-- 支付宝主动查单和异步通知都能幂等写入 `PAID`。
-- 同步回跳只触发服务端查单，不信任 URL 参数。
-- 付款账号可以读取群码，未付款账号得到拒绝响应。
-- 管理员退款使用稳定退款请求号；处理中资格仍有效。
-- 退款查询得到 `REFUND_SUCCESS` 后写入 `REFUNDED`，随后群码访问失效。
-- 任何关键项失败时立即将 `COMMUNITY_PAYMENT_ENABLED` 改回 `false`。
+- 前端不能提交或覆蓋金額。
+- 建立的是獨立 `community_orders`，不會觸發點數包履約。
+- 支付寶主動查詢訂單和非同步通知都能冪等寫入 `PAID`。
+- 同步重新導向只觸發伺服器端查詢訂單，不信任 URL 參數。
+- 付款帳號可以讀取社群 QR Code，未付款帳號得到拒絕回應。
+- 管理員退款使用穩定退款請求號；處理中資格仍有效。
+- 退款查詢得到 `REFUND_SUCCESS` 後寫入 `REFUNDED`，隨後社群 QR Code存取失效。
+- 任何關鍵項失敗時立即將 `COMMUNITY_PAYMENT_ENABLED` 改回 `false`。
 
-## 群码轮换与日常运维
+## 社群 QR Code輪換與日常維運
 
-- 群二维码过期时，在管理面板上传新图片；RPC 会在同一事务中停用旧图并启用新图。
-- 不要把受保护群码上传到 GitHub、README、公开对象存储或前端静态目录。
-- 退款由“微信搜索苍何”人工审核；管理员操作前核对账号、订单号和退款状态。
-- 人工撤销资格不会自动退款；需要退款时使用退款流程，不用撤销代替退款。
+- 社群 QR Code 過期時，在管理面板上傳新圖片；RPC 會在同一交易中停用舊圖並啟用新圖。
+- 不要把受保護社群 QR Code上傳到 GitHub、README、公開物件儲存或前端靜態目錄。
+- 退款由本站客服人工審核（透過 `COMMUNITY_SUPPORT_TEXT` 設定聯絡方式）；管理員操作前核對帳號、訂單號和退款狀態。
+- 人工撤銷資格不會自動退款；需要退款時使用退款流程，不用撤銷代替退款。

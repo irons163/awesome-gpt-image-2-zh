@@ -1,57 +1,52 @@
 ---
 name: gpt-image-2-style-library
-description: Choose GPT-Image2 / gpt-image-2 visual styles and industrial prompt templates from the awesome-gpt-image-2 style library. Use when an agent needs to create, rewrite, classify, or improve image-generation prompts with repository-backed templates, categories, style tags, scene tags, pitfalls, and example cases.
+description: 使用 awesome-gpt-image-2-zh 的風格庫，為 GPT-Image2 選擇視覺風格與提示詞範本。適用於建立、改寫、分類或改善圖片生成提示詞，並參考範本、分類、風格標籤、情境標籤、常見問題與案例。
 ---
 
-# GPT-Image2 Style Library
+# GPT-Image2 風格庫（台灣繁體中文）
 
-Use this skill to turn a user's image-generation intent into a production-ready GPT-Image2 prompt using the awesome-gpt-image-2 style library.
+根據使用者的圖片創作需求，運用本專案的風格庫產生可直接使用的提示詞。
 
-## Example Output
+## 範例
 
-![City life system map example](assets/city-life-system-map.png)
+![城市生命系統圖範例](assets/city-life-system-map.png)
 
-Example request: `用 gpt-image-2-style-library 技能生成城市生命系统图谱`
+需求範例：`用 gpt-image-2-style-library 技能製作城市生命系統圖。`
 
-## Reference
+## 參考資料
 
-- Read `references/style-library.md` before choosing a template or style.
-- The reference is generated from `data/style-library.json` in the repository.
-- Prefer the reference over memory when template names, categories, covers, or style tags matter.
+- 選擇範本或風格前，先閱讀 `references/style-library.md`。
+- 參考文件由專案中的 `data/style-library.json` 產生。
+- 範本名稱、分類、封面及標籤以參考文件為準。
 
-## Workflow
+## 工作流程
 
-1. Detect the user's language and answer in that language.
-2. Identify the user's target output: product, poster, UI, infographic, brand, photo, illustration, character, scene, history, document, or special task.
-3. Match the request in this order: template category, visual style tag, scene tag, then nearest example cases.
-4. If one template is clearly strongest, use it directly. If several are plausible, present 2-3 options with short reasons and ask the user to choose.
-5. Build the final prompt with these blocks:
-   - subject and task
-   - composition and layout
-   - visual style and materials
-   - text and label requirements
-   - aspect ratio and output format
-   - constraints and negative details
-6. Include the selected template name and any useful example case IDs.
+1. 預設使用台灣繁體中文；使用者明確指定其他語言時遵循其要求。
+2. 確認輸出類型，例如商品、海報、介面、資訊圖表、品牌、攝影、插畫、人物、情境、歷史或文件。
+3. 依序比對範本分類、視覺風格、情境標籤及相關案例。
+4. 有明確適合的範本時直接使用；需求有關鍵歧義時，提出 2 至 3 個方向並說明差異。
+5. 提示詞包含主體與任務、構圖與版面、視覺風格與材質、文字與標籤、長寬比與輸出格式，以及限制條件。
+6. 附上選用的範本名稱與有幫助的案例編號。
 
-## Output Defaults
+## 輸出原則
 
-- Provide a copyable prompt first.
-- Keep constraints concrete: exact text, aspect ratio, readable labels, layout hierarchy, and avoided artifacts.
-- For Chinese requests, write the final prompt in Chinese unless the user asks for English.
-- For English requests, write the final prompt in English unless the user asks for Chinese.
-- When the user asks for multiple concepts, reuse one template and vary subject, composition, palette, and scene.
+- 優先提供可複製的完整提示詞。
+- 條件要具體：指定文字、長寬比、可讀性、版面層級與要避免的瑕疵。
+- 中文使用台灣用語，例如「範本、介面、資訊、資料、程式碼、使用者、解析度」。
+- 使用者需要圖中文字時，清楚指定繁體中文（台灣），保留其提供的品牌與專有名稱。
+- 英文原始提示詞可保留英文；使用者要求翻譯時再翻譯。
+- 多個設計方向可共用範本，分別調整主體、構圖、配色與情境。
 
-## Maintenance
+## 維護與安裝
 
-When the source repository changes, run:
+在此專案目錄重新產生參考資料：
 
 ```bash
 npm run generate:style-skill
 ```
 
-To install the skill into the local Codex skill folder, run:
+安裝本機繁中技能（會覆寫同名技能，請先備份自訂內容）：
 
 ```bash
-npm run install:skill
+npm run install:skill -- codex
 ```

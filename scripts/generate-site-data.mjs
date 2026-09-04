@@ -57,12 +57,12 @@ function parseCategoryMap() {
 
 function extractPrompt(block) {
   const normalized = block.replace(/\r/g, '');
-  const match = normalized.match(/\*\*提示词：\*\*[\s\S]*?```(?:text)?\n([\s\S]*?)```/);
+  const match = normalized.match(/\*\*提示[詞词]：\*\*[\s\S]*?```(?:text)?\n([\s\S]*?)```/);
   return cleanText(match?.[1] || '');
 }
 
 function extractSource(block) {
-  const line = block.match(/\*\*来源：\*\*\s*([^\n]+)/)?.[1] || '';
+  const line = block.match(/\*\*[來来]源：\*\*\s*([^\n]+)/)?.[1] || '';
   const link = line.match(/\[([^\]]+)\]\(([^)]+)\)/);
   if (link) {
     return {
@@ -71,7 +71,7 @@ function extractSource(block) {
     };
   }
   return {
-    label: stripMarkdown(line) || 'Community',
+    label: stripMarkdown(line) || '社群來源',
     url: ''
   };
 }
@@ -80,18 +80,18 @@ function inferCategory(caseItem) {
   if (caseItem.category) return caseItem.category;
   const text = `${caseItem.title} ${caseItem.prompt}`.toLowerCase();
   const rules = [
-    ['UI & Interfaces', ['ui', 'app', 'interface', 'dashboard', 'screenshot', '网页', '界面', '截图']],
-    ['Charts & Infographics', ['infographic', 'diagram', 'chart', 'atlas', '图谱', '信息图', '图解']],
-    ['Posters & Typography', ['poster', 'cover', 'typography', '海报', '封面', '字体']],
-    ['Products & E-commerce', ['product', 'packaging', 'e-commerce', '商品', '电商', '包装']],
-    ['Brand & Logos', ['logo', 'brand', 'identity', '品牌', '标志']],
-    ['Architecture & Spaces', ['architecture', 'interior', 'map', '建筑', '室内', '地图']],
-    ['Photography & Realism', ['photo', 'portrait', 'camera', 'realistic', '写真', '摄影', '写实']],
-    ['Illustration & Art', ['illustration', 'painting', 'watercolor', '插画', '艺术', '水墨']],
-    ['Characters & People', ['character', 'pose', 'avatar', '角色', '人物', '头像']],
-    ['Scenes & Storytelling', ['storyboard', 'scene', 'narrative', '场景', '叙事', '分镜']],
-    ['History & Classical Themes', ['history', 'dynasty', 'classical', '历史', '古风', '唐朝', '宋']],
-    ['Documents & Publishing', ['document', 'manual', 'prescription', '文档', '手册', '处方']]
+    ['UI & Interfaces', ['ui', 'app', 'interface', 'dashboard', 'screenshot', '網頁', '介面', '截圖']],
+    ['Charts & Infographics', ['infographic', 'diagram', 'chart', 'atlas', '圖譜', '資訊圖', '圖解']],
+    ['Posters & Typography', ['poster', 'cover', 'typography', '海報', '封面', '字型']],
+    ['Products & E-commerce', ['product', 'packaging', 'e-commerce', '商品', '電商', '包裝']],
+    ['Brand & Logos', ['logo', 'brand', 'identity', '品牌', '標誌']],
+    ['Architecture & Spaces', ['architecture', 'interior', 'map', '建築', '室內', '地圖']],
+    ['Photography & Realism', ['photo', 'portrait', 'camera', 'realistic', '寫真', '攝影', '寫實']],
+    ['Illustration & Art', ['illustration', 'painting', 'watercolor', '插畫', '藝術', '水墨']],
+    ['Characters & People', ['character', 'pose', 'avatar', '角色', '人物', '頭像']],
+    ['Scenes & Storytelling', ['storyboard', 'scene', 'narrative', '場景', '敘事', '分鏡']],
+    ['History & Classical Themes', ['history', 'dynasty', 'classical', '歷史', '古風', '唐朝', '宋']],
+    ['Documents & Publishing', ['document', 'manual', 'prescription', '檔案', '手冊', '處方']]
   ];
   return rules.find(([, keys]) => keys.some((key) => text.includes(key)))?.[0] || 'Other Use Cases';
 }
@@ -138,6 +138,8 @@ function parseCases() {
       const title = stripMarkdown(block.match(/###\s*例\s*\d+：([^\n]+)/)?.[1] || `Case ${id}`);
       const imageMatch = block.match(/!\[([^\]]*)\]\(([^)]+)\)/);
       const prompt = extractPrompt(block);
+      if (!prompt) throw new Error(`Missing prompt in ${file}, case ${id}`);
+      if (cases.some((item) => item.id === id)) throw new Error(`Duplicate case ${id}`);
       const source = extractSource(block);
       const category = inferCategory({
         title,
@@ -171,6 +173,7 @@ function parseCases() {
 }
 
 const cases = parseCases();
+if (!cases.length) throw new Error('No cases found in gallery documents');
 const categories = [...new Set(cases.map((item) => item.category))].sort();
 const styles = [...new Set(cases.flatMap((item) => item.styles))].sort();
 const scenes = [...new Set(cases.flatMap((item) => item.scenes))].sort();

@@ -1,38 +1,38 @@
-# 支付宝网站支付
+# 支付寶網站付款
 
-项目同时保留 Stripe，并为一次性积分包增加支付宝网站支付。会员订阅仍由 Stripe 处理，避免把支付宝单次支付误当成自动续费。
+專案同時保留 Stripe，併為一次性點數包增加支付寶網站付款。會員訂閱仍由 Stripe 處理，避免把支付寶單次付款誤當成自動續費。
 
-## 接口
+## 介面
 
-| 路径 | 用途 | 权限 |
+| 路徑 | 用途 | 許可權 |
 | --- | --- | --- |
-| `POST /api/billing/alipay/checkout` | 创建订单并返回支付宝 POST 表单 | 登录用户 |
-| `GET /api/billing/alipay/query` | 主动查询交易并幂等发放积分 | 订单所属用户 |
-| `POST /api/billing/alipay/notify` | 验签、校验订单并处理异步通知 | 支付宝服务器 |
-| `POST /api/billing/alipay/refund` | 发起全额退款并预扣对应积分 | 超级管理员 |
-| `GET /api/billing/alipay/refund-query` | 查询退款结果 | 超级管理员 |
-| `POST /api/billing/alipay/close` | 关闭未支付订单 | 超级管理员 |
+| `POST /api/billing/alipay/checkout` | 建立訂單並返回支付寶 POST 表單 | 登入使用者 |
+| `GET /api/billing/alipay/query` | 主動查詢交易並冪等發放點數 | 訂單所屬使用者 |
+| `POST /api/billing/alipay/notify` | 驗籤、校驗訂單並處理非同步通知 | 支付寶伺服器 |
+| `POST /api/billing/alipay/refund` | 發起全額退款並預扣對應點數 | 超級管理員 |
+| `GET /api/billing/alipay/refund-query` | 查詢退款結果 | 超級管理員 |
+| `POST /api/billing/alipay/close` | 關閉未付款訂單 | 超級管理員 |
 
-支付结果只接受验签通过的异步通知或 `alipay.trade.query` 主动查询。浏览器同步回跳只用于打开结果页，不直接判定付款成功。
+付款結果只接受驗籤透過的非同步通知或 `alipay.trade.query` 主動查詢。瀏覽器同步重新導向只用於開啟結果頁，不直接判定付款成功。
 
-## 数据库与人民币定价
+## 資料庫與人民幣定價
 
-先应用迁移 `supabase/migrations/20260721090000_alipay_webpay.sql`。迁移会增加支付通道、支付宝交易号、退款状态和原子积分入账/退款函数。
+先應用遷移 `supabase/migrations/20260721090000_alipay_webpay.sql`。迁移会增加付款通道、付款宝交易号、退款状态和原子积分入账/退款函数。
 
-每个需要开放支付宝购买的积分包，都必须在 `credit_packs.alipay_amount_cents` 中填写经过业务确认的人民币分值。没有独立人民币价格的积分包不会展示可用的支付宝按钮；代码不会把现有美元价格按 1:1 当作人民币价格。
+每個需要開放支付寶購買的點數包，都必須在 `credit_packs.alipay_amount_cents` 中填寫經過業務確認的人民幣分值。沒有獨立人民幣價格的點數包不會展示可用的支付寶按鈕；程式碼不會把現有美元價格按 1:1 當作人民幣價格。
 
-## 本地沙箱
+## 本機沙箱
 
-本地代码直接读取项目根目录下、由支付宝 AI 付 Skill 创建并验证的 `.alipay-sandbox.json`：
+原生程式碼直接讀取專案根目錄下、由支付寶 AI 付 Skill 建立並驗證的 `.alipay-sandbox.json`：
 
 - Node.js 使用 `appIds[0].appPrivatePkcsKey`（PKCS#1）。
-- 网关固定为 `https://openapi-sandbox.dl.alipaydev.com/gateway.do`。
-- 配置文件必须保持 Git 忽略和仅当前用户可读写。
-- 本地没有公网 HTTPS 地址时不发送 `notify_url`，付款结果由交易查询确认；通知处理代码仍会保留。
+- 閘道器固定為 `https://openapi-sandbox.dl.alipaydev.com/gateway.do`。
+- 設定檔案必須保持 Git 忽略和僅目前使用者可讀寫。
+- 本機沒有公用網路 HTTPS 地址時不傳送 `notify_url`，付款結果由交易查詢確認；通知處理程式碼仍會保留。
 
-## 生产配置
+## 正式設定
 
-生产环境通过服务端环境变量设置：
+正式環境透過伺服器端環境變數設定：
 
 - `ALIPAY_APP_ID`
 - `ALIPAY_PRIVATE_KEY`
@@ -42,6 +42,6 @@
 - `ALIPAY_NOTIFY_URL`
 - `ALIPAY_NOTIFY_ENABLED`
 
-`ALIPAY_APP_ID`、应用公钥和应用私钥必须属于同一套生产应用密钥。Node.js 使用 PKCS#1 原始私钥字符串，不添加 PEM 头尾，不在日志、前端或仓库中保存密钥。
+`ALIPAY_APP_ID`、應用公鑰和應用私鑰必須屬於同一套正式應用金鑰。Node.js 使用 PKCS#1 原始私鑰字串，不新增 PEM 頭尾，不在日誌、前端或儲存庫中儲存金鑰。
 
-真实上线必须使用公网 HTTPS `notify_url`，完成通知验签、幂等处理、`app_id`、`seller_id`、订单号和金额校验，并保留主动查询作为补偿链路。
+真實上線必須使用公用網路 HTTPS `notify_url`，完成通知驗籤、冪等處理、`app_id`、`seller_id`、訂單號和金額校驗，並保留主動查詢作為補償鏈路。

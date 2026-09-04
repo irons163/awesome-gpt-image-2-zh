@@ -1,3 +1,5 @@
+> [繁體中文（台灣）主文件](README.md) · 此文件保留上游語言版本。
+
 <p align="center"><img src="./data/images/banner.svg" alt="GPT-Image2 Prompt System" width="800" /></p>
 
 <h3 align="center">Prompt as Code | GPT-Image2 産業レベルのプロンプトエンジンとテンプレートライブラリ、500+ 件のリバースエンジニアリング事例、20+ 種の実務向けテンプレート</h3>
@@ -16,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a> | <strong>日本語</strong>
+  <a href="./README.en.md">English</a> | <a href="./README.zh-CN.md">简体中文</a> | <strong>日本語</strong>
 </p>
 
 ## 🌐 ビジュアル Web サイト

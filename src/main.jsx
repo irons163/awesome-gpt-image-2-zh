@@ -51,17 +51,19 @@ const copy = {
     navSkill: 'Skill',
     navTemplates: 'Templates',
     navCommunity: 'Community',
-    navSponsor: 'API',
+    navSponsor: 'External API',
     navMembership: 'Membership',
+    navUpstream: 'Upstream GitHub',
+    latestCases: 'Latest GPT-Image2 cases',
     communityQrAlt: 'WeChat community invite card for GPT-Image2',
     eyebrow: 'Live GPT-Image2 prompt gallery',
     title: 'From viral images to reusable prompts.',
     subtitle:
       'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts, test image generation, explore industrial templates, and join the creator community.',
     explore: 'Explore cases',
-    githubProject: 'GitHub project',
-    sponsorProject: 'API',
-    sponsorProjectLabel: 'Open APIMart API',
+    githubProject: 'Upstream GitHub project',
+    sponsorProject: 'External API',
+    sponsorProjectLabel: 'Open APIMart (external service)',
     cases: 'cases',
     categories: 'categories',
     templates: 'templates',
@@ -72,17 +74,16 @@ const copy = {
     templateSubtitle:
       'Each template is distilled from real GPT-Image2 examples and includes structure, constraints, and pitfalls for production use.',
     templateKind: 'Prompt Template',
-    openTemplate: 'Open Template',
+    openTemplate: 'View Upstream Template',
     skillEyebrow: 'Agent skill',
-    skillTitle: 'Bring the GPT-Image2 style library into Claude Code and Codex.',
+    skillTitle: 'Install this localized GPT-Image2 style library for Claude Code and Codex.',
     skillSubtitle:
-      'Install one skill, then let your agent choose templates, visual styles, scene tags, and pitfalls from the same library behind this site.',
-    skillCommandLabel: 'Install for local agents',
+      'This localized site and its local skill share the same style library. Run the command from this project root to install the local copy for Codex and Claude Code.',
+    skillCommandLabel: "Install this project's local skill",
     skillPromptLabel: 'Try this request',
     skillPrompt: 'Use gpt-image-2-style-library to create a city life system map.',
     skillCopyCommand: 'Copy command',
-    skillOpenDocs: 'Open skill source',
-    skillNpm: 'View npm package',
+    skillOpenDocs: 'View upstream skill source',
     skillCopied: 'Command copied',
     skillExampleAlt: 'City life system map generated with the GPT-Image2 style library skill',
     skillExampleCaption: 'Example output generated from the style-library skill.',
@@ -93,7 +94,7 @@ const copy = {
     scene: 'Scene',
     all: 'All',
     matching: 'matching cases',
-    openGithub: 'Open GitHub project',
+    openGithub: 'View upstream GitHub project',
     copied: 'Copied',
     copyPrompt: 'Copy Prompt',
     copyTemplatePrompt: 'Copy Template',
@@ -260,273 +261,274 @@ const copy = {
     guidance: 'Guidance',
     pitfalls: 'Pitfalls',
     examples: 'Example Cases',
-    source: 'Source',
-    openOnGithub: 'Open on GitHub',
+    source: 'Original source',
+    openOnGithub: 'View upstream source on GitHub',
     limit: (count) => `Showing the first ${count} results for speed. Use search or filters to narrow the gallery.`
   },
   zh: {
-    loading: '正在加载 GPT-Image2 案例...',
-    brand: 'GPT-Image2 画廊',
+    loading: '正在載入 GPT-Image2 案例…',
+    brand: 'GPT-Image2 圖庫',
     navCases: '案例',
     navSkill: '技能',
-    navTemplates: '模板',
-    navCommunity: '交流群',
-    navSponsor: 'API',
-    navMembership: '会员',
-    communityQrAlt: 'GPT-Image2 微信交流群邀请卡',
-    eyebrow: '实时更新的 GPT-Image2 提示词画廊',
-    title: '从爆款图片，到可复用 Prompt。',
+    navTemplates: '範本',
+    navCommunity: '交流社群',
+    navSponsor: '外部 API',
+    navMembership: '會員',
+    navUpstream: '上游 GitHub',
+    latestCases: '最新 GPT-Image2 案例',
+    communityQrAlt: 'GPT-Image2 WeChat 交流社群邀請卡',
+    eyebrow: '持續更新的 GPT-Image2 提示詞圖庫',
+    title: '從熱門影像，到可重複使用的提示詞。',
     subtitle:
-      '一个面向 GPT-Image2 创作的可视化工作台：浏览真实案例、复制 Prompt、在线测试生图、查看工业级模板，并加入创作者交流群。',
-    explore: '浏览案例',
-    githubProject: 'GitHub 项目',
-    sponsorProject: 'API',
-    sponsorProjectLabel: '打开 APIMart API',
-    cases: '个案例',
-    categories: '个分类',
-    templates: '套模板',
-    sectionEyebrow: '复制、筛选、复用',
-    sectionTitle: '爆款案例和 Prompt，一键可取。',
-    templateEyebrow: '20+ 套工业级提示词模板',
-    templateTitle: '先用成熟模板起稿，再从案例库里继续 remix。',
+      '專為 GPT-Image2 創作打造的視覺化工作區：瀏覽真實案例、複製提示詞、線上測試影像生成、查看產業級範本，並加入創作者社群。',
+    explore: '瀏覽案例',
+    githubProject: '上游 GitHub 專案',
+    sponsorProject: '外部 API',
+    sponsorProjectLabel: '前往 APIMart（外部服務）',
+    cases: '則案例',
+    categories: '個分類',
+    templates: '個範本',
+    sectionEyebrow: '複製、篩選、再利用',
+    sectionTitle: '熱門案例與提示詞，一鍵即可取得。',
+    templateEyebrow: '20+ 個產業級提示詞範本',
+    templateTitle: '從成熟範本開始，再結合案例庫進一步調整。',
     templateSubtitle:
-      '每套模板都从真实 GPT-Image2 案例里提炼，包含结构、约束和防坑经验，适合生产流程直接复用。',
-    templateKind: '提示词模板',
-    openTemplate: '打开模板',
-    skillEyebrow: 'Agent Skill',
-    skillTitle: '把 GPT-Image2 风格库装进 Claude Code 和 Codex。',
+      '每個範本均由真實 GPT-Image2 案例萃取，包含結構、限制與常見陷阱，適合直接納入工作流程。',
+    templateKind: '提示詞範本',
+    openTemplate: '查看上游範本',
+    skillEyebrow: 'Agent 技能',
+    skillTitle: '將繁中 GPT-Image2 風格庫安裝到 Claude Code 和 Codex。',
     skillSubtitle:
-      '安装一个 skill，让 Agent 从本站同源的模板、风格、场景和防坑规则里自动选型，直接输出可复制的 GPT Image 2 prompt。',
-    skillCommandLabel: '安装到本地 Agent',
-    skillPromptLabel: '试试这个请求',
-    skillPrompt: '用 gpt-image-2-style-library 技能生成城市生命系统图谱',
-    skillCopyCommand: '复制命令',
-    skillOpenDocs: '打开 skill 源码',
-    skillNpm: '查看 npm 包',
-    skillCopied: '命令已复制',
-    skillExampleAlt: '使用 GPT-Image2 风格库 skill 生成的城市生命系统图谱',
-    skillExampleCaption: '示例：用 gpt-image-2-style-library 生成“城市生命系统图谱”。',
-    skillStats: ['Claude Code 可用', 'Codex 可用', '20+ 套模板'],
-    search: '搜索案例、来源、Prompt...',
-    category: '分类',
-    style: '风格',
-    scene: '场景',
+      '此繁中網站與本機 skill 使用同一份風格資料；在專案根目錄執行下列指令，即可為 Codex 和 Claude Code 安裝本機版本。',
+    skillCommandLabel: '安裝本專案的本機 skill',
+    skillPromptLabel: '試試這個要求',
+    skillPrompt: '使用 gpt-image-2-style-library 技能建立城市生活系統地圖。',
+    skillCopyCommand: '複製命令',
+    skillOpenDocs: '查看上游 skill 原始碼',
+    skillCopied: '命令已複製',
+    skillExampleAlt: '由 GPT-Image2 風格庫 skill 產生的城市生活系統地圖',
+    skillExampleCaption: '範例：透過 gpt-image-2-style-library 建立「城市生活系統地圖」。',
+    skillStats: ['Claude Code 適用', 'Codex 適用', '20+ 個範本'],
+    search: '搜尋案例、來源、提示詞…',
+    category: '分類',
+    style: '風格',
+    scene: '場景',
     all: '全部',
-    matching: '个匹配案例',
-    openGithub: '打开 GitHub 项目',
-    copied: '已复制',
-    copyPrompt: '复制 Prompt',
-    copyTemplatePrompt: '复制模板',
+    matching: '則符合條件的案例',
+    openGithub: '查看上游 GitHub 專案',
+    copied: '已複製',
+    copyPrompt: '複製提示詞',
+    copyTemplatePrompt: '複製範本',
     favorite: '收藏',
     favorited: '已收藏',
     unfavorite: '取消收藏',
     myFavorites: '我的收藏',
-    noFavorites: '暂无收藏案例。',
-    signInToFavorite: '登录后即可收藏案例。',
+    noFavorites: '尚無收藏案例。',
+    signInToFavorite: '登入後即可收藏案例。',
     favoriteSaved: '已加入收藏。',
     favoriteRemoved: '已取消收藏。',
-    favoriteFailed: '收藏更新失败，请稍后再试。',
-    closePreview: '关闭预览',
-    viewDetails: '详情',
-    generateTest: '生成测试',
-    generateImage: '生成图片',
-    generating: '生成中...',
-    editablePrompt: '可编辑 Prompt',
-    generatedResult: '生成结果',
-    originalImage: '原图',
-    savedInBrowser: '已保存到本浏览器',
-    resetPrompt: '重置 Prompt',
-    oneFreeGeneration: '免费生成 1 张测试图',
-    superAdminGeneration: '超级管理员模式：每次生图消耗 1 积分。',
-    generationCost: '本次消耗 1 积分',
-    freeLimitReached: '免费额度已用完，可购买积分包或开通会员继续生成。',
-    creditsRequired: '积分不足，可购买积分包或开通会员继续生成。',
-    generationBusy: '生图服务繁忙，请稍后再试。',
-    generationFailed: '生成失败，请稍后再试。',
-    promptRequired: 'Prompt 不能为空，并且不能超过 6000 字符。',
-    serverUnavailable: '生成服务还没有完成配置。',
-    checkoutUnavailable: '支付功能还没有完成配置。',
-    checkoutFailed: '创建支付失败，请稍后再试。',
-    billingSuccess: '支付正在处理中，Stripe 确认后积分会自动到账。',
-    billingCancelled: '已取消支付，你可以随时换一个积分包或会员方案。',
-    alipayReturnPending: '已从支付宝返回，正在通过服务端查询订单结果…',
-    alipayPaymentSuccess: '支付宝付款已确认，积分已经到账。',
-    alipayPaymentPending: '支付宝结果暂未确认，请勿重复付款；刷新当前回跳页会继续查询同一订单。',
-    alipayQueryFailed: '暂时无法确认支付宝结果，请勿重复付款；请刷新当前回跳页或联系支持。',
-    authRequired: '登录后即可生成测试图。',
-    signIn: '登录',
-    signInTitle: '登录后生成测试图',
-    signInSubtitle: '使用 Google 或观猹登录，解锁生图测试、积分和会员能力。',
-    authRateLimited: '登录尝试过于频繁，请稍后再试。',
-    googleNotConfigured: 'Google 登录还没有启用。',
-    continueWithGoogle: '使用 Google 登录',
-    continueWithWatcha: '使用观猹登录',
-    authNotConfigured: '登录功能还没有完成配置。',
-    watchaNotConfigured: '观猹登录还没有完成配置。',
-    watchaSessionExpired: '观猹登录已过期，请重新尝试。',
-    watchaDenied: '已取消观猹授权。',
-    watchaLoginFailed: '观猹登录失败，请稍后再试。',
-    authError: '登录失败，请稍后再试。',
-    signOut: '退出登录',
-    account: '账号',
-    accountSettings: '账户设置',
-    accountTitle: '账户设置',
-    accountSubtitle: '管理你的显示名称、会员状态和 GPT-Image2 积分消耗。',
-    displayName: '显示名称',
-    saveProfile: '保存资料',
-    profileSaved: '资料已保存。',
-    profileUpdateFailed: '资料保存失败，请稍后再试。',
-    googleAvatarSource: '头像会同步你的登录账号头像。',
-    accountOverview: '账户概览',
-    totalGenerations: '生成测试数',
-    totalGenerationCredits: '已消耗积分',
-    generationUsage: '生图消耗记录',
+    favoriteFailed: '收藏更新失敗，請稍後再試。',
+    closePreview: '關閉預覽',
+    viewDetails: '查看詳情',
+    generateTest: '產生測試影像',
+    generateImage: '產生影像',
+    generating: '產生中…',
+    editablePrompt: '可編輯提示詞',
+    generatedResult: '產生結果',
+    originalImage: '原始影像',
+    savedInBrowser: '已儲存於此瀏覽器',
+    resetPrompt: '恢復原始提示詞',
+    oneFreeGeneration: '免費產生 1 張測試影像',
+    superAdminGeneration: '超級管理員模式：每次產生影像需消耗 1 點數。',
+    generationCost: '本次需消耗 1 點數',
+    freeLimitReached: '免費額度已用完，可購買點數包或訂閱會員方案，繼續產生影像。',
+    creditsRequired: '點數不足，可購買點數包或訂閱會員方案，繼續產生影像。',
+    generationBusy: '影像生成服務忙碌中，請稍後再試。',
+    generationFailed: '影像生成失敗，請稍後再試。',
+    promptRequired: '提示詞不可留白，且不得超過 6,000 個字元。',
+    serverUnavailable: '影像生成服務尚未完成設定。',
+    checkoutUnavailable: '付款功能尚未完成設定。',
+    checkoutFailed: '建立付款程序失敗，請稍後再試。',
+    billingSuccess: '付款正在處理中，Stripe 確認後點數將自動入帳。',
+    billingCancelled: '已取消付款；你可隨時改選其他點數包或會員方案。',
+    alipayReturnPending: '已從支付寶返回，正在由伺服器查詢訂單結果…',
+    alipayPaymentSuccess: '支付寶付款已確認，點數已入帳。',
+    alipayPaymentPending: '支付寶付款結果尚未確認，請勿重複付款；重新整理此返回頁面可繼續查詢同一筆訂單。',
+    alipayQueryFailed: '暫時無法確認支付寶付款結果，請勿重複付款；請重新整理此返回頁面或聯絡支援人員。',
+    authRequired: '登入後即可產生測試影像。',
+    signIn: '登入',
+    signInTitle: '登入後產生測試影像',
+    signInSubtitle: '使用 Google 或觀猹登入，即可使用影像生成測試、點數與會員功能。',
+    authRateLimited: '登入嘗試過於頻繁，請稍後再試。',
+    googleNotConfigured: 'Google 登入尚未啟用。',
+    continueWithGoogle: '使用 Google 登入',
+    continueWithWatcha: '使用觀猹登入',
+    authNotConfigured: '登入功能尚未完成設定。',
+    watchaNotConfigured: '觀猹登入尚未完成設定。',
+    watchaSessionExpired: '觀猹登入已過期，請重新嘗試。',
+    watchaDenied: '已取消觀猹授權。',
+    watchaLoginFailed: '觀猹登入失敗，請稍後再試。',
+    authError: '登入失敗，請稍後再試。',
+    signOut: '登出',
+    account: '帳號',
+    accountSettings: '帳號設定',
+    accountTitle: '帳號設定',
+    accountSubtitle: '管理你的公開顯示名稱、會員狀態與 GPT-Image2 點數使用情形。',
+    displayName: '顯示名稱',
+    saveProfile: '儲存資料',
+    profileSaved: '資料已儲存。',
+    profileUpdateFailed: '資料儲存失敗，請稍後再試。',
+    googleAvatarSource: '大頭貼會與登入帳號同步。',
+    accountOverview: '帳號總覽',
+    totalGenerations: '已產生測試次數',
+    totalGenerationCredits: '已使用點數',
+    generationUsage: '影像生成點數使用紀錄',
     openCase: '查看案例',
-    sourceCase: '关联案例',
-    noGenerationTransactions: '暂无生图消耗记录。',
-    adminPanel: '管理后台',
-    membershipCenter: '会员与积分',
-    superAdmin: '超级管理员',
-    credits: '积分',
-    buyCredits: '购买积分',
-    subscribe: '开通会员',
-    manageSubscription: '管理订阅',
-    currentPlan: '当前会员',
-    noPlan: '免费用户',
-    activeUntil: '有效期至',
-    membershipPlans: '会员套餐',
-    creditPacks: '积分包',
-    monthlyCredits: (count) => `每月 ${count} 积分`,
-    packCredits: (count) => `${count} 积分`,
-    billingTitle: '会员与积分',
-    billingSubtitle: '会员每月自动获得积分，也可以随时购买积分包，用来测试更多 GPT-Image2 案例。',
-    balanceTitle: '当前余额',
-    transactionHistory: '积分流水',
-    noTransactions: '暂无积分流水。',
-    loadBilling: '正在加载会员与积分...',
-    openBilling: '打开会员中心',
-    paymentReady: '支持 Stripe 或支付宝安全支付。',
-    billingNotReady: '支付通道还没有完成配置。',
-    payWithStripe: 'Stripe 支付',
-    payWithAlipay: '支付宝',
-    alipayPriceMissing: '待配置人民币价格',
-    adminAdjust: '调整积分',
-    creditAmount: '数量',
+    sourceCase: '相關案例',
+    noGenerationTransactions: '尚無影像生成點數使用紀錄。',
+    adminPanel: '管理後台',
+    membershipCenter: '會員與點數',
+    superAdmin: '超級管理員',
+    credits: '點數',
+    buyCredits: '購買點數',
+    subscribe: '訂閱會員',
+    manageSubscription: '管理訂閱',
+    currentPlan: '目前方案',
+    noPlan: '免費方案',
+    activeUntil: '有效期限',
+    membershipPlans: '會員方案',
+    creditPacks: '點數包',
+    monthlyCredits: (count) => `每月 ${count} 點數`,
+    packCredits: (count) => `${count} 點數`,
+    billingTitle: '會員與點數',
+    billingSubtitle: '會員每月可獲得點數，也能隨時購買點數包，測試更多 GPT-Image2 案例。',
+    balanceTitle: '目前餘額',
+    transactionHistory: '點數紀錄',
+    noTransactions: '尚無點數紀錄。',
+    loadBilling: '正在載入會員與點數…',
+    openBilling: '開啟會員中心',
+    paymentReady: '支援透過 Stripe 或支付寶安全付款。',
+    billingNotReady: '付款服務尚未完成設定。',
+    payWithStripe: 'Stripe 付款',
+    payWithAlipay: '支付寶',
+    alipayPriceMissing: '等待設定人民幣價格',
+    adminAdjust: '調整點數',
+    creditAmount: '點數數量',
     reason: '原因',
-    applyAdjustment: '确认调整',
-    freeReady: '免费测试可用',
-    freeUsedShort: '免费测试已用',
-    signInToGenerate: '登录后生成',
-    creditsAvailable: (count) => `可用积分 ${count}`,
-    adminTitle: '用户管理',
-    adminSubtitle: '统一查看流量、用户、会员、积分和生图活跃情况。',
-    adminMetrics: '数据看板',
-    trafficMetrics: '流量数据',
-    businessMetrics: '业务数据',
-    analyticsNotConfigured: 'GA4 还没有配置，当前先展示业务数据。',
-    analyticsLoadFailed: 'GA4 数据暂时读取失败，当前先展示业务数据。',
-    invalidDateRange: '请选择 180 天以内的日期范围。',
+    applyAdjustment: '套用調整',
+    freeReady: '免費測試可用',
+    freeUsedShort: '免費測試已使用',
+    signInToGenerate: '登入後產生',
+    creditsAvailable: (count) => `可用點數：${count}`,
+    adminTitle: '使用者管理',
+    adminSubtitle: '在同一個儀表板查看流量、使用者、會員、點數與影像生成活動。',
+    adminMetrics: '儀表板',
+    trafficMetrics: '流量資料',
+    businessMetrics: '業務資料',
+    analyticsNotConfigured: 'GA4 尚未設定，仍可查看業務資料。',
+    analyticsLoadFailed: 'GA4 資料暫時無法載入，仍可查看業務資料。',
+    invalidDateRange: '請選擇 180 天以內的日期範圍。',
     rangeToday: '今天',
     range7d: '近 7 天',
     range30d: '近 30 天',
     range90d: '近 90 天',
-    customRange: '自定义',
-    startDate: '开始日期',
-    endDate: '结束日期',
-    applyRange: '应用',
-    selectedRange: '当前区间',
+    customRange: '自訂',
+    startDate: '開始日期',
+    endDate: '結束日期',
+    applyRange: '套用',
+    selectedRange: '目前區間',
     pv: 'PV',
     uv: 'UV',
-    visits: '访问数',
-    sessions: 'Sessions',
-    newUsers: '新访客',
-    registeredUsers: '注册用户',
-    newRegistrations: '新增注册',
-    newMembers: '新增会员',
-    activeMemberships: '活跃会员',
-    totalGenerationsMetric: '总生图量',
-    rangeGenerations: '区间生图量',
+    visits: '造訪數',
+    sessions: '工作階段',
+    newUsers: '新使用者',
+    registeredUsers: '已註冊使用者',
+    newRegistrations: '新增註冊',
+    newMembers: '新增會員',
+    activeMemberships: '活躍會員',
+    totalGenerationsMetric: '總產生次數',
+    rangeGenerations: '區間產生次數',
     succeeded: '成功',
-    failed: '失败',
-    pending: '进行中',
-    creditsConsumed: '已消耗积分',
-    creditsInCirculation: '账户积分余额',
-    purchasedCredits: '购买积分',
-    membershipCredits: '会员发放积分',
+    failed: '失敗',
+    pending: '處理中',
+    creditsConsumed: '已使用點數',
+    creditsInCirculation: '帳號點數餘額',
+    purchasedCredits: '購買點數',
+    membershipCredits: '會員提供點數',
     dailyTraffic: '每日流量',
-    trafficTrend: '流量趋势',
-    businessTrend: '业务趋势',
-    registrations: '注册',
-    topPages: '热门页面',
-    channels: '来源渠道',
-    countries: '国家/地区',
-    pageViews: '浏览量',
-    noAnalyticsRows: '暂无统计数据。',
-    refresh: '刷新',
-    users: '用户',
+    trafficTrend: '流量趨勢',
+    businessTrend: '業務趨勢',
+    registrations: '註冊',
+    topPages: '熱門頁面',
+    channels: '流量來源',
+    countries: '國家／地區',
+    pageViews: '瀏覽次數',
+    noAnalyticsRows: '尚無統計資料。',
+    refresh: '重新整理',
+    users: '使用者',
     role: '角色',
-    creditBalance: '积分',
-    freeGeneration: '免费测试',
-    spentCredits: '消耗',
-    purchased: '购买',
-    lastGeneration: '最近生图',
-    createdAt: '创建时间',
-    loadingUsers: '正在加载用户...',
-    noUsers: '暂无用户。',
-    adminOnly: '仅超级管理员可查看。',
-    fullPrompt: '完整 Prompt',
-    templatePrompt: '模板 Prompt',
-    useWhen: '适用场景',
-    guidance: '使用建议',
-    pitfalls: '防坑指南',
-    examples: '关联案例',
-    source: '来源',
-    openOnGithub: '在 GitHub 打开',
-    limit: (count) => `为了保证浏览速度，当前展示前 ${count} 条结果。可以用搜索或筛选缩小范围。`
+    creditBalance: '點數',
+    freeGeneration: '免費測試',
+    spentCredits: '已使用',
+    purchased: '購買',
+    lastGeneration: '最近產生',
+    createdAt: '建立時間',
+    loadingUsers: '正在載入使用者…',
+    noUsers: '尚無使用者。',
+    adminOnly: '僅超級管理員可檢視此頁面。',
+    fullPrompt: '完整提示詞',
+    templatePrompt: '範本提示詞',
+    useWhen: '適用時機',
+    guidance: '使用建議',
+    pitfalls: '注意事項',
+    examples: '相關案例',
+    source: '原始來源',
+    openOnGithub: '在 GitHub 查看上游原始碼',
+    limit: (count) => `為維持瀏覽速度，目前僅顯示前 ${count} 項結果。請使用搜尋或篩選縮小範圍。`
   }
 };
 
 const labelMap = {
   zh: {
-    'Architecture & Spaces': '建筑与空间',
-    Architecture: '建筑',
+    'Architecture & Spaces': '建築與空間',
+    Architecture: '建築',
     Brand: '品牌',
-    'Brand & Logos': '品牌与标志',
+    'Brand & Logos': '品牌與標誌',
     Character: '角色',
     Characters: '人物',
-    'Characters & People': '人物与角色',
-    Charts: '图表',
-    'Charts & Infographics': '图表与信息可视化',
+    'Characters & People': '人物與角色',
+    Charts: '圖表',
+    'Charts & Infographics': '圖表與資訊圖像',
     Classical: '古典',
-    Commerce: '商业',
-    Creative: '创意',
-    Documents: '文档',
-    'Documents & Publishing': '文档与出版物',
+    Commerce: '商業',
+    Creative: '創意',
+    Documents: '文件',
+    'Documents & Publishing': '文件與出版',
     Education: '教育',
-    Fashion: '时尚',
-    Food: '食品饮品',
-    History: '历史',
-    'History & Classical Themes': '历史与古风题材',
-    Illustration: '插画',
-    'Illustration & Art': '插画与艺术',
-    Infographic: '信息图',
-    'Other Use Cases': '其他应用场景',
-    Photography: '摄影',
-    'Photography & Realism': '摄影与写实',
-    Poster: '海报',
-    'Posters & Typography': '海报与排版',
-    Product: '商品',
-    Products: '商品',
-    'Products & E-commerce': '商品与电商',
-    Realistic: '写实',
-    Scenes: '场景',
-    'Scenes & Storytelling': '场景与叙事',
-    Social: '社媒',
-    Story: '叙事',
+    Fashion: '時尚',
+    Food: '食品與飲品',
+    History: '歷史',
+    'History & Classical Themes': '歷史與古典主題',
+    Illustration: '插畫',
+    'Illustration & Art': '插畫與藝術',
+    Infographic: '資訊圖表',
+    'Other Use Cases': '其他使用情境',
+    Photography: '攝影',
+    'Photography & Realism': '攝影與寫實',
+    Poster: '海報',
+    'Posters & Typography': '海報與字體設計',
+    Product: '產品',
+    Products: '產品',
+    'Products & E-commerce': '產品與電子商務',
+    Realistic: '寫實',
+    Scenes: '場景',
+    'Scenes & Storytelling': '場景與敘事',
+    Social: '社群',
+    Story: '敘事',
     Tech: '科技',
-    Travel: '旅行',
-    UI: '界面',
-    'UI & Interfaces': 'UI 与界面'
+    Travel: '旅遊',
+    UI: '介面',
+    'UI & Interfaces': 'UI 與介面'
   }
 };
 
@@ -537,11 +539,11 @@ function cx(...classes) {
 function textFor(value, language) {
   if (!value) return '';
   if (typeof value === 'string') return value;
-  return value[language] || value.en || value.zh || '';
+  return value[language] || value.zh || value.en || '';
 }
 
 function listFor(value, language) {
-  const localized = value?.[language] || value?.en || value?.zh || [];
+  const localized = value?.[language] || value?.zh || value?.en || [];
   return Array.isArray(localized) ? localized : [];
 }
 
@@ -659,7 +661,7 @@ function formatShortDate(value, language) {
   const normalized = /^\d{8}$/.test(String(value))
     ? `${String(value).slice(0, 4)}-${String(value).slice(4, 6)}-${String(value).slice(6, 8)}T00:00:00Z`
     : value;
-  return new Date(normalized).toLocaleDateString(language === 'zh' ? 'zh-CN' : 'en-US', {
+  return new Date(normalized).toLocaleDateString(language === 'zh' ? 'zh-TW' : 'en-US', {
     month: 'short',
     day: 'numeric'
   });
@@ -667,7 +669,7 @@ function formatShortDate(value, language) {
 
 function formatRangeDate(value, language) {
   if (!value) return '-';
-  return new Date(`${value}T00:00:00`).toLocaleDateString(language === 'zh' ? 'zh-CN' : 'en-US', {
+  return new Date(`${value}T00:00:00`).toLocaleDateString(language === 'zh' ? 'zh-TW' : 'en-US', {
     month: 'short',
     day: 'numeric',
     year: 'numeric'
@@ -893,26 +895,34 @@ function getGenerationQuotaText(profile, language) {
 
 function productText(value, language) {
   if (!value) return '';
-  return value[language] || value.en || value.zh || '';
+  return value[language] || value.zh || value.en || '';
 }
 
 function formatMembershipStatus(membership, language) {
   const t = copy[language];
   if (!membership?.isActive) return t.noPlan;
-  const status = membership.status === 'trialing' ? 'trialing' : 'active';
+  const status = membership.status === 'trialing'
+    ? (language === 'zh' ? '試用中' : 'Trialing')
+    : (language === 'zh' ? '啟用中' : 'Active');
   if (!membership.currentPeriodEnd) return status;
-  const date = new Date(membership.currentPeriodEnd).toLocaleDateString(language === 'zh' ? 'zh-CN' : 'en-US');
+  const date = new Date(membership.currentPeriodEnd).toLocaleDateString(language === 'zh' ? 'zh-TW' : 'en-US');
   return `${status} · ${t.activeUntil} ${date}`;
+}
+
+function formatRole(role, language) {
+  if (role === 'super_admin') return language === 'zh' ? '超級管理員' : 'Super admin';
+  if (role === 'user') return language === 'zh' ? '一般使用者' : 'User';
+  return role || '-';
 }
 
 function transactionLabel(transaction, language) {
   const typeMap = {
-    grant: language === 'zh' ? '赠送' : 'Grant',
-    purchase: language === 'zh' ? '购买' : 'Purchase',
-    membership_grant: language === 'zh' ? '会员发放' : 'Membership grant',
-    generation: language === 'zh' ? '生图消耗' : 'Generation',
-    refund: language === 'zh' ? '失败返还' : 'Refund',
-    adjustment: language === 'zh' ? '管理员调整' : 'Admin adjustment'
+    grant: language === 'zh' ? '贈與' : 'Grant',
+    purchase: language === 'zh' ? '購買' : 'Purchase',
+    membership_grant: language === 'zh' ? '會員提供' : 'Membership grant',
+    generation: language === 'zh' ? '影像生成使用' : 'Generation',
+    refund: language === 'zh' ? '失敗退回' : 'Refund',
+    adjustment: language === 'zh' ? '管理員調整' : 'Admin adjustment'
   };
   return typeMap[transaction.type] || transaction.type || '-';
 }
@@ -952,7 +962,7 @@ function TransactionItem({ transaction, language, casesById, onOpenCase }) {
       </strong>
       <em>
         {transaction.createdAt
-          ? new Date(transaction.createdAt).toLocaleString(language === 'zh' ? 'zh-CN' : 'en-US')
+          ? new Date(transaction.createdAt).toLocaleString(language === 'zh' ? 'zh-TW' : 'en-US')
           : '-'}
       </em>
     </div>
@@ -975,23 +985,23 @@ function formatTemplatePrompt(item, language, styleLibrary) {
 
   if (language === 'zh') {
     return [
-      `模板：${title}`,
-      `用途：${useWhen || description}`,
-      `视觉方向：${uniqueTags.join(' / ')}`,
+      `範本：${title}`,
+      `適用情境：${useWhen || description}`,
+      `視覺方向：${uniqueTags.join(' / ')}`,
       '',
-      '请基于以下结构生成一条可直接用于 GPT Image 2 的图片 Prompt：',
-      '- 主体：[要生成的产品、人物、空间、界面或信息主题]',
-      '- 场景：[使用环境、叙事背景、受众语境]',
-      '- 构图：[画面比例、镜头距离、主体位置、层级关系]',
-      '- 风格：[材质、光线、色彩、时代感、品牌气质]',
-      '- 文本：[必须准确显示的标题、标签、按钮或说明文字]',
-      '- 细节：[关键装饰、辅助元素、信息标注、交互层]',
-      '- 输出：[清晰度、比例、完成度、可读性要求]',
+      '請依下列結構撰寫可直接用於 GPT Image 2 的影像提示詞：',
+      '- 主體：[要產生的產品、人物、空間、介面或資訊主題]',
+      '- 情境：[使用環境、敘事背景、受眾脈絡]',
+      '- 構圖：[畫面比例、鏡頭距離、主體位置、層級關係]',
+      '- 風格：[材質、光線、色彩、時代感、品牌調性]',
+      '- 文字：[必須正確顯示的標題、標籤、按鈕或說明文字]',
+      '- 細節：[關鍵裝飾、輔助元素、資訊標註、互動層]',
+      '- 輸出：[影像品質、比例、完成度及可讀性要求]',
       '',
-      '核心约束：',
+      '核心限制：',
       ...guidance.map((line) => `- ${line}`),
       '',
-      '需要避免：',
+      '避免事項：',
       ...pitfalls.map((line) => `- ${line}`)
     ].join('\n');
   }
@@ -1059,12 +1069,12 @@ function Hero({ latestCases, language, repoUrl, totalCases, categoryCount, onOpe
           <span><strong>20+</strong> {t.templates}</span>
         </div>
       </div>
-      <div className="heroDeck" aria-label="Latest GPT-Image2 cases">
+      <div className="heroDeck" aria-label={t.latestCases}>
         {latestCases.slice(0, 5).map((caseItem, index) => (
           <button
             className={`heroCard heroCard${index + 1}`}
             type="button"
-            aria-label={`${language === 'zh' ? '打开案例' : 'Open case'} ${caseItem.id}: ${caseItem.title}`}
+            aria-label={`${language === 'zh' ? '查看案例' : 'Open case'} ${caseItem.id}: ${caseItem.title}`}
             onClick={() => onOpenCase(caseItem)}
             key={caseItem.id}
           >
@@ -1119,16 +1129,16 @@ function LanguageSwitch({ language, setLanguage }) {
   const ref = useDropdownDismiss(open, setOpen);
   const languageOptions = [
     { value: 'en', label: 'English', short: 'EN' },
-    { value: 'zh', label: '中文', short: '中文' }
+    { value: 'zh', label: '繁體中文（台灣）', short: '繁中' }
   ];
-  const activeLanguage = languageOptions.find((option) => option.value === language) || languageOptions[0];
+  const activeLanguage = languageOptions.find((option) => option.value === language) || languageOptions[1];
 
   return (
     <div className="dropdownControl languageSwitch" ref={ref}>
       <button
         className={cx('dropdownTrigger', open && 'open')}
         type="button"
-        aria-label="Language"
+        aria-label={language === 'zh' ? '選擇語言' : 'Language'}
         aria-haspopup="menu"
         aria-expanded={open}
         onClick={() => setOpen((current) => !current)}
@@ -1629,7 +1639,7 @@ function AccountPanel({
                   <strong>{caseItem.title}</strong>
                   <em>
                     {createdAt
-                      ? new Date(createdAt).toLocaleDateString(language === 'zh' ? 'zh-CN' : 'en-US')
+                      ? new Date(createdAt).toLocaleDateString(language === 'zh' ? 'zh-TW' : 'en-US')
                       : localizeLabel(caseItem.category, language, null)}
                   </em>
                 </button>
@@ -2184,7 +2194,7 @@ function AdminPanel({ open, language, session, casesById, onClose, onOpenCase })
                         </div>
                       </div>
                     </td>
-                    <td><span className="roleBadge">{user.role}</span></td>
+                    <td><span className="roleBadge">{formatRole(user.role, language)}</span></td>
                     <td>{user.creditBalance}</td>
                     <td>{formatMembershipStatus(user.membership, language)}</td>
                     <td>{user.freeUsed ? t.freeUsedShort : t.freeReady}</td>
@@ -2207,7 +2217,7 @@ function AdminPanel({ open, language, session, casesById, onClose, onOpenCase })
                         </button>
                       ) : '-'}
                     </td>
-                    <td>{user.createdAt ? new Date(user.createdAt).toLocaleDateString(language === 'zh' ? 'zh-CN' : 'en-US') : '-'}</td>
+                    <td>{user.createdAt ? new Date(user.createdAt).toLocaleDateString(language === 'zh' ? 'zh-TW' : 'en-US') : '-'}</td>
                     <td>
                       <button
                         className="tableAction"
@@ -2553,10 +2563,8 @@ function BillingPanel({
 function SkillSection({ language, repoUrl }) {
   const t = copy[language];
   const [commandCopied, setCommandCopied] = useState(false);
-  const installCommand =
-    'npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-library --agent claude-code codex --global --yes --copy';
+  const installCommand = 'npm run install:skill -- all';
   const skillSourceUrl = `${repoUrl}/tree/main/agents/skills/gpt-image-2-style-library`;
-  const npmUrl = 'https://www.npmjs.com/package/gpt-image-2-style-library';
 
   async function handleCopyCommand() {
     await copyToClipboard(installCommand);
@@ -2605,10 +2613,6 @@ function SkillSection({ language, repoUrl }) {
               <Github size={18} />
               {t.skillOpenDocs}
             </a>
-            <a href={npmUrl} target="_blank" rel="noreferrer">
-              <PackageCheck size={18} />
-              {t.skillNpm}
-            </a>
           </div>
         </div>
         <figure className="skillPreview">
@@ -2654,7 +2658,7 @@ function TemplateSection({ language, styleLibrary, onOpenTemplate }) {
               >
                 <img src={item.cover} alt={title} loading="lazy" />
                 <span className="caseBadge">
-                  {language === 'zh' ? '模板' : 'Template'} {String(index + 1).padStart(2, '0')}
+                  {language === 'zh' ? '範本' : 'Template'} {String(index + 1).padStart(2, '0')}
                 </span>
                 <span className="imageHint">
                   <Eye size={15} />
@@ -2760,7 +2764,7 @@ function PromptCard({
           </button>
           <a href={caseItem.githubUrl} target="_blank" rel="noreferrer" aria-label={t.openOnGithub}>
             <Github size={18} />
-            GitHub
+            {t.navUpstream}
           </a>
         </div>
       </div>
@@ -3069,7 +3073,7 @@ function PreviewDialog({
                   <div className="exampleCaseRow">
                     {item.exampleCases.map((caseId) => (
                       <a
-                        href={`${styleLibrary.repository || fallbackRepoUrl}/blob/main/docs/gallery.md#case-${caseId}`}
+                        href={`${styleLibrary.repository || fallbackRepoUrl}/blob/main/docs/gallery-part-${caseId <= 165 ? 1 : 2}.md#case-${caseId}`}
                         target="_blank"
                         rel="noreferrer"
                         key={caseId}
@@ -3092,7 +3096,9 @@ function App() {
   useGaPageViews();
   const [siteData, setSiteData] = useState(null);
   const [styleLibrary, setStyleLibrary] = useState(null);
-  const [language, setLanguage] = useState(() => localStorage.getItem('language') || 'en');
+  const [language, setLanguage] = useState(() => (
+    localStorage.getItem('language') === 'en' ? 'en' : 'zh'
+  ));
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState('All');
   const [style, setStyle] = useState('All');
@@ -3136,7 +3142,12 @@ function App() {
 
   useEffect(() => {
     localStorage.setItem('language', language);
-    document.documentElement.lang = language === 'zh' ? 'zh-CN' : 'en';
+    document.documentElement.lang = language === 'zh' ? 'zh-TW' : 'en';
+    if (!window.location.pathname.startsWith('/community')) {
+      document.title = language === 'zh'
+        ? 'GPT-Image2 提示詞圖庫｜繁體中文（台灣）'
+        : 'GPT-Image2 Prompt Gallery';
+    }
   }, [language]);
 
   useEffect(() => {
@@ -3548,7 +3559,7 @@ function App() {
               {t.navSponsor}
             </a>
             <a href={repoUrl} target="_blank" rel="noreferrer">
-              GitHub
+              {t.navUpstream}
             </a>
           </nav>
           <LanguageSwitch language={language} setLanguage={setLanguage} />
@@ -3583,7 +3594,7 @@ function App() {
         {hotStripCases.map((caseItem) => (
           <button
             type="button"
-            aria-label={`${language === 'zh' ? '打开案例' : 'Open case'} ${caseItem.id}: ${caseItem.title}`}
+            aria-label={`${language === 'zh' ? '查看案例' : 'Open case'} ${caseItem.id}: ${caseItem.title}`}
             onClick={() => setPreview({ type: 'case', item: caseItem })}
             key={caseItem.id}
           >

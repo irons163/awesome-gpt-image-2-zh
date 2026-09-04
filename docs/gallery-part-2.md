@@ -1,20 +1,20 @@
-> [返回 README 首页](../README.md) | [画廊总览](./gallery.md) | [上一册：例 1-165](./gallery-part-1.md)
+> [返回 README 首頁](../README.md) | [畫廊總覽](./gallery.md) | [上一冊：例 1-165](./gallery-part-1.md)
 
-## 🖼️ 魔法画廊 (Part 2)
+## 🖼️ 魔法畫廊 (Part 2)
 
 <a name="case-166"></a>
 
-### 例 166：十二黄金圣斗士卡牌合集
+### 例 166：十二黃金聖鬥士卡牌合集
 
-![十二黄金圣斗士卡牌合集](../data/images/case166.jpg)
+![十二黃金聖鬥士卡牌合集](../data/images/case166.jpg)
 
-**来源：** [@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
+**來源：** [@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。
+生成聖鬥士星矢12個黃金聖鬥士的12宮格卡牌圖片，每張卡牌上寫上對應的中文名，每行4個，寬高比16:9。
 
 [English]
 Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.
@@ -24,17 +24,17 @@ Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the c
 
 <a name="case-167"></a>
 
-### 例 167：大唐玄武门之变的朋友圈
+### 例 167：大唐玄武門之變的朋友圈
 
-![大唐玄武门之变的朋友圈](../data/images/case167.jpg)
+![大唐玄武門之變的朋友圈](../data/images/case167.jpg)
 
-**来源：** [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
+**來源：** [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-玄武门之变的朋友圈
+玄武門之變的朋友圈
 
 [English]
 WeChat Moments of the Xuanwu Gate Incident
@@ -44,17 +44,17 @@ WeChat Moments of the Xuanwu Gate Incident
 
 <a name="case-168"></a>
 
-### 例 168：手写中西药方图片
+### 例 168：手寫中西藥方圖片
 
-![手写中西药方图片](../data/images/case168.jpg)
+![手寫中西藥方圖片](../data/images/case168.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张手写中/西医药方图
+生成一張手寫中/西醫藥方圖
 
 [English]
 Generate an image of a handwritten traditional Chinese medicine or Western medicine prescription
@@ -64,17 +64,17 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 
 <a name="case-171"></a>
 
-### 例 171：信息图可视化设计
+### 例 171：資訊圖表視覺化設計
 
-![百件A字头物品矩阵图](../data/images/case171.jpg)
+![百件A字頭物品矩陣圖](../data/images/case171.jpg)
 
-**来源：** [@umesh\_ai](https://x.com/umesh_ai/status/2046510988367945983)
+**來源：** [@umesh\_ai](https://x.com/umesh_ai/status/2046510988367945983)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创建一个包含 10x10 网格的图像，每个对象名称都以字母 a 开头。
+建立一個包含 10x10 網格的影象，每個物件名稱都以字母 a 開頭。
 
 [English]
 create an image with 10x10 grid of objects that have the names starting with letter a.
@@ -84,17 +84,17 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 <a name="case-172"></a>
 
-### 例 172：赛博科幻桃太郎主视觉图
+### 例 172：賽博科幻桃太郎主視覺圖
 
-![赛博科幻桃太郎主视觉图](../data/images/case172.jpg)
+![賽博科幻桃太郎主視覺圖](../data/images/case172.jpg)
 
-**来源：** [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
+**來源：** [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-设计虚构动画的钥匙视觉图。主题是「科幻桃太郎」。设计有魅力的角色、背景、标志和宣传语，以一幅美丽插画的形式完成，让世界观在一张图中传达出来。
+設計虛構動畫的鑰匙視覺圖。主題是「科幻桃太郎」。設計有魅力的角色、背景、標誌和宣傳語，以一幅美麗插畫的形式完成，讓世界觀在一張圖中傳達出來。
 
 [English]
 Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.
@@ -104,21 +104,21 @@ Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". D
 
 <a name="case-173"></a>
 
-### 例 173：银河繁星点缀的冰蓝襦裙
+### 例 173：銀河繁星點綴的冰藍襦裙
 
-![银河繁星点缀的冰蓝襦裙](../data/images/case173.jpg)
+![銀河繁星點綴的冰藍襦裙](../data/images/case173.jpg)
 
-**来源：** [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
+**來源：** [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質制成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。
+服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質製成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。
 
-材質與光影： 畫面呈現 8k 超高分辨率和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。
+材質與光影： 畫面呈現 8k 超高解析度和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。
 
-構圖與鏡頭： 採用 85mm 黄金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立
+構圖與鏡頭： 採用 85mm 黃金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立
 
 [English]
 Clothing details: The model wears an exquisite pale ice blue chest-high ruqun, made of multiple layers of lightweight tulle and silk organza materials. Its wide, translucent broad sleeves are adorned with tiny silver and light blue sequin embroideries like stars, shimmering under the light (with a galaxy-like dreamy feel). The tube top position has complex silver lace and woven texture details, and the belt falls naturally.
@@ -130,23 +130,23 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
 
 <a name="case-174"></a>
 
-### 例 174：唐朝贵妇遛粉色马甲异形工笔画
+### 例 174：唐朝貴婦遛粉色馬甲異形工筆畫
 
-![唐朝贵妇遛粉色马甲异形工笔画](../data/images/case174.jpg)
+![唐朝貴婦遛粉色馬甲異形工筆畫](../data/images/case174.jpg)
 
-**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
+**來源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一幅细节丰富的工笔画，描绘了一位唐朝贵族女子在御花园中漫步。她看起来优雅而平静。
+一幅細節豐富的工筆畫，描繪了一位唐朝貴族女子在御花園中漫步。她看起來優雅而平靜。
 
-她手里拿着一根金色的牵引绳。牵引绳的尽头是一只可怕的**异形怪物（出自电影《异形》）**。然而，这只异形穿着一件**可爱的粉色丝绸马甲**，并且表现得像一只训练有素的狗。
+她手裡拿著一根金色的牽引繩。牽引繩的盡頭是一隻可怕的**異形怪物（出自電影《異形》）**。然而，這隻異形穿著一件**可愛的粉色絲綢馬甲**，並且表現得像一隻訓練有素的狗。
 
 背景有牡丹和蝴蝶。
 
-**在右下角，有一个红色的竖排艺术家印章，写着“吴先生”（Mr. Wu），风格像水印一样。** --ar 3:4
+**在右下角，有一個紅色的豎排藝術家印章，寫著“吳先生”（Mr. Wu），風格像水印一樣。** --ar 3:4
 
 [English]
 A finely detailed Gongbi painting of a noble Tang Dynasty lady taking a stroll in the imperial garden. She looks elegant and calm.
@@ -162,97 +162,97 @@ Background features peonies and butterflies.
 
 <a name="case-175"></a>
 
-### 例 175：封面排版设计图
+### 例 175：封面排版設計圖
 
-![高端AI演示平台封面设计](../data/images/case175.jpg)
+![高階AI演示平台封面設計](../data/images/case175.jpg)
 
-**来源：** [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
+**來源：** [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创建一个高级的 4:3 演示文稿封面幻灯片，介绍来自 http://chroniclehq.com 的 AI 原生演示平台 Chronicle。  
+建立一個高階的 4:3 簡報封面幻燈片，介紹來自 http://chroniclehq.com 的 AI 原生演示平台 Chronicle。
 
-Style: 
-优雅，极简，现代，高级初创企业美学。类似于高端品牌指南封面（如 Apple / Linear / Notion 风格）。带有微妙深度感的柔和渐变背景，干净的留白，精致的排版，经过打磨的编辑式布局。  
+Style:
+優雅，極簡，現代，高階初創企業美學。類似於高階品牌指南封面（如 Apple / Linear / Notion 風格）。帶有微妙深度感的柔和漸變背景，乾淨的留白，精緻的排版，經過打磨的編輯式佈局。
 
-Main title: 
-CHRONICLE  
+Main title:
+CHRONICLE
 
-Subtitle: 
-AI PRESENTATION PLATFORM  
+Subtitle:
+AI PRESENTATION PLATFORM
 
-Body copy (small elegant text): 
-将原始想法转化为经过打磨的、高影响力的演示文稿。 
-从笔记、文档、链接或现有幻灯片开始。 
-使用 AI 生成美观的、符合品牌调性的幻灯片。 
-在灵活的画布上自由编辑。 
-导出为 PPT、PDF，或发布为网站。  
+Body copy (small elegant text):
+將原始想法轉化為經過打磨的、高影響力的簡報。
+從筆記、檔案、連結或現有幻燈片開始。
+使用 AI 生成美觀的、符合品牌調性的幻燈片。
+在靈活的畫布上自由編輯。
+匯出為 PPT、PDF，或發布為網站。
 
-Feature highlights (small premium labels): 
-STORY-FIRST 
-ON-BRAND DESIGN 
-AI EDITING 
-FREEFORM CANVAS 
-PPT EXPORT 
-TEAM COLLABORATION  
+Feature highlights (small premium labels):
+STORY-FIRST
+ON-BRAND DESIGN
+AI EDITING
+FREEFORM CANVAS
+PPT EXPORT
+TEAM COLLABORATION
 
-Bottom-right elegant logo text: 
-chronicle  
+Bottom-right elegant logo text:
+chronicle
 
-Visual feeling: 
-商务级高级感，战略级幻灯片质量，咨询级演示文稿，略带未来感但高度专业。  
+Visual feeling:
+商務級高階感，戰略級幻燈片品質，諮詢級簡報，略帶未來感但高度專業。
 
-Composition: 
-干净的编辑式平衡，不对称布局，强烈的留白，演示软件主视觉感。  
+Composition:
+乾淨的編輯式平衡，不對稱佈局，強烈的留白，演示軟體主視覺感。
 
-Aspect ratio: 
-4:3  
+Aspect ratio:
+4:3
 
-Language: 
-仅限英文
+Language:
+僅限英文
 
 [English]
-Create a premium 4:3 presentation cover slide introducing Chronicle, the AI-native presentation platform from http://chroniclehq.com.  
+Create a premium 4:3 presentation cover slide introducing Chronicle, the AI-native presentation platform from http://chroniclehq.com.
 
-Style: 
-elegant, minimal, modern, premium startup aesthetic. Similar to high-end brand guideline covers (like Apple / Linear / Notion style). Soft gradient background with subtle depth, clean whitespace, refined typography, polished editorial layout.  
+Style:
+elegant, minimal, modern, premium startup aesthetic. Similar to high-end brand guideline covers (like Apple / Linear / Notion style). Soft gradient background with subtle depth, clean whitespace, refined typography, polished editorial layout.
 
-Main title: 
-CHRONICLE  
+Main title:
+CHRONICLE
 
-Subtitle: 
-AI PRESENTATION PLATFORM  
+Subtitle:
+AI PRESENTATION PLATFORM
 
-Body copy (small elegant text): 
-Turn raw ideas into polished, high-impact presentations. 
-Start from notes, docs, links, or existing decks. 
-Generate beautiful, on-brand slides with AI. 
-Edit freely on a flexible canvas. 
-Export to PPT, PDF, or publish as a website.  
+Body copy (small elegant text):
+Turn raw ideas into polished, high-impact presentations.
+Start from notes, docs, links, or existing decks.
+Generate beautiful, on-brand slides with AI.
+Edit freely on a flexible canvas.
+Export to PPT, PDF, or publish as a website.
 
-Feature highlights (small premium labels): 
-STORY-FIRST 
-ON-BRAND DESIGN 
-AI EDITING 
-FREEFORM CANVAS 
-PPT EXPORT 
-TEAM COLLABORATION  
+Feature highlights (small premium labels):
+STORY-FIRST
+ON-BRAND DESIGN
+AI EDITING
+FREEFORM CANVAS
+PPT EXPORT
+TEAM COLLABORATION
 
-Bottom-right elegant logo text: 
-chronicle  
+Bottom-right elegant logo text:
+chronicle
 
-Visual feeling: 
-business-class premium, strategy deck quality, consulting-grade presentation, slightly futuristic but highly professional.  
+Visual feeling:
+business-class premium, strategy deck quality, consulting-grade presentation, slightly futuristic but highly professional.
 
-Composition: 
-clean editorial balance, asymmetrical layout, strong whitespace, presentation software hero shot feeling.  
+Composition:
+clean editorial balance, asymmetrical layout, strong whitespace, presentation software hero shot feeling.
 
-Aspect ratio: 
-4:3  
+Aspect ratio:
+4:3
 
-Language: 
+Language:
 English only
 ```
 
@@ -260,17 +260,17 @@ English only
 
 <a name="case-176"></a>
 
-### 例 176：苏轼被贬首日朋友圈曝光
+### 例 176：蘇軾被貶首日朋友圈曝光
 
-![苏轼被贬首日朋友圈曝光](../data/images/case176.jpg)
+![蘇軾被貶首日朋友圈曝光](../data/images/case176.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-苏轼被贬第一天小红书截图
+蘇軾被貶第一天小红书截圖
 
 [English]
 Su Shi's first day of exile Xiaohongshu screenshot
@@ -280,17 +280,17 @@ Su Shi's first day of exile Xiaohongshu screenshot
 
 <a name="case-177"></a>
 
-### 例 177：吉利银河暗黑中控界面
+### 例 177：吉利銀河暗黑中控介面
 
-![吉利银河暗黑中控界面](../data/images/case177.jpg)
+![吉利銀河暗黑中控介面](../data/images/case177.jpg)
 
-**来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
+**來源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-帮我生成一个吉利银河m9的中控界面，尺寸为21:9，暗色系
+幫我生成一個吉利銀河m9的中控介面，尺寸為21:9，暗色系
 
 [English]
 Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.
@@ -300,17 +300,17 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 
 <a name="case-178"></a>
 
-### 例 178：亚马逊详情图设计
+### 例 178：亞馬遜詳情圖設計
 
-![亚马逊详情图设计](../data/images/case178.jpg)
+![亞馬遜詳情圖設計](../data/images/case178.jpg)
 
-**来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
+**來源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一套亚马逊 A+=详情图
+生成一套亞馬遜 A+=詳情圖
 
 [English]
 Generate a set of Amazon A+= detail images
@@ -320,17 +320,17 @@ Generate a set of Amazon A+= detail images
 
 <a name="case-179"></a>
 
-### 例 179：蒸汽朋克射手座解剖图谱
+### 例 179：蒸汽朋克射手座解剖圖譜
 
-![蒸汽朋克射手座解剖图谱](../data/images/case179.jpg)
+![蒸汽朋克射手座解剖圖譜](../data/images/case179.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
+**來源：** [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-（Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。
+（Steampunk Scientific Illustrator）你是一位專業復古蒸汽朋克解剖圖譜設計師，擅長星座機械結構科普海報。根據使用者指定的【{constellation_name}】，生成一張復古蒸汽朋克風格星座解剖圖譜海報：頂部標題欄為“{constellation_name}解剖圖譜”或“ANATOMIA {constellation_en}”，採用復古絲帶橫幅設計；背景為做舊羊皮紙/泛黃舊紙張紋理，帶自然汙漬與摺痕，營造復古科學手稿質感；中心主體為該星座經典神話形象，內部結構替換為精密齒輪、管線、金屬骨骼等蒸汽朋克元素；所有圖示與插畫為手繪線稿風格，用箭頭或連線展示邏輯關係；主色調為暖棕、米黃、古銅色，點綴少量高對比色彩突出重點；畫面分左右兩欄，中心為主體形象，兩側分佈功能模組，底部為總結與表格。左側含3-5個功能模組（含圖示、標題、描述）及“五層性格結構”分層圖示；右側含3-5個特質模組（含圖示、標籤）及“Relationship classification”“Ecological niche”板塊；底部設“Advantages/Risks comparison table”優勢風險對比表、“Survival guide”生存指南、底部人生哲學宣言橫幅。整體嚴謹精緻、復古機械美學，文字清晰可讀 4K高畫質，直接出圖，星座為【射手座 / Sagittarius】。
 
 [English]
 (Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
@@ -340,17 +340,17 @@ Generate a set of Amazon A+= detail images
 
 <a name="case-180"></a>
 
-### 例 180：荒诞超现实女装大叔海报
+### 例 180：荒誕超現實女裝大叔海報
 
-![荒诞超现实女装大叔海报](../data/images/case180.jpg)
+![荒誕超現實女裝大叔海報](../data/images/case180.jpg)
 
-**来源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046499177916682600)
+**來源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046499177916682600)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。
+一個看似真實卻微妙地古怪的女裝大叔出現的電影海報，4 種。達到專業設計師製作的水平。 企劃和設定本身就是那種“這種東西真要拍成電影嗎？”的、認真卻忍不住想笑的超現實動畫。 標題和播出資訊也要用日文顯示的狀態。
 
 [English]
 A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
@@ -360,18 +360,18 @@ A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing
 
 <a name="case-181"></a>
 
-### 例 181：潮流视角重塑精致商品广告
+### 例 181：潮流視角重塑精緻商品廣告
 
-![潮流视角重塑精致商品广告](../data/images/case181.jpg)
+![潮流視角重塑精緻商品廣告](../data/images/case181.jpg)
 
-**来源：** [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
+**來源：** [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-请以专业设计师的视角重新设计这个商品广告。
-采用当前的潮流趋势，针对目标受众的精致设计。
+請以專業設計師的視角重新設計這個商品廣告。
+採用目前的潮流趨勢，針對目標受眾的精緻設計。
 
 [English]
 Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.
@@ -381,17 +381,17 @@ Please redesign this product advertisement from the perspective of a professiona
 
 <a name="case-182"></a>
 
-### 例 182：千禧年日系校园喜剧场景
+### 例 182：千禧年日系校園喜劇場景
 
-![千禧年日系校园喜剧场景](../data/images/case182.jpg)
+![千禧年日系校園喜劇場景](../data/images/case182.jpg)
 
-**来源：** [@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)
+**來源：** [@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-2000 年代面向中学生的日剧喜剧场景
+2000 年代面向中學生的日劇喜劇場景
 
 [English]
 2000s Japanese TV drama comedy scene aimed at middle school students
@@ -401,104 +401,104 @@ Please redesign this product advertisement from the perspective of a professiona
 
 <a name="case-183"></a>
 
-### 例 183：一张中文健身信息图
+### 例 183：一張中文健身資訊圖表
 
-![一张中文健身信息图](../data/images/case183.jpg)
+![一張中文健身資訊圖表](../data/images/case183.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
 
-**提示词：**
+**提示詞：**
 
 ```text
-请生成一张中文健身信息图，主题为：【xxx】。 
+請生成一張中文健身資訊圖表，主題為：【xxx】。
 
-要求这张图既专业又实用，适合普通成年人作为训练参考。默认对象为无严重伤病的健康成年人；如果没有额外说明，默认训练目标为“增肌 + 基础力量提升”，默认训练水平为“新手到中级之间”，默认训练场景为“普通健身房”，默认单次训练时长控制在 40–60 分钟内。
+要求這張圖既專業又實用，適合普通成年人作為訓練參考。預設物件為無嚴重傷病的健康成年人；如果沒有額外說明，預設訓練目標為“增肌 + 基礎力量提升”，預設訓練水平為“新手到中級之間”，預設訓練場景為“普通健身房”，預設單次訓練時長控制在 40–60 分鐘內。
 
-请根据【训练主题】自动判断输出类型：
+請根據【訓練主題】自動判斷輸出型別：
 
-1）如果【训练主题】是某个肌群或身体部位（例如：胸肌、背阔肌、肱二头肌、腹肌、肩部、腿部等），请输出一张“该部位训练计划信息图”。
-2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动作解锁 / 进阶训练计划信息图”。
+1）如果【訓練主題】是某個肌群或身體部位（例如：胸肌、背闊肌、肱二頭肌、腹肌、肩部、腿部等），請輸出一張“該部位訓練計劃資訊圖表”。
+2）如果【訓練主題】是某個動作或技能目標（例如：引體向上、俯臥撐、雙槓臂屈伸、深蹲等），請輸出一張“動作解鎖 / 進階訓練計劃資訊圖表”。
 
-整张图请采用清晰、现代、专业、易读的中文信息图风格，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。
+整張圖請採用清晰、現代、專業、易讀的中文資訊圖表風格，豎版排版，視覺簡潔，重點突出，適合社群媒體分享或訓練參考卡片。不要寫成長篇大論，每個模組用簡潔短句呈現，數字資訊要醒目。
 
-这张信息图必须包含以下内容：
+這張資訊圖表必須包含以下內容：
 
-【A. 标题区】
-- 主标题：直接写【训练主题】训练计划 / 解锁计划
-- 副标题：自动补充适用人群、目标、训练场景、建议时长
-例如：适合新手 / 增肌导向 / 健身房版 / 45分钟
+【A. 標題區】
+- 主標題：直接寫【訓練主題】訓練計劃 / 解鎖計劃
+- 副標題：自動補充適用人群、目標、訓練場景、建議時長
+例如：適合新手 / 增肌導向 / 健身房版 / 45分鐘
 
-【B. 训练目标区】
-用简洁语言说明：
-- 这次训练主要针对什么
-- 主要目标是什么（增肌 / 力量 / 技能解锁 / 核心控制等）
-- 本次训练的重点刺激或能力提升方向
+【B. 訓練目標區】
+用簡潔語言說明：
+- 這次訓練主要針對什麼
+- 主要目標是什麼（增肌 / 力量 / 技能解鎖 / 核心控制等）
+- 本次訓練的重點刺激或能力提升方向
 
-【C. 热身区】
-给出 2–4 个热身建议，简洁列出即可，例如：
-- 动态活动
-- 目标肌群激活
-- 轻重量预热组
-每项可附一句说明
+【C. 熱身區】
+給出 2–4 個熱身建議，簡潔列出即可，例如：
+- 動態活動
+- 目標肌群啟用
+- 輕重量預熱組
+每項可附一句說明
 
-【D. 主训练区】
-这是核心部分，请列出 4–6 个主要训练动作。
-每个动作都要包含以下信息：
-- 动作名称
-- 训练作用 / 针对部位
-- 组数 × 次数（或时间）
-- RIR 建议
-- 每组间休息时间
-- 动作关键要点（1–2 条）
-- 常见错误（1 条即可）
+【D. 主訓練區】
+這是核心部分，請列出 4–6 個主要訓練動作。
+每個動作都要包含以下資訊：
+- 動作名稱
+- 訓練作用 / 針對部位
+- 組數 × 次數（或時間）
+- RIR 建議
+- 每組間休息時間
+- 動作關鍵要點（1–2 條）
+- 常見錯誤（1 條即可）
 
-请确保动作安排合理：
-- 先复合动作，后孤立动作
-- 整体训练量适中
-- 新手不要安排过度极限训练
-- 主动作通常建议 RIR 1–3
-- 孤立动作可建议 RIR 0–2
-- 如果是腹肌或核心类动作，可用“秒数 / 次数”形式
-- 如果是技能类动作，请优先安排“前置能力动作 + 过渡动作 + 目标动作尝试”
+請確保動作安排合理：
+- 先複合動作，後孤立動作
+- 整體訓練量適中
+- 新手不要安排過度極限訓練
+- 主動作通常建議 RIR 1–3
+- 孤立動作可建議 RIR 0–2
+- 如果是腹肌或核心類動作，可用“秒數 / 次數”形式
+- 如果是技能類動作，請優先安排“前置能力動作 + 過渡動作 + 目標動作嘗試”
 
-【E. 进阶 / 解锁逻辑区】
-根据主题自动生成：
-- 如果是肌群训练：写“如何渐进超负荷”，例如达到次数上限后再加重量、优先保证动作标准等
-- 如果是动作解锁：写“分阶段进阶路径”，例如从悬垂、肩胛引体、离心训练、弹力带辅助，到标准动作完成
+【E. 進階 / 解鎖邏輯區】
+根據主題自動生成：
+- 如果是肌群訓練：寫“如何漸進超負荷”，例如達到次數上限後再加重量、優先保證動作標準等
+- 如果是動作解鎖：寫“分階段進階路徑”，例如從懸垂、肩胛引體、離心訓練、彈力帶輔助，到標準動作完成
 
-【F. 替代动作区】
-请给出 2–3 个替代动作，适用于以下情况：
-- 没有器械
-- 家庭训练
-- 当前能力不足
-- 某些动作做不了
+【F. 替代動作區】
+請給出 2–3 個替代動作，適用於以下情況：
+- 沒有器械
+- 家庭訓練
+- 目前能力不足
+- 某些動作做不了
 
-【G. 执行提醒区】
-请给出 4–6 条简洁提醒，例如：
-- 动作标准优先于重量
-- 不要每组都练到力竭
-- 同肌群建议间隔 48–72 小时
-- 疼痛不等于正常发力
-- 睡眠不足时可适当减少训练量
+【G. 執行提醒區】
+請給出 4–6 條簡潔提醒，例如：
+- 動作標準優先於重量
+- 不要每組都練到力竭
+- 同肌群建議間隔 48–72 小時
+- 疼痛不等於正常發力
+- 睡眠不足時可適當減少訓練量
 
-【H. 恢复建议区】
-简洁说明：
-- 训练后恢复重点
-- 蛋白质 / 睡眠 / 恢复间隔建议
-- 1 句风险提醒（如有明显疼痛应停止并评估）
+【H. 恢復建議區】
+簡潔說明：
+- 訓練後恢復重點
+- 蛋白質 / 睡眠 / 恢復間隔建議
+- 1 句風險提醒（如有明顯疼痛應停止並評估）
 
-【I. 视觉设计要求】
-- 整体为单页中文信息图
-- 竖版排版
-- 风格现代、清爽、专业、健身感强
-- 使用模块化卡片布局
-- 重点数字（组数、次数、RIR、休息）要醒目
-- 可加入简洁的人体肌群图标、哑铃、杠铃、引体向上等小图标
-- 颜色保持高级、干净、有运动感
-- 中文文字必须清晰、准确、易读
-- 避免过多装饰，强调实用性与执行性
+【I. 視覺設計要求】
+- 整體為單頁中文資訊圖表
+- 豎版排版
+- 風格現代、清爽、專業、健身感強
+- 使用模組化卡片佈局
+- 重點數字（組數、次數、RIR、休息）要醒目
+- 可加入簡潔的人體肌群圖示、啞鈴、槓鈴、引體向上等小圖示
+- 顏色保持高階、乾淨、有運動感
+- 中文文字必須清晰、準確、易讀
+- 避免過多裝飾，強調實用性與執行性
 
-请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。
+請最終輸出為“一張完整的資訊圖表內容”，而不是隻給普通段落文字。
 ```
 
 ***
@@ -509,13 +509,13 @@ Please redesign this product advertisement from the perspective of a professiona
 
 ![杜甫朋友圈吐槽茅屋被掀翻](../data/images/case184.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-杜甫发朋友圈吐槽房顶被风刮没了
+杜甫發朋友圈吐槽房頂被風颳沒了
 
 [English]
 Du Fu posting on WeChat Moments complaining about his roof being blown away by the wind
@@ -525,17 +525,17 @@ Du Fu posting on WeChat Moments complaining about his roof being blown away by t
 
 <a name="case-185"></a>
 
-### 例 185：武则天发微博自拍太魔性了
+### 例 185：武則天發微博自拍太魔性了
 
-![武则天发微博自拍太魔性了](../data/images/case185.jpg)
+![武則天發微博自拍太魔性了](../data/images/case185.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-武则天自拍登记发微博
+武則天自拍登記發微博
 
 [English]
 Wu Zetian taking a selfie, registering and posting on Weibo.
@@ -545,29 +545,29 @@ Wu Zetian taking a selfie, registering and posting on Weibo.
 
 <a name="case-186"></a>
 
-### 例 186：品牌视觉识别图
+### 例 186：品牌視覺識別圖
 
-![奇幻RPG百件像素风道具图鉴](../data/images/case186.jpg)
+![奇幻RPG百件畫素風道具圖鑑](../data/images/case186.jpg)
 
-**来源：** [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
+**來源：** [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创建一个包含100种不同奇幻RPG物品的10×10网格，以经典像素艺术风格渲染（16位或32位精灵图美学，让人联想到SNES/GBA时代的日式RPG）。每个物品应出现在其独立的方形瓷砖中，下方带有简短清晰的标签。在白色背景上保持网格整洁。使每个物品在视觉上都有所区分，并且每个标签拼写正确。使用清晰的像素边缘、每个精灵图有限的调色板，以及用于阴影的微妙抖动。
-使用这些行主题：
-第1行：剑与刀刃
-第2行：盾牌与盔甲
-第3行：弓、弩与远程武器
-第4行：法杖、魔杖与魔法焦点
-第5行：药水、灵药与烧瓶
-第6行：卷轴、典籍与法术书
-第7行：戒指、护身符与附魔小饰品
-第8行：头盔、王冠与头饰
-第9行：钥匙、遗物与任务物品
-第10行：宝石、符文与制作材料
-将每个瓷砖显示为干净背景方形上居中的物品精灵图，渲染为经典的库存图标——你在奇幻RPG菜单中会看到的那种。保持整体风格一致、连贯，并让人联想到备受喜爱的复古奇幻RPG——迷人、细节丰富，且在小尺寸下易于辨认。
+建立一個包含100種不同奇幻RPG物品的10×10網格，以經典畫素藝術風格渲染（16位或32位精靈圖美學，讓人聯想到SNES/GBA時代的日式RPG）。每個物品應出現在其獨立的方形瓷磚中，下方帶有簡短清晰的標籤。在白色背景上保持網格整潔。使每個物品在視覺上都有所區分，並且每個標籤拼寫正確。使用清晰的畫素邊緣、每個精靈圖有限的調色盤，以及用於陰影的微妙抖動。
+使用這些行主題：
+第1行：劍與刀刃
+第2行：盾牌與盔甲
+第3行：弓、弩與遠端武器
+第4行：法杖、魔杖與魔法焦點
+第5行：藥水、靈藥與燒瓶
+第6行：卷軸、典籍與法術書
+第7行：戒指、護身符與附魔小飾品
+第8行：頭盔、王冠與頭飾
+第9行：鑰匙、遺物與任務物品
+第10行：寶石、符文與製作材料
+將每個瓷磚顯示為乾淨背景方形上居中的物品精靈圖，渲染為經典的庫存圖示——你在奇幻RPG選單中會看到的那種。保持整體風格一致、連貫，並讓人聯想到備受喜愛的復古奇幻RPG——迷人、細節豐富，且在小尺寸下易於辨認。
 
 [English]
 Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pixel art style (16-bit or 32-bit sprite aesthetic, reminiscent of SNES/GBA-era JRPGs). Each item should appear in its own square tile with a short clear label underneath. Keep the grid neat on a white background. Make every item visually distinct and every label correctly spelled. Use crisp pixel edges, limited palette per sprite, and subtle dithering for shading.
@@ -589,17 +589,17 @@ Show each tile as a centered item sprite on a clean background square, rendered 
 
 <a name="case-187"></a>
 
-### 例 187：韩系极简氛围感少女写真
+### 例 187：韓系極簡氛圍感少女寫真
 
-![韩系极简氛围感少女写真](../data/images/case187.jpg)
+![韓系極簡氛圍感少女寫真](../data/images/case187.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-9:16 竖版 — 杂志人像，单一主体  柔和的黑色迷雾滤镜，微妙的薄雾，柔和的高光泛光，柔和的色调  极简的室内空间，干净的背景，轻微的纹理  年轻韩国女性，淡妆，自然的皮肤纹理  服装：贴身的罗纹针织上衣或柔软的吊带背心叠穿在宽松衬衫下，搭配高腰短裤或裙子；面料轻微贴合身体曲线，柔软自然，无暴露元素  头发：略显凌乱，自然的蓬松度  姿势：坐在地板上，一条腿弯曲，另一条腿放松，身体微微倾斜，肩膀不对称，头部倾斜  构图：主体略微偏离中心，存在留白  表情：平静，略显疏离，自然的嘴唇  光线：柔和的侧光，温和的阴影衰减  氛围：低调，安静，通过自然的身体线条展现微妙的性感，放松且非摆拍  画质：细腻颗粒，轻微的柔和感，写实外观
+9:16 豎版 — 雜誌人像，單一主體  柔和的黑色迷霧濾鏡，微妙的薄霧，柔和的高光泛光，柔和的色調  極簡的室內空間，乾淨的背景，輕微的紋理  年輕韓國女性，淡妝，自然的皮膚紋理  服裝：貼身的羅紋針織上衣或柔軟的吊帶背心疊穿在寬鬆襯衫下，搭配高腰短褲或裙子；面料輕微貼合身體曲線，柔軟自然，無暴露元素  頭髮：略顯凌亂，自然的蓬鬆度  姿勢：坐在地板上，一條腿彎曲，另一條腿放鬆，身體微微傾斜，肩膀不對稱，頭部傾斜  構圖：主體略微偏離中心，存在留白  表情：平靜，略顯疏離，自然的嘴唇  光線：柔和的側光，溫和的陰影衰減  氛圍：低調，安靜，透過自然的身體線條展現微妙的性感，放鬆且非擺拍  畫質：細膩顆粒，輕微的柔和感，寫實外觀
 
 [English]
 9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
@@ -609,17 +609,17 @@ Show each tile as a centered item sprite on a clean background square, rendered 
 
 <a name="case-188"></a>
 
-### 例 188：暗黑极简头像网站视觉设计
+### 例 188：暗黑極簡頭像網站視覺設計
 
-![暗黑极简头像网站视觉设计](../data/images/case188.jpg)
+![暗黑極簡頭像網站視覺設計](../data/images/case188.jpg)
 
-**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
+**來源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-用 ABCD（a black cover design) 的风格，为 图你太美 设计一个 vi 系统。图你太美是一个头像美图分享 网站。
+用 ABCD（a black cover design) 的風格，為 圖你太美 設計一個 vi 系統。圖你太美是一個頭像美圖分享 網站。
 
 [English]
 In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.
@@ -629,17 +629,17 @@ In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Me
 
 <a name="case-189"></a>
 
-### 例 189：清新夏日女装连衣裙电商展示
+### 例 189：清新夏日女裝連衣裙電商展示
 
-![清新夏日女装连衣裙电商展示](../data/images/case189.jpg)
+![清新夏日女裝連衣裙電商展示](../data/images/case189.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-夏季女裙电商详情图
+夏季女裙電商詳情圖
 
 [English]
 Summer women's dress e-commerce detail image
@@ -649,17 +649,17 @@ Summer women's dress e-commerce detail image
 
 <a name="case-190"></a>
 
-### 例 190：全自动咖啡机产品展示
+### 例 190：全自動咖啡機產品展示
 
-![全自动咖啡机产品展示](../data/images/case190.jpg)
+![全自動咖啡機產品展示](../data/images/case190.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-全自动咖啡机电商详情图
+全自動咖啡機電商詳情圖
 
 [English]
 Fully automatic coffee machine e-commerce detail image
@@ -669,17 +669,17 @@ Fully automatic coffee machine e-commerce detail image
 
 <a name="case-191"></a>
 
-### 例 191：史诗级科幻电影海报设计
+### 例 191：史詩級科幻電影海報設計
 
-![史诗级科幻电影海报设计](../data/images/case191.jpg)
+![史詩級科幻電影海報設計](../data/images/case191.jpg)
 
-**来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)
+**來源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创建一张科幻电影海报
+建立一張科幻電影海報
 
 [English]
 Create a Science fiction movie poster
@@ -689,17 +689,17 @@ Create a Science fiction movie poster
 
 <a name="case-192"></a>
 
-### 例 192：电商商品展示图
+### 例 192：電商商品展示圖
 
-![未来科技感AI智能眼镜详情页](../data/images/case192.jpg)
+![未來科技感AI智慧眼鏡詳情頁](../data/images/case192.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-AI智能眼镜电商详情图
+AI智慧眼鏡電商詳情圖
 
 [English]
 AI smart glasses e-commerce detail image
@@ -709,23 +709,23 @@ AI smart glasses e-commerce detail image
 
 <a name="case-193"></a>
 
-### 例 193：千手观音化身打工人
+### 例 193：千手觀音化身打工人
 
-![千手观音化身打工人](../data/images/case193.jpg)
+![千手觀音化身打工人](../data/images/case193.jpg)
 
-**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
+**來源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一幅高度详细的千手观音菩萨工笔画。
+一幅高度詳細的千手觀音菩薩工筆畫。
 
-然而，千手并没有拿着神圣的宗教法器，而是拿着现代办公和家用物品：**笔记本电脑、智能手机、成堆的文件、咖啡杯、印章、计算器、拖把和奶瓶**。它代表了终极的多任务处理现代工作者。
+然而，千手並沒有拿著神聖的宗教法器，而是拿著現代辦公和家用物品：**膝上型電腦、智慧手機、成堆的檔案、咖啡杯、印章、計算器、拖把和奶瓶**。它代表了終極的多工處理現代工作者。
 
-脑后的金色光环由旋转的时钟齿轮组成。
+腦後的金色光環由旋轉的時鐘齒輪組成。
 
-**在右下角，一个单一的红色竖排艺术家印章写着“吴先生”（Mr. Wu），风格化得像水印一样。** --ar 3:4
+**在右下角，一個單一的紅色豎排藝術家印章寫著“吳先生”（Mr. Wu），風格化得像水印一樣。** --ar 3:4
 
 [English]
 A highly detailed Gongbi painting of the Bodhisattva "Guanyin of a Thousand Hands".
@@ -741,17 +741,17 @@ The golden aura behind the head is made of spinning clock gears.
 
 <a name="case-194"></a>
 
-### 例 194：健身蛋白粉电商详情页
+### 例 194：健身蛋白粉電商詳情頁
 
-![健身蛋白粉电商详情页](../data/images/case194.jpg)
+![健身蛋白粉電商詳情頁](../data/images/case194.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-健身蛋白粉电商详情图
+健身蛋白粉電商詳情圖
 
 [English]
 Fitness protein powder e-commerce detail image
@@ -761,37 +761,37 @@ Fitness protein powder e-commerce detail image
 
 <a name="case-195"></a>
 
-### 例 195：超写实与水墨的梦幻融合
+### 例 195：超寫實與水墨的夢幻融合
 
-![超写实与水墨的梦幻融合](../data/images/case195.jpg)
+![超寫實與水墨的夢幻融合](../data/images/case195.jpg)
 
-**来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
+**來源：** [@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张动态的混合媒体摄影作品，将超写实肖像与传统的中国水墨插画相融合。
+一張動態的混合媒體攝影作品，將超寫實肖像與傳統的中國水墨插畫相融合。
 
-中心人物是一位具有柔和短波波头短发造型的照片般逼真的年轻亚洲女性。她的妆容自然且极简，表情平静而温柔。她背对相机站立，姿态呈现出优雅的S型曲线，营造出优美流畅的剪影。她微微转动上半身，越过肩膀回眸，带着一种安静、内省的情绪。
+中心人物是一位具有柔和短波波頭短髮造型的照片般逼真的年輕亞洲女性。她的妝容自然且極簡，表情平靜而溫柔。她背對相機站立，姿態呈現出優雅的S型曲線，營造出優美流暢的剪影。她微微轉動上半身，越過肩膀回眸，帶著一種安靜、內省的情緒。
 
-她穿着一件简约、修身的白色长袖服装，线条干净，面料柔软，传达出纯洁与极简主义，不显露细节。
+她穿著一件簡約、修身的白色長袖服裝，線條幹淨，面料柔軟，傳達出純潔與極簡主義，不顯露細節。
 
-她被置于一个靠近阳光明媚窗户的真实世界室内环境中。背景被严重模糊，具有强烈的散景和浅景深，营造出梦幻且充满氛围的环境。
+她被置於一個靠近陽光明媚窗戶的真實世界室內環境中。背景被嚴重模糊，具有強烈的散景和淺景深，營造出夢幻且充滿氛圍的環境。
 
-从这种柔和模糊的现实之中，爆发出丰富的传统水墨插画，并环绕着她的身形。构图包括：
+從這種柔和模糊的現實之中，爆發出豐富的傳統水墨插畫，並環繞著她的身形。構圖包括：
 
-- 带有耀眼光环的庄严如来佛像
-- 在云端漂浮的优雅观音像
-- 在空间中盘旋的流动中国水墨龙
-- 在动态的水墨笔触中游动的成群锦鲤
+- 帶有耀眼光環的莊嚴如來佛像
+- 在雲端漂浮的優雅觀音像
+- 在空間中盤旋的流動中國水墨龍
+- 在動態的水墨筆觸中游動的成群錦鯉
 
-这些元素以黑墨和朱红色调渲染，形成一幅密集的、具有精神力量的视觉织锦。水墨在她周围有机地流动，部分重叠并融入她的剪影之中，在现实与神话之间创造出无缝的融合。
+這些元素以黑墨和硃紅色調渲染，形成一幅密集的、具有精神力量的視覺織錦。水墨在她周圍有機地流動，部分重疊並融入她的剪影之中，在現實與神話之間創造出無縫的融合。
 
-没有轮廓线或贴纸效果。融合是自然、流畅且沉浸式的。
+沒有輪廓線或貼紙效果。融合是自然、流暢且沉浸式的。
 
-风格：电影级摄影，超精细，8k，柔光，现实与水墨艺术之间的高对比度，美术构图，博物馆级美学
-宽高比：3:4
+風格：電影級攝影，超精細，8k，柔光，現實與水墨藝術之間的高對比度，美術構圖，博物館級美學
+寬高比：3:4
 
 [English]
 A dynamic mixed-media photograph blending hyper-realistic portraiture with traditional Chinese ink illustration.
@@ -821,39 +821,39 @@ Aspect ratio: 3:4
 
 <a name="case-196"></a>
 
-### 例 196：试卷上的涂鸦巨龙
+### 例 196：試卷上的塗鴉巨龍
 
-![试卷上的涂鸦巨龙](../data/images/case196.jpg)
+![試卷上的塗鴉巨龍](../data/images/case196.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
+**來源：** [@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一个巨大的巨龙，庞大的规模，高耸的存在感，
-一个远超人类尺寸的巨大实体，压倒性和压迫性的，
-用极其密集的混乱涂鸦线条绘制，
-超密集的重叠笔触，纠缠和混乱的线条画，
-在真实的印刷英文/中文教科书或试卷页面上，
-可见的文本、布局和纸张纹理清晰透出，
-圆珠笔绘画风格，精细的墨水线条，杂乱的分层笔触，
-没有干净的轮廓，一切由混乱的涂鸦构成，
-黑暗和柔和的底色（黑色，深靛蓝，暗紫罗兰色），
-带有微妙的低饱和度霓虹点缀（蓝色，青色，紫色），
-仅在关键区域（眼睛，核心，裂缝，静脉）有选择性的生物发光，
-不是整体的亮度，
-取决于主体的有机或机械纹理，
-错综复杂的细节，复杂的表面图案，
-形态从混乱中浮现，
-高密度中心，边缘消融为松散的涂鸦，
-主体附近微小的人类剪影强调了尺度感，
-半透明层，由线条密度产生的深度，
-原始的，不完美的，嘈杂的，充满活力的手绘感，
-略带诡异，超现实，神秘的氛围，
-混合媒体插画，涂鸦艺术，
-极其详细，黑暗团块和发光点缀之间的高对比度，
-杰作，极其详细
+一個巨大的巨龍，龐大的規模，高聳的存在感，
+一個遠超人類尺寸的巨大實體，壓倒性和壓迫性的，
+用極其密集的混亂塗鴉線條繪製，
+超密集的重疊筆觸，糾纏和混亂的線條畫，
+在真實的印刷英文/中文教科書或試卷頁面上，
+可見的文字、佈局和紙張紋理清晰透出，
+圓珠筆繪畫風格，精細的墨水線條，雜亂的分層筆觸，
+沒有乾淨的輪廓，一切由混亂的塗鴉構成，
+黑暗和柔和的底色（黑色，深靛藍，暗紫羅蘭色），
+帶有微妙的低飽和度霓虹點綴（藍色，青色，紫色），
+僅在關鍵區域（眼睛，核心，裂縫，靜脈）有選擇性的生物發光，
+不是整體的亮度，
+取決於主體的有機或機械紋理，
+錯綜複雜的細節，複雜的表面圖案，
+形態從混亂中浮現，
+高密度中心，邊緣消融為鬆散的塗鴉，
+主體附近微小的人類剪影強調了尺度感，
+半透明層，由線條密度產生的深度，
+原始的，不完美的，嘈雜的，充滿活力的手繪感，
+略帶詭異，超現實，神秘的氛圍，
+混合媒體插畫，塗鴉藝術，
+極其詳細，黑暗團塊和發光點綴之間的高對比度，
+傑作，極其詳細
 
 [English]
 A colossal [SUBJECT], massive scale, towering presence,
@@ -898,17 +898,17 @@ masterpiece, ultra detailed
 
 <a name="case-197"></a>
 
-### 例 197：英雄联盟特朗普中路对决哈梅内伊
+### 例 197：英雄聯盟特朗普中路對決哈梅內伊
 
-![英雄联盟特朗普中路对决哈梅内伊](../data/images/case197.jpg)
+![英雄聯盟特朗普中路對決哈梅內伊](../data/images/case197.jpg)
 
-**来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
+**來源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-帮我生成一张特朗普对战哈梅内伊在英雄联盟中路对线的截图。
+幫我生成一張特朗普對戰哈梅內伊在英雄聯盟中路對線的截圖。
 
 [English]
 Help me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends.
@@ -918,45 +918,45 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 <a name="case-198"></a>
 
-### 例 198：苍白陶瓷娃娃沙滩仰视
+### 例 198：蒼白陶瓷娃娃沙灘仰視
 
-![苍白陶瓷娃娃沙滩仰视](../data/images/case198.jpg)
+![蒼白陶瓷娃娃沙灘仰視](../data/images/case198.jpg)
 
-**来源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046584217656570035)
+**來源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046584217656570035)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  "相机参数": {
-    "设备类型": "iPhone 15 Pro 前置自拍",
-    "镜头": "24mm",
-    "构图": "高角度 POV（第一人称视角）",
-    "后期处理": "计算摄影风格，清晰的数字读出，深景深"
+  "相機引數": {
+    "裝置型別": "iPhone 15 Pro 前置自拍",
+    "鏡頭": "24mm",
+    "構圖": "高角度 POV（第一人稱視角）",
+    "後期處理": "計算攝影風格，清晰的數字讀出，深景深"
   },
-  "主体描述": {
-    "特征": "陶瓷娃娃审美，无瑕的苍白皮肤，巨大的冰蓝色眼睛，小巧的鼻子，翘起的自然色嘴唇",
-    "表情": "面无表情，空洞，瞪大眼睛注视",
-    "造型": "白金色的双紧辫发型，鲜艳的蓝色美甲",
-    "服装": "浅蓝色紧身弹力棉上衣，极深超宽 V 领，深邃锁骨与领口线",
-    "动作": "抬头仰视镜头，用一只手遮挡刺眼的阳光"
+  "主體描述": {
+    "特徵": "陶瓷娃娃審美，無瑕的蒼白皮膚，巨大的冰藍色眼睛，小巧的鼻子，翹起的自然色嘴唇",
+    "表情": "面無表情，空洞，瞪大眼睛注視",
+    "造型": "白金色的雙緊辮髮型，鮮豔的藍色美甲",
+    "服裝": "淺藍色緊身彈力棉上衣，極深超寬 V 領，深邃鎖骨與領口線",
+    "動作": "抬頭仰視鏡頭，用一隻手遮擋刺眼的陽光"
   },
-  "环境与灯光": {
-    "场景": "广阔的沙滩，背景中模糊的海平线",
-    "灯光": "高调明亮的沿海日光，5500K 色温，强烈的白沙反光填充，均匀照明",
-    "质感": "微带露水的无孔皮肤，细腻的反光白沙颗粒"
+  "環境與燈光": {
+    "場景": "廣闊的沙灘，背景中模糊的海平線",
+    "燈光": "高調明亮的沿海日光，5500K 色溫，強烈的白沙反光填充，均勻照明",
+    "質感": "微帶露水的無孔皮膚，細膩的反光白沙顆粒"
   },
-  "技术约束": {
-    "色彩科学": "柔和的粉彩色调，线性中性色，高曝光",
-    "负面提示词": [
-      "重阴影",
+  "技術約束": {
+    "色彩科學": "柔和的粉彩色調，線性中性色，高曝光",
+    "負面提示詞": [
+      "重陰影",
       "雪",
-      "冬装",
-      "红指甲",
+      "冬裝",
+      "紅指甲",
       "黑色上衣",
-      "保守的领口",
-      "胶片颗粒感"
+      "保守的領口",
+      "膠片顆粒感"
     ]
   }
 }
@@ -1000,75 +1000,75 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 <a name="case-199"></a>
 
-### 例 199：超写实海滩高角度手机自拍
+### 例 199：超寫實海灘高角度手機自拍
 
-![超写实海滩高角度手机自拍](../data/images/case199.jpg)
+![超寫實海灘高角度手機自拍](../data/images/case199.jpg)
 
-**来源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046602266627465534)
+**來源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046602266627465534)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  超写实iPhone 15 Pro前置摄像头自拍，一位成年女性在明亮的沙滩上，
-  从举臂高角度自拍视角拍摄。手机略微举在脸部上方，
-  营造出自然的前置摄像头几何形态，带有轻微的等效24mm广角畸变，
-  写实的面部比例，
-  以及智能手机的深景深。她向上抬起下巴，一只手遮挡刺眼的阳光，同时直视手机镜头。她的表情中性，
-  面无表情，
-  且略带疏离感，
-  眼睛大而专注，但在解剖学上具有真实的眼部尺寸和自然面部比例。\n\n她有着极浅的铂金色头发，梳成两条紧紧的辫子，
-  苍白的皮肤带有真实摄影的皮肤纹理，
-  可见的毛孔，
-  细微的绒毛，
-  淡淡的眼下纹理，
-  自然的唇部纹理，
-  以及柔和的阳光光泽，而不是磨皮后的完美无瑕。她的嘴唇是自然色调且略丰满，
-  她的鼻子小巧精致但很写实。她的指甲是鲜艳的蓝色。她穿着一件浅蓝色紧身弹力棉上衣，领口非常深且宽，以自然、
-  非风格化的方式露出突出的锁骨和上胸结构。\n\n背景是宽阔的海岸沙滩，在强烈的上午晚些时候的阳光下，
-  背景中有一条柔和模糊的地平线。光线明亮，
-  色温约5500K的高调海岸日光，
-  强烈的白色沙子反光从下方和脸部周围均匀地填充阴影。皮肤被直射阳光加上海滩宽阔柔和的反射补光照亮，
-  产生清脆但写实的高光，没有生硬的对比。明亮沙子的细小颗粒微妙地捕捉光线。整体图像应该感觉像是在强烈的海边光线下在户外拍摄的真正高曝光智能手机自拍。\n\n色彩渲染应该是柔和、
-  干净、
-  且现代的，
-  带有中性至柔和的色调，
-  写实的iPhone计算摄影，
+  超寫實iPhone 15 Pro前置攝像頭自拍，一位成年女性在明亮的沙灘上，
+  從舉臂高角度自拍視角拍攝。手機略微舉在臉部上方，
+  營造出自然的前置攝像頭幾何形態，帶有輕微的等效24mm廣角畸變，
+  寫實的面部比例，
+  以及智慧手機的深景深。她向上抬起下巴，一隻手遮擋刺眼的陽光，同時直視手機鏡頭。她的表情中性，
+  面無表情，
+  且略帶疏離感，
+  眼睛大而專注，但在解剖學上具有真實的眼部尺寸和自然面部比例。\n\n她有著極淺的鉑金色頭髮，梳成兩條緊緊的辮子，
+  蒼白的皮膚帶有真實攝影的皮膚紋理，
+  可見的毛孔，
+  細微的絨毛，
+  淡淡的眼下紋理，
+  自然的唇部紋理，
+  以及柔和的陽光光澤，而不是磨皮後的完美無瑕。她的嘴唇是自然色調且略豐滿，
+  她的鼻子小巧精緻但很寫實。她的指甲是鮮豔的藍色。她穿著一件淺藍色緊身彈力棉上衣，領口非常深且寬，以自然、
+  非風格化的方式露出突出的鎖骨和上胸結構。\n\n背景是寬闊的海岸沙灘，在強烈的上午晚些時候的陽光下，
+  背景中有一條柔和模糊的地平線。光線明亮，
+  色溫約5500K的高調海岸日光，
+  強烈的白色沙子反光從下方和臉部周圍均勻地填充陰影。皮膚被直射陽光加上海灘寬闊柔和的反射補光照亮，
+  產生清脆但寫實的高光，沒有生硬的對比。明亮沙子的細小顆粒微妙地捕捉光線。整體影象應該感覺像是在強烈的海邊光線下在戶外拍攝的真正高曝光智慧手機自拍。\n\n色彩渲染應該是柔和、
+  乾淨、
+  且現代的，
+  帶有中性至柔和的色調，
+  寫實的iPhone計算攝影，
   略微提高的曝光，
-  受控的高光过渡，
-  自然的肤色，
-  没有电影级调色。优先考虑写实性、
-  物理准确性、
-  可信的解剖结构，
-  以及真实的智能手机图像表现，而不是美化风格化。", "negative_prompt": "动漫，
-  洋娃娃脸，
-  瓷器皮肤，
-  无毛孔皮肤，
-  塑料皮肤，
+  受控的高光過渡，
+  自然的膚色，
+  沒有電影級調色。優先考慮寫實性、
+  物理準確性、
+  可信的解剖結構，
+  以及真實的智慧手機影象表現，而不是美化風格化。", "negative_prompt": "動漫，
+  洋娃娃臉，
+  瓷器皮膚，
+  無毛孔皮膚，
+  塑膠皮膚，
   CGI，
   3D渲染，
-  超现实眼睛，
-  过大的眼睛，
+  超現實眼睛，
+  過大的眼睛，
   奇幻美，
   磨皮精修，
-  浓妆，
+  濃妝，
   魅力光，
-  戏剧性阴影，
-  胶片颗粒，
+  戲劇性陰影，
+  膠片顆粒，
   雪，
-  冬装，
+  冬裝，
   黑色上衣，
-  红指甲，
-  保守领口，
+  紅指甲，
+  保守領口，
   影棚背景，
   人造模糊，
   扭曲的手，
-  变形的手指，
-  畸形的脸，
-  对称完美，
-  美颜滤镜，
-  惊悚的皮肤平滑" }
+  變形的手指，
+  畸形的臉，
+  對稱完美，
+  美顏濾鏡，
+  驚悚的皮膚平滑" }
 
 [English]
 {
@@ -1136,17 +1136,17 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 <a name="case-200"></a>
 
-### 例 200：热度爆表的美女内衣直播间
+### 例 200：熱度爆表的美女內衣直播間
 
-![热度爆表的美女内衣直播间](../data/images/case200.jpg)
+![熱度爆表的美女內衣直播間](../data/images/case200.jpg)
 
-**来源：** [@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
+**來源：** [@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物
+生成一個抖音直播的截圖 裡面是一個美女在直播，在賣絲襪和內衣，她的線上人數是99996，熱度是18+，有個叫小互的大哥，給她刷了一個飛機禮物
 
 [English]
 Generate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift
@@ -1156,17 +1156,17 @@ Generate a screenshot of a Douyin live stream featuring a beautiful woman live s
 
 <a name="case-201"></a>
 
-### 例 201：三甲医院真实门诊处方笺
+### 例 201：三甲醫院真實門診處方箋
 
-![三甲医院真实门诊处方笺](../data/images/case201.jpg)
+![三甲醫院真實門診處方箋](../data/images/case201.jpg)
 
-**来源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
+**來源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张三甲医院的门诊处方笺，医生潦草的手写字，包含真实合理的 诊断、药品名、剂量，右下角有医生签名和科室章。
+一張三甲醫院的門診處方箋，醫生潦草的手寫字，包含真實合理的 診斷、藥品名、劑量，右下角有醫生簽名和科室章。
 
 [English]
 An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible handwriting, containing realistic and reasonable diagnosis, drug names, dosages, with a doctor's signature and department stamp in the bottom right corner.
@@ -1176,17 +1176,17 @@ An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible ha
 
 <a name="case-202"></a>
 
-### 例 202：宅男必看绝美二次元少女
+### 例 202：宅男必看絕美二次元少女
 
-![宅男必看绝美二次元少女](../data/images/case202.jpg)
+![宅男必看絕美二次元少女](../data/images/case202.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**來源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成高质量美女（宅男必备）
+生成高品質美女（宅男必備）
 
 [English]
 Generate high-quality beautiful girl (otaku must-have)
@@ -1196,17 +1196,17 @@ Generate high-quality beautiful girl (otaku must-have)
 
 <a name="case-203"></a>
 
-### 例 203：杠精视角的独特文案创意
+### 例 203：槓精視角的獨特文案創意
 
-![杠精视角的独特文案创意](../data/images/case203.jpg)
+![槓精視角的獨特文案創意](../data/images/case203.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**來源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-杠精视角文案 + GPT Image 2
+槓精視角文案 + GPT Image 2
 
 [English]
 Troll perspective copywriting + GPT Image 2
@@ -1216,17 +1216,17 @@ Troll perspective copywriting + GPT Image 2
 
 <a name="case-204"></a>
 
-### 例 204：智能动画分镜生成器
+### 例 204：智慧動畫分鏡生成器
 
-![智能动画分镜生成器](../data/images/case204.jpg)
+![智慧動畫分鏡生成器](../data/images/case204.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**來源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张动画分镜生成器
+生成一張動畫分鏡生成器
 
 [English]
 Generate an animation storyboard generator
@@ -1236,17 +1236,17 @@ Generate an animation storyboard generator
 
 <a name="case-205"></a>
 
-### 例 205：皇宫深处的御用快递驿站
+### 例 205：皇宮深處的御用快遞驛站
 
-![皇宫深处的御用快递驿站](../data/images/case205.jpg)
+![皇宮深處的御用快遞驛站](../data/images/case205.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
+**來源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张古代皇宫 × 快递驿站
+生成一張古代皇宮 × 快遞驛站
 
 [English]
 Generate an ancient imperial palace × express delivery station
@@ -1256,17 +1256,17 @@ Generate an ancient imperial palace × express delivery station
 
 <a name="case-206"></a>
 
-### 例 206：国风工笔八仙长卷插画
+### 例 206：國風工筆八仙長卷插畫
 
-![国风工笔八仙长卷插画](../data/images/case206.jpg)
+![國風工筆八仙長卷插畫](../data/images/case206.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
+**來源：** [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-（国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。
+（國風捲軸插畫師）你是一位頂尖的中國傳統工筆人物畫師，擅長將經典人物群像繪製成長卷式百科海報。根據使用者指定的【eight immortals】，生成一張 “中國傳統人物群像長卷海報”：畫面為橫向長卷式構圖，所有人物排成一條佇列，從左至右依次展開；每個人物都有鮮明的傳統服飾、標誌性道具和神態，下方配有豎排名牌標註姓名；卷軸頂部有醒目的書法標題；背景為符合主題的場景元素（如祥雲、海浪、山水、亭臺等）。整體為高品質國風工筆插畫：細膩線稿 + 雅緻上色，淺米色 / 宣紙質感背景；註釋為清晰的中文書法字型；橫向 4K 長卷海報，構圖均衡，人物分明，氛圍貼合主題（如仙氣、豪邁、溫婉等）。直接出圖，人物群像為【eight immortals】。
 
 [English]
 (Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
@@ -1276,17 +1276,17 @@ Generate an ancient imperial palace × express delivery station
 
 <a name="case-207"></a>
 
-### 例 207：黑神话潘金莲绝美游戏封面
+### 例 207：黑神話潘金蓮絕美遊戲封面
 
-![黑神话潘金莲绝美游戏封面](../data/images/case207.jpg)
+![黑神話潘金蓮絕美遊戲封面](../data/images/case207.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张黑神话·潘金莲的游戏介绍画面，人物十分的迷人
+生成一張黑神話·潘金蓮的遊戲介紹畫面，人物十分的迷人
 
 [English]
 Generate a game introduction screen for Black Myth: Pan Jinlian, the character is extremely charming.
@@ -1296,34 +1296,34 @@ Generate a game introduction screen for Black Myth: Pan Jinlian, the character i
 
 <a name="case-208"></a>
 
-### 例 208：樱花树下害羞双马尾少女
+### 例 208：櫻花樹下害羞雙馬尾少女
 
-![樱花树下害羞双马尾少女](../data/images/case208.jpg)
+![櫻花樹下害羞雙馬尾少女](../data/images/case208.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2046593124646928397)
+**來源：** [@joshesye](https://x.com/joshesye/status/2046593124646928397)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张高质量二次元美少女图片。 
+生成一張高品質二次元美少女圖片。
 
- 角色设定：
+ 角色設定：
 
-- 年龄：17岁 
-- 发型：双马尾，颜色：樱花粉，发梢带点渐变紫色
+- 年齡：17歲
+- 髮型：雙馬尾，顏色：櫻花粉，髮梢帶點漸變紫色
  - 眼睛：大而明亮，紫色瞳孔，有星星高光
- - 服装：JK制服，白色衬衫，深蓝色格子裙，红色领结
- - 配饰：白色过膝袜，棕色小皮鞋，头上戴一个粉色蝴蝶结  
+ - 服裝：JK制服，白色襯衫，深藍色格子裙，紅色領結
+ - 配飾：白色過膝襪，棕色小皮鞋，頭上戴一個粉色蝴蝶結
 
-风格要求：
- - 日系动画风格，线条清晰 - 色彩鲜艳，对比度高 - 光影柔和，有层次感 
-- 背景：樱花树下，花瓣飘落，远处是学校教学楼  表情：微笑，有点害羞 姿势：站姿，双手放在身后，身体微微前倾  
+風格要求：
+ - 日系動畫風格，線條清晰 - 色彩鮮豔，對比度高 - 光影柔和，有層次感
+- 背景：櫻花樹下，花瓣飄落，遠處是學校教學樓  表情：微笑，有點害羞 姿勢：站姿，雙手放在身後，身體微微前傾
 
-比例：16:9（手机壁纸） 质量：8K，超精细，细节丰富
+比例：16:9（手機桌布） 品質：8K，超精細，細節豐富
 
 [English]
-Generate a high-quality anime beautiful girl image. 
+Generate a high-quality anime beautiful girl image.
 
  Character setting:
 
@@ -1331,11 +1331,11 @@ Generate a high-quality anime beautiful girl image.
 - Hairstyle: twin tails, color: cherry blossom pink, hair tips with a bit of gradient purple
  - Eyes: large and bright, purple pupils, with star highlights
  - Clothing: JK uniform, white shirt, dark blue plaid skirt, red bow tie
- - Accessories: white over-the-knee socks, brown leather shoes, wearing a pink bow on the head  
+ - Accessories: white over-the-knee socks, brown leather shoes, wearing a pink bow on the head
 
  Style requirements:
- - Japanese animation style, clear lines - bright colors, high contrast - soft light and shadow, with a sense of layering 
-- Background: under the cherry blossom tree, petals falling, school teaching building in the distance  Expression: smiling, a bit shy Pose: standing posture, hands placed behind the back, body slightly leaning forward  
+ - Japanese animation style, clear lines - bright colors, high contrast - soft light and shadow, with a sense of layering
+- Background: under the cherry blossom tree, petals falling, school teaching building in the distance  Expression: smiling, a bit shy Pose: standing posture, hands placed behind the back, body slightly leaning forward
 
 Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 ```
@@ -1344,17 +1344,17 @@ Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 
 <a name="case-209"></a>
 
-### 例 209：神话三国枪战世界
+### 例 209：神話三國槍戰世界
 
-![神话三国枪战世界](../data/images/case209.jpg)
+![神話三國槍戰世界](../data/images/case209.jpg)
 
-**来源：** [@op7418](https://x.com/op7418/status/2046519666047426967)
+**來源：** [@op7418](https://x.com/op7418/status/2046519666047426967)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-模仿《无畏契约》的风格，生成一个三国神话的 FPS 游戏
+模仿《無畏契約》的風格，生成一個三國神話的 FPS 遊戲
 
 [English]
 Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
@@ -1364,17 +1364,17 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 
 <a name="case-210"></a>
 
-### 例 210：萌系大模型训练图解
+### 例 210：萌系大模型訓練圖解
 
-![萌系大模型训练图解](../data/images/case210.jpg)
+![萌系大模型訓練圖解](../data/images/case210.jpg)
 
-**来源：** [@op7418](https://x.com/op7418/status/2046502136973001143)
+**來源：** [@op7418](https://x.com/op7418/status/2046502136973001143)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-可爱地解释一下大语言模型训练过程
+可愛地解釋一下大語言模型訓練過程
 
 [English]
 Cute explanation of the large language model training process
@@ -1384,17 +1384,17 @@ Cute explanation of the large language model training process
 
 <a name="case-211"></a>
 
-### 例 211：天坛古建拆解全图
+### 例 211：天壇古建拆解全圖
 
-![天坛古建拆解全图](../data/images/case211.jpg)
+![天壇古建拆解全圖](../data/images/case211.jpg)
 
-**来源：** [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
+**來源：** [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一个天坛的建筑拆解图，有详细的说明，中式美学风格
+生成一個天壇的建築拆解圖，有詳細的說明，中式美學風格
 
 [English]
 Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
@@ -1404,21 +1404,21 @@ Generate an architectural exploded view of the Temple of Heaven, with detailed a
 
 <a name="case-212"></a>
 
-### 例 212：专业设计师打造角色写真集
+### 例 212：專業設計師打造角色寫真集
 
-![专业设计师打造角色写真集](../data/images/case212.jpg)
+![專業設計師打造角色寫真集](../data/images/case212.jpg)
 
-**来源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2046492817804099794)
+**來源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2046492817804099794)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-请用这个角色制作一本专业设计师打造的照片集。语言为日语。  
+請用這個角色製作一本專業設計師打造的照片集。語言為日語。
 
-根据喜好加入提示词会让它更丰富多彩…  
-・丰富的场景  
-・信息量较多
+根據喜好加入提示詞會讓它更豐富多彩…
+・豐富的場景
+・資訊量較多
 
 [English]
 Please use this character to create a photo book crafted by a professional designer. The language should be Japanese.
@@ -1432,17 +1432,17 @@ Adding prompts according to your preferences will make it more colorful and rich
 
 <a name="case-213"></a>
 
-### 例 213：金瓶梅古风开放世界游戏截图
+### 例 213：金瓶梅古風開放世界遊戲截圖
 
-![金瓶梅古风开放世界游戏截图](../data/images/case213.jpg)
+![金瓶梅古風開放世界遊戲截圖](../data/images/case213.jpg)
 
-**来源：** [@op7418](https://x.com/op7418/status/2046520509651886451)
+**來源：** [@op7418](https://x.com/op7418/status/2046520509651886451)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
+幫我生成一個以《金瓶梅》為主題的古代 ARPG MMO 開放世界遊戲的截圖
 
 [English]
 Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
@@ -1452,20 +1452,20 @@ Help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 
 <a name="case-214"></a>
 
-### 例 214：绘制金瓶梅知识图谱
+### 例 214：繪製金瓶梅知識圖譜
 
-![绘制金瓶梅知识图谱](../data/images/case214.jpg)
+![繪製金瓶梅知識圖譜](../data/images/case214.jpg)
 
-**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
+**來源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
 
 Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style.
 
-Subject Matter: Choose one from [People, Plants, or Animals]. 
+Subject Matter: Choose one from [People, Plants, or Animals].
 
 Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].
 
@@ -1482,10 +1482,10 @@ Key Visual Requirements:
 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web.
 
 4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese):
-    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"].
+    * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (書法體) of the specific subject's name [e.g., "大王烏賊"].
     * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms.
-    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
-    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
+    * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手寫註釋), module content, and annotations must be clear, legible Chinese characters (簡體中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized.
+    * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (擬解剖圖) pointing directly to it for maximum professionalism and educational value. Every part should be labeled.
 
 Subject-Specific Module Structure (Example for general reference):
 
@@ -1521,28 +1521,28 @@ C. For Plants:
 
 Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4.
 
-主题内容：潘金莲
+主題內容：潘金蓮
 ```
 
 ***
 
 <a name="case-215"></a>
 
-### 例 215：西方艺术演进像素博物馆
+### 例 215：西方藝術演進畫素博物館
 
-![西方艺术演进像素博物馆](../data/images/case215.jpg)
+![西方藝術演進畫素博物館](../data/images/case215.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
+**來源：** [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创作一张超高细节等距像素艺术时间线插画（3:4，4K），融合细节密度、象征性与隐喻。用户指定的主题为【Western Art Development】。
+創作一張超高細節等距畫素藝術時間軸插畫（3:4，4K），融合細節密度、象徵性與隱喻。使用者指定的主題為【Western Art Development】。
 
-首先，围绕Western Art Development进行推理，确定：主题的中英文标题、涵盖的最早与最近历史时期、起始阶段标签与结束阶段标签，以及3-5个关键演进阶段及其各自的象征性元素与色彩方案。
+首先，圍繞Western Art Development進行推理，確定：主題的中英文標題、涵蓋的最早與最近歷史時期、起始階段標籤與結束階段標籤，以及3-5個關鍵演進階段及其各自的象徵性元素與色彩方案。
 
-然后构建一个以"Western Art Development"为主题的等距"演进博物馆"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个与主题强烈关联的象征元素，并用差异化色彩暗示时间流动。在场景中融入双语像素字体标题：中文"[主题中文]演进史"与英文"EVOLUTION OF Western Art Development"，加上起止阶段的双语副标题及关键时间节点标记。整体风格专业且具视觉张力，适合学术分析与对比可视化，直接出图。
+然後構建一個以"Western Art Development"為主題的等距"演進博物館"，每個展館區域代表一個演進階段，空間推進即代表時間演變。採用標準等距視角（2:1），豐富的層次深度與流暢過渡。每個階段分配3-5個與主題強烈關聯的象徵元素，並用差異化色彩暗示時間流動。在場景中融入雙語畫素字型標題：中文"[主題中文]演進史"與英文"EVOLUTION OF Western Art Development"，加上起止階段的雙語副標題及關鍵時間節點標記。整體風格專業且具視覺張力，適合學術分析與對比視覺化，直接出圖。
 
 [English]
 Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K), integrating detail density, symbolism, and metaphor. The user-specified theme is [Western Art Development]. First, reason around Western Art Development to determine: the Chinese and English titles of the theme, the earliest and most recent historical periods covered, the starting stage label and the ending stage label, as well as 3-5 key evolution stages and their respective symbolic elements and color schemes. Then build an isometric "Evolution Museum" themed "Western Art Development", where each exhibition hall area represents an evolution stage, and spatial progression represents time evolution. Adopt a standard isometric perspective (2:1), rich layer depth, and smooth transitions. Allocate 3-5 symbolic elements strongly associated with the theme to each stage, and use differentiated colors to imply the flow of time. Integrate bilingual pixel font titles in the scene: Chinese "[Theme Chinese] Evolution History" and English "EVOLUTION OF Western Art Development", plus bilingual subtitles for the starting and ending stages and key time node markers. The overall style is professional and visually tense, suitable for academic analysis and comparative visualization, direct image output.
@@ -1552,17 +1552,17 @@ Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K),
 
 <a name="case-216"></a>
 
-### 例 216：雅致图案四款时尚单品设计
+### 例 216：雅緻圖案四款時尚單品設計
 
-![雅致图案四款时尚单品设计](../data/images/case216.png)
+![雅緻圖案四款時尚單品設計](../data/images/case216.png)
 
-**来源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
+**來源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-使用附图中的图案，由专业设计师打造 4 款时尚单品，采用不同的色彩搭配与排版设计，附带穿搭效果图。以雅致的构图凸显图案的美感。格式为 2:3，希望将图像生成模型从 duct-tape-1 指定为 duct-tape-2、3。
+使用附圖中的圖案，由專業設計師打造 4 款時尚單品，採用不同的色彩搭配與排版設計，附帶穿搭效果圖。以雅緻的構圖凸顯圖案的美感。格式為 2:3，希望將影象生成模型從 duct-tape-1 指定為 duct-tape-2、3。
 
 [English]
 Use the patterns in the attached image, crafted by professional designers to create 4 fashion items, using different color schemes and layout designs, accompanied by outfit effect pictures. Highlight the beauty of the patterns with an elegant composition. The format is 2:3, hoping to specify the image generation model from duct-tape-1 to duct-tape-2, 3.
@@ -1572,24 +1572,24 @@ Use the patterns in the attached image, crafted by professional designers to cre
 
 <a name="case-217"></a>
 
-### 例 217：昏暗室内纯真少女的意外回眸
+### 例 217：昏暗室內純真少女的意外回眸
 
-![昏暗室内纯真少女的意外回眸](../data/images/case217.jpg)
+![昏暗室內純真少女的意外回眸](../data/images/case217.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
   "prompt": {
-    "style_and_tech": "手机照片，老式CCD相机美学，刺眼的闪光灯，颗粒感，昏暗杂乱的室内光线，抓拍快照感觉，轻微的运动模糊",
-    "subject": "年轻的韩国女偶像，温柔纯真的外表",
-    "pose": "动作进行中，微微转头看向镜头，仿佛刚刚注意到正在被拍照，肩膀微微耸起",
-    "expression": "眼睛微微睁大，因惊讶而微微张开的嘴唇，害羞且猝不及防的表情",
-    "clothing": "宽松柔软的居家服（薄开衫+内搭上衣），一侧肩膀微微滑落但没有暴露",
-    "vibe": "毫无防备，亲密，意外的瞬间，唤起好奇心与保护欲",
+    "style_and_tech": "手機照片，老式CCD相機美學，刺眼的閃光燈，顆粒感，昏暗雜亂的室內光線，抓拍快照感覺，輕微的運動模糊",
+    "subject": "年輕的韓國女偶像，溫柔純真的外表",
+    "pose": "動作進行中，微微轉頭看向鏡頭，彷彿剛剛注意到正在被拍照，肩膀微微聳起",
+    "expression": "眼睛微微睜大，因驚訝而微微張開的嘴唇，害羞且猝不及防的表情",
+    "clothing": "寬鬆柔軟的居家服（薄開衫+內搭上衣），一側肩膀微微滑落但沒有暴露",
+    "vibe": "毫無防備，親密，意外的瞬間，喚起好奇心與保護欲",
     "aspect ratio": "9:16"
   }
 }
@@ -1612,76 +1612,76 @@ Use the patterns in the attached image, crafted by professional designers to cre
 
 <a name="case-218"></a>
 
-### 例 218：绘制科学百科知识图谱
+### 例 218：繪製科學百科知識圖譜
 
-![绘制科学百科知识图谱](../data/images/case218.jpg)
+![繪製科學百科知識圖譜](../data/images/case218.jpg)
 
-**来源：** [@GeekCatX](https://x.com/GeekCatX)
+**來源：** [@GeekCatX](https://x.com/GeekCatX)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-角色：世界级科学百科插画师兼知识图谱架构师
-任务：以经典、无品牌标识（无任何 Logo）的科学百科风格，创作一幅细节极致丰富、结构极其精巧、视觉效果惊艳的「环球图解百科科学信息图」。
-题材选择：从【人物、植物、动物】中任选其一。
-具体对象：【例如：大王乌贼 / 列奥纳多・达・芬奇 / 红杉树】
-风格：采用复古泛黄米色纸张背景，绘制精细工整的科学插画；线条细腻精致，整体繁复专业、严谨考究。
-核心视觉要求
-主体逼真 3D 效果
-位于画面视觉中心（C 位）的主体形象，需具备极致的写实感与动态张力。营造强烈的空间纵深感，让人物、植物或动物仿佛突破画框，从平面纸张中跃出、冲向观者（效果类似变形 3D 或动态弹出效果，高精度写实呈现）。
-版式布局与留白设计
-主体位置：占据画面中心，周围刻意设置规划式留白，强化立体弹出效果，使其成为绝对视觉焦点。
-周边模块：根据所选题材，在画面四周（上下左右及四角）排布 6–8 个独立且规整有序的知识模块。整体呈现规整的信息密度感，而非杂乱堆砌。每个模块需带有清晰边框、标题栏与详尽丰富的内容。
-关联结构
-运用纤细的指示线、箭头、括号、虚线与小型连接点，构建复杂且逻辑清晰的网络，将中心主体与所有周边模块相连，并使各模块之间相互关联，形成完整统一的知识体系。
-文字与标注（硬性要求：必须为清晰中文）
-主标题：以醒目大气、笔法优美的中文书法字体呈现具体对象名称【例如：大王乌贼】。
-书法点缀：在主体画面与模块标题中，对关键术语使用工整美观的中文书法字体标注。
-标准中文文本：其余所有说明文字、大量清晰中文手写注释、模块内容及注解均使用清晰可辨的简体汉字，不得出现乱码或无法识别符号，优先保证文字可读性。
-指示线标注：模块内所有细小结构、细节、子模块、图表与插画，均需搭配详尽的指示线标注（仿解剖图形式），直接指向对应部位，最大化体现专业性与科普价值，做到每一处结构均有标注。
-分题材模块结构（参考示例）
-A. 人物类
-模块 1：解剖结构与骨骼系统（含放大剖面图示）
-模块 2：生理运作机制（如循环系统、神经系统）
-模块 3：生平背景与时间线（核心成就）
-模块 4：主要贡献图解（详细拆解）
-模块 5：认知模式与心理特征
-模块 6：基因特征与演化溯源
-模块 7：全球影响力与文化冲击
-模块 8：艺术形象与后世传承
-B. 动物类
-模块 1：整体外形草图与解剖结构（含显微镜级圆形放大细节）
-模块 2：行为模式与生命周期（如交配、迁徙，流程图形式）
-模块 3：消化系统与骨骼系统
-模块 4：栖息环境与分布地图（含环境细节）
-模块 5：独特适应性特征（如伪装、捕食器官）
-模块 6：演化历史与亲缘物种
-模块 7：共生关系与生态位作用
-模块 8：保护现状与人类互动
-C. 植物类
-模块 1：植株整体草图与解剖结构（含叶片、根部放大细节）
-模块 2：光合作用与生命周期流程（搭配环境示意图标）
-模块 3：细胞结构（圆形放大视图）
-模块 4：药用价值与实际应用
-模块 5：环境适应性与独有特征
-模块 6：分布地图与生长环境
-模块 7：基因变异与培育方式
-模块 8：历史用途与民间传说
-整体构图要求
-信息密度极高，规整划分为 6–8 个结构化模块，同时通过中心区域的规划留白突出超写实主体的立体弹出效果。风格硬核、专业、学术化，凭借动态 3D 主体实现极强视觉吸引力。
-无任何百科品牌标识（如 DK 等 Logo）。
-所有标注清晰可辨，所有手写注释工整可读。
-主标题采用中文书法字体。
-画面比例：3:4。
-【主题内容】
+角色：世界級科學百科插畫師兼知識圖譜架構師
+任務：以經典、無品牌標識（無任何 Logo）的科學百科風格，創作一幅細節極致豐富、結構極其精巧、視覺效果驚豔的「環球圖解百科科學資訊圖表」。
+題材選擇：從【人物、植物、動物】中任選其一。
+具體物件：【例如：大王烏賊 / 列奧納多・達・芬奇 / 紅杉樹】
+風格：採用復古泛黃米色紙張背景，繪製精細工整的科學插畫；線條細膩精緻，整體繁複專業、嚴謹考究。
+核心視覺要求
+主體逼真 3D 效果
+位於畫面視覺中心（C 位）的主體形象，需具備極致的寫實感與動態張力。營造強烈的空間縱深感，讓人物、植物或動物彷彿突破畫框，從平面紙張中躍出、衝向觀者（效果類似變形 3D 或動態彈出效果，高精度寫實呈現）。
+版式佈局與留白設計
+主體位置：佔據畫面中心，周圍刻意設定規劃式留白，強化立體彈出效果，使其成為絕對視覺焦點。
+周邊模組：根據所選題材，在畫面四周（上下左右及四角）排布 6–8 個獨立且規整有序的知識模組。整體呈現規整的資訊密度感，而非雜亂堆砌。每個模組需帶有清晰邊框、標題欄與詳盡豐富的內容。
+關聯結構
+運用纖細的指示線、箭頭、括號、虛線與小型連線點，構建複雜且邏輯清晰的網路，將中心主體與所有周邊模組相連，並使各模組之間相互關聯，形成完整統一的知識體系。
+文字與標註（硬性要求：必須為清晰中文）
+主標題：以醒目大氣、筆法優美的中文書法字型呈現具體物件名稱【例如：大王烏賊】。
+書法點綴：在主體畫面與模組標題中，對關鍵術語使用工整美觀的中文書法字型標註。
+標準中文文字：其餘所有說明文字、大量清晰中文手寫註釋、模組內容及註解均使用清晰可辨的簡體漢字，不得出現亂碼或無法識別符號，優先保證文字可讀性。
+指示線標註：模組內所有細小結構、細節、子模組、圖表與插畫，均需搭配詳盡的指示線標註（仿解剖圖形式），直接指向對應部位，最大化體現專業性與科普價值，做到每一處結構均有標註。
+分題材模組結構（參考示例）
+A. 人物類
+模組 1：解剖結構與骨骼系統（含放大剖面圖示）
+模組 2：生理運作機制（如迴圈系統、神經系統）
+模組 3：生平背景與時間軸（核心成就）
+模組 4：主要貢獻圖解（詳細拆解）
+模組 5：認知模式與心理特徵
+模組 6：基因特徵與演化溯源
+模組 7：全球影響力與文化衝擊
+模組 8：藝術形象與後世傳承
+B. 動物類
+模組 1：整體外形草圖與解剖結構（含顯微鏡級圓形放大細節）
+模組 2：行為模式與生命週期（如交配、遷徙，流程圖形式）
+模組 3：消化系統與骨骼系統
+模組 4：棲息環境與分佈地圖（含環境細節）
+模組 5：獨特適應性特徵（如偽裝、捕食器官）
+模組 6：演化歷史與親緣物種
+模組 7：共生關係與生態位作用
+模組 8：保護現狀與人類互動
+C. 植物類
+模組 1：植株整體草圖與解剖結構（含葉片、根部放大細節）
+模組 2：光合作用與生命週期流程（搭配環境示意圖示）
+模組 3：細胞結構（圓形放大檢視）
+模組 4：藥用價值與實際應用
+模組 5：環境適應性與獨有特徵
+模組 6：分佈地圖與生長環境
+模組 7：基因變異與培育方式
+模組 8：歷史用途與民間傳說
+整體構圖要求
+資訊密度極高，規整劃分為 6–8 個結構化模組，同時透過中心區域的規劃留白突出超寫實主體的立體彈出效果。風格硬核、專業、學術化，憑藉動態 3D 主體實現極強視覺吸引力。
+無任何百科品牌標識（如 DK 等 Logo）。
+所有標註清晰可辨，所有手寫註釋工整可讀。
+主標題採用中文書法字型。
+畫面比例：3:4。
+【主題內容】
 
 [English]
 Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect.
 
 Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style.
 
-Subject Matter: Choose one from [People, Plants, or Animals]. 
+Subject Matter: Choose one from [People, Plants, or Animals].
 
 Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree].
 
@@ -1744,17 +1744,17 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 <a name="case-219"></a>
 
-### 例 219：韩系偶像九宫格写真集
+### 例 219：韓系偶像九宮格寫真集
 
-![韩系偶像九宫格写真集](../data/images/case219.jpg)
+![韓系偶像九宮格寫真集](../data/images/case219.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-9:16 竖版 — 一个 3x3 网格拼贴（九张图片）形成一系列韩国偶像肖像摄影。每一帧都呈现同一位年轻的韩国女性偶像，在所有九张镜头中保持 100% 一致的面部特征、比例、发型和身份。自然、超逼真的皮肤纹理，无修图，无磨皮。干净的偶像风格极简妆容，柔和的光泽，微妙的瑕疵。发型：长发、蓬松的黑发，微乱，在所有帧中保持一致（自然松散的垂落，轻微的动感）。服装：连贯的韩国偶像摄影造型 — 白色衬衫 + 短款下装（或简单的中性色调服装），青春、干净、略带休闲但有造型感。所有帧中穿着相同的服装。场景：极简的工作室或简单的室内环境（白墙，柔和的窗光，干净的背景）。聚焦于主体，而不是环境。光照：柔和漫反射的自然光，温柔的高光，低对比度，略带通透感的色调，微妙的胶片般柔和感。相机风格：亲密的肖像摄影，略带手持感，微妙的瑕疵（轻微的颗粒感，动态帧中的轻微模糊，不完美的构图）。帧分解（3x3 网格）：顶行：- 左上：自然站立，视线略微偏向一侧，表情放松 - 中上：面对镜头，随意的中间动作（头发或身体轻微移动） - 右上：轻微的侧面角度，柔和的注视，自然的抓拍感 中间行：- 中左：微微向上看，柔和的沉思表情 - 正中：特写肖像，直接的眼神接触，温柔的偶像微笑 - 中右：身体微微转动，中间动作的抓拍帧 底行：- 左下：随意坐着或倚靠着，放松的姿势 - 中下：背部部分转向，越过肩膀看向镜头 - 右下：靠近画框站立，略带俏皮或柔和的表情 氛围：韩国偶像写真集 / 小卡美学，亲密、柔和、自然、日常的魅力。质量：超写实，8K 细节，微妙的模拟胶片颗粒感，自然的瑕疵，柔和梦幻的色调
+9:16 豎版 — 一個 3x3 網格拼貼（九張圖片）形成一系列韓國偶像肖像攝影。每一幀都呈現同一位年輕的韓國女性偶像，在所有九張鏡頭中保持 100% 一致的面部特徵、比例、髮型和身份。自然、超逼真的皮膚紋理，無修圖，無磨皮。乾淨的偶像風格極簡妝容，柔和的光澤，微妙的瑕疵。髮型：長髮、蓬鬆的黑髮，微亂，在所有幀中保持一致（自然鬆散的垂落，輕微的動感）。服裝：連貫的韓國偶像攝影造型 — 白色襯衫 + 短款下裝（或簡單的中性色調服裝），青春、乾淨、略帶休閒但有造型感。所有幀中穿著相同的服裝。場景：極簡的工作室或簡單的室內環境（白牆，柔和的窗光，乾淨的背景）。聚焦於主體，而不是環境。光照：柔和漫反射的自然光，溫柔的高光，低對比度，略帶通透感的色調，微妙的膠片般柔和感。相機風格：親密的肖像攝影，略帶手持感，微妙的瑕疵（輕微的顆粒感，動態幀中的輕微模糊，不完美的構圖）。幀分解（3x3 網格）：頂行：- 左上：自然站立，視線略微偏向一側，表情放鬆 - 中上：面對鏡頭，隨意的中間動作（頭髮或身體輕微移動） - 右上：輕微的側面角度，柔和的注視，自然的抓拍感 中間行：- 中左：微微向上看，柔和的沉思表情 - 正中：特寫肖像，直接的眼神接觸，溫柔的偶像微笑 - 中右：身體微微轉動，中間動作的抓拍幀 底行：- 左下：隨意坐著或倚靠著，放鬆的姿勢 - 中下：背部部分轉向，越過肩膀看向鏡頭 - 右下：靠近畫框站立，略帶俏皮或柔和的表情 氛圍：韓國偶像寫真集 / 小卡美學，親密、柔和、自然、日常的魅力。品質：超寫實，8K 細節，微妙的模擬膠片顆粒感，自然的瑕疵，柔和夢幻的色調
 
 [English]
 9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
@@ -1764,25 +1764,25 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 <a name="case-220"></a>
 
-### 例 220：鎏金广州塔的东方奇幻海报
+### 例 220：鎏金廣州塔的東方奇幻海報
 
-![鎏金广州塔的东方奇幻海报](../data/images/case220.jpg)
+![鎏金廣州塔的東方奇幻海報](../data/images/case220.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046243132774494607)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046243132774494607)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光，局部带细微能量碎屑与体积光。
+平面插畫，東方幻想風格高階城市海報設計，豎版9:16構圖，整體採用對角線+S型流動構圖，從左下向右上延展，畫面以深邃黑色為背景，自上而下漸變至濃烈暗紅色，形成強烈冷暖對比與空間縱深，背景帶微弱星塵與顆粒質感。畫面中央一條金色流動能量線條如火焰般蜿蜒貫穿，自底部向上延伸，具有流體質感、粒子光效與漸變高光，局部帶細微能量碎屑與體積光。
 
-金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化增强纵深感。
+金色流光中逐層浮現廣州城市地標建築群：廣州塔為視覺核心，比例突出，周圍融合珠江新城高樓群、獵德大橋及現代與嶺南建築元素，建築採用“精細線描 + 金色發光體塊”表現，輪廓清晰、細節豐富，在金色光暈映襯下彷彿懸浮於虛空，形成超現實空間層次，遠景輕微霧化增強縱深感。
 
-画面底部为一位东方白发女性形象，长发飘逸，如烟似雾，与金色流光自然衔接并逐渐融合，发丝半透明带渐变光感，姿态柔美，双目微闭，神情宁静，怀抱一束多彩鲜花，花间点缀微光粒子与星点效果，象征人与城市能量的精神连接，人物细节适度简化以突出整体设计感。
+畫面底部為一位東方白髮女性形象，長髮飄逸，如煙似霧，與金色流光自然銜接並逐漸融合，髮絲半透明帶漸變光感，姿態柔美，雙目微閉，神情寧靜，懷抱一束多彩鮮花，花間點綴微光粒子與星點效果，象徵人與城市能量的精神連線，人物細節適度簡化以突出整體設計感。
 
-光影集中于金色流线、建筑与人物轮廓，形成强烈明暗对比与视觉聚焦，整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底，高亮鎏金为主视觉强调，金色具备丰富明暗层次，辅以小面积高饱和花束色彩点缀，整体高级克制。
+光影集中於金色流線、建築與人物輪廓，形成強烈明暗對比與視覺聚焦，整體氛圍宏大、神秘、具有東方神話意境且略帶治癒感。色彩以黑與暗紅為基底，高亮鎏金為主視覺強調，金色具備豐富明暗層次，輔以小面積高飽和花束色彩點綴，整體高階克制。
 
-页面文字与画面融合排版：顶部居中宋体大字“广州·中国”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字采用淡金色或柔和暖白色，与整体光影统一。高品质细节，电影级光影表现，体积光与粒子细节丰富，画面干净无噪点，超高清8K分辨率，商业级海报质感。
+頁面文字與畫面融合排版：頂部居中宋體大字“廣州·中國”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字採用淡金色或柔和暖白色，與整體光影統一。高品質細節，電影級光影表現，體積光與粒子細節豐富，畫面乾淨無噪點，超高畫質8K解析度，商業級海報質感。
 
 [English]
 Flat illustration, Oriental fantasy style high-end city poster design, vertical 9:16 composition, the overall adopts a diagonal + S-shaped flowing composition, extending from the bottom left to the top right, the picture uses deep black as the background, gradually changing from top to bottom to intense dark red, forming a strong cold-warm contrast and spatial depth, the background has a faint stardust and grainy texture. In the center of the picture, a golden flowing energy line winds through like a flame, extending from the bottom to the top, having a fluid texture, particle light effects and gradient highlights, with subtle energy debris and volumetric light in some areas. Guangzhou city landmark building complexes emerge layer by layer in the golden flowing light: Canton Tower is the visual core, with a prominent proportion, surrounded by the integration of Zhujiang New Town high-rise buildings, Liede Bridge and modern and Lingnan architectural elements, the buildings are expressed using "fine line drawing + golden glowing blocks", clear outlines and rich details, set off by the golden halo, they seem to float in the void, forming a surreal spatial hierarchy, the distant view is slightly fogged to enhance the sense of depth. At the bottom of the picture is an oriental white-haired female figure, long hair fluttering, like smoke and mist, naturally connecting and gradually blending with the golden flowing light, the hair is translucent with a gradient light sense, graceful posture, eyes slightly closed, serene expression, holding a bunch of colorful fresh flowers in her arms, interspersed with faint light particles and starlight effects among the flowers, symbolizing the spiritual connection between human and urban energy, character details are moderately simplified to highlight the overall sense of design. Light and shadow are focused on the golden streamlines, buildings and character outlines, forming a strong light-dark contrast and visual focus, the overall atmosphere is grand, mysterious, with an Oriental mythological artistic conception and a slight healing sense. The color uses black and dark red as the base, highlighted gilded gold as the main visual emphasis, the gold has rich light and dark layers, supplemented by small areas of high-saturation bouquet color embellishments, the overall is advanced and restrained. Page text and picture integrated typography: large Song typeface characters "Guangzhou·China" centered at the top, small characters "2026/04/20" below, small characters "LIYUE" further below, the text uses light gold or soft warm white, unifying with the overall light and shadow. High-quality details, cinematic light and shadow performance, rich volumetric light and particle details, clean picture without noise, ultra-high definition 8K resolution, commercial-grade poster texture.
@@ -1792,17 +1792,17 @@ Flat illustration, Oriental fantasy style high-end city poster design, vertical 
 
 <a name="case-221"></a>
 
-### 例 221：窗边日系胶片女孩
+### 例 221：窗邊日系膠片女孩
 
-![窗边日系胶片女孩](../data/images/case221.jpg)
+![窗邊日系膠片女孩](../data/images/case221.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-模拟35毫米胶片摄影，柔和轻盈的日系美学，温柔漫射的自然窗户光，轻微过曝，柔和色调，低对比度，柔和的高光，靠近窗户配有白色窗帘的极简室内环境，干净的浅色墙壁，自然构图，平视视角，略微紧凑的全身取景（大腿中部到头部），年轻东亚女性，自然极简妆容，柔和真实的皮肤纹理，长长的微乱黑发，超大号白色纽扣衬衫，浅色休闲短裤，赤脚，简单放松的造型，自然站立姿势放松，双臂自然下垂或略微放在身后，面朝镜头，温柔柔和的微笑，微妙的静止感，专注于光线、空气和安静的日常氛围，柔和的胶片颗粒，梦幻而低调的氛围 --ar 9:16
+模擬35毫米膠片攝影，柔和輕盈的日系美學，溫柔漫射的自然窗戶光，輕微過曝，柔和色調，低對比度，柔和的高光，靠近窗戶配有白色窗簾的極簡室內環境，乾淨的淺色牆壁，自然構圖，平視視角，略微緊湊的全身取景（大腿中部到頭部），年輕東亞女性，自然極簡妝容，柔和真實的皮膚紋理，長長的微亂黑髮，超大號白色紐扣襯衫，淺色休閒短褲，赤腳，簡單放鬆的造型，自然站立姿勢放鬆，雙臂自然下垂或略微放在身後，面朝鏡頭，溫柔柔和的微笑，微妙的靜止感，專注於光線、空氣和安靜的日常氛圍，柔和的膠片顆粒，夢幻而低調的氛圍 --ar 9:16
 
 [English]
 Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights,  minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head),  young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair,  oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling,  standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness,  focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
@@ -1812,38 +1812,38 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 <a name="case-222"></a>
 
-### 例 222：精致模块化科普百科图鉴
+### 例 222：精緻模組化科普百科圖鑑
 
-![精致模块化科普百科图鉴](../data/images/case222.jpg)
+![精緻模組化科普百科圖鑑](../data/images/case222.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-请根据【主题】生成一张高质量竖版「科普百科图」。 
+請根據【主題】生成一張高品質豎版「科普百科圖」。
 
-这张图不是普通海报，也不是单纯插画，而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+這張圖不是普通海報，也不是單純插畫，而是一張兼具“圖鑑感、百科感、資訊結構感、收藏感”的模組化科普資訊圖表。整體風格參考高階博物圖鑑、現代百科書頁、生活方式知識卡和社群媒體高傳播資訊圖表的結合。
 
-请让画面包含：
-- 一个清晰漂亮的主题主视觉
-- 若干局部特征放大细节
-- 多个圆角模块化信息分区
-- 清楚的标题层级与重点标签
-- 简洁但丰富的百科内容
-- 可视化评分、要点总结或Top 5模块
+請讓畫面包含：
+- 一個清晰漂亮的主題主視覺
+- 若干局部特徵放大細節
+- 多個圓角模組化資訊分區
+- 清楚的標題層級與重點標籤
+- 簡潔但豐富的百科內容
+- 視覺化評分、要點總結或Top 5模組
 
-内容栏目请根据主题自动适配，优先从这些方向中选择并合理组合：
-基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+內容欄目請根據主題自動適配，優先從這些方向中選擇併合理組合：
+基礎檔案、分類資訊、外觀特徵、習性/生態、形成機制/結構組成、生長或使用條件、養護或維護建議、風險與注意事項、適合人群或適用場景、優缺點對比、快速評分卡。
 
-视觉要求：
-浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整洁排版，信息密度高但不拥挤，阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡，而不是广告图。
+視覺要求：
+淺色乾淨背景，柔和配色，輕陰影，精緻小圖示，圓角資訊框，整潔排版，資訊密度高但不擁擠，閱讀體驗好。整體必須像真正可以發布、閱讀、收藏、系列化生產的科普百科卡，而不是廣告圖。
 
-请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
+請不要做成普通商業宣傳海報。要突出“知識整理 + 模組資訊 + 圖鑑式展示”的特徵。
 
 [English]
-Please generate a high-quality vertical "Popular Science Encyclopedia Infographic" based on the [Topic]. 
+Please generate a high-quality vertical "Popular Science Encyclopedia Infographic" based on the [Topic].
 
 This image is not an ordinary poster, nor a simple illustration, but a modular popular science infographic with a sense of "illustrated guide, encyclopedia, information structure, and collectibility". The overall style references a combination of high-end natural history illustrated guides, modern encyclopedia pages, lifestyle knowledge cards, and highly shared social media infographics.
 
@@ -1868,39 +1868,39 @@ Please do not make it into an ordinary commercial promotional poster. It must hi
 
 <a name="case-223"></a>
 
-### 例 223：春日禅意水墨群山海报
+### 例 223：春日禪意水墨群山海報
 
-![春日禅意水墨群山海报](../data/images/case223.jpg)
+![春日禪意水墨群山海報](../data/images/case223.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046215276249993720)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046215276249993720)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-新中式水墨山水海报，竖版9:16构图，东方极简美学风格，
-大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。
-画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面，
-山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。
-山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。
+新中式水墨山水海報，豎版9:16構圖，東方極簡美學風格，
+大面積留白，整體色調為春日清晨氛圍（青綠色、霧藍、淡灰、淺墨），低飽和、清透柔和，高階質感。
+畫面主體為奇峻巍峨的群山，從中間平靜湖面的兩側拔地而起，佔據左右兩側畫面，
+山體以水墨暈染表現，濃淡乾溼變化豐富，局部融入淡青綠色渲染，體現春意生機。
+山峰被溼潤輕柔的晨霧包裹，霧氣層層遞進，與淺青藍天空自然融合，形成空氣透視與空間縱深。
 
-湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。
-中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。
+湖面如鏡面般平靜，呈現微青綠色調，倒映山體與天空，反射略帶柔焦與霧化擴散效果，增強春日溼潤與夢幻氛圍。
+中景一艘帶弧形篷頂的小木舟緩慢漂浮，船槳輕觸水面形成細膩漣漪，水紋自然擴散，整體保持極靜狀態。
 
-船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色，
-身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化，
-人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨），
-红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。
+船上為一位紅衣漁女，體量較小（遠景比例），人物簡化處理為水墨剪影 + 輕微設色，
+身著低飽和硃砂紅傳統服飾（非鮮豔紅），顏色略被霧氣柔化，
+人物面部不刻畫細節，僅保留輪廓與姿態（如輕扶船篷或執槳），
+紅色在水面形成淡淡倒影，作為畫面唯一暖色視覺焦點。
 
-岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。
+岸邊點綴疏林與春季新生植被，採用淡墨 + 淡青綠點染，虛實結合，增強節奏與生命氣息。
 
-少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。
+少量飛鳥在遠空掠過，輕盈疏散分佈，增強空間層次與靈動感。
 
-画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意），
-笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。
-书法颜色为深墨青或柔和墨黑，与整体画面统一。
-整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围，
-冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。
+畫面頂部居中豎排書法：“東方美學”，採用傳統手寫行書或行草風格（王羲之筆意），
+筆觸自然起伏、提按分明，帶飛白與墨韻擴散效果，避免字型感。
+書法顏色為深墨青或柔和墨黑，與整體畫面統一。
+整體風格：水墨 + 現代極簡設計融合，春日禪意、空靈溼潤、寧靜氛圍，
+冷暖對比克制，電影感光影，高階藝術海報質感，8K超清細節。
 
 [English]
 Neo-Chinese ink wash landscape poster, vertical 9:16 composition, Oriental minimalist aesthetic style,
@@ -1927,22 +1927,22 @@ restrained cold and warm contrast, cinematic light and shadow, high-end art post
 
 <a name="case-224"></a>
 
-### 例 224：机甲少女立于废弃海城
+### 例 224：機甲少女立於廢棄海城
 
-![机甲少女立于废弃海城](../data/images/case224.jpg)
+![機甲少女立於廢棄海城](../data/images/case224.jpg)
 
-**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
+**來源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一名十几岁的机甲少女，苍白的肌肤上沾着烟尘与海水飞沫，锐利的琥珀色眼眸中映出发光的 HUD 瞄准标线；及腰的灰白色长发扎成高马尾，在海风中肆意飞扬。哑光枪灰色外骨骼装甲覆盖双肩、前臂与小腿，关节处裸露着液压活塞，胸挂布有发光的青蓝色冷却管线。一件沾着油污的超大号机库外套半滑落在一侧肩头，一门巨型轨道炮架在右肩，衣领处挂着士兵牌与磨损的红色丝带。
-她站在向左略微偏移的位置，立于倾斜钢铁平台的锈蚀边缘，平台向外延伸至漆黑海面之上；重心落在单腿上，左手紧握炮带，头部微转向镜头，投来沉静而桀骜的目光。背部推进器不断喷出蒸汽，马尾与外套在咸腥海风里向一侧狂乱飘动。
-背景是黄昏时分广袤的废弃海上都市，用途不明的巨型超级建筑从海洋中拔地而起，形成错落的剪影；骨白色的巨型塔楼与附着藤壶的钢铁结构融为一体，巨大的环形建筑以破碎的角度倾斜矗立，锈蚀的桁架骨架间缠绕着废弃线缆，深色浪涛在支撑柱间翻涌，数艘沉船半淹在柱脚。厚重的海雾萦绕在建筑底部，高耸的结构直刺入暗沉的天空，塔楼高处零星闪烁着微弱灯光，宛如遥远的眼眸。
-画面采用阴郁低调的光影：阴沉天空透出冷调青蓝环境光，画面右侧远处建筑漏出温暖的琥珀色钠灯光晕，塔楼后方低垂的太阳形成强烈逆光，勾勒出她的轮廓；体积光穿透海雾，装甲上呈现湿润的镜面高光。
-镜头使用 35mm 变形宽银幕镜头，略微低角度仰拍，越过她的肩膀望向远处建筑群；中全景构图，浅景深使前景的锈蚀景物虚化，带有横向镜头眩光，细腻的大气薄雾将远处巨型建筑压缩为层次分明的剪影。
-整体为电影感动漫主视觉风格，绘画感数字插画搭配利落线稿，采用青蓝、骨白与铁锈色为主的低饱和海洋色调，点缀少量暖色调高光；添加胶片颗粒，呈现高对比度的艺术海报质感，画幅比例 16:9。
+一名十幾歲的機甲少女，蒼白的肌膚上沾著煙塵與海水飛沫，銳利的琥珀色眼眸中映出發光的 HUD 瞄準標線；及腰的灰白色長髮紮成高馬尾，在海風中肆意飛揚。啞光槍灰色外骨骼裝甲覆蓋雙肩、前臂與小腿，關節處裸露著液壓活塞，胸掛布有發光的青藍色冷卻管線。一件沾著油汙的超大號機庫外套半滑落在一側肩頭，一門巨型軌道炮架在右肩，衣領處掛著士兵牌與磨損的紅色絲帶。
+她站在向左略微偏移的位置，立於傾斜鋼鐵平台的鏽蝕邊緣，平台向外延伸至漆黑海面之上；重心落在單腿上，左手緊握炮帶，頭部微轉向鏡頭，投來沉靜而桀驁的目光。背部推進器不斷噴出蒸汽，馬尾與外套在鹹腥海風裡向一側狂亂飄動。
+背景是黃昏時分廣袤的廢棄海上都市，用途不明的巨型超級建築從海洋中拔地而起，形成錯落的剪影；骨白色的巨型塔樓與附著藤壺的鋼鐵結構融為一體，巨大的環形建築以破碎的角度傾斜矗立，鏽蝕的桁架骨架間纏繞著廢棄線纜，深色浪濤在支撐柱間翻湧，數艘沉船半淹在柱腳。厚重的海霧縈繞在建築底部，高聳的結構直刺入暗沉的天空，塔樓高處零星閃爍著微弱燈光，宛如遙遠的眼眸。
+畫面採用陰鬱低調的光影：陰沉天空透出冷調青藍環境光，畫面右側遠處建築漏出溫暖的琥珀色鈉燈光暈，塔樓後方低垂的太陽形成強烈逆光，勾勒出她的輪廓；體積光穿透海霧，裝甲上呈現溼潤的鏡面高光。
+鏡頭使用 35mm 變形寬銀幕鏡頭，略微低角度仰拍，越過她的肩膀望向遠處建築群；中全景構圖，淺景深使前景的鏽蝕景物虛化，帶有橫向鏡頭眩光，細膩的大氣薄霧將遠處巨型建築壓縮為層次分明的剪影。
+整體為電影感動漫主視覺風格，繪畫感數字插畫搭配利落線稿，採用青藍、骨白與鐵鏽色為主的低飽和海洋色調，點綴少量暖色調高光；新增膠片顆粒，呈現高對比度的藝術海報質感，畫幅比例 16:9。
 
 [English]
 A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
@@ -1952,17 +1952,17 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 <a name="case-225"></a>
 
-### 例 225：大师级真迹复刻
+### 例 225：大師級真跡復刻
 
-![大师级真迹复刻](../data/images/case225.jpg)
+![大師級真跡復刻](../data/images/case225.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-帮我生成xxxx真迹图片
+幫我生成xxxx真跡圖片
 
 [English]
 Help me generate xxxx authentic picture
@@ -1972,17 +1972,17 @@ Help me generate xxxx authentic picture
 
 <a name="case-226"></a>
 
-### 例 226：古风明朝帝王群像长卷
+### 例 226：古風明朝帝王群像長卷
 
-![古风明朝帝王群像长卷](../data/images/case226.jpg)
+![古風明朝帝王群像長卷](../data/images/case226.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045071977279635962)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045071977279635962)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字
+根據上傳圖片的風格，生成明朝各個皇帝的頭像，頭像下面有他們的諡號和名字
 
 [English]
 Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits
@@ -1992,17 +1992,17 @@ Based on the style of the uploaded image, generate portraits of the emperors of 
 
 <a name="case-227"></a>
 
-### 例 227：哔哩哔哩户晨风直播截图
+### 例 227：哔哩哔哩戶晨風直播截圖
 
-![哔哩哔哩户晨风直播截图](../data/images/case227.jpg)
+![哔哩哔哩戶晨風直播截圖](../data/images/case227.jpg)
 
-**来源：** [@austinit](https://x.com/austinit/status/2044994519649997183)
+**來源：** [@austinit](https://x.com/austinit/status/2044994519649997183)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-9:16 的图片，生成一张哔哩哔哩直播的截图，里面是 户晨风在直播，户晨风表情开心，手里拿着牌子，牌子里写着 “Austin总太性情了，大家给Austin总点点关注。”
+9:16 的圖片，生成一張哔哩哔哩直播的截圖，裡面是 戶晨風在直播，戶晨風表情開心，手裡拿著牌子，牌子裡寫著 “Austin總太性情了，大家給Austin總點點關注。”
 
 [English]
 A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chenfeng broadcasting live, Hu Chenfeng has a happy expression, holding a sign in his hand, the sign says "Boss Austin is so emotional, everyone please give Boss Austin some follows."
@@ -2012,17 +2012,17 @@ A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chen
 
 <a name="case-228"></a>
 
-### 例 228：完美匹配的海报广告图
+### 例 228：完美匹配的海報廣告圖
 
-![完美匹配的海报广告图](../data/images/case228.jpg)
+![完美匹配的海報廣告圖](../data/images/case228.jpg)
 
-**来源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2045787856292151322)
+**來源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2045787856292151322)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张与这张图片完美匹配的广告图片。信息量要多一些。
+生成一張與這張圖片完美匹配的廣告圖片。資訊量要多一些。
 
 [English]
 Generate an advertising image that perfectly matches this image. There should be a lot of information.
@@ -2032,30 +2032,30 @@ Generate an advertising image that perfectly matches this image. There should be
 
 <a name="case-229"></a>
 
-### 例 229：琉璃透明画眉鸟飞舞羊城墨卷
+### 例 229：琉璃透明畫眉鳥飛舞羊城墨卷
 
-![琉璃透明画眉鸟飞舞羊城墨卷](../data/images/case229.jpg)
+![琉璃透明畫眉鳥飛舞羊城墨卷](../data/images/case229.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045873940883808523)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045873940883808523)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-【背景与骨架线条】
-纯黑深邃底色，一条粗壮有力的墨色书法S型曲线自画面一端蜿蜒贯穿至另一端，笔触苍劲，墨迹浓淡有致，如大写意行笔，构成整幅画面的视觉骨架与叙事动线。
-【主体：透明燕子】
-曲线上方，一只展翅飞翔的画眉鸟占据视觉核心；身体呈玻璃透明质感，内部映射传统建筑群叠影，蓝绿色光流在透明羽翼间流转折射，仿佛时间长河与文明记忆凝缩其中；轮廓以极细金线勾边，增强立体感与神圣感。
-【中景：古典建筑序列】
-燕子下方，沿墨线曲线错落分布广州的各种风景名胜：白云山、陈家祠、双子塔、广州塔、猎德大桥、海珠塔依次浮现；主色调青绿与淡金，建筑细节清晰，琉璃瓦、飞檐翘角、石阶回廊；木棉花簇拥点缀于建筑周围，花瓣随风轻散，静谧而悠远；几朵水墨云朵轻盈飘浮其间，增添空灵层次。
-【前景：白鹤与水面】
-前景湖畔：数只白鹤或静立水边、或振翅腾飞，姿态各异，优雅从容；浅蓝湖面如镜，倒影荡漾，波光细碎，营造宁静氛围。
-【远景：山峦】
-远处山峦层叠起伏，青黛色晕染，墨色由浓至淡，朦胧氤氲，富有水墨层次；与前景形成近实远虚的空间纵深。
-【构图与光影】
-非线性透视构图，墨线曲线为叙事主轴，古今元素沿线嵌入；光源自画面中心向外辐射扩散，形成强烈明暗对比，中心亮、四周渐暗；冷色调主导（深蓝、青绿、银白），暖色点缀（樱花粉、淡金），和谐而神秘；东方美学与现代意象交融，超现实诗意意境。
-【技术规格】
-8K超高清渲染，极致细节精度，最佳画质，比例 9:16
+【背景與骨架線條】
+純黑深邃底色，一條粗壯有力的墨色書法S型曲線自畫面一端蜿蜒貫穿至另一端，筆觸蒼勁，墨跡濃淡有致，如大寫意行筆，構成整幅畫面的視覺骨架與敘事動線。
+【主體：透明燕子】
+曲線上方，一隻展翅飛翔的畫眉鳥佔據視覺核心；身體呈玻璃透明質感，內部對映傳統建築群疊影，藍綠色光流在透明羽翼間流轉折射，彷彿時間長河與文明記憶凝縮其中；輪廓以極細金線勾邊，增強立體感與神聖感。
+【中景：古典建築序列】
+燕子下方，沿墨線曲線錯落分佈廣州的各種風景名勝：白雲山、陳家祠、雙子塔、廣州塔、獵德大橋、海珠塔依次浮現；主色調青綠與淡金，建築細節清晰，琉璃瓦、飛簷翹角、石階迴廊；木棉花簇擁點綴於建築周圍，花瓣隨風輕散，靜謐而悠遠；幾朵水墨雲朵輕盈飄浮其間，增添空靈層次。
+【前景：白鶴與水面】
+前景湖畔：數只白鶴或靜立水邊、或振翅騰飛，姿態各異，優雅從容；淺藍湖面如鏡，倒影盪漾，波光細碎，營造寧靜氛圍。
+【遠景：山巒】
+遠處山巒層疊起伏，青黛色暈染，墨色由濃至淡，朦朧氤氳，富有水墨層次；與前景形成近實遠虛的空間縱深。
+【構圖與光影】
+非線性透視構圖，墨線曲線為敘事主軸，古今元素沿線嵌入；光源自畫面中心向外輻射擴散，形成強烈明暗對比，中心亮、四周漸暗；冷色調主導（深藍、青綠、銀白），暖色點綴（櫻花粉、淡金），和諧而神秘；東方美學與現代意象交融，超現實詩意意境。
+【技術規格】
+8K超高畫質渲染，極致細節精度，最佳畫質，比例 9:16
 
 [English]
 [
@@ -2122,37 +2122,37 @@ ratio 9:16
 
 <a name="case-230"></a>
 
-### 例 230：极简国潮鎏金广州塔海报
+### 例 230：極簡國潮鎏金廣州塔海報
 
-![极简国潮鎏金广州塔海报](../data/images/case230.jpg)
+![極簡國潮鎏金廣州塔海報](../data/images/case230.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045744531686166878)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045744531686166878)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，
+新中式極簡風格高階城市海報，9:16豎版構圖，以廣州為核心主題，畫面中心為抽象幾何化的廣州塔，造型簡潔但具有辨識度，
 
-整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，
+整體採用S型流動構圖，從下方向上延展，珠江水系被設計為流動的水波紋與傳統祥雲紋樣融合，環繞整個畫面形成視覺動線，
 
-广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼，
-传统与现代建筑自然融合，层次递进，远近虚实分明，
+廣州地標建築以“留白+線描+局部色塊”的方式點綴其中：珠江新城雙塔、獵德大橋、白雲山輪廓、嶺南騎樓，
+傳統與現代建築自然融合，層次遞進，遠近虛實分明，
 
-风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实，
+風格控制：極簡 + 高階 + 東方意境，不雜亂不過度寫實，
 
-色彩方案（重点）：
-高饱和但克制 ，中国红、青蓝、鎏金为主色，
-辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳，
+色彩方案（重點）：
+高飽和但克制 ，中國紅、青藍、鎏金為主色，
+輔以少量暖金高光點綴，形成強烈視覺衝擊但不俗豔，
 
-背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感，
+背景：大面積純淨留白或淡宣紙肌理，增強呼吸感與高階感，
 
-细节：祥云与水纹具有轻微浮雕/烫金质感，
-局部加入微光粒子或流动光线，增强现代感，
+細節：祥雲與水紋具有輕微浮雕/燙金質感，
+局部加入微光粒子或流動光線，增強現代感，
 
-光影：柔和渐变光+局部高光，突出恢弘大气氛围，
+光影：柔和漸變光+局部高光，突出恢弘大氣氛圍，
 
-整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节
+整體風格：國潮高階插畫 / 品牌海報級質感 / 8K / 超清細節
 
 [English]
 Neo-Chinese minimalist style high-end city poster, 9:16 vertical composition, with Guangzhou as the core theme, the center of the image is an abstract geometric Canton Tower, simple in shape but highly recognizable,
@@ -2182,23 +2182,23 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 
 <a name="case-231"></a>
 
-### 例 231：疾风起狂草艺术字体设计
+### 例 231：疾風起狂草藝術字型設計
 
-![疾风起狂草艺术字体设计](../data/images/case231.jpg)
+![疾風起狂草藝術字型設計](../data/images/case231.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
+**來源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
-深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道；
-起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化；
-dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
-重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道；
-整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感；
-纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。
+創意藝術字型“縱有疾風起”，秀麗筆手寫風格，整體文字橫版排列，具有強烈視覺衝擊力；
+深度融合手寫書法筆意，筆觸帶毛筆書寫的粗獷灑脫，如揮毫潑墨的肆意勁道；
+起收筆的飛白，頓挫，盡顯促銷的火爆張力，文字的形態打破規整，筆畫的粗細變化；
+dutch angle，營造出動感衝刺的氣勢，字形呈奔放之勢；
+重心上揚如蓄勢待發，筆畫的伸展，穿插毫無拘束，似全力衝刺的勁道；
+整體架構疏密交織，緊密處如促銷熱潮的洶湧，留白處似優惠間隙的呼吸感；
+純淨黑色背景打底，完美契合熱烈氛圍，藝術字的形態與色彩酣暢傳遞。
 
 [English]
 Creative artistic typography "Zong You Ji Feng Qi", hand-written style with a fine brush, overall text arranged horizontally, with strong visual impact;
@@ -2214,17 +2214,17 @@ Pure black background as the base, perfectly fitting the passionate atmosphere, 
 
 <a name="case-232"></a>
 
-### 例 232：兰亭集序书法帖意境图
+### 例 232：蘭亭集序書法帖意境圖
 
-![兰亭集序书法帖意境图](../data/images/case232.jpg)
+![蘭亭集序書法帖意境圖](../data/images/case232.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-结合王羲之的《兰亭集序》里的内容，生成一副书法帖图片，要求图片背景符合《兰亭集序》的意境，背景图可以使用蒙版，前景是《兰亭集序》
+結合王羲之的《蘭亭集序》裡的內容，生成一副書法帖圖片，要求圖片背景符合《蘭亭集序》的意境，背景圖可以使用蒙版，前景是《蘭亭集序》
 
 [English]
 Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy copy image, requiring the image background to match the artistic conception of "Lantingji Xu", the background image can use a mask, the foreground is "Lantingji Xu"
@@ -2234,17 +2234,17 @@ Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy c
 
 <a name="case-233"></a>
 
-### 例 233：蒙娜丽莎畅饮可乐的趣味油画
+### 例 233：蒙娜麗莎暢飲可樂的趣味油畫
 
-![蒙娜丽莎畅饮可乐的趣味油画](../data/images/case233.jpg)
+![蒙娜麗莎暢飲可樂的趣味油畫](../data/images/case233.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张蒙娜丽莎喝可乐的油画。
+生成一張蒙娜麗莎喝可樂的油畫。
 
 [English]
 Generate an oil painting of Mona Lisa drinking cola.
@@ -2254,17 +2254,17 @@ Generate an oil painting of Mona Lisa drinking cola.
 
 <a name="case-234"></a>
 
-### 例 234：朱元璋登基后的推特主页
+### 例 234：朱元璋登基後的推特主頁
 
-![朱元璋登基后的推特主页](../data/images/case234.jpg)
+![朱元璋登基後的推特主頁](../data/images/case234.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创建一个明朝朱元璋登基之后的X帖子页面
+建立一個明朝朱元璋登基之後的X帖子頁面
 
 [English]
 Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
@@ -2274,73 +2274,73 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 
 <a name="case-235"></a>
 
-### 例 235：治愈系助眠指南九宫格
+### 例 235：治癒系助眠指南九宮格
 
-![治愈系助眠指南九宫格](../data/images/case235.jpg)
+![治癒系助眠指南九宮格](../data/images/case235.jpg)
 
-**来源：** [@austinit](https://x.com/austinit/status/2046037688969769346)
+**來源：** [@austinit](https://x.com/austinit/status/2046037688969769346)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张适合小红书发布的 3:4 竖版九宫格海报，整体为 3列 × 3行 排版，九个宫格边界清晰，方便后期直接切割成 9 张单图发布。整体风格干净、高级、统一，适合女性向健康生活方式内容，具有小红书爆款封面气质。画面要求 信息排版清晰、文字大、可读性强、留白舒服、配色温柔治愈。
+生成一張適合小红书發布的 3:4 豎版九宮格海報，整體為 3列 × 3行 排版，九個宮格邊界清晰，方便後期直接切割成 9 張單圖發布。整體風格乾淨、高階、統一，適合女性向健康生活方式內容，具有小红书爆款封面氣質。畫面要求 資訊排版清晰、文字大、可讀性強、留白舒服、配色溫柔治癒。
 
-整体视觉风格：
-奶油白、浅米色、淡燕麦色、浅焦糖色为主色调，搭配少量深棕色文字，ins风、治愈感、睡眠疗愈主题，简约排版，轻拟物插画点缀，可加入枕头、月亮、星星、热牛奶、香薰、书本、眼罩、窗帘、床铺等元素。整体像专业新媒体设计图，字体工整，适合做知识科普类小红书九宫格。
+整體視覺風格：
+奶油白、淺米色、淡燕麥色、淺焦糖色為主色調，搭配少量深棕色文字，ins風、治癒感、睡眠療愈主題，簡約排版，輕擬物插畫點綴，可加入枕頭、月亮、星星、熱牛奶、香薰、書本、眼罩、窗簾、床鋪等元素。整體像專業新媒體設計圖，字型工整，適合做知識科普類小红书九宮格。
 排版要求：
 
-整张图必须是标准九宫格构图，切分后每一格都能独立成图
+整張圖必須是標準九宮格構圖，切分後每一格都能獨立成圖
 
-每个宫格内容完整居中，不要把标题或正文压在分割线附近
-每个格子之间保留明显间隔或细边框，保证裁切后不影响阅读
-所有文字使用中文，清晰易读，不要乱码，不要英文
-每个宫格都像独立的小红书图文卡片，但视觉风格保持统一
-画面精致、真实、自然，不要廉价营销感，不要过度花哨
-九宫格具体内容：
+每個宮格內容完整居中，不要把標題或正文壓在分割線附近
+每個格子之間保留明顯間隔或細邊框，保證裁切後不影響閱讀
+所有文字使用中文，清晰易讀，不要亂碼，不要英文
+每個宮格都像獨立的小红书圖文卡片，但視覺風格保持統一
+畫面精緻、真實、自然，不要廉價營銷感，不要過度花哨
+九宮格具體內容：
 
 第1格（封面）
-大标题：让你倒头就睡的8个 tips
-副标题：失眠党、熬夜党一定要收藏
-封面视觉最吸睛，适合做首图，加入柔软床铺、月亮、枕头、眼罩等治愈睡眠元素，标题突出，排版高级。
+大標題：讓你倒頭就睡的8個 tips
+副標題：失眠黨、熬夜黨一定要收藏
+封面視覺最吸睛，適合做首圖，加入柔軟床鋪、月亮、枕頭、眼罩等治癒睡眠元素，標題突出，排版高階。
 
 第2格
-标题：1. 睡前1小时别玩手机
-正文：蓝光会让大脑更清醒，越刷越睡不着。
-配图元素：手机、月亮、困倦表情的小插画
+標題：1. 睡前1小時別玩手機
+正文：藍光會讓大腦更清醒，越刷越睡不著。
+配圖元素：手機、月亮、睏倦表情的小插畫
 第3格
-标题：2. 睡前把灯光调暗
-正文：暖光环境能帮助身体进入“准备睡觉”的状态。
-配图元素：床头灯、暖黄色灯光、窗帘
+標題：2. 睡前把燈光調暗
+正文：暖光環境能幫助身體進入“準備睡覺”的狀態。
+配圖元素：床頭燈、暖黃色燈光、窗簾
 第4格
-标题：3. 房间温度别太高
-正文：稍微凉一点，更容易快速入睡。
-配图元素：空调、温度计、被子
+標題：3. 房間溫度別太高
+正文：稍微涼一點，更容易快速入睡。
+配圖元素：空調、溫度計、被子
 第5格
-标题：4. 晚上别喝浓茶咖啡
-正文：咖啡因会延迟困意，让你躺很久还睡不着。
-配图元素：咖啡杯、茶杯、禁止符号
+標題：4. 晚上別喝濃茶咖啡
+正文：咖啡因會延遲睏意，讓你躺很久還睡不著。
+配圖元素：咖啡杯、茶杯、禁止符號
 
 第6格
-标题：5. 睡前洗个热水澡
-正文：能让身体放松下来，入睡速度更快。
-配图元素：浴室蒸汽、毛巾、热水
+標題：5. 睡前洗個熱水澡
+正文：能讓身體放鬆下來，入睡速度更快。
+配圖元素：浴室蒸汽、毛巾、熱水
 第7格
-标题：6. 脑子停不下来就写下来
-正文：把烦心事和待办清单写下，大脑会更容易放松。
-配图元素：笔记本、钢笔、小台灯
+標題：6. 腦子停不下來就寫下來
+正文：把煩心事和待辦清單寫下，大腦會更容易放鬆。
+配圖元素：筆記本、鋼筆、小檯燈
 第8格
-标题：7. 固定上床时间
-正文：每天差不多时间睡，生物钟会越来越稳定。
-配图元素：时钟、月亮、床
+標題：7. 固定上床時間
+正文：每天差不多時間睡，生物鐘會越來越穩定。
+配圖元素：時鐘、月亮、床
 第9格
-标题：8. 试试深呼吸放松法
-正文：吸气4秒，停4秒，呼气6秒，慢慢就有困意了。
-底部小字：收藏这组，今晚试试看
-配图元素：呼吸线条、闭眼人物、星星
+標題：8. 試試深呼吸放鬆法
+正文：吸氣4秒，停4秒，呼氣6秒，慢慢就有睏意了。
+底部小字：收藏這組，今晚試試看
+配圖元素：呼吸線條、閉眼人物、星星
 
-画质要求：
-高清，高级排版，杂志感，真实可发布，新媒体运营审美，小红书爆款图文风格，文字布局规整，适合直接切图。
+畫質要求：
+高畫質，高階排版，雜誌感，真實可發布，新媒體運營審美，小红书爆款圖文風格，文字佈局規整，適合直接切圖。
 
 [English]
 Generate a 3:4 vertical 9-grid poster suitable for publishing on Xiaohongshu, with an overall layout of 3 columns × 3 rows. The boundaries of the nine grids are clear, making it easy to directly cut into 9 single images for later publishing. The overall style is clean, premium, and unified, suitable for female-oriented healthy lifestyle content, possessing the vibe of a viral Xiaohongshu cover. Image requirements: clear information layout, large text, strong readability, comfortable white space, gentle and healing color palette.
@@ -2412,34 +2412,34 @@ High definition, premium layout, magazine feel, realistically publishable, new m
 
 <a name="case-236"></a>
 
-### 例 236：粤超联赛国潮风邀请函海报
+### 例 236：粵超聯賽國潮風邀請函海報
 
-![粤超联赛国潮风邀请函海报](../data/images/case236.jpg)
+![粵超聯賽國潮風邀請函海報](../data/images/case236.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045772039521542202)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045772039521542202)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-广东省城市足球超级联赛（粤超）邀请函海报设计，比例9:16； 
+廣東省城市足球超級聯賽（粵超）邀請函海報設計，比例9:16；
 
-S型流动构图，画面从下方向上延展，一条由足球运动轨迹形成的动态能量流贯穿画面， 中心为一颗发光的足球，带有动感轨迹与能量光效；
+S型流動構圖，畫面從下方向上延展，一條由足球運動軌跡形成的動態能量流貫穿畫面， 中心為一顆發光的足球，帶有動感軌跡與能量光效；
 
-沿S型动线融合广东城市地标与文化元素： 广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑与佛山武术剪影、中山孙中山文化象征、潮汕英歌舞动态人物轮廓、清远山水自然景观， 所有元素采用“线描 + 局部色块 + 留白”融合表现，层次递进、远近虚实结合；
+沿S型動線融合廣東城市地標與文化元素： 廣州塔、深圳平安金融中心、珠海漁女雕像、嶺南建築與佛山武術剪影、中山孫中山文化象徵、潮汕英歌舞動態人物輪廓、清遠山水自然景觀， 所有元素採用“線描 + 局部色塊 + 留白”融合表現，層次遞進、遠近虛實結合；
 
-加入抽象足球运动员剪影，弱化人物细节，强化动势与竞技氛围，视觉重点仍为足球；
+加入抽象足球運動員剪影，弱化人物細節，強化動勢與競技氛圍，視覺重點仍為足球；
 
-风格：现代国潮高级海报，极简风格但富有设计感，高级、干净、统一， 融合东方美学与现代体育视觉；
+風格：現代國潮高階海報，極簡風格但富有設計感，高階、乾淨、統一， 融合東方美學與現代體育視覺；
 
-色彩方案：高饱和但克制，中国红为主视觉，青蓝色辅助，金色点缀高光， 高对比但不杂乱，具有品牌级视觉冲击力； 
+色彩方案：高飽和但克制，中國紅為主視覺，青藍色輔助，金色點綴高光， 高對比但不雜亂，具有品牌級視覺衝擊力；
 
-顶部中央横版视觉主标题 「广东省城市足球超级联赛」：中字，宋体， 中央竖排文字排版： 「粤超」，大字，手写书法艺术字体， 「邀请函」：中字，宋体，纵向排列，间距较大， 底部中央第一排横排： 「2026年4月25日」，小字，宋体，第二排：「广州越秀山体育场」，小字，宋体， 预留文字排版空间；
+頂部中央橫版視覺主標題 「廣東省城市足球超級聯賽」：中字，宋體， 中央豎排文字排版： 「粵超」，大字，手寫書法藝術字型， 「邀請函」：中字，宋體，縱向排列，間距較大， 底部中央第一排橫排： 「2026年4月25日」，小字，宋體，第二排：「廣州越秀山體育場」，小字，宋體， 預留文字排版空間；
 
-整体版式平衡、具有高级品牌海报质感，极致精细，构图简洁干净，无杂乱元素，电影级光影，8K 分辨率，高端设计感。融入源自中国传统祥云纹的雅致云纹与水波纹元素，浮动光效粒子，富有动感与生机。
+整體版式平衡、具有高階品牌海報質感，極致精細，構圖簡潔乾淨，無雜亂元素，電影級光影，8K 解析度，高階設計感。融入源自中國傳統祥雲紋的雅緻雲紋與水波紋元素，浮動光效粒子，富有動感與生機。
 
 [English]
-Guangdong Provincial City Football Super League (Yuechao) invitation poster design, aspect ratio 9:16; 
+Guangdong Provincial City Football Super League (Yuechao) invitation poster design, aspect ratio 9:16;
 
 S-shaped flowing composition, the picture extends from bottom to top, a dynamic energy flow formed by the trajectory of football movement runs through the picture, the center is a glowing football, with dynamic trajectory and energy light effects;
 
@@ -2449,7 +2449,7 @@ Add abstract football player silhouettes, weaken character details, strengthen m
 
 Style: modern Guochao high-end poster, minimalist style but rich in design sense, high-end, clean, unified, integrating oriental aesthetics and modern sports vision;
 
-Color scheme: high saturation but restrained, Chinese red as the main visual, cyan-blue as auxiliary, gold embellished highlights, high contrast but not cluttered, with brand-level visual impact; 
+Color scheme: high saturation but restrained, Chinese red as the main visual, cyan-blue as auxiliary, gold embellished highlights, high contrast but not cluttered, with brand-level visual impact;
 
 Top center horizontal visual main title "Guangdong Provincial City Football Super League": medium font, Song typeface, center vertical text layout: "Yuechao", large font, handwritten calligraphy art font, "Invitation": medium font, Song typeface, vertical arrangement, large spacing, bottom center first row horizontal: "April 25, 2026", small font, Song typeface, second row: "Guangzhou Yuexiushan Stadium", small font, Song typeface, reserve text layout space;
 
@@ -2460,17 +2460,17 @@ The overall layout is balanced, has a high-end brand poster texture, extremely d
 
 <a name="case-237"></a>
 
-### 例 237：夏日柑橘苏打高转化广告图
+### 例 237：夏日柑橘蘇打高轉化廣告圖
 
-![夏日柑橘苏打高转化广告图](../data/images/case237.jpg)
+![夏日柑橘蘇打高轉化廣告圖](../data/images/case237.jpg)
 
-**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
+**來源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称="夏柑SODA", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4
+影象生成: 商品廣告照片, 適合夏天的季節商品, 碳酸飲料, 名稱="夏柑SODA", 形狀=PET瓶500ml, 研究2025年作為飲料廣告的高CTA設計後設計並生成影象規格, 寬高比3:4
 
 [English]
 Image generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name="Summer Citrus SODA", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4
@@ -2480,19 +2480,19 @@ Image generation: Product advertising photo, Seasonal product suitable for summe
 
 <a name="case-238"></a>
 
-### 例 238：星云巨鲤与小人的奇幻对话
+### 例 238：星雲巨鯉與小人的奇幻對話
 
-![星云巨鲤与小人的奇幻对话](../data/images/case238.jpg)
+![星雲巨鯉與小人的奇幻對話](../data/images/case238.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045875219307655337)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045875219307655337)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。 
-画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。 
-整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16
+一幅超現實主義數字插畫風格，採用低角度仰拍視角。畫面描繪了一條巨型彩色錦鯉遨遊在夢幻般的星雲中，四周環繞著色彩鮮豔的星雲與氣泡。
+畫面中央還站著一個小人，背對觀眾，神情平靜地仰望空中這條巨大的錦鯉，錦鯉頭向下看著小人。
+整體畫面呈現出強烈的大小對比，氛圍空靈又夢幻。比例9:16
 
 [English]
 A surrealist digital illustration style, adopting a low-angle upward perspective. The picture depicts a giant colorful koi swimming in a dreamy nebula, surrounded by colorful nebulae and bubbles. In the center of the picture stands a small figure, with their back to the audience, calmly looking up at this huge koi in the air, and the koi is looking down at the small figure. The overall picture presents a strong size contrast, and the atmosphere is ethereal and dreamy. Aspect ratio 9:16
@@ -2502,17 +2502,17 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 <a name="case-239"></a>
 
-### 例 239：刘亦菲抖音直播畅聊中
+### 例 239：劉亦菲抖音直播暢聊中
 
-![刘亦菲抖音直播畅聊中](../data/images/case239.jpg)
+![劉亦菲抖音直播暢聊中](../data/images/case239.jpg)
 
-**来源：** [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
+**來源：** [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！
+9:16 的圖片比例，生成一張抖音直播的截圖，裡面是 劉亦菲 在直播，劉亦菲 手裡拿著牌子，牌子裡寫著 今晚直播，歡迎來參亦菲暢聊！
 
 [English]
 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
@@ -2522,17 +2522,17 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 <a name="case-240"></a>
 
-### 例 240：胶片闪光灯下的球场少女
+### 例 240：膠片閃光燈下的球場少女
 
-![胶片闪光灯下的球场少女](../data/images/case240.jpg)
+![膠片閃光燈下的球場少女](../data/images/case240.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-35毫米彩色胶片摄影，带有强烈的机顶直射闪光灯，皮肤和衣物上有镜面高光，眼睛里有强烈的眼神光，高对比度闪光灯照明，真实的胶片颗粒和色彩偏移，高级时尚清新纯真篮球场编辑风格，亲密的第一人称低角度仰视POV镜头，二十出头的性感中国女性偶像，具有超写实的精致细腻的中国特征，诱人的杏仁形狐狸眼，带有自然双眼皮，高鼻梁，小巧锋利的V型下颌线，无瑕逼真的瓷白肌肤，带有冷象牙色底调和可见的闪光镜面高光，细腻精致的皮肤纹理，带有微妙的毛孔微距细节和闪光灯下的自然水光感，清新自然的运动妆容，带有柔和的水光感，脸颊上有微妙的自然红晕，自然粉唇微张，鼻子和脸颊上有微妙的自然雀斑，深棕色长发扎成高高的俏皮马尾辫，有一些散落的发丝修饰脸型，以及逼真的散落发丝，穿着宽松的白色背心和白色高腰篮球短裤，白色及膝运动袜，在黄昏的户外球场上靠在篮球架杆上的诱人自然倾斜姿势，身体侧成角度，背部自然弓起，臀部轻轻向后推，以凸显挺拔圆润的臀部和性感的臀部曲线，一条腿自然向前伸向镜头，另一条腿微微弯曲以强调修长性感的双腿，双手轻轻放在肩膀高度的篮球杆上，极其诱人俏皮又惹人怜爱的鹿眼凝视直视观看者，带着柔软脆弱渴望的眼睛和温柔挑逗的微笑，充满安静的诱惑和欲望，强烈的机顶直射闪光灯产生锐利的镜面高光和强烈的眼神光，背景是黄昏天空下模糊的篮球场和篮筐，高对比度胶片调色，带有自然闪光灯外观，极其锐利却又柔和的皮肤渲染，具有真实的35毫米直射闪光美学，自然发丝，背心和短裤上逼真的织物纹理以及袜子细节，没有塑料感皮肤，没有数码过度锐化，没有磨皮，没有瑕疵，没有痣，没有油性皮肤，没有水印，没有文字，真实的35毫米直射闪光胶片篮球场外观 --ar 9:16
+35毫米彩色膠片攝影，帶有強烈的機頂直射閃光燈，皮膚和衣物上有鏡面高光，眼睛裡有強烈的眼神光，高對比度閃光燈照明，真實的膠片顆粒和色彩偏移，高階時尚清新純真籃球場編輯風格，親密的第一人稱低角度仰視POV鏡頭，二十出頭的性感中國女性偶像，具有超寫實的精緻細膩的中國特徵，誘人的杏仁形狐狸眼，帶有自然雙眼皮，高鼻樑，小巧鋒利的V型下頜線，無瑕逼真的瓷白肌膚，帶有冷象牙色底調和可見的閃光鏡面高光，細膩精緻的皮膚紋理，帶有微妙的毛孔微距細節和閃光燈下的自然水光感，清新自然的運動妝容，帶有柔和的水光感，臉頰上有微妙的自然紅暈，自然粉唇微張，鼻子和臉頰上有微妙的自然雀斑，深棕色長髮紮成高高的俏皮馬尾辮，有一些散落的髮絲修飾臉型，以及逼真的散落髮絲，穿著寬鬆的白色背心和白色高腰籃球短褲，白色及膝運動襪，在黃昏的戶外球場上靠在籃球架杆上的誘人自然傾斜姿勢，身體側成角度，背部自然弓起，臀部輕輕向後推，以凸顯挺拔圓潤的臀部和性感的臀部曲線，一條腿自然向前伸向鏡頭，另一條腿微微彎曲以強調修長性感的雙腿，雙手輕輕放在肩膀高度的籃球杆上，極其誘人俏皮又惹人憐愛的鹿眼凝視直視觀看者，帶著柔軟脆弱渴望的眼睛和溫柔挑逗的微笑，充滿安靜的誘惑和慾望，強烈的機頂直射閃光燈產生銳利的鏡面高光和強烈的眼神光，背景是黃昏天空下模糊的籃球場和籃筐，高對比度膠片調色，帶有自然閃光燈外觀，極其銳利卻又柔和的皮膚渲染，具有真實的35毫米直射閃光美學，自然髮絲，背心和短褲上逼真的織物紋理以及襪子細節，沒有塑膠感皮膚，沒有數位過度銳化，沒有磨皮，沒有瑕疵，沒有痣，沒有油性皮膚，沒有水印，沒有文字，真實的35毫米直射閃光膠片籃球場外觀 --ar 9:16
 
 [English]
 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
@@ -2542,17 +2542,17 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 <a name="case-241"></a>
 
-### 例 241：关键人物关系图谱
+### 例 241：關鍵人物關係圖譜
 
-![关键人物关系图谱](../data/images/case241.jpg)
+![關鍵人物關係圖譜](../data/images/case241.jpg)
 
-**来源：** [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
+**來源：** [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-请你生成 《XXX》 的关键人物关系图。
+請你生成 《XXX》 的關鍵人物關係圖。
 
 [English]
 Please generate a key character relationship diagram for "XXX".
@@ -2562,17 +2562,17 @@ Please generate a key character relationship diagram for "XXX".
 
 <a name="case-242"></a>
 
-### 例 242：绝美国风工笔画书签设计
+### 例 242：絕美國風工筆畫書籤設計
 
-![绝美国风工笔画书签设计](../data/images/case242.jpg)
+![絕美國風工筆畫書籤設計](../data/images/case242.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一系列工笔画书签的设计稿
+生成一系列工筆畫書籤的設計稿
 
 [English]
 Generate a series of design drafts for Gongbi painting bookmarks.
@@ -2582,17 +2582,17 @@ Generate a series of design drafts for Gongbi painting bookmarks.
 
 <a name="case-243"></a>
 
-### 例 243：定制专属风格界面设计系统
+### 例 243：定製專屬風格介面設計系統
 
-![定制专属风格界面设计系统](../data/images/case243.jpg)
+![定製專屬風格介面設計系統](../data/images/case243.jpg)
 
-**来源：** [@stark\_nico99](https://x.com/stark_nico99/status/2045836554451706125)
+**來源：** [@stark\_nico99](https://x.com/stark_nico99/status/2045836554451706125)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-用xx风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
+用xx風格幫我生成一套UI設計系統，包含網頁、移動端、卡片、控制元件、按鈕 以及其它
 
 [English]
 Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
@@ -2602,17 +2602,17 @@ Generate a UI design system for me in xx style, including web pages, mobile, car
 
 <a name="case-244"></a>
 
-### 例 244：杜蕾斯茶颜悦色联名海报设计
+### 例 244：杜蕾斯茶顏悅色聯名海報設計
 
-![杜蕾斯茶颜悦色联名海报设计](../data/images/case244.jpg)
+![杜蕾斯茶顏悅色聯名海報設計](../data/images/case244.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-设计一套杜蕾斯和茶颜悦色联名的宣传物料
+設計一套杜蕾斯和茶顏悅色聯名的宣傳物料
 
 [English]
 Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.
@@ -2622,17 +2622,17 @@ Design a set of promotional materials for a Durex and Chayan Yuese co-branding c
 
 <a name="case-245"></a>
 
-### 例 245：马斯克专属篆刻印章设计
+### 例 245：馬斯克專屬篆刻印章設計
 
-![马斯克专属篆刻印章设计](../data/images/case245.jpg)
+![馬斯克專屬篆刻印章設計](../data/images/case245.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-给”埃隆·马斯克”设计一组篆刻印章
+給”埃隆·馬斯克”設計一組篆刻印章
 
 [English]
 Design a set of seal carving stamps for "Elon Musk"
@@ -2642,17 +2642,17 @@ Design a set of seal carving stamps for "Elon Musk"
 
 <a name="case-246"></a>
 
-### 例 246：黑白线稿勾勒的上海风情
+### 例 246：黑白線稿勾勒的上海風情
 
-![黑白线稿勾勒的上海风情](../data/images/case246.jpg)
+![黑白線稿勾勒的上海風情](../data/images/case246.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-设计一张黑色线稿风格的上海明信片
+設計一張黑色線稿風格的上海明信片
 
 [English]
 Design a Shanghai postcard in black line art style.
@@ -2662,17 +2662,17 @@ Design a Shanghai postcard in black line art style.
 
 <a name="case-247"></a>
 
-### 例 247：运动健身图标字体设计
+### 例 247：運動健身圖示字型設計
 
-![运动健身图标字体设计](../data/images/case247.jpg)
+![運動健身圖示字型設計](../data/images/case247.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一套运动类app的iconfont
+生成一套運動類app的iconfont
 
 [English]
 Generate a set of iconfont for a sports app
@@ -2682,17 +2682,17 @@ Generate a set of iconfont for a sports app
 
 <a name="case-248"></a>
 
-### 例 248：景德镇青花瓷全景解说图谱
+### 例 248：景德鎮青花瓷全景解說圖譜
 
-![景德镇青花瓷全景解说图谱](../data/images/case248.jpg)
+![景德鎮青花瓷全景解說圖譜](../data/images/case248.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2045764695827562686)
+**來源：** [@joshesye](https://x.com/joshesye/status/2045764695827562686)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析
+為我生成景德鎮青花瓷的詳細解說圖，配上詳細的中文知識解析
 
 [English]
 Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
@@ -2702,17 +2702,17 @@ Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, 
 
 <a name="case-249"></a>
 
-### 例 249：美女举牌感谢大哥打赏大火箭
+### 例 249：美女舉牌感謝大哥打賞大火箭
 
-![美女举牌感谢大哥打赏大火箭](../data/images/case249.jpg)
+![美女舉牌感謝大哥打賞大火箭](../data/images/case249.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**來源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一个抖音直播的截图 ，一个美女在直播，美女手里拿着牌子，上面写着：谢谢行者大哥的大火箭！
+生成一個抖音直播的截圖 ，一個美女在直播，美女手裡拿著牌子，上面寫著：謝謝行者大哥的大火箭！
 
 [English]
 Generate a screenshot of a TikTok live stream, a beautiful woman is live streaming, the beautiful woman is holding a sign in her hand, on which it says: Thank you Brother Xingzhe for the big rocket!
@@ -2722,17 +2722,17 @@ Generate a screenshot of a TikTok live stream, a beautiful woman is live streami
 
 <a name="case-250"></a>
 
-### 例 250：小王子与星舰的浪漫联名
+### 例 250：小王子與星艦的浪漫聯名
 
-![小王子与星舰的浪漫联名](../data/images/case250.jpg)
+![小王子與星艦的浪漫聯名](../data/images/case250.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-设计一张小王子和SpaceX联名的明信片
+設計一張小王子和SpaceX聯名的明信片
 
 [English]
 Design a postcard co-branded by The Little Prince and SpaceX
@@ -2742,17 +2742,17 @@ Design a postcard co-branded by The Little Prince and SpaceX
 
 <a name="case-251"></a>
 
-### 例 251：言叶之庭春雨绿意单日历
+### 例 251：言葉之庭春雨綠意單日曆
 
-![言叶之庭春雨绿意单日历](../data/images/case251.jpg)
+![言葉之庭春雨綠意單日曆](../data/images/case251.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张言叶之庭2026年4月19日单日日历
+生成一張言葉之庭2026年4月19日單日日曆
 
 [English]
 Generate a single-day calendar for The Garden of Words on April 19, 2026
@@ -2762,17 +2762,17 @@ Generate a single-day calendar for The Garden of Words on April 19, 2026
 
 <a name="case-252"></a>
 
-### 例 252：五一劳动节手举牌创意设计集
+### 例 252：五一勞動節手舉牌創意設計集
 
-![五一劳动节手举牌创意设计集](../data/images/case252.jpg)
+![五一勞動節手舉牌創意設計集](../data/images/case252.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一系列五一劳动节的手举牌设计
+生成一系列五一勞動節的手舉牌設計
 
 [English]
 Generate a series of hand-held sign designs for May Day Labor Day
@@ -2782,17 +2782,17 @@ Generate a series of hand-held sign designs for May Day Labor Day
 
 <a name="case-253"></a>
 
-### 例 253：2026谷雨节气唯美海报设计
+### 例 253：2026穀雨節氣唯美海報設計
 
-![2026谷雨节气唯美海报设计](../data/images/case253.jpg)
+![2026穀雨節氣唯美海報設計](../data/images/case253.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张2026年谷雨节气的海报
+生成一張2026年穀雨節氣的海報
 
 [English]
 Generate a poster for the Guyu solar term in 2026
@@ -2802,17 +2802,17 @@ Generate a poster for the Guyu solar term in 2026
 
 <a name="case-254"></a>
 
-### 例 254：奔赴山海胶片感海报
+### 例 254：奔赴山海膠片感海報
 
-![奔赴山海胶片感海报](../data/images/case254.jpg)
+![奔赴山海膠片感海報](../data/images/case254.jpg)
 
-**来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+**來源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-设计一张主题是”奔赴山海”的胶片感摄影风格的海报
+設計一張主題是”奔赴山海”的膠片感攝影風格的海報
 
 [English]
 Design a poster with the theme of "running towards the mountains and seas" in a film photography style
@@ -2822,17 +2822,17 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
 
 <a name="case-255"></a>
 
-### 例 255：瑜伽裤女主播展示身材曲线
+### 例 255：瑜伽褲女主播展示身材曲線
 
-![瑜伽裤女主播展示身材曲线](../data/images/case255.jpg)
+![瑜伽褲女主播展示身材曲線](../data/images/case255.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**來源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-手机竖屏界面，短视频直播平台风格，一位年轻亚洲女主播在家中直播带货，主播穿着贴身瑜伽裤与简约上衣，身材曲线自然，正在侧身展示裤子的线条与弹性，动作自然不夸张；
+手機豎屏介面，短影片直播平台風格，一位年輕亞洲女主播在家中直播帶貨，主播穿著貼身瑜伽褲與簡約上衣，身材曲線自然，正在側身展示褲子的線條與彈性，動作自然不誇張；
 
 [English]
 Mobile vertical screen interface, short video live streaming platform style, a young Asian female streamer selling goods through live streaming at home, the streamer is wearing tight yoga pants and a simple top, natural body curves, turning sideways to show the lines and elasticity of the pants, natural movements without exaggeration;
@@ -2842,17 +2842,17 @@ Mobile vertical screen interface, short video live streaming platform style, a y
 
 <a name="case-256"></a>
 
-### 例 256：抖音直播间的绝美女主播
+### 例 256：抖音直播間的絕美女主播
 
-![抖音直播间的绝美女主播](../data/images/case256.jpg)
+![抖音直播間的絕美女主播](../data/images/case256.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**來源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一个抖音直播的截图 里面是一个美女在直播
+生成一個抖音直播的截圖 裡面是一個美女在直播
 
 [English]
 Generate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming
@@ -2862,17 +2862,17 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
 
 <a name="case-257"></a>
 
-### 例 257：抖音汉服美女直播带货截图
+### 例 257：抖音漢服美女直播帶貨截圖
 
-![抖音汉服美女直播带货截图](../data/images/case257.jpg)
+![抖音漢服美女直播帶貨截圖](../data/images/case257.jpg)
 
-**来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
+**來源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一个抖音直播的截图里面是一个穿着中国传统服饰的美女在直播卖货
+生成一個抖音直播的截圖裡面是一個穿著中國傳統服飾的美女在直播賣貨
 
 [English]
 Generate a screenshot of a Douyin live stream, featuring a beautiful woman wearing traditional Chinese clothing selling goods during the live broadcast.
@@ -2882,17 +2882,17 @@ Generate a screenshot of a Douyin live stream, featuring a beautiful woman weari
 
 <a name="case-258"></a>
 
-### 例 258：快手直播离婚预告手机截图
+### 例 258：快手直播離婚預告手機截圖
 
-![快手直播离婚预告手机截图](../data/images/case258.jpg)
+![快手直播離婚預告手機截圖](../data/images/case258.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成快手内容截图：主题：直播离婚预告，iPhone尺寸
+生成快手內容截圖：主題：直播離婚預告，iPhone尺寸
 
 [English]
 Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone size
@@ -2902,17 +2902,17 @@ Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone s
 
 <a name="case-259"></a>
 
-### 例 259：精致女孩背后的网贷真相
+### 例 259：精緻女孩背後的網貸真相
 
-![精致女孩背后的网贷真相](../data/images/case259.jpg)
+![精緻女孩背後的網貸真相](../data/images/case259.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸
+生成小红书內容截圖，主題：精緻女孩背後都有網貸，iPhone尺寸
 
 [English]
 Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl there is online loan, iPhone size
@@ -2922,17 +2922,17 @@ Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl ther
 
 <a name="case-260"></a>
 
-### 例 260：社媒界面截图
+### 例 260：社群媒體介面截圖
 
-![抖音AI低价引流爆款截图](../data/images/case260.jpg)
+![抖音AI低價引流爆款截圖](../data/images/case260.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸
+生成抖音內容截圖，主題：跟上AI浪潮9.9包教會，iPhone尺寸
 
 [English]
 Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size
@@ -2942,17 +2942,17 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
 
 <a name="case-261"></a>
 
-### 例 261：智能视频生成器暗黑界面设计
+### 例 261：智慧影片生成器暗黑介面設計
 
-![智能视频生成器暗黑界面设计](../data/images/case261.jpg)
+![智慧影片生成器暗黑介面設計](../data/images/case261.jpg)
 
-**来源：** [@austinit](https://x.com/austinit/status/2044968740782272596)
+**來源：** [@austinit](https://x.com/austinit/status/2044968740782272596)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-渲染一个专业的IOS APP首页UI图，该主题为AI Video Generator,英文界面。专业级设计，专业风格，暗黑色主题。
+渲染一個專業的IOS APP首頁UI圖，該主題為AI Video Generator,英文介面。專業級設計，專業風格，暗黑色主題。
 
 [English]
 Render a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.
@@ -2962,17 +2962,17 @@ Render a professional iOS APP homepage UI image, the theme is AI Video Generator
 
 <a name="case-262"></a>
 
-### 例 262：苹果园远观库克发布新机
+### 例 262：蘋果園遠觀庫克發布新機
 
-![苹果园远观库克发布新机](../data/images/case262.jpg)
+![蘋果園遠觀庫克發布新機](../data/images/case262.jpg)
 
-**来源：** [@austinit](https://x.com/patrickassale/status/2044687244368441742)
+**來源：** [@austinit](https://x.com/patrickassale/status/2044687244368441742)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄
+在Apple Park iPhone 20主題演講期間拍攝的業餘iPhone照片，蒂姆·庫克在舞臺上演講。從遠處的觀眾人群中拍攝
 
 [English]
 Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
@@ -2982,29 +2982,29 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 <a name="case-263"></a>
 
-### 例 263：唯美二次元角色介绍网页
+### 例 263：唯美二次元角色介紹網頁
 
-![唯美二次元角色介绍网页](../data/images/case263.jpg)
+![唯美二次元角色介紹網頁](../data/images/case263.jpg)
 
-**来源：** [@09lyco](https://x.com/09lyco/status/2045281845391323175)
+**來源：** [@09lyco](https://x.com/09lyco/status/2045281845391323175)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 埋まってないところはパートナーさんかご自身で埋めてあげてください
  #観測塔朝お題  #観測塔おはようお題
 
-最新モデルの画像生成ツールを使用して、
+最新モデルの畫像生成ツールを使用して、
 このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）
 ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。
 
 「ここに自己紹介」
 
-名前:（ここに名前） 
-イメージカラー:（ここに色） 
-身長:（ここに身長）cm 
-体重:（ここに体重）kg
+名前:（ここに名前）
+イメージカラー:（ここに色）
+身長:（ここに身長）cm
+體重:（ここに體重）kg
 キャッチコピー:"「ここにセリフ」"
 
 [English]
@@ -3017,9 +3017,9 @@ A high-quality item imagining a gal game character introduction page. Facial var
 
 "Self-introduction here"
 
-Name: (Name here) 
-Image color: (Color here) 
-Height: (Height here)cm 
+Name: (Name here)
+Image color: (Color here)
+Height: (Height here)cm
 Weight: (Weight here)kg
 Catchphrase: "Dialogue here"
 ```
@@ -3028,17 +3028,17 @@ Catchphrase: "Dialogue here"
 
 <a name="case-264"></a>
 
-### 例 264：美妆产品广告图
+### 例 264：美妝產品廣告圖
 
-![Z世代Y2K平价美妆广告图](../data/images/case264.jpg)
+![Z世代Y2K平價美妝廣告圖](../data/images/case264.jpg)
 
-**来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
+**來源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-为Z世代设计的可爱Y2K风格的平价化妆品广告图像。使用鲜艳的配色，包括荧光色。纵横比为3:4。
+為Z世代設計的可愛Y2K風格的平價化妝品廣告影象。使用鮮豔的配色，包括熒光色。縱橫比為3:4。
 
 [English]
 Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
@@ -3048,17 +3048,17 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
 
 <a name="case-265"></a>
 
-### 例 265：日式潮流广告四联画
+### 例 265：日式潮流廣告四聯畫
 
-![日式潮流广告四联画](../data/images/case265.jpg)
+![日式潮流廣告四聯畫](../data/images/case265.jpg)
 
-**来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
+**來源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成四张虚构的日式广告图片，涵盖不同类型并排排列。采用专业设计师创作的潮流设计。宽高比为1:1
+生成四張虛構的日式廣告圖片，涵蓋不同型別並排排列。採用專業設計師創作的潮流設計。寬高比為1:1
 
 [English]
 Generate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1
@@ -3068,17 +3068,17 @@ Generate four fictional Japanese advertisement images, covering different types 
 
 <a name="case-266"></a>
 
-### 例 266：桌面上的黑色圆珠笔手写笔记
+### 例 266：桌面上的黑色圓珠筆手寫筆記
 
-![桌面上的黑色圆珠笔手写笔记](../data/images/case266.jpg)
+![桌面上的黑色圓珠筆手寫筆記](../data/images/case266.jpg)
 
-**来源：** [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
+**來源：** [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张平放着的打开的笔记本的业余照片，里面填满了用黑色圆珠笔写的手写笔记。笔迹随意且略显凌乱，就像个人笔记，自然的瑕疵，划掉的单词，划线的标题。从略高角度拍摄，来自窗户的自然日光，未使用闪光灯。随意的桌面设置，用 iPhone 拍摄。
+一張平放著的開啟的筆記本的業餘照片，裡面填滿了用黑色圓珠筆寫的手寫筆記。筆跡隨意且略顯凌亂，就像個人筆記，自然的瑕疵，劃掉的單詞，劃線的標題。從略高角度拍攝，來自窗戶的自然日光，未使用閃光燈。隨意的桌面設定，用 iPhone 拍攝。
 
 [English]
 Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
@@ -3088,17 +3088,17 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 <a name="case-267"></a>
 
-### 例 267：宋朝文人的赛博朋友圈
+### 例 267：宋朝文人的賽博朋友圈
 
-![宋朝文人的赛博朋友圈](../data/images/case267.jpg)
+![宋朝文人的賽博朋友圈](../data/images/case267.jpg)
 
-**来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
+**來源：** [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-"宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作
+"宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合介面設計風格，畫面模擬手機社群媒體介面，但內容全部是宋朝場景頭像是宋代文人畫像，使用者名稱"蘇東坡SuShi_Official"，發布內容"剛到黃州，被貶了但心情還行。今天自己做了東坡肉，味道絕了，附菜譜："，配圖為工筆畫風格的東坡肉特寫，按讚列表"黃庭堅、秦觀、佛印等126人"，留言區"王安石：呵呵""司馬光：還是那個味道"，介面元素如按讚圖示用宋代花紋替代，狀態列顯示"大宋移動 5G"和"元豐三年"，配色為手機深色模式搭配宋代雅緻色調，歷史與社群媒體的趣味碰撞傑作
 
 [English]
 "Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
@@ -3108,13 +3108,13 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 <a name="case-268"></a>
 
-### 例 268：威化岛回军前夕李成桂动态
+### 例 268：威化島回軍前夕李成桂動態
 
-![威化岛回军前夕李成桂动态](../data/images/case268.jpg)
+![威化島回軍前夕李成桂動態](../data/images/case268.jpg)
 
-**来源：** [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
+**來源：** [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
@@ -3128,17 +3128,17 @@ Please create an X page of King Taejo Yi Seong-gye (right before carrying out th
 
 <a name="case-269"></a>
 
-### 例 269：拒绝盲目催婚的暖心视频号截图
+### 例 269：拒絕盲目催婚的暖心影片號截圖
 
-![拒绝盲目催婚的暖心视频号截图](../data/images/case269.jpg)
+![拒絕盲目催婚的暖心影片號截圖](../data/images/case269.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸
+生成影片號內容截圖，主題：中老年不要盲目催婚，iPhone尺寸
 
 [English]
 Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size
@@ -3148,31 +3148,31 @@ Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly
 
 <a name="case-270"></a>
 
-### 例 270：信息图可视化设计
+### 例 270：資訊圖表視覺化設計
 
-![官方角色设定资料图鉴](../data/images/case270.jpg)
+![官方角色設定資料圖鑑](../data/images/case270.jpg)
 
-**来源：** \[OpenNana]\(]\(<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)
+**來源：** \[OpenNana]\(]\(<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 
-・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 
-・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる 
-・全体は整理されたレイアウト
-（白背景、図解風） 
+このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。
+・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加
+・衣裝や裝備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる
+・全體は整理されたレイアウト
+（白背景、図解風）
 ・アスペクト比16：9 　←
 
 高解像度、プロのコンセプトアートスタイル
 
 [English]
-Based on this character and background, please create a character sheet like an official setting material. 
-・Include front, side, and back 3-view drawings ・Add character expression variations 
-・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view 
+Based on this character and background, please create a character sheet like an official setting material.
+・Include front, side, and back 3-view drawings ・Add character expression variations
+・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view
 ・Overall organized layout
-(White background, diagrammatic style) 
+(White background, diagrammatic style)
 ・Aspect ratio 16:9 　←
 High resolution, professional concept art style
 ```
@@ -3181,13 +3181,13 @@ High resolution, professional concept art style
 
 <a name="case-271"></a>
 
-### 例 271：人物角色设定图
+### 例 271：人物角色設定圖
 
-![GPT图像生成惊艳角色立绘](../data/images/case271.jpg)
+![GPT影象生成驚豔角色立繪](../data/images/case271.jpg)
 
-**来源：** [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
+**來源：** [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
@@ -3201,13 +3201,13 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 
 <a name="case-272"></a>
 
-### 例 272：日式温泉旅馆人像
+### 例 272：日式溫泉旅館人像
 
-![日式温泉旅馆人像](../data/images/case272.jpg)
+![日式溫泉旅館人像](../data/images/case272.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
 
-**提示词：**
+**提示詞：**
 
 ```text
 35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
@@ -3217,17 +3217,17 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 
 <a name="case-273"></a>
 
-### 例 273：橙红渐变中的孤独剪影
+### 例 273：橙紅漸變中的孤獨剪影
 
-![橙红渐变中的孤独剪影](../data/images/case273.jpg)
+![橙紅漸變中的孤獨剪影](../data/images/case273.jpg)
 
-**来源：** [@iam\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
+**來源：** [@iam\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张电影级极简肖像，一个孤独的男人站在强烈的橙色到红色渐变环境中，强烈的剪影光，深邃的阴影对比，反光的光滑地面，对称构图，极简
+生成一張電影級極簡肖像，一個孤獨的男人站在強烈的橙色到紅色漸變環境中，強烈的剪影光，深邃的陰影對比，反光的光滑地面，對稱構圖，極簡
 
 [English]
 Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
@@ -3237,17 +3237,17 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 <a name="case-274"></a>
 
-### 例 274：成都吃货暴走手绘美食地图
+### 例 274：成都吃貨暴走手繪美食地圖
 
-![成都吃货暴走手绘美食地图](../data/images/case274.jpg)
+![成都吃貨暴走手繪美食地圖](../data/images/case274.jpg)
 
-**来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
+**來源：** [@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。
+一張手繪風格的城市美食地圖，以成都為主題。畫面以鳥瞰視角的手繪簡化城市地圖為底，標註主要道路和地標但不追求精確比例而是追求可愛的手繪感。地圖上分佈著 12 個美食地點的精緻手繪小插畫：春熙路的串串香（一把竹籤插著各種食材冒著熱氣）、寬窄巷子的三大炮（三個糯米糰子飛向銅盤）、建設路的蛋烘糕（金黃酥脆正在翻面）、玉林路的火鍋（九宮格鍋翻滾冒泡）等，每個插畫約佔地圖的 5% 面積，旁邊用手寫體標註店名和一句推薦語"凌晨兩點還在排隊的那家"。地圖邊緣用手繪藤蔓和辣椒裝飾形成邊框。右下角有一個手繪指南針和圖例說明。左上角標題"成都·吃貨暴走地圖"使用胖圓的手繪美術字配辣椒裝飾。整體畫風為水彩+彩鉛混合的手繪質感，顏色以暖色系（辣椒紅、薑黃、翠綠）為主，圖片比例 1:1。
 
 [English]
 A hand-drawn style city food map themed around Chengdu. The background is a bird's-eye view hand-drawn simplified city map, marking main roads and landmarks, not pursuing precise proportions but pursuing a cute hand-drawn feel. Distributed on the map are exquisite hand-drawn small illustrations of 12 food locations: Chuandu Chuanxiang skewers at Chunxi Road (a bunch of bamboo skewers with various ingredients emitting steam), Sandapao at Kuanzhai Alley (three glutinous rice balls flying towards a copper plate), Danhonggao at Jianshe Road (golden and crispy, being flipped), hotpot at Yulin Road (nine-grid pot rolling and bubbling), etc. Each illustration accounts for about 5% of the map area, with handwritten store names and a recommendation phrase "the one with a queue even at 2 AM" next to it. The edge of the map is decorated with hand-drawn vines and chili peppers to form a border. There is a hand-drawn compass and legend description in the bottom right corner. The title "Chengdu · Foodie Walking Map" in the top left corner uses chubby round hand-drawn artistic fonts decorated with chili peppers. The overall art style is a mixed hand-drawn texture of watercolor and colored pencils, with colors mainly in warm tones (chili red, ginger yellow, emerald green), image ratio 1:1.
@@ -3257,32 +3257,32 @@ A hand-drawn style city food map themed around Chengdu. The background is a bird
 
 <a name="case-275"></a>
 
-### 例 275：一张采用分层蒙太奇构图的电影海报
+### 例 275：一張採用分層蒙太奇構圖的電影海報
 
-![一张采用分层蒙太奇构图的电影海报](../data/images/case275.jpg)
+![一張採用分層蒙太奇構圖的電影海報](../data/images/case275.jpg)
 
-**来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
+**來源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-“一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面站立、女孩拥抱柴犬的特写。画面叠加指定文字：左上角为深青绿色大号衬线字体标题《风间静语》，下方副标题为「—— 致那日的你 ——」；标题下方为小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 画面右侧中部为深色衬线字体文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角为大号白色文字：“10 月 31 日 周五 影院上映”。右下角为小号白色无衬线字体演职人员表：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
-分段提示词：
-图层索引：0
-片段：“背景为日落时分的海滨小镇，平静海面倒映耀眼日光眩光，薄雾天空中有远处飞鸟，沿海公路旁有电线杆剪影。”
-图层索引：1
-片段：“左侧中景处，身着深灰色外套、留深色卷发的中年男子站在混凝土海堤边，神情忧郁低头，被傍晚阳光逆光照射。”
-图层索引：2
-片段：“右侧前景主体为大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白条纹的深色水手校服，湿润黑发贴脸，柔和漫射光下一滴泪珠滑落脸颊。”
-图层索引：3
-片段：“画面下方中央前景处，一只柴犬抬头望向右侧，红棕色毛发被温暖轮廓光点亮。”
-图层索引：4
-片段：“画面最底端为横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向水面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面、女孩拥抱柴犬特写。”
-图层索引：[5,6,7,8]
-片段：“画面叠加指定文字：左上角为深青绿色大号衬线字体《风间静语》，下方副标题「—— 致那日的你 ——」；其下小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 右侧中部深色衬线文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角大号白色文字：“10 月 31 日 周五 影院上映”。右下角小号白色无衬线字体演职信息：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。
-负面提示词：
-“平光照明，无质感表面，对称构图，底部留白空荡，文字缺失，翻译文字，改写文字，3D 渲染，卡通风格，高对比生硬阴影，干涩头发，明亮欢快表情”
+“一張採用分層蒙太奇構圖的電影海報。背景為日落時分的海濱小鎮，平靜的海面倒映著耀眼的日光眩光，薄霧籠罩的天空中有遠處飛鳥，沿海公路旁立著電線杆剪影。左側中景處，一位身著深灰色外套、留著深色捲髮的中年男子站在混凝土海堤邊，神情憂鬱地低頭凝視，被傍晚的陽光逆光勾勒輪廓。右側前景主體為一張大幅特寫年輕女子側臉肖像，她望向右側，身穿帶白色條紋的深色水手校服，溼潤的黑髮貼在臉頰，柔和漫射光線下，一滴淚珠從她臉頰滑落。畫面下方中央前景處，一隻柴犬抬頭朝右側望去，紅棕色毛髮被溫暖的輪廓光點亮。畫面最底端為一條橫向電影膠片，內含五幅獨立矩形場景縮圖：女孩與柴犬在海灘、女孩騎車望向海面、女孩與男子坐在室內桌前、男子與女孩在海灘面對面站立、女孩擁抱柴犬的特寫。畫面疊加指定文字：左上角為深青綠色大號襯線字型標題《風間靜語》，下方副標題為「—— 致那日的你 ——」；標題下方為小號深色襯線正文：“逝去之物，不復歸來。然而，只要心靈稍稍相連，我們便能再度直面明日。” 畫面右側中部為深色襯線字型文字：“曾有一段時光，是你教會我如何生活。我永不會忘。” 左下角為大號白色文字：“10 月 31 日 週五 影院上映”。右下角為小號白色無襯線字型演職人員表：“主演：福波真子 / 桐嶋秀作 原作與劇本：柴野麻呂 導演：今倉七海 主題曲：SyVa《看得見海的地方》（Dogstar★唱片） 製作：《夕凪之尾》影視夥伴 製作公司：DABUSHIBANU-NU 發行：GOODSHIBALERS ©2026《夕凪之尾》影視夥伴”。
+分段提示詞：
+圖層索引：0
+片段：“背景為日落時分的海濱小鎮，平靜海面倒映耀眼日光眩光，薄霧天空中有遠處飛鳥，沿海公路旁有電線杆剪影。”
+圖層索引：1
+片段：“左側中景處，身著深灰色外套、留深色捲髮的中年男子站在混凝土海堤邊，神情憂鬱低頭，被傍晚陽光逆光照射。”
+圖層索引：2
+片段：“右側前景主體為大幅特寫年輕女子側臉肖像，她望向右側，身穿帶白條紋的深色水手校服，溼潤黑髮貼臉，柔和漫射光下一滴淚珠滑落臉頰。”
+圖層索引：3
+片段：“畫面下方中央前景處，一隻柴犬抬頭望向右側，紅棕色毛髮被溫暖輪廓光點亮。”
+圖層索引：4
+片段：“畫面最底端為橫向電影膠片，內含五幅獨立矩形場景縮圖：女孩與柴犬在海灘、女孩騎車望向水面、女孩與男子坐在室內桌前、男子與女孩在海灘面對面、女孩擁抱柴犬特寫。”
+圖層索引：[5,6,7,8]
+片段：“畫面疊加指定文字：左上角為深青綠色大號襯線字型《風間靜語》，下方副標題「—— 致那日的你 ——」；其下小號深色襯線正文：“逝去之物，不復歸來。然而，只要心靈稍稍相連，我們便能再度直面明日。” 右側中部深色襯線文字：“曾有一段時光，是你教會我如何生活。我永不會忘。” 左下角大號白色文字：“10 月 31 日 週五 影院上映”。右下角小號白色無襯線字型演職資訊：“主演：福波真子 / 桐嶋秀作 原作與劇本：柴野麻呂 導演：今倉七海 主題曲：SyVa《看得見海的地方》（Dogstar★唱片） 製作：《夕凪之尾》影視夥伴 製作公司：DABUSHIBANU-NU 發行：GOODSHIBALERS ©2026《夕凪之尾》影視夥伴”。
+負面提示詞：
+“平光照明，無質感表面，對稱構圖，底部留白空蕩，文字缺失，翻譯文字，改寫文字，3D 渲染，卡通風格，高對比生硬陰影，乾澀頭髮，明亮歡快表情”
 
 [English]
 A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'."
@@ -3307,23 +3307,23 @@ negative: "flat lighting, untextured surfaces, symmetrical composition, empty bo
 
 <a name="case-276"></a>
 
-### 例 276：红绸幻化壮阔国潮羊城
+### 例 276：紅綢幻化壯闊國潮羊城
 
-![红绸幻化壮阔国潮羊城](../data/images/case276.jpg)
+![紅綢幻化壯闊國潮羊城](../data/images/case276.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
-双重曝光，构图延续了S型的流动感；
-在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
-在这条"河流"中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
-广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
-云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"千年商都，魅力广州"。
-文字排版优美，大方，字迹清晰完整，尺寸9:16。
+一張充滿新春喜慶氛圍但不失高雅格調的 2026 城市宣傳海報。
+雙重曝光，構圖延續了S型的流動感；
+在純白的紋理背景右下角，一個身穿中國傳統服飾的微縮人物正在揮舞著一條長長的紅色絲綢舞帶，這條紅綢在空中舞動，不僅展現出絲綢的柔順質感，更在向左上方飄動的過程中，奇幻地變形成了一條壯麗的山脈河流。
+在這條"河流"中，疊加了一個有山有海河的廣州城市手繪圖，國潮，景色盡在眼底，壯闊雄偉，令人震撼。
+廣州的地標建築(廣州塔，珠江新城建築群，珠江, 廣州城裡古建築，遊輪，白雲山）。
+雲霧環繞，仙氣縹緲，色彩豐富，結構複雜，細節豐富，但因為大面積的留白，畫面依然顯得清新脫俗，左下角排版著"SPRING 2026"和豎排的宣傳語，整體寓意"千年商都，魅力廣州"。
+文字排版優美，大方，字跡清晰完整，尺寸9:16。
 
 [English]
 A 2026 city promotional poster full of a festive Chinese New Year atmosphere yet maintaining an elegant style.
@@ -3339,17 +3339,17 @@ Beautiful and generous typography, clear and complete handwriting, aspect ratio 
 
 <a name="case-277"></a>
 
-### 例 277：奢华魅力黑人女性海滨摄影
+### 例 277：奢華魅力黑人女性海濱攝影
 
-![奢华魅力黑人女性海滨摄影](../data/images/case277.jpg)
+![奢華魅力黑人女性海濱攝影](../data/images/case277.jpg)
 
-**来源：** [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
+**來源：** [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-奢华魅力美容肖像：, 美丽的黑人女性, 青春活力, 奶油香草色, 丝绸柔顺发, 红木色, 微妙的自信, 有质感的面料, 蓝宝石色, 极简珠宝, 海滨微风, 镜头光晕效果, 怀旧的, 电影镜头, 对称构图, 柔焦, 高级时尚摄影, 单色的, 水光质感, 神秘张力, 分层元素
+奢華魅力美容肖像：, 美麗的黑人女性, 青春活力, 奶油香草色, 絲綢柔順發, 紅木色, 微妙的自信, 有質感的面料, 藍寶石色, 極簡珠寶, 海濱微風, 鏡頭光暈效果, 懷舊的, 電影鏡頭, 對稱構圖, 柔焦, 高階時尚攝影, 單色的, 水光質感, 神秘張力, 分層元素
 
 [English]
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
@@ -3359,17 +3359,17 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 <a name="case-278"></a>
 
-### 例 278：阿马尔菲海岸复古旅行海报
+### 例 278：阿馬爾菲海岸復古旅行海報
 
-![阿马尔菲海岸复古旅行海报](../data/images/case278.jpg)
+![阿馬爾菲海岸復古旅行海報](../data/images/case278.jpg)
 
-**来源：** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
+**來源：** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。
+現代鉛筆插畫，義大利阿馬爾菲海岸復古旅行海報插畫，全景海岸懸崖公路場景，經典1960年代白色汽車沿著彎曲的海濱公路行駛，帶有小帆船的深藍色地中海，色彩繽紛的粉彩山腰村莊，帶有柔軟雲朵的明亮藍天，帶有鮮豔黃色檸檬的檸檬樹枝框定前景，溫暖的夏日陽光，大膽鮮豔的色彩，復古1950年代旅行海報風格，電影級構圖，高細節，絲網印刷質感，圖形插畫。手繪風格，帶有鬆散筆觸和清晰輪廓的插畫。高對比度調色盤，保持背景與元素之間的色彩和諧。現代與裝飾性美學。
 
 [English]
 Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
@@ -3379,25 +3379,25 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 <a name="case-279"></a>
 
-### 例 279：裂痕里的水墨东方山水画卷
+### 例 279：裂痕裡的水墨東方山水畫卷
 
-![裂痕里的水墨东方山水画卷](../data/images/case279.jpg)
+![裂痕裡的水墨東方山水畫卷](../data/images/case279.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045368305079447853)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045368305079447853)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。
-一条S形蜿蜒的裂痕状边缘将画面分割，仿佛撕开了一层纸面，露出内部色彩斑斓的东方山水景象。
-裂口内，一条蜿蜒的河流自上而下贯穿整个构图，河水以深浅不一的蓝色渲染，层次分明，仿佛流动的丝带。
-河岸两侧点缀着青翠的山丘与梯田，色彩柔和，绿红交织，展现出田园的宁静之美。
-沿河而建的古风建筑错落有致，飞檐翘角，白墙黛瓦，在光影的映衬下更显古朴典雅。
-岸边树木葱茏，枝叶轻盈，一艘小船静泊于水中央，增添了几分悠然意境。
-整体构图呈S形曲线，富有韵律感，仿佛自然与人文的和谐共生。
-画作边缘采用撕纸效果，营造出立体浮雕般的视觉体验。
-下方题字"东方美学"以黑色楷体书写，日期"2026/04/18"与红色印章相呼应，底部"CHINA"字样庄重醒目，署名"@LIYUE"低调收尾，整体氛围静谧深远，充满诗意与哲思。
+極簡新中式美學風格，畫面以淡雅的灰白色為底，呈現出一種紙藝剪影般的立體感。
+一條S形蜿蜒的裂痕狀邊緣將畫面分割，彷彿撕開了一層紙面，露出內部色彩斑斕的東方山水景象。
+裂口內，一條蜿蜒的河流自上而下貫穿整個構圖，河水以深淺不一的藍色渲染，層次分明，彷彿流動的絲帶。
+河岸兩側點綴著青翠的山丘與梯田，色彩柔和，綠紅交織，展現出田園的寧靜之美。
+沿河而建的古風建築錯落有致，飛簷翹角，白牆黛瓦，在光影的映襯下更顯古樸典雅。
+岸邊樹木蔥蘢，枝葉輕盈，一艘小船靜泊於水中央，增添了幾分悠然意境。
+整體構圖呈S形曲線，富有韻律感，彷彿自然與人文的和諧共生。
+畫作邊緣採用撕紙效果，營造出立體浮雕般的視覺體驗。
+下方題字"東方美學"以黑色楷體書寫，日期"2026/04/18"與紅色印章相呼應，底部"CHINA"字樣莊重醒目，署名"@LIYUE"低調收尾，整體氛圍靜謐深遠，充滿詩意與哲思。
 
 [English]
 Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-white as the background, presenting a three-dimensional sense like paper art silhouettes. A winding S-shaped crack-like edge divides the picture, as if tearing open a layer of paper, revealing the colorful oriental landscape scene inside. Inside the crack, a winding river runs through the entire composition from top to bottom, the river water is rendered in different shades of blue, with clear layers, like a flowing ribbon. Both sides of the riverbank are dotted with verdant hills and terraced fields, the colors are soft, green and red interwoven, showing the tranquil beauty of the pastoral. Ancient-style buildings built along the river are well-proportioned, with flying eaves and upturned corners, white walls and black tiles, appearing more quaint and elegant against the light and shadow. The trees on the bank are lush, the branches and leaves are light and graceful, a small boat is quietly moored in the middle of the water, adding a bit of leisurely artistic conception. The overall composition presents an S-shaped curve, full of rhythm, as if the harmonious coexistence of nature and humanity. The edges of the painting adopt a torn paper effect, creating a visual experience like a three-dimensional relief. The inscription "东方美学" at the bottom is written in black regular script, the date "2026/04/18" echoes with the red seal, the word "CHINA" at the bottom is solemn and eye-catching, and the signature "@LIYUE" ends in a low-key way. The overall atmosphere is quiet and profound, full of poetry and philosophical thinking.
@@ -3407,17 +3407,17 @@ Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-whit
 
 <a name="case-280"></a>
 
-### 例 280：封面排版设计图
+### 例 280：封面排版設計圖
 
-![涂鸦速写风AI建造者大师](../data/images/case280.jpg)
+![塗鴉速寫風AI建造者大師](../data/images/case280.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
+**來源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名"BlanPlan"，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
+以塗鴉速寫風表現【一個厲害的AI builder】，整體呈現快速勾勒、自由變形、即興手繪與草稿式的視覺效果。線條隨手、誇張、可粗細不一，略顯凌亂但具有節奏和表現力，強調概括、誇張、趣味和隨性，而不是嚴謹寫實或精細刻畫。  顏色採用粗糙、幹刷感明顯的塊面表現，可保留不均勻的塗抹痕跡、刷痕、飛白與覆蓋感，色彩根據【主題/主體】自動適配，但整體保持塗鴉式、速寫式、概括式的表達。不要透明水彩暈染效果，不要細膩水彩過渡，不要紙紋理，不要柔和霧化，不要夢幻質感。  背景以留白為主，保持簡潔、輕鬆、未完成感和設計感，可加入少量輔助性符號、箭頭、記號、圈畫、重複線、隨手寫的文字或其他塗鴉元素，以增強速寫本或隨筆式視覺語言，但不可過於擁擠，不可破壞主體和留白氣質。  畫面內容不需要預先寫清楚，由【一個厲害的AI builder】自動推演並生成最適合的主體形象、動作、相關元素、符號或簡化場景，整體保持統一的塗鴉速寫風和誇張概括的表現方式，避免複雜寫實背景和過度鋪陳。 畫面中需自然加入專屬簽名"BlanPlan"，作為畫面的一部分，位置低調但清晰，可放在左下角、右下角或標題附近，風格需與整體版式統一，像作品署名或設計落款；簽名字型精緻、克制、高階，不可過大，不可破壞主體構圖，不可顯得突兀或廉價。
 
 [English]
 Express [an awesome AI builder] in a graffiti sketch style, overall presenting a visual effect of quick sketching, free deformation, impromptu hand-drawing and draft-like. The lines are casual, exaggerated, and can vary in thickness, slightly messy but with rhythm and expressiveness, emphasizing summarization, exaggeration, fun and casualness, rather than rigorous realism or fine depiction. The colors use rough blocks with obvious dry brush feel, retaining uneven smearing traces, brush strokes, flying white and covering feel, the colors automatically adapt according to [theme/subject], but overall maintain a graffiti-style, sketch-style, and summarized expression. Do not use transparent watercolor smudging effects, do not use delicate watercolor transitions, do not use paper texture, do not use soft atomization, do not use dreamy texture. The background is mainly blank, keeping it simple, relaxed, unfinished and designed, can add a small amount of auxiliary symbols, arrows, marks, circled drawings, repeated lines, casually written text or other graffiti elements, to enhance the sketchbook or essay-style visual language, but it must not be too crowded, and must not destroy the subject and blank temperament. The picture content does not need to be written clearly in advance; [an awesome AI builder] automatically deduces and generates the most suitable subject image, movements, related elements, symbols or simplified scenes, overall maintaining a unified graffiti sketch style and exaggerated summarized expression method, avoiding complex realistic backgrounds and excessive padding. The exclusive signature "BlanPlan" needs to be naturally added into the picture as a part of the picture, the position is low-key but clear, can be placed in the bottom left corner, bottom right corner or near the title, the style needs to be unified with the overall layout, like an artwork signature or design sign-off; the signature font is exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, must not appear abrupt or cheap.
@@ -3427,25 +3427,25 @@ Express [an awesome AI builder] in a graffiti sketch style, overall presenting a
 
 <a name="case-281"></a>
 
-### 例 281：赛博朋克科幻曼荼罗
+### 例 281：賽博朋克科幻曼荼羅
 
-![赛博朋克科幻曼荼罗](../data/images/case281.jpg)
+![賽博朋克科幻曼荼羅](../data/images/case281.jpg)
 
-**来源：** [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
+**來源：** [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-でChatGPTで画像を作成してもらって、今日また作成してもらったらGPT image 2かもしれず、出来が変わったように見えるのでメモ
+でChatGPTで畫像を作成してもらって、今日また作成してもらったらGPT image 2かもしれず、出來が変わったように見えるのでメモ
 
-左の水色と黄色のが先週
+左の水色と黃色のが先週
 右の紫のが今日
 
 右のは透明感とか解像度、緻密さが違うような気がする…
 
 プロンプト
-曼荼羅の近未来SF版を描いて
+曼荼羅の近未來SF版を描いて
 
 [English]
 I had ChatGPT create images, and when I had it create them again today, it might be GPT image 2, and it seems like the quality has changed, so I'm making a note of it
@@ -3463,17 +3463,17 @@ Draw a near-future sci-fi version of a mandala
 
 <a name="case-282"></a>
 
-### 例 282：温柔治愈系二次元手机截图
+### 例 282：溫柔治癒系二次元手機截圖
 
-![温柔治愈系二次元手机截图](../data/images/case282.jpg)
+![溫柔治癒系二次元手機截圖](../data/images/case282.jpg)
 
-**来源：** [@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
+**來源：** [@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。
+生成一張豎版手機截圖風格的圖片，整體比例接近 9:16。畫面中心偏上是一位真人 coser，扮演（角色名稱）的二次元角色。人物為寫實風格，但五官略帶動漫感，皮膚細膩，眼睛稍大，表情溫柔地看向鏡頭，坐在室內的休閒場景中，例如咖啡廳或酒吧吧檯前，背景有符合場景的道具。畫面最上方加入手機系統狀態列 UI，包括時間、電量、訊號、網路等圖示，讓整張圖看起來像手機截圖。畫面底部疊加一塊寬大的半透明 galgame 風格對話方塊，對話方塊左側放一個與畫面人物對應的動漫或 Q 版頭像；對話方塊右側排版文字：第一行用較大字型顯示與前面相同的角色名字，下面一到兩行顯示一段適合這個角色人設的、溫柔治癒風格的簡體中文臺詞，由你自動創作。再在對話方塊下方加一條操作欄，仿照 galgame UI。整體風格高畫質、細節豐富、光線柔和、二次元與真人寫真自然融合。
 
 [English]
 Generate a portrait mobile phone screenshot style image, with an overall aspect ratio close to 9:16. In the upper center of the frame is a real-life coser, playing a 2D anime character named (Character Name). The character is in a realistic style, but with facial features slightly showing an anime feel, delicate skin, slightly larger eyes, a gentle expression looking at the camera, sitting in an indoor casual scene, such as in front of a cafe or bar counter, with background props fitting the scene. At the very top of the image, add a mobile phone system status bar UI, including icons for time, battery, signal, and network, to make the whole image look like a mobile phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame style dialog box, place an anime or Q-version avatar corresponding to the character in the image on the left side of the dialog box; on the right side of the dialog box, typeset text: the first line displays the same character name as before in a larger font, the following one to two lines display a piece of Simplified Chinese dialogue suitable for this character's personality, in a gentle and healing style, automatically created by you. Then add an operation bar below the dialog box, imitating the galgame UI. The overall style is high-definition, rich in details, with soft lighting, and a natural fusion of 2D anime and real-life photography.
@@ -3483,17 +3483,17 @@ Generate a portrait mobile phone screenshot style image, with an overall aspect 
 
 <a name="case-283"></a>
 
-### 例 283：小恶魔莉莉香超任游戏海报
+### 例 283：小惡魔莉莉香超任遊戲海報
 
-![小恶魔莉莉香超任游戏海报](../data/images/case283.jpg)
+![小惡魔莉莉香超任遊戲海報](../data/images/case283.jpg)
 
-**来源：** [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
+**來源：** [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで
+が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　畫像數枚だけで
 このクオリティ　細かい説明呪文なし　すごいぜ！
 
 [English]
@@ -3505,17 +3505,17 @@ this quality without any detailed explanation spells is amazing!
 
 <a name="case-284"></a>
 
-### 例 284：温馨卧室里的少女自拍
+### 例 284：溫馨臥室裡的少女自拍
 
-![温馨卧室里的少女自拍](../data/images/case284.jpg)
+![溫馨臥室裡的少女自拍](../data/images/case284.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
+**來源：** [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一个惊艳的18岁中国女孩，拥有年轻纯真的脸庞和逼真的皮肤纹理，坐在她卧室里一张舒适且略显凌乱的床上。她正用智能手机拍镜子自拍，捕捉一个自然且亲密的瞬间。穿着随意的灰色居家服和整洁的白色船袜。柔和的自然光（黄金时刻）从侧面窗户照进来，营造出一种温暖、富有情绪感和电影般的氛围。35毫米镜头，对镜子中的主体保持锐利对焦，带有美丽模糊背景（散景）的景深。照片写实，8K，高分辨率，影棚级质量，杰作。反向提示词：没有多余的肢体，没有变形的手，没有模糊，没有噪点，没有水印，没有文字，没有卡通/动漫风格。长宽比：3:4。
+一個驚豔的18歲中國女孩，擁有年輕純真的臉龐和逼真的皮膚紋理，坐在她臥室裡一張舒適且略顯凌亂的床上。她正用智慧手機拍鏡子自拍，捕捉一個自然且親密的瞬間。穿著隨意的灰色居家服和整潔的白色船襪。柔和的自然光（黃金時刻）從側面窗戶照進來，營造出一種溫暖、富有情緒感和電影般的氛圍。35毫米鏡頭，對鏡子中的主體保持銳利對焦，帶有美麗模糊背景（散景）的景深。照片寫實，8K，高解析度，影棚級品質，傑作。反向提示詞：沒有多餘的肢體，沒有變形的手，沒有模糊，沒有噪點，沒有水印，沒有文字，沒有卡通/動漫風格。長寬比：3:4。
 
 [English]
 A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
@@ -3526,17 +3526,17 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 <a name="case-285"></a>
 
-### 例 285：真实动漫画面快照
+### 例 285：真實動漫畫面快照
 
-![真实动漫画面快照](../data/images/case285.jpg)
+![真實動漫畫面快照](../data/images/case285.jpg)
 
-**来源：** [@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
+**來源：** [@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-向我展示这张附带的图像作为一部真实动漫的快照
+向我展示這張附帶的影象作為一部真實動漫的快照
 
 [English]
 Show me the attached image as a snapshot from an actual anime
@@ -3546,21 +3546,21 @@ Show me the attached image as a snapshot from an actual anime
 
 <a name="case-286"></a>
 
-### 例 286：珠江新城剪纸璀璨夜景
+### 例 286：珠江新城剪紙璀璨夜景
 
-![珠江新城剪纸璀璨夜景](../data/images/case286.jpg)
+![珠江新城剪紙璀璨夜景](../data/images/case286.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。
-所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。
-画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。
-背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。
-作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。
+以珠江新城現代都市景觀為靈感的剪紙藝術，透過精巧的鏤空手法在一整幅紙上，立體刻畫廣州塔、東西雙塔等地標建築與繁華城景。
+所有建築與元素均以流暢的線條與結構相連，無孤立部分，構成一幅完整的都市畫卷。
+畫面採用金屬箔或光澤紙材質，表面帶有細膩的明暗光澤，在光照下呈現柔和的高光與陰影，彷彿被城市燈光輕輕照亮。
+背景以虛化的珠江新城天際線為襯，點綴隱約可見的花城廣場與樹木輪廓，整體透出現代浪漫的氛圍。
+作品中巧妙融入輕盈的蒲公英絨毛或星光般的動態光點，象徵夢想與活力在這座新城中飄散飛揚。整體呈現8K超高畫質視覺，細節豐富，真實而富有藝術感染力。
 
 [English]
 Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, through exquisite hollow-carving techniques on a single sheet of paper, three-dimensionally depicting landmark buildings such as Canton Tower, East and West Twin Towers, and the bustling cityscape. All buildings and elements are connected by smooth lines and structures, with no isolated parts, forming a complete urban scroll. The picture uses metallic foil or glossy paper material, with delicate light and dark gloss on the surface, presenting soft highlights and shadows under illumination, as if gently illuminated by city lights. The background is set against a blurred Zhujiang New Town skyline, dotted with faintly visible outlines of Huacheng Square and trees, overall revealing a modern romantic atmosphere. The work cleverly integrates light dandelion fluff or starlight-like dynamic light points, symbolizing dreams and vitality fluttering and flying in this new city. The overall presents 8K ultra-high-definition vision, rich in details, realistic and full of artistic appeal.
@@ -3570,17 +3570,17 @@ Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, throu
 
 <a name="case-287"></a>
 
-### 例 287：不知火舞的小红书主页
+### 例 287：不知火舞的小红书主頁
 
-![不知火舞的小红书主页](../data/images/case287.jpg)
+![不知火舞的小红书主頁](../data/images/case287.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**來源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成不知火舞的小红书主页截图
+生成不知火舞的小红书主頁截圖
 
 [English]
 Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
@@ -3590,17 +3590,17 @@ Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 
 <a name="case-288"></a>
 
-### 例 288：抖音美女直播间界面设计
+### 例 288：抖音美女直播間介面設計
 
-![抖音美女直播间界面设计](../data/images/case288.jpg)
+![抖音美女直播間介面設計](../data/images/case288.jpg)
 
-**来源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)
+**來源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成抖音直播间界面，内容是一个美女在直播
+生成抖音直播間介面，內容是一個美女在直播
 
 [English]
 Generate a TikTok live stream interface, the content is a beautiful woman live streaming
@@ -3610,17 +3610,17 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 
 <a name="case-289"></a>
 
-### 例 289：直播界面设计图
+### 例 289：直播介面設計圖
 
 ![特朗普金正恩抖音直播打PK](../data/images/case289.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**來源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成特朗普和金正恩在抖音直播间打PK的截图
+生成特朗普和金正恩在抖音直播間打PK的截圖
 
 [English]
 Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room
@@ -3630,17 +3630,17 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
 
 <a name="case-290"></a>
 
-### 例 290：古风诗人镭射典藏卡牌
+### 例 290：古風詩人鐳射典藏卡牌
 
-![古风诗人镭射典藏卡牌](../data/images/case290.jpg)
+![古風詩人鐳射典藏卡牌](../data/images/case290.jpg)
 
-**来源：** [@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
+**來源：** [@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-为中国古代诗人设计一套游戏卡片，并按照SSR SR R 分级，重点卡片有放大展示的效果，包括卡面设计和人物介绍，有很高级的游戏卡片质感，稀有卡片还会有特色的光影例如镭射效果 需要有套卡设计和技能设计，并附带较为详细的说明
+為中國古代詩人設計一套遊戲卡片，並按照SSR SR R 分級，重點卡片有放大展示的效果，包括卡面設計和人物介紹，有很高階的遊戲卡片質感，稀有卡片還會有特色的光影例如鐳射效果 需要有套卡設計和技能設計，並附帶較為詳細的說明
 
 [English]
 Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions
@@ -3650,17 +3650,17 @@ Design a set of game cards for ancient Chinese poets, classified by SSR SR R gra
 
 <a name="case-291"></a>
 
-### 例 291：极致奢华的弹珠店梦幻宣传单
+### 例 291：極致奢華的彈珠店夢幻宣傳單
 
-![极致奢华的弹珠店梦幻宣传单](../data/images/case291.jpg)
+![極致奢華的彈珠店夢幻宣傳單](../data/images/case291.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)
+**來源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-以 3:4 比例制作一家弹珠店那种闪闪发光的宣传单。放置一个真实、精细的现代可爱日本女性。充分利用闪闪发光、立体感丰富的豪华装饰彩虹字体等，务必做到极致奢华。并列介绍几个不存在的虚构新机型。
+以 3:4 比例製作一家彈珠店那種閃閃發光的宣傳單。放置一個真實、精細的現代可愛日本女性。充分利用閃閃發光、立體感豐富的豪華裝飾彩虹字型等，務必做到極致奢華。並列介紹幾個不存在的虛構新機型。
 
 [English]
 Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. Place a realistic, highly detailed modern cute Japanese woman. Make full use of sparkling, three-dimensional richly decorated rainbow typography, etc., and be sure to achieve extreme luxury. Introduce several non-existent fictional new models side by side.
@@ -3670,17 +3670,17 @@ Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. 
 
 <a name="case-292"></a>
 
-### 例 292：明朝登基宝玉的推文页面
+### 例 292：明朝登基寶玉的推文頁面
 
-![明朝登基宝玉的推文页面](../data/images/case292.jpg)
+![明朝登基寶玉的推文頁面](../data/images/case292.jpg)
 
-**来源：** [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
+**來源：** [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创建一个宝玉（查阅 https://x.com/dotey 这个推主的主页及部分推文）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。
+建立一個寶玉（查閱 https://x.com/dotey 這個推主的主頁及部分推文）穿越到明朝，登基之後依據其業務/個性，繪製的其新的X帖子頁面。
 
 [English]
 Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.
@@ -3690,17 +3690,17 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 
 <a name="case-293"></a>
 
-### 例 293：聚焦人工智能的校园日报
+### 例 293：聚焦人工智慧的校園日報
 
-![聚焦人工智能的校园日报](../data/images/case293.jpg)
+![聚焦人工智慧的校園日報](../data/images/case293.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张校园日报，主题AI教育
+生成一張校園日報，主題AI教育
 
 [English]
 Generate a campus daily newspaper, theme AI education
@@ -3710,17 +3710,17 @@ Generate a campus daily newspaper, theme AI education
 
 <a name="case-294"></a>
 
-### 例 294：精美潮汕菜馆菜单图
+### 例 294：精美潮汕菜館選單圖
 
-![精美潮汕菜馆菜单图](../data/images/case294.jpg)
+![精美潮汕菜館選單圖](../data/images/case294.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张潮菜馆菜单图
+生成一張潮菜館選單圖
 
 [English]
 Generate a Teochew restaurant menu image.
@@ -3730,17 +3730,17 @@ Generate a Teochew restaurant menu image.
 
 <a name="case-295"></a>
 
-### 例 295：复古传统老黄历二零二六年四月十八
+### 例 295：復古傳統老黃曆二零二六年四月十八
 
-![复古传统老黄历二零二六年四月十八](../data/images/case295.jpg)
+![復古傳統老黃曆二零二六年四月十八](../data/images/case295.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成一张2026年4月18日的老黄历
+生成一張2026年4月18日的老黃曆
 
 [English]
 Generate an old almanac for April 18, 2026
@@ -3750,32 +3750,32 @@ Generate an old almanac for April 18, 2026
 
 <a name="case-296"></a>
 
-### 例 296：博物馆级中文拆解信息图鉴
+### 例 296：博物館級中文拆解資訊圖表鑑
 
-![博物馆级中文拆解信息图鉴](../data/images/case296.jpg)
+![博物館級中文拆解資訊圖表鑑](../data/images/case296.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。
+請根據【主題】自動生成一張“博物館圖鑑式中文拆解資訊圖表”。
 
-要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。
+要求整張圖兼具真實寫實主視覺、結構拆解、中文標註、材質說明、紋樣寓意、色彩含義和核心特徵總結。你需要根據【主題】自動判斷最合適的主體物件、服飾體系、器物結構、時代風格、關鍵部件、材質工藝、顏色方案與版式結構，使用者無需再提供其他資訊。
 
-整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。
+整體風格應為：國家博物館展板、歷史服飾圖鑑、文博專題資訊圖表，而不是普通海報、古風寫真、電商詳情頁或動漫插畫。背景採用米白、絹紙白、淺茶色等紙張質感，整體高階、克制、專業、可收藏。
 
-版式固定为：
-- 顶部：中文主标题 + 副标题 + 导语
-- 左侧：结构拆解区，中文引线标注关键部件，并配局部特写
-- 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明
-- 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释
-- 底部：穿着顺序 / 构成流程图 + 核心特征总结
+版式固定為：
+- 頂部：中文主標題 + 副標題 + 導語
+- 左側：結構拆解區，中文引線標註關鍵部件，並配局部特寫
+- 右上：材質 / 工藝 / 質感區，展示真實紋理小樣並附說明
+- 右中：紋樣 / 色彩 / 寓意區，展示主色板、紋樣樣本和文化解釋
+- 底部：穿著順序 / 構成流程圖 + 核心特徵總結
 
-若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。
+若主題適合人物展示，則以真實人物全身站姿為中央主體；若更適合器物或單體結構，則改為中心主體拆解圖，但整體仍保持完整中文資訊圖表形式。所有文字必須為簡體中文，清晰、規整、可讀，不要亂碼、錯字、英文或拼音。重點突出真實結構、材質差異、文化說明與圖鑑氣質。
 
-避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。
+避免：海報感、影樓感、電商感、動漫感、cosplay感、亂標註、錯結構、糊字、假材質、過度裝飾。
 
 [English]
 Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject].
@@ -3800,17 +3800,17 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 
 <a name="case-297"></a>
 
-### 例 297：手写食谱变身杂志级跨页
+### 例 297：手寫食譜變身雜誌級跨頁
 
-![手写食谱变身杂志级跨页](../data/images/case297.jpg)
+![手寫食譜變身雜誌級跨頁](../data/images/case297.jpg)
 
-**来源：** [@maxescu](https://x.com/maxescu/status/2045203839910056014)
+**來源：** [@maxescu](https://x.com/maxescu/status/2045203839910056014)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-手写食谱 → 专业食谱页面 上传一份凌乱的手写家庭食谱；模型会搜索准确的现代计量/营养信息，然后生成一份精致的杂志风格双页跨页，包含分步平铺图、完美的食材标签和卡路里分解。
+手寫食譜 → 專業食譜頁面 上傳一份凌亂的手寫家庭食譜；模型會搜尋準確的現代計量/營養資訊，然後生成一份精緻的雜誌風格雙頁跨頁，包含分步平鋪圖、完美的食材標籤和卡路里分解。
 
 [INSERT_RECIPE_LINK]
 
@@ -3824,17 +3824,17 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 
 <a name="case-298"></a>
 
-### 例 298：梦幻波士顿春季城市海报
+### 例 298：夢幻波士頓春季城市海報
 
-![梦幻波士顿春季城市海报](../data/images/case298.jpg)
+![夢幻波士頓春季城市海報](../data/images/case298.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张引人注目的2026年春季波士顿城市海报，具有优雅的庆典氛围和大胆的当代设计。在干净的米白色纹理背景上，带有大面积的留白，一个微型的单人赛艇手在图像右下角一条狭窄的反光水带上划行。船桨划出的尾波以动态的书法曲线向上扫过，逐渐变成查尔斯河，然后再变成一幅梦幻般的手绘波士顿全景。在这个流动的河流形状的构图中包含着标志性的波士顿元素：后湾天际线、灯塔山红砖联排别墅、橡树街、波士顿公共花园、天鹅船、扎基姆桥、芬威球场启发的细节、历史悠久的砖砌建筑、港口渡轮，以及这座城市的水滨氛围。柔和的晨雾，金色的春季光线，深红和金色的微妙节日点缀，丰富的细节，层次分明的深度，精致的城市海报美学，清新而优雅，视觉上强有力但不拥挤。左下角的优雅排版写着“SPRING 2026”，并附有垂直标语“BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”，文字清晰且构图优美，高端平面设计，9:16
+一張引人注目的2026年春季波士頓城市海報，具有優雅的慶典氛圍和大膽的當代設計。在乾淨的米白色紋理背景上，帶有大面積的留白，一個微型的單人賽艇手在影象右下角一條狹窄的反光水帶上划行。船槳劃出的尾波以動態的書法曲線向上掃過，逐漸變成查爾斯河，然後再變成一幅夢幻般的手繪波士頓全景。在這個流動的河流形狀的構圖中包含著標誌性的波士頓元素：後灣天際線、燈塔山紅磚聯排別墅、橡樹街、波士頓公共花園、天鵝船、扎基姆橋、芬威球場啟發的細節、歷史悠久的磚砌建築、港口渡輪，以及這座城市的水濱氛圍。柔和的晨霧，金色的春季光線，深紅和金色的微妙節日點綴，豐富的細節，層次分明的深度，精緻的城市海報美學，清新而優雅，視覺上強有力但不擁擠。左下角的優雅排版寫著“SPRING 2026”，並附有垂直標語“BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”，文字清晰且構圖優美，高階平面設計，9:16
 
 [English]
 A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
@@ -3844,24 +3844,24 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 <a name="case-299"></a>
 
-### 例 299：极简留白涂鸦手绘草图
+### 例 299：極簡留白塗鴉手繪草圖
 
-![极简留白涂鸦手绘草图](../data/images/case299.jpg)
+![極簡留白塗鴉手繪草圖](../data/images/case299.jpg)
 
-**来源：** [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
+**來源：** [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-以涂鸦速写风表现【主题/主体】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。
+以塗鴉速寫風表現【主題/主體】，整體呈現快速勾勒、自由變形、即興手繪與草稿式的視覺效果。線條隨手、誇張、可粗細不一，略顯凌亂但具有節奏和表現力，強調概括、誇張、趣味和隨性，而不是嚴謹寫實或精細刻畫。
 
-颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。
+顏色採用粗糙、幹刷感明顯的塊面表現，可保留不均勻的塗抹痕跡、刷痕、飛白與覆蓋感，色彩根據【主題/主體】自動適配，但整體保持塗鴉式、速寫式、概括式的表達。不要透明水彩暈染效果，不要細膩水彩過渡，不要紙紋理，不要柔和霧化，不要夢幻質感。
 
-背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。
+背景以留白為主，保持簡潔、輕鬆、未完成感和設計感，可加入少量輔助性符號、箭頭、記號、圈畫、重複線、隨手寫的文字或其他塗鴉元素，以增強速寫本或隨筆式視覺語言，但不可過於擁擠，不可破壞主體和留白氣質。
 
-画面内容不需要预先写清楚，由【主题/主体】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。
-画面中需自然加入专属签名“voxcat”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。
+畫面內容不需要預先寫清楚，由【主題/主體】自動推演並生成最適合的主體形象、動作、相關元素、符號或簡化場景，整體保持統一的塗鴉速寫風和誇張概括的表現方式，避免複雜寫實背景和過度鋪陳。
+畫面中需自然加入專屬簽名“voxcat”，作為畫面的一部分，位置低調但清晰，可放在左下角、右下角或標題附近，風格需與整體版式統一，像作品署名或設計落款；簽名字型精緻、克制、高階，不可過大，不可破壞主體構圖，不可顯得突兀或廉價。
 
 [English]
 Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual effect of quick outlining, free deformation, impromptu hand-drawing, and draft-like appearance. The lines are casual, exaggerated, and can vary in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, playfulness, and spontaneity, rather than rigorous realism or detailed rendering. Colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smearing traces, brush strokes, dry-brush effects, and a sense of coverage. Colors automatically adapt to [Subject/Theme], but the overall expression remains graffiti-style, sketch-style, and generalized. Do not use transparent watercolor blooming effects, do not use delicate watercolor transitions, do not use paper textures, do not use soft atomization, and do not use dreamy textures. The background is mainly left blank, maintaining a sense of simplicity, relaxation, incompleteness, and design. A small number of auxiliary symbols, arrows, marks, circled areas, repeated lines, casually written text, or other graffiti elements can be added to enhance the visual language of a sketchbook or jotting style, but it must not be too crowded, and must not destroy the subject and the blank space temperament. The image content does not need to be written out in advance; the most suitable subject image, actions, related elements, symbols, or simplified scenes are automatically deduced and generated by [Subject/Theme], keeping the overall unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. The exclusive signature "voxcat" needs to be naturally added to the image as a part of the picture. The position should be low-key but clear, and can be placed in the bottom left corner, bottom right corner, or near the title. The style must be consistent with the overall layout, like an artwork signature or a design sign-off; the signature font should be exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, and must not appear abrupt or cheap.
@@ -3871,18 +3871,18 @@ Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual
 
 <a name="case-300"></a>
 
-### 例 300：黑板上的出师表全文
+### 例 300：黑板上的出師表全文
 
-![黑板上的出师表全文](../data/images/case300.jpg)
+![黑板上的出師表全文](../data/images/case300.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**來源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成图片:
-手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍
+生成圖片:
+手寫在教室黑板上的出師表全文，真實感的粉筆字跡，晴朗白天用iPhone手機實拍
 
 [English]
 Generate image: The full text of Chu Shi Biao handwritten on a classroom blackboard, realistic chalk handwriting, taken with an iPhone in real life on a sunny day
@@ -3892,22 +3892,22 @@ Generate image: The full text of Chu Shi Biao handwritten on a classroom blackbo
 
 <a name="case-301"></a>
 
-### 例 301：终结者机器人淘宝详情页
+### 例 301：終結者機器人淘寶詳情頁
 
-![终结者机器人淘宝详情页](../data/images/case301.jpg)
+![終結者機器人淘寶詳情頁](../data/images/case301.jpg)
 
-**来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+**來源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成图片:
-T-800机器人的淘宝商品详情页，展示:
-机器人的正面侧面背面三视图，
-产品价格，
-产品细节，
-功能和使用场景等
+生成圖片:
+T-800機器人的淘寶商品詳情頁，展示:
+機器人的正面側面背面三檢視，
+產品價格，
+產品細節，
+功能和使用場景等
 
 [English]
 Generate image:
@@ -3922,17 +3922,17 @@ functions and usage scenarios
 
 <a name="case-302"></a>
 
-### 例 302：九位大师的机械键盘设计图鉴
+### 例 302：九位大師的機械鍵盤設計圖鑑
 
-![九位大师的机械键盘设计图鉴](../data/images/case302.jpg)
+![九位大師的機械鍵盤設計圖鑑](../data/images/case302.jpg)
 
-**来源：** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
+**來源：** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则
+一個九宮格圖片，展現九位當代知名設計師設計的同一組物體：機械鍵盤，包括設計師頭像，設計師對於設計的中文文字解讀和作品呈現。排版統一規則
 
 [English]
 A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules
@@ -3942,17 +3942,17 @@ A nine-grid image showing the same group of objects designed by nine contemporar
 
 <a name="case-303"></a>
 
-### 例 303：人教版三年级语文课本内页
+### 例 303：人教版三年級語文課本內頁
 
-![人教版三年级语文课本内页](../data/images/case303.jpg)
+![人教版三年級語文課本內頁](../data/images/case303.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-生成人教版小学三年级语文课本的一页
+生成人教版小學三年級語文課本的一頁
 
 [English]
 Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook
@@ -3962,23 +3962,23 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 
 <a name="case-304"></a>
 
-### 例 304：荧光蓝穷奇新中式山水画
+### 例 304：熒光藍窮奇新中式山水畫
 
-![荧光蓝穷奇新中式山水画](../data/images/case304.jpg)
+![熒光藍窮奇新中式山水畫](../data/images/case304.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045506567735558336)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045506567735558336)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“
+極簡主義，新中式風格立體圖形設計，影象下端有楷體中國文字：“東方美學”，“2026/04/18”，署名 “CHINA”，和“
 @LIYUE
 "；
-平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
-中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
-荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
-冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
+平整純白色的亞光質感厚藝術紙上繪充滿東方詩意氛圍的山水創意畫，不規則的撕紙效果；
+中國的神獸：窮奇，身形圖案完整，美輪美奐，，線條柔美靈動,眼睛炯炯有神，威嚴的神態，優雅的姿勢，奢華裝飾藝術，中國傳統紋飾；
+熒光藍色線條，0.5mm極細金色金屬質感勾邊，潑白墨大筆觸，色彩渲染，紅底，藍色的浪漫詩意視覺；
+冷暖光交織的夢幻唯美場景，強烈的光影對比氛圍，花輕舞的時光敘事，東風禪意，畫面有大面積留白，框架構圖，底部留白，細節清晰。
 
 [English]
 Minimalism, Neo-Chinese style three-dimensional graphic design, at the bottom of the image there are Chinese characters in regular script: "东方美学", "2026/04/18", signature "CHINA", and "
@@ -3994,17 +3994,17 @@ Dreamy and aesthetic scene where cold and warm lights intertwine, strong light a
 
 <a name="case-305"></a>
 
-### 例 305：深夜便利店里的性感霓虹少女
+### 例 305：深夜便利店裡的性感霓虹少女
 
-![深夜便利店里的性感霓虹少女](../data/images/case305.jpg)
+![深夜便利店裡的性感霓虹少女](../data/images/case305.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045167461147042202)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045167461147042202)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-35毫米胶片摄影，带有刺眼的便利店荧光灯照明，混合着外面色彩斑斓的霓虹灯牌，真实的胶片颗粒，高对比度，轻微的偏色，电影感街头编辑风格，亲密的中景镜头，20岁出头性感的华人女性偶像，拥有超逼真精致细腻的东方五官，诱人的杏眼狐眼搭配天然双眼皮，高鼻梁，小巧尖锐的V型下颌线，无瑕的瓷白肌肤带有冷象牙底色以及来自荧光灯的可见高光，细腻的皮肤纹理和微小毛孔，自然清透妆容带有脸颊上的柔和红晕，水润自然的粉唇微张，鼻子和脸颊上散布着微妙的自然雀斑，深棕色的长发扎成凌乱的高马尾，许多松散的发丝垂在脸庞和颈部周围，穿着一件超大号的白衬衫作为唯一的上衣，顶部敞开露出深邃乳沟并在腰部宽松打结，搭配一条极小的黑色百褶迷你裙，赤脚穿着简约的白色拖鞋，在深夜24小时便利店的玻璃门上呈现出诱人随性的倚靠姿势，身体微微拱起，一条腿弯曲，脚搭在门框上，另一条腿伸直，一只手拿着一瓶冰饮，另一只手轻轻拉扯迷你裙的裙摆，极其诱人俏皮却又略显脆弱的目光直视观看者，柔和的鹿眼中充满安静的诱惑与挑逗的微笑，来自店内明亮冷调的荧光灯光混合着来自外面招牌的粉色和蓝色霓虹光芒，玻璃门上真实的反射，模糊的便利店内部，背景中有货架和零食，真实的35毫米胶片调色，带有刺眼的光照和霓虹点缀，极其锐利却又柔和的皮肤渲染，自然的发丝，超大号衬衫和迷你裙上逼真的织物褶皱和垂坠感，无塑料感皮肤，无数字过度锐化，无磨皮，无瑕疵，无痣，无油性皮肤，无水印，无文字，真实的深夜便利店氛围
+35毫米膠片攝影，帶有刺眼的便利店熒光燈照明，混合著外面色彩斑斕的霓虹燈牌，真實的膠片顆粒，高對比度，輕微的偏色，電影感街頭編輯風格，親密的中景鏡頭，20歲出頭性感的華人女性偶像，擁有超逼真精緻細膩的東方五官，誘人的杏眼狐眼搭配天然雙眼皮，高鼻樑，小巧尖銳的V型下頜線，無瑕的瓷白肌膚帶有冷象牙底色以及來自熒光燈的可見高光，細膩的皮膚紋理和微小毛孔，自然清透妝容帶有臉頰上的柔和紅暈，水潤自然的粉唇微張，鼻子和臉頰上散佈著微妙的自然雀斑，深棕色的長髮紮成凌亂的高馬尾，許多鬆散的髮絲垂在臉龐和頸部周圍，穿著一件超大號的白襯衫作為唯一的上衣，頂部敞開露出深邃乳溝並在腰部寬鬆打結，搭配一條極小的黑色百褶迷你裙，赤腳穿著簡約的白色拖鞋，在深夜24小時便利店的玻璃門上呈現出誘人隨性的倚靠姿勢，身體微微拱起，一條腿彎曲，腳搭在門框上，另一條腿伸直，一隻手拿著一瓶冰飲，另一隻手輕輕拉扯迷你裙的裙襬，極其誘人俏皮卻又略顯脆弱的目光直視觀看者，柔和的鹿眼中充滿安靜的誘惑與挑逗的微笑，來自店內明亮冷調的熒光燈光混合著來自外面招牌的粉色和藍色霓虹光芒，玻璃門上真實的反射，模糊的便利店內部，背景中有貨架和零食，真實的35毫米膠片調色，帶有刺眼的光照和霓虹點綴，極其銳利卻又柔和的皮膚渲染，自然的髮絲，超大號襯衫和迷你裙上逼真的織物褶皺和垂墜感，無塑膠感皮膚，無數字過度銳化，無磨皮，無瑕疵，無痣，無油性皮膚，無水印，無文字，真實的深夜便利店氛圍
 
 [English]
 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
@@ -4014,21 +4014,21 @@ Dreamy and aesthetic scene where cold and warm lights intertwine, strong light a
 
 <a name="case-306"></a>
 
-### 例 306：官方角色设定资料卡
+### 例 306：官方角色設定資料卡
 
-![官方角色设定资料卡](../data/images/case306.jpg)
+![官方角色設定資料卡](../data/images/case306.jpg)
 
-**来源：** [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
+**來源：** [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。
-・包含三视图：正面、侧面和背面
-・添加角色面部表情的变化・分解并展示服装和装备的详细部分
-・添加色板・包含世界观设定的简要说明
-・总体上，使用有组织的布局（白色背景，插画风格）
+基於此角色和背景，請製作一份類似官方設定資料的角色資料卡。
+・包含三檢視：正面、側面和背面
+・新增角色面部表情的變化・分解並展示服裝和裝備的詳細部分
+・新增色板・包含世界觀設定的簡要說明
+・總體上，使用有組織的佈局（白色背景，插畫風格）
 
 [English]
 Based on this character and background, please create a character reference sheet similar to official setting materials.
@@ -4044,23 +4044,23 @@ Based on this character and background, please create a character reference shee
 
 <a name="case-307"></a>
 
-### 例 307：红绸舞动千年商都广州
+### 例 307：紅綢舞動千年商都廣州
 
-![红绸舞动千年商都广州](../data/images/case307.jpg)
+![紅綢舞動千年商都廣州](../data/images/case307.jpg)
 
-**来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
+**來源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。
-双重曝光，构图延续了S型的流动感；
-在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。
-在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。
-广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。
-云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
-文字排版优美，大方，字迹清晰完整，尺寸9:16。
+一張充滿新春喜慶氛圍但不失高雅格調的 2026 城市宣傳海報。
+雙重曝光，構圖延續了S型的流動感；
+在純白的紋理背景右下角，一個身穿中國傳統服飾的微縮人物正在揮舞著一條長長的紅色絲綢舞帶，這條紅綢在空中舞動，不僅展現出絲綢的柔順質感，更在向左上方飄動的過程中，奇幻地變形成了一條壯麗的山脈河流。
+在這條“河流”中，疊加了一個有山有海河的廣州城市手繪圖，國潮，景色盡在眼底，壯闊雄偉，令人震撼。
+廣州的地標建築(廣州塔，珠江新城建築群，珠江, 廣州城裡古建築，遊輪，白雲山）。
+雲霧環繞，仙氣縹緲，色彩豐富，結構複雜，細節豐富，但因為大面積的留白，畫面依然顯得清新脫俗，左下角排版著“SPRING 2026”和豎排的宣傳語，整體寓意“千年商都，魅力廣州”。
+文字排版優美，大方，字跡清晰完整，尺寸9:16。
 
 [English]
 A 2026 city promotional poster filled with a festive Spring Festival atmosphere without losing its elegant style.
@@ -4076,17 +4076,17 @@ The typography is beautiful and generous, the handwriting is clear and complete,
 
 <a name="case-308"></a>
 
-### 例 308：抖音直播截图画面
+### 例 308：抖音直播截圖畫面
 
-![抖音直播截图画面](../data/images/case308.jpg)
+![抖音直播截圖畫面](../data/images/case308.jpg)
 
-**来源：** [@\_FORAB](https://x.com/_FORAB/status/2044744023261519920)
+**來源：** [@\_FORAB](https://x.com/_FORAB/status/2044744023261519920)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-9:16 的图片比例，生成一张抖音直播的截图，里面是 xxx 在直播，xxx 手里拿着牌子，牌子里写着 xxxx。
+9:16 的圖片比例，生成一張抖音直播的截圖，裡面是 xxx 在直播，xxx 手裡拿著牌子，牌子裡寫著 xxxx。
 
 [English]
 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.
@@ -4096,17 +4096,17 @@ The typography is beautiful and generous, the handwriting is clear and complete,
 
 <a name="case-309"></a>
 
-### 例 309：创意树叶拼贴构成的角色画像
+### 例 309：創意樹葉拼貼構成的角色畫像
 
-![创意树叶拼贴构成的角色画像](../data/images/case309.jpg)
+![創意樹葉拼貼構成的角色畫像](../data/images/case309.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
+**來源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-{ 角色名称 } 完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k
+{ 角色名稱 } 完全由天然樹葉製成，創意樹葉拼貼藝術，分層綠葉和幹葉構成身體、面部和衣服，可見葉脈和紋理，手工植物藝術風格，乾淨的白色背景，俯視平鋪構圖，高度細節，柔和自然光，逼真樹葉紋理，8k
 
 [English]
 {
@@ -4129,35 +4129,35 @@ realistic leaf textures,
 
 <a name="case-310"></a>
 
-### 例 310：零食品牌技术分解图
+### 例 310：零食品牌技術分解圖
 
-![零食品牌技术分解图](../data/images/case310.jpg)
+![零食品牌技術分解圖](../data/images/case310.jpg)
 
-**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
+**來源：** [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-创建一个 [SNACK] 的品牌技术信息图，结合产品的真实照片或照片级真实渲染，并将技术注释覆盖层直接置于其上。在纯白摄影棚背景上使用带有策略性 [BRAND COLOR] 点缀的黑色墨水风格线条画（建筑草图外观），包括：
-• 关键组件标签
-• 显示结构、分层或内部设计的内部截面图
-• 测量数据、尺寸和规格
-• 带有成分和数量的材料标注
-• 指示主要功能和结构完整性的箭头
-• 显示关键机械或设计元素的简单示意图或剖面图
-• 可持续性标注
-标题位置：位于手绘技术注释框内，带有强调色边框，粗体字显示产品名称，置于上角。
-风格与布局规则：
-• 真实产品保持清晰可见
-• 注释具有素描感、技术感和建筑感
-• 强调色用于高光（占线条工作的 20-30%），黑色用于主要技术线条（70-80%）
-• 构图整洁，负空间平衡
-• 具有教育意义、食品工程氛围和高端品牌感
-• 在角落包含微妙的品牌标志
-视觉风格：极简技术插画美学，黑色线条在真实图像上带有点缀，精确但略带手绘感。
-调色板：白色背景，黑色注释线/文本，[BRAND COLOR] 仅用于点缀和关键标注。
-输出：1080×1080，超清晰，社交媒体动态优化，无水印。
+建立一個 [SNACK] 的品牌技術資訊圖表，結合產品的真實照片或照片級真實渲染，並將技術註釋覆蓋層直接置於其上。在純白攝影棚背景上使用帶有策略性 [BRAND COLOR] 點綴的黑色墨水風格線條畫（建築草圖外觀），包括：
+• 關鍵元件標籤
+• 顯示結構、分層或內部設計的內部截面圖
+• 測量資料、尺寸和規格
+• 帶有成分和數量的材料標註
+• 指示主要功能和結構完整性的箭頭
+• 顯示關鍵機械或設計元素的簡單示意圖或剖面圖
+• 可持續性標註
+標題位置：位於手繪技術註釋框內，帶有強調色邊框，粗體字顯示產品名稱，置於上角。
+風格與佈局規則：
+• 真實產品保持清晰可見
+• 註釋具有素描感、技術感和建築感
+• 強調色用於高光（佔線條工作的 20-30%），黑色用於主要技術線條（70-80%）
+• 構圖整潔，負空間平衡
+• 具有教育意義、食品工程氛圍和高階品牌感
+• 在角落包含微妙的品牌標誌
+視覺風格：極簡技術插畫美學，黑色線條在真實影象上帶有點綴，精確但略帶手繪感。
+調色盤：白色背景，黑色註釋線/文字，[BRAND COLOR] 僅用於點綴和關鍵標註。
+輸出：1080×1080，超清晰，社群媒體動態最佳化，無水印。
 
 [English]
 Create a branded technical infographic of a [SNACK], combining a realistic photograph or photoreal render of the product with technical annotation overlays placed directly on top. Use black ink–style line drawings with strategic [BRAND COLOR] accents (architectural sketch look) on a pure white studio background, including:
@@ -4185,20 +4185,20 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​�
 
 <a name="case-311"></a>
 
-### 例 311：晨曦薰衣草田梦幻少女三联画
+### 例 311：晨曦薰衣草田夢幻少女三聯畫
 
-![晨曦薰衣草田梦幻少女三联画](../data/images/case311.jpg)
+![晨曦薰衣草田夢幻少女三聯畫](../data/images/case311.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
+**來源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-日出时分薰衣草田中女子的水平三联画。
-上部：半身像，闭着眼睛，淡紫色连衣裙，一只手放在头发里，模糊的薰衣草前景。
-中部：特写镜头，看着镜头，蓬乱的头发，薄纱围巾，脸上的阳光。
-下部：四分之三镜头，手持薰衣草花束，飘逸的裙子，柔和的粉彩天空，温暖的梦幻色调。
+日出時分薰衣草田中女子的水平三聯畫。
+上部：半身像，閉著眼睛，淡紫色連衣裙，一隻手放在頭髮裡，模糊的薰衣草前景。
+中部：特寫鏡頭，看著鏡頭，蓬亂的頭髮，薄紗圍巾，臉上的陽光。
+下部：四分之三鏡頭，手持薰衣草花束，飄逸的裙子，柔和的粉彩天空，溫暖的夢幻色調。
 
 [English]
 Horizontal triptych of a woman in a lavender field at sunrise.
@@ -4211,18 +4211,18 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-312"></a>
 
-### 例 312：鲜艳霓虹光影下的动感苏打水飞溅商业海报
+### 例 312：鮮豔霓虹光影下的動感蘇打水飛濺商業海報
 
-![鲜艳霓虹光影下的动感苏打水飞溅商业海报](../data/images/case312.jpg)
+![鮮豔霓虹光影下的動感蘇打水飛濺商業海報](../data/images/case312.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028388808320819277)
+**來源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028388808320819277)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  "prompt": "一个充满活力的高端广告构图中的三个超动态苏打水罐 —— 一罐热带冲刺苏打水伴随着戏剧性的水和热带水果飞溅而爆炸，鲜艳的橙色和粉色背景光；一罐柠檬冰爽苏打水在发光的绿色动态光背景下被冷水泼溅；两罐都覆盖着逼真的冷凝水和运动模糊的水滴，充满果味和清爽的能量。深橙色、粉色和霓虹绿灯光在大胆的演播室布置中融合。由使用佳能 50mm 镜头的专业摄影师拍摄，超写实纹理，清晰的细节，超高分辨率，明亮的商业海报美学，丰富的色彩鲜艳度，电影级飞溅效果 --ar 3:4"
+  "prompt": "一個充滿活力的高階廣告構圖中的三個超動態蘇打水罐 —— 一罐熱帶衝刺蘇打水伴隨著戲劇性的水和熱帶水果飛濺而爆炸，鮮豔的橙色和粉色背景光；一罐檸檬冰爽蘇打水在發光的綠色動態光背景下被冷水潑濺；兩罐都覆蓋著逼真的冷凝水和運動模糊的水滴，充滿果味和清爽的能量。深橙色、粉色和霓虹綠燈光在大膽的演播室佈置中融合。由使用佳能 50mm 鏡頭的專業攝影師拍攝，超寫實紋理，清晰的細節，超高解析度，明亮的商業海報美學，豐富的色彩鮮豔度，電影級飛濺效果 --ar 3:4"
 }
 
 [English]
@@ -4235,76 +4235,76 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-313"></a>
 
-### 例 313：电商商品展示设计
+### 例 313：電商商品展示設計
 
-![梦幻蓝紫烟雾环绕的NUBELLA奢华护肤软管](../data/images/case313.jpg)
+![夢幻藍紫煙霧環繞的NUBELLA奢華護膚軟管](../data/images/case313.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027903683154088431)
+**來源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027903683154088431)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  "style": "超写实奢华化妆品产品摄影",
+  "style": "超寫實奢華化妝品產品攝影",
   "composition": {
-    "color_scheme": "戏剧性的单色蓝紫色",
-    "resolution": "8K超高分辨率",
-    "depth": "电影级景深",
-    "aesthetic": "高端香氛护肤品广告风格"
+    "color_scheme": "戲劇性的單色藍紫色",
+    "resolution": "8K超高解析度",
+    "depth": "電影級景深",
+    "aesthetic": "高階香氛護膚品廣告風格"
   },
   "product": {
-    "type": "软管包装",
-    "finish": "缎面质感",
-    "color": "长春花蓝",
+    "type": "軟管包裝",
+    "finish": "緞面質感",
+    "color": "長春花藍",
     "label": "NUBELLA",
-    "typography": "优雅的银色字体",
-    "cap": "反光金属铬盖",
+    "typography": "優雅的銀色字型",
+    "cap": "反光金屬鉻蓋",
     "position": "垂直居中"
   },
   "surroundings": {
     "smoke": {
-      "type": "墨水般的旋涡云雾",
+      "type": "墨水般的旋渦雲霧",
       "colors": [
         "薰衣草色",
-        "靛蓝色",
-        "冰蓝色"
+        "靛藍色",
+        "冰藍色"
       ],
-      "texture": "柔软、翻腾",
-      "interaction": "环绕在产品周围"
+      "texture": "柔軟、翻騰",
+      "interaction": "環繞在產品周圍"
     },
     "flowers": {
       "primary": [
         {
           "color": "紫色",
-          "details": "错综复杂的花瓣细节",
-          "center": "鲜艳的黄色"
+          "details": "錯綜複雜的花瓣細節",
+          "center": "鮮豔的黃色"
         },
         {
           "color": "紫丁香色",
-          "details": "错综复杂的花瓣细节",
-          "center": "鲜艳的黄色"
+          "details": "錯綜複雜的花瓣細節",
+          "center": "鮮豔的黃色"
         }
       ],
       "secondary": {
-        "type": "细小的紫罗兰色花朵",
-        "purpose": "增加立体感"
+        "type": "細小的紫羅蘭色花朵",
+        "purpose": "增加立體感"
       }
     }
   },
   "lighting": {
-    "direction": "来自左上方的柔和定向照明",
+    "direction": "來自左上方的柔和定向照明",
     "effects": [
-      "突显软管的光滑曲度",
-      "为金属盖增添微妙的光泽",
-      "在烟雾中营造深度"
+      "突顯軟管的光滑曲度",
+      "為金屬蓋增添微妙的光澤",
+      "在煙霧中營造深度"
     ]
   },
   "background": {
-    "blend": "无缝的冷色调蓝色和紫色调",
-    "enhancement": "空灵的花香美学"
+    "blend": "無縫的冷色調藍色和紫色調",
+    "enhancement": "空靈的花香美學"
   },
-  "details": "花瓣和蒸汽的超精细纹理"
+  "details": "花瓣和蒸汽的超精細紋理"
 }
 
 [English]
@@ -4375,23 +4375,23 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-314"></a>
 
-### 例 314：红蓝光影下的未来都市双重曝光青年
+### 例 314：紅藍光影下的未來都市雙重曝光青年
 
-![红蓝光影下的未来都市双重曝光青年](../data/images/case314.jpg)
+![紅藍光影下的未來都市雙重曝光青年](../data/images/case314.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
+**來源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  "prompt": "一位年轻男子的超写实电影级双重曝光侧脸肖像，表情专注强烈，皮肤纹理细节丰富，眼神锐利。他的面部与从剪影中浮现的未来主义城市天际线无缝融合，摩天大楼和城市建筑构成了他的颈部和下颌线。深蓝色和鲜艳红色的强烈对比，象征着冲突与力量。抽象的数字划痕、碎裂的玻璃纹理和漏光效果覆盖在面部，营造出戏剧性的效果。干净的白色背景，超精细的灯光，专业电影海报风格，高对比度，清晰聚焦，8K分辨率，逼真的发丝，社论海报构图，现代平面设计美学，戏剧性的氛围，超高清，照片级真实。",
-  "negative_prompt": "模糊，低分辨率，扭曲的面部，多余的肢体，过饱和的颜色，嘈杂的背景，平淡的灯光，卡通化，低细节",
+  "prompt": "一位年輕男子的超寫實電影級雙重曝光側臉肖像，表情專注強烈，皮膚紋理細節豐富，眼神銳利。他的面部與從剪影中浮現的未來主義城市天際線無縫融合，摩天大樓和城市建築構成了他的頸部和下頜線。深藍色和鮮豔紅色的強烈對比，象徵著衝突與力量。抽象的數字劃痕、碎裂的玻璃紋理和漏光效果覆蓋在面部，營造出戲劇性的效果。乾淨的白色背景，超精細的燈光，專業電影海報風格，高對比度，清晰聚焦，8K解析度，逼真的髮絲，社論海報構圖，現代平面設計美學，戲劇性的氛圍，超高畫質，照片級真實。",
+  "negative_prompt": "模糊，低解析度，扭曲的面部，多餘的肢體，過飽和的顏色，嘈雜的背景，平淡的燈光，卡通化，低細節",
   "resolution": "8K",
-  "style": "电影感，双重曝光，照片级真实感，社论海报",
-  "background": "干净的白色",
-  "lighting": "高对比度，戏剧性的蓝红分割布光"
+  "style": "電影感，雙重曝光，照片級真實感，社論海報",
+  "background": "乾淨的白色",
+  "lighting": "高對比度，戲劇性的藍紅分割布光"
 }
 
 [English]
@@ -4409,21 +4409,21 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 <a name="case-315"></a>
 
-### 例 315：棘龙巨口中的酷飒少女与史前奇观
+### 例 315：棘龍巨口中的酷颯少女與史前奇觀
 
-![棘龙巨口中的酷飒少女与史前奇观](../data/images/case315.jpg)
+![棘龍巨口中的酷颯少女與史前奇觀](../data/images/case315.jpg)
 
-**来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2028087254757867560)
+**來源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2028087254757867560)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-超写实电影级奇幻场景，设定在郁郁葱葱的史前丛林山谷中。一只巨大的棘龙站在浅河边，它那长而类似鳄鱼的巨颚张得很大。一位年轻女子平静地坐在恐龙张开的嘴里，完美居中，双腿微微向前悬挂。她有一头深色直发，表情镇定无畏，皮肤纹理逼真。她身穿合身的黑色长袖短款上衣，蓝色牛仔短裤和黑色及膝战术靴。衣服和腿上可见微小的血迹和轻微划痕，增加了戏剧性的紧张感但并不血腥。她怀里温柔地抱着一只小恐龙幼崽，充满保护欲地抱着它。
+超寫實電影級奇幻場景，設定在鬱鬱蔥蔥的史前叢林山谷中。一隻巨大的棘龍站在淺河邊，它那長而類似鱷魚的巨顎張得很大。一位年輕女子平靜地坐在恐龍張開的嘴裡，完美居中，雙腿微微向前懸掛。她有一頭深色直髮，表情鎮定無畏，皮膚紋理逼真。她身穿合身的黑色長袖短款上衣，藍色牛仔短褲和黑色及膝戰術靴。衣服和腿上可見微小的血跡和輕微劃痕，增加了戲劇性的緊張感但並不血腥。她懷裡溫柔地抱著一隻小恐龍幼崽，充滿保護欲地抱著它。
 
-在他们身后，一道高耸而充满戏剧性的瀑布顺着覆盖着茂密绿色植被和薄雾的陡峭丛林悬崖倾泻而下。场景中栖息着多只恐龙：几只迅猛龙在河岸边潜行，小型食草动物在背景中奔跑，飞翔的翼龙在头顶盘旋。环境丰富，有长满苔藓的岩石、流动的河水、热带植物和柔和的大气雾。
+在他們身後，一道高聳而充滿戲劇性的瀑布順著覆蓋著茂密綠色植被和薄霧的陡峭叢林懸崖傾瀉而下。場景中棲息著多隻恐龍：幾隻迅猛龍在河岸邊潛行，小型食草動物在背景中奔跑，飛翔的翼龍在頭頂盤旋。環境豐富，有長滿苔蘚的岩石、流動的河水、熱帶植物和柔和的大氣霧。
 
-灯光具有电影感和自然感，漫射的日光照亮场景，阴影细节丰富，焦点清晰地聚在女子和棘龙身上，背景元素采用浅景深。恐龙鳞片、牙齿、水珠、树叶和织物上的超写实纹理。史诗奇幻写实主义，戏剧性构图，垂直构图，超精细，照片级真实感，4K，电影级调色，无文字，无水印。
+燈光具有電影感和自然感，漫射的日光照亮場景，陰影細節豐富，焦點清晰地聚在女子和棘龍身上，背景元素採用淺景深。恐龍鱗片、牙齒、水珠、樹葉和織物上的超寫實紋理。史詩奇幻寫實主義，戲劇性構圖，垂直構圖，超精細，照片級真實感，4K，電影級調色，無文字，無水印。
 
 [English]
 Ultra-realistic cinematic fantasy scene set in a lush prehistoric jungle valley. A colossal Spinosaurus stands beside a shallow river, its long crocodile-like jaws stretched wide open. Seated calmly inside the dinosaur’s open mouth is a young woman, perfectly centered, legs hanging slightly forward. She has straight dark hair, a composed fearless expression, and realistic skin texture. She is wearing a fitted black long-sleeve crop top, blue denim shorts, and black knee-high combat boots. Small blood smears and light scratches are visible on her clothes and legs, adding dramatic tension without gore. She gently cradles a small baby dinosaur in her arms, holding it protectively.
@@ -4437,18 +4437,18 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
 
 <a name="case-316"></a>
 
-### 例 316：冲破次元壁的写实漫画跑者
+### 例 316：衝破次元壁的寫實漫畫跑者
 
-![冲破次元壁的写实漫画跑者](../data/images/case316.jpg)
+![衝破次元壁的寫實漫畫跑者](../data/images/case316.jpg)
 
-**来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
+**來源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  "prompt": "超写实，一位留着深色短卷发、修剪整齐的胡须和黑色方形眼镜的年轻男子的鲜艳逼真渲染，身穿深色纹理高领毛衣和牛仔裤。他奔跑到一半被捕捉下来，姿态充满动感，向前突破，充满戏剧性地从一个破碎的漫画分镜框中显现——一条腿和一只手臂冲入现实世界，而身体的其余部分仍留在漫画框内。他的表情充满活力和喜悦，拥有锐利的面部细节，自然的皮肤纹理，以及具有高对比度和深度的戏剧性电影灯光。\n\n背景：一个非常详细的黑白漫画布局，充满了幽默、夸张的且与他直接互动的反应场景。周围的漫画人物表现出震惊和喜剧的表情，配有粗体的对话气泡和速度线。漫画分镜采用经典的高对比度水墨风格绘制，线条清晰，网点阴影。撕裂的纸张边缘和碎片增强了他冲破漫画世界的幻觉。全彩色的写实人物与单色的漫画环境形成强烈对比，创造出写实与漫画艺术之间的动态混合体。超精细，8k分辨率，清晰聚焦，戏剧性的阴影，电影级景深。"
+  "prompt": "超寫實，一位留著深色短捲髮、修剪整齊的鬍鬚和黑色方形眼鏡的年輕男子的鮮豔逼真渲染，身穿深色紋理高領毛衣和牛仔褲。他奔跑到一半被捕捉下來，姿態充滿動感，向前突破，充滿戲劇性地從一個破碎的漫畫分鏡框中顯現——一條腿和一隻手臂衝入現實世界，而身體的其餘部分仍留在漫畫框內。他的表情充滿活力和喜悅，擁有銳利的面部細節，自然的皮膚紋理，以及具有高對比度和深度的戲劇性電影燈光。\n\n背景：一個非常詳細的黑白漫畫布局，充滿了幽默、誇張的且與他直接互動的反應場景。周圍的漫畫人物表現出震驚和喜劇的表情，配有粗體的對話氣泡和速度線。漫畫分鏡採用經典的高對比度水墨風格繪製，線條清晰，網點陰影。撕裂的紙張邊緣和碎片增強了他衝破漫畫世界的幻覺。全綵色的寫實人物與單色的漫畫環境形成強烈對比，創造出寫實與漫畫藝術之間的動態混合體。超精細，8k解析度，清晰聚焦，戲劇性的陰影，電影級景深。"
 }
 
 [English]
@@ -4461,29 +4461,29 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
 
 <a name="case-317"></a>
 
-### 例 317：震撼视觉的深红影棚广角美妆大片
+### 例 317：震撼視覺的深紅影棚廣角美妝大片
 
-![震撼视觉的深红影棚广角美妆大片](../data/images/case317.jpg)
+![震撼視覺的深紅影棚廣角美妝大片](../data/images/case317.jpg)
 
-**来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
+**來源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-照片级真实感的大胆美妆宣传活动，使用上传的模特作为精确的身份参考。不做面部改变，不做平滑处理。
-场景：深红色饱和的摄影棚环境，具有高对比度的地板图案或光滑表面。
-产品：产品被握持或放置在极其靠近镜头的位置，由于透视关系显得巨大。
-模特姿势：俏皮或自信的微笑，手臂完全伸向相机，手指因广角镜头而略微变形。透过太阳镜的强烈眼神交流或自然凝视。
-相机：超广角 20–28mm 美学，动态前景夸张，浅至中等景深。
-灯光：强有力的商业照明，具有清晰的高光和反射，锐利的包装边缘，充满活力的调色。超精细的皮肤纹理和织物真实感。
+照片級真實感的大膽美妝宣傳活動，使用上傳的模特作為精確的身份參考。不做面部改變，不做平滑處理。
+場景：深紅色飽和的攝影棚環境，具有高對比度的地板圖案或光滑表面。
+產品：產品被握持或放置在極其靠近鏡頭的位置，由於透視關係顯得巨大。
+模特姿勢：俏皮或自信的微笑，手臂完全伸向相機，手指因廣角鏡頭而略微變形。透過太陽鏡的強烈眼神交流或自然凝視。
+相機：超廣角 20–28mm 美學，動態前景誇張，淺至中等景深。
+燈光：強有力的商業照明，具有清晰的高光和反射，銳利的包裝邊緣，充滿活力的調色。超精細的皮膚紋理和織物真實感。
 
 [English]
-Photorealistic bold beauty campaign using uploaded model as exact identity reference. No facial changes, no smoothing.  
-Scene: deep red saturated studio environment with high-contrast floor pattern or glossy surface.  
-Product: the product held or positioned extremely close to the lens, appearing large due to perspective.   
-Model pose: playful or confident smile, arm fully extended toward camera, fingers slightly distorted by wide lens. Strong eye contact through sunglasses or natural gaze.  
-Camera: ultra-wide 20–28mm aesthetic, dynamic foreground exaggeration, shallow-to-medium depth of field.  
+Photorealistic bold beauty campaign using uploaded model as exact identity reference. No facial changes, no smoothing.
+Scene: deep red saturated studio environment with high-contrast floor pattern or glossy surface.
+Product: the product held or positioned extremely close to the lens, appearing large due to perspective.
+Model pose: playful or confident smile, arm fully extended toward camera, fingers slightly distorted by wide lens. Strong eye contact through sunglasses or natural gaze.
+Camera: ultra-wide 20–28mm aesthetic, dynamic foreground exaggeration, shallow-to-medium depth of field.
 Lighting: punchy commercial lighting with defined highlights and reflections, crisp packaging edges, vibrant color grading. Hyper-detailed skin texture and fabric realism.
 ```
 
@@ -4491,24 +4491,24 @@ Lighting: punchy commercial lighting with defined highlights and reflections, cr
 
 <a name="case-318"></a>
 
-### 例 318：珊瑚色极简影棚时尚商业大片
+### 例 318：珊瑚色極簡影棚時尚商業大片
 
-![珊瑚色极简影棚时尚商业大片](../data/images/case318.jpg)
+![珊瑚色極簡影棚時尚商業大片](../data/images/case318.jpg)
 
-**来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
+**來源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-超写实高端时尚商业广告大片，使用上传的模特照片作为严格的身份参考。保留精确的面部特征、比例和自然皮肤纹理——无修图，无变形。场景：珊瑚色单色工作室盒，配有光泽反光棋盘格或极简抛光地板。拥有柔和光线渐变的干净几何墙壁。产品：产品放置在前景中心超大位置，因广角透视而占据画面主导地位。包装超清晰，文字完全可读，具有逼真的反射和材质纹理。较小的产品单元可对称放置在背景中。模特姿势：站在产品后方，微蹲或前倾，一只手伸向镜头以创造深度感。强烈自信的表情，时尚态度。相机：低角度 24-35mm 镜头感，戏剧性透视畸变，对产品和模特都进行深焦处理。灯光：明亮的商业影棚灯光，柔和阴影，包装上有光泽高光，高端广告成片质感。4K–8K 写实主义，无水印，无嵌入式文本。纵横比 9:13
+超寫實高階時尚商業廣告大片，使用上傳的模特照片作為嚴格的身份參考。保留精確的面部特徵、比例和自然皮膚紋理——無修圖，無變形。場景：珊瑚色單色工作室盒，配有光澤反光棋盤格或極簡拋光地板。擁有柔和光線漸變的乾淨幾何牆壁。產品：產品放置在前景中心超大位置，因廣角透視而佔據畫面主導地位。包裝超清晰，文字完全可讀，具有逼真的反射和材質紋理。較小的產品單元可對稱放置在背景中。模特姿勢：站在產品後方，微蹲或前傾，一隻手伸向鏡頭以創造深度感。強烈自信的表情，時尚態度。相機：低角度 24-35mm 鏡頭感，戲劇性透視畸變，對產品和模特都進行深焦處理。燈光：明亮的商業影棚燈光，柔和陰影，包裝上有光澤高光，高階廣告成片質感。4K–8K 寫實主義，無水印，無嵌入式文字。縱橫比 9:13
 
 [English]
-Ultra-realistic high-fashion commercial campaign using the uploaded model photo as strict identity reference. Preserve exact facial features, proportions and natural skin texture — no retouching, no reshaping.  
-Scene: coral monochrome studio box with glossy reflective checker or minimal polished floor. Clean geometric walls with soft light gradients.  
-Product: the product placed oversized in the center foreground, dominating the frame due to wide-angle perspective. The packaging is ultra-sharp, fully readable, realistic reflections and material texture. Smaller product units can be placed symmetrically in the background.  
-Model pose: standing behind the product, slightly crouched or leaning forward, one hand reaching toward the camera to create depth. Strong confident expression, fashion attitude.  
-Camera: low-angle 24–35mm lens look, dramatic perspective distortion, deep focus on both product and model.  
+Ultra-realistic high-fashion commercial campaign using the uploaded model photo as strict identity reference. Preserve exact facial features, proportions and natural skin texture — no retouching, no reshaping.
+Scene: coral monochrome studio box with glossy reflective checker or minimal polished floor. Clean geometric walls with soft light gradients.
+Product: the product placed oversized in the center foreground, dominating the frame due to wide-angle perspective. The packaging is ultra-sharp, fully readable, realistic reflections and material texture. Smaller product units can be placed symmetrically in the background.
+Model pose: standing behind the product, slightly crouched or leaning forward, one hand reaching toward the camera to create depth. Strong confident expression, fashion attitude.
+Camera: low-angle 24–35mm lens look, dramatic perspective distortion, deep focus on both product and model.
 Lighting: bright commercial studio lighting, soft shadows, glossy highlights on packaging, high-end campaign finish. 4K–8K realism, no watermark, no embedded text.i ar 9:13
 ```
 
@@ -4516,17 +4516,17 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
 
 <a name="case-319"></a>
 
-### 例 319：鸟群织就的梦幻高定时装秀
+### 例 319：鳥群織就的夢幻高定時裝秀
 
-![鸟群织就的梦幻高定时装秀](../data/images/case319.jpg)
+![鳥群織就的夢幻高定時裝秀](../data/images/case319.jpg)
 
-**来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
+**來源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一个充满趣味的高级时装T台场景，主角是一位自信的女性，正走在奢华时装秀的T台上，身穿一件完全由鸟类制成的非凡高级定制礼服。数百只优雅、色彩鲜艳的鸟类构成了飘逸的雕塑感礼服形状，像活着的羽毛一样层叠，翅膀微微张开，营造出布料和运动的错觉。一些鸟儿在她周围轻轻升入空中，捕捉于飞行瞬间，增添了神奇、超现实的运动感。鸟儿们展现出丰富多样的色彩——彩虹般的蓝色、光芒四射的红色、金黄色和柔和的白色——拥有错综复杂的羽毛细节和自然纹理。她在迈步间摆出姿势，带着快乐、自信的表情，富有表现力的眼睛，以及精致的T台妆容。戏剧性的舞台灯光配以发光的高光，黑暗模糊的观众背景，电影级的景深，奇幻现实主义，超精细纹理，高对比度，清晰聚焦，奇思妙想的奢华时装秀，超现实主义高级定制，4K分辨率，专业调色。
+一個充滿趣味的高階時裝T臺場景，主角是一位自信的女性，正走在奢華時裝秀的T臺上，身穿一件完全由鳥類製成的非凡高階定製禮服。數百隻優雅、色彩鮮豔的鳥類構成了飄逸的雕塑感禮服形狀，像活著的羽毛一樣層疊，翅膀微微張開，營造出布料和運動的錯覺。一些鳥兒在她周圍輕輕升入空中，捕捉于飛行瞬間，增添了神奇、超現實的運動感。鳥兒們展現出豐富多樣的色彩——彩虹般的藍色、光芒四射的紅色、金黃色和柔和的白色——擁有錯綜複雜的羽毛細節和自然紋理。她在邁步間擺出姿勢，帶著快樂、自信的表情，富有表現力的眼睛，以及精緻的T臺妝容。戲劇性的舞臺燈光配以發光的高光，黑暗模糊的觀眾背景，電影級的景深，奇幻現實主義，超精細紋理，高對比度，清晰聚焦，奇思妙想的奢華時裝秀，超現實主義高階定製，4K解析度，專業調色。
 
 [English]
 A playful high-fashion runway scene featuring a confident woman walking a luxury fashion show catwalk, wearing an extraordinary couture dress made entirely of birds. Hundreds of elegant, vividly colored birds form the shape of a flowing, sculptural gown, layered like living feathers, with wings partially spread to create the illusion of fabric and motion. Some birds lift gently into the air around her, captured mid-flight, adding a magical, surreal sense of movement. The birds display a rich variety of colors — iridescent blues, radiant reds, golden yellows, and soft whites — with intricate feather details and natural textures. She poses mid-stride with a joyful, confident expression, expressive eyes, and refined runway makeup. Dramatic stage lighting with glowing highlights, dark blurred audience background, cinematic depth of field, fantasy realism, ultra-detailed textures, high contrast, sharp focus, whimsical luxury fashion show, surreal couture, 4K resolution, professional color grading.
@@ -4536,17 +4536,17 @@ A playful high-fashion runway scene featuring a confident woman walking a luxury
 
 <a name="case-320"></a>
 
-### 例 320：冰火双雄背靠背史诗电影海报
+### 例 320：冰火雙雄背靠背史詩電影海報
 
-![冰火双雄背靠背史诗电影海报](../data/images/case320.jpg)
+![冰火雙雄背靠背史詩電影海報](../data/images/case320.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)
+**來源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一幅戏剧性的电影海报风格肖像，描绘了两位史诗奇幻战士在冰冻风暴中背靠背站立。左侧是一位身经百战的男性战士，留着湿漉漉的深色卷发，低头以此表达坚定的决心，紧握着一把插在冰里的中世纪长剑。霜雪附着在他毛皮镶边的斗篷和肩膀上。右侧是一位强有力的女性战士侧影，苍白的皮肤在炽热的橙色光芒下闪耀，她的身体部分被火焰吞没，与冰冷的蓝色氛围形成对比。雪花粒子在空中盘旋，在象征性的冲突中融合了火与冰。超精细的面部细节，情感强度，体积雾，电影级布光，冷蓝色调混合温暖的火焰高光，浅景深，史诗奇幻电影海报，超写实，8K分辨率，戏剧性构图，清晰聚焦，高对比度，逼真纹理。
+一幅戲劇性的電影海報風格肖像，描繪了兩位史詩奇幻戰士在冰凍風暴中背靠背站立。左側是一位身經百戰的男性戰士，留著溼漉漉的深色捲髮，低頭以此表達堅定的決心，緊握著一把插在冰裡的中世紀長劍。霜雪附著在他毛皮鑲邊的斗篷和肩膀上。右側是一位強有力的女性戰士側影，蒼白的皮膚在熾熱的橙色光芒下閃耀，她的身體部分被火焰吞沒，與冰冷的藍色氛圍形成對比。雪花粒子在空中盤旋，在象徵性的衝突中融合了火與冰。超精細的面部細節，情感強度，體積霧，電影級布光，冷藍色調混合溫暖的火焰高光，淺景深，史詩奇幻電影海報，超寫實，8K解析度，戲劇性構圖，清晰聚焦，高對比度，逼真紋理。
 
 [English]
 A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.
@@ -4556,29 +4556,29 @@ A dramatic cinematic poster-style portrait of two epic fantasy warriors standing
 
 <a name="case-321"></a>
 
-### 例 321：都市落日时尚大片
+### 例 321：都市落日時尚大片
 
-![都市落日时尚大片](../data/images/case321.jpg)
+![都市落日時尚大片](../data/images/case321.jpg)
 
-**来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/urban-sunset-fashion-silhouette)
+**來源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/urban-sunset-fashion-silhouette)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一张超现实电影感时尚照片，一位二十出头惊艳的年轻女性，全身可见，站在现代城市中心，黄金时段。  
-她随意地单肩靠在交通信号灯杆上，没有意识到相机的存在，仿佛这一刻是自然捕捉的。  
-她穿着紧身蓝色牛仔裤、棕色皮靴，以及一件短款棕色麂皮夹克，带有柔软羊皮翻领。夹克下，一件极简深色露脐上衣，隐约露出精致的乳沟和紧致的腹部。  
+一張超現實電影感時尚照片，一位二十出頭驚豔的年輕女性，全身可見，站在現代城市中心，黃金時段。
+她隨意地單肩靠在交通訊號燈杆上，沒有意識到相機的存在，彷彿這一刻是自然捕捉的。
+她穿著緊身藍色牛仔褲、棕色皮靴，以及一件短款棕色麂皮夾克，帶有柔軟羊皮翻領。夾克下，一件極簡深色露臍上衣，隱約露出精緻的乳溝和緊緻的腹部。
 
-她的体型天生女性化，均衡而优雅，姿态自信。  
-一只手穿过她丰盈的浅棕色长发，将其向后撩起，头部微微转向那一侧，眼睛自然地看向别处，没有摆拍。  
+她的體型天生女性化，均衡而優雅，姿態自信。
+一隻手穿過她豐盈的淺棕色長髮，將其向後撩起，頭部微微轉向那一側，眼睛自然地看向別處，沒有擺拍。
 
-肤色为轻微日晒后的奶油般柔和光泽，真实肌肤纹理，细腻毛孔与高光——毫无塑料感。  
-妆容醒目却精致：清晰的眼部、浓密睫毛、立体腮红、柔和修容，以及自然光泽唇——具备高端美妆广告质感。  
-光线为温暖金色时段阳光，包裹她的轮廓与发丝，营造柔和高光与电影感对比。  
-背景为城市街道，汽车与都市灯光以强烈散景呈现，浅景深——焦点锁定在女性身上。  
+膚色為輕微日曬後的奶油般柔和光澤，真實肌膚紋理，細膩毛孔與高光——毫無塑膠感。
+妝容醒目卻精緻：清晰的眼部、濃密睫毛、立體腮紅、柔和修容，以及自然光澤唇——具備高階美妝廣告質感。
+光線為溫暖金色時段陽光，包裹她的輪廓與髮絲，營造柔和高光與電影感對比。
+背景為城市街道，汽車與都市燈光以強烈散景呈現，淺景深——焦點鎖定在女性身上。
 
-使用全画幅电影摄影机拍摄，85mm镜头，f/1.8，超现实细节，高动态范围，电影级调色，胶片质感，顶级时尚大片美学，高预算电影剧照氛围。
+使用全畫幅電影攝影機拍攝，85mm鏡頭，f/1.8，超現實細節，高動態範圍，電影級調色，膠片質感，頂級時尚大片美學，高預算電影劇照氛圍。
 
 [English]
 A hyper-realistic cinematic fashion photograph of a stunning young woman in her early 20s, full body visible, standing in a modern city center during golden hour.
@@ -4600,17 +4600,17 @@ Shot on a full-frame cinema camera, 85mm lens, f/1.8, ultra-realistic detail, hi
 
 <a name="case-322"></a>
 
-### 例 322：街头炫瓶男模
+### 例 322：街頭炫瓶男模
 
-![街头炫瓶男模](../data/images/case322.jpg)
+![街頭炫瓶男模](../data/images/case322.jpg)
 
-**来源：** [@ecommartinez](https://x.com/ecommartinez/status/2017311074551533921)
+**來源：** [@ecommartinez](https://x.com/ecommartinez/status/2017311074551533921)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-专业照片，一位男士，30岁的俄罗斯模特（参考图像），正对着镜头，向相机倾斜，从下往上拍摄，使用广角镜头。男士倾斜着身体，近距离将一瓶饮料展示给镜头，一只手拿着瓶子，紧贴在镜头前。瓶子的标签和方向保持笔直，以便标签清晰可读。他穿着白色运动鞋，一只脚在镜头前方。男士站在街道上，湿漉漉的沥青和飞溅的水花从下方拍出。鲜艳的色彩，电影级灯光，光线从后方打在模特的脸上。--v7 --ar 3:4 --style raw
+專業照片，一位男士，30歲的俄羅斯模特（參考影象），正對著鏡頭，向相機傾斜，從下往上拍攝，使用廣角鏡頭。男士傾斜著身體，近距離將一瓶飲料展示給鏡頭，一隻手拿著瓶子，緊貼在鏡頭前。瓶子的標籤和方向保持筆直，以便標籤清晰可讀。他穿著白色運動鞋，一隻腳在鏡頭前方。男士站在街道上，溼漉漉的瀝青和飛濺的水花從下方拍出。鮮豔的色彩，電影級燈光，光線從後方打在模特的臉上。--v7 --ar 3:4 --style raw
 
 [English]
 Professional photo, a guy, a 30-year-old Russian model (reference image), is facing the lens, tilted towards the camera, angle from below, shot with a wide-angle lens. The guy is tilted and shows a bottle close-up to the camera, a hand with a bottle close-up right in front of the lens. The label and direction of the bottle are straight so the label is readable. He's wearing white sneakers, one foot in front of the camera. The guy is standing on the street, wet asphalt and splashes from below. Bright colors, cinematic lighting, the light is behind and on the model’s face. --v7 --ar 3:4 --style raw
@@ -4620,13 +4620,13 @@ Professional photo, a guy, a 30-year-old Russian model (reference image), is fac
 
 <a name="case-323"></a>
 
-### 例 323：应用界面样机图
+### 例 323：應用介面樣機圖
 
-![超真实3D INS广告大片](../data/images/case323.jpg)
+![超真實3D INS廣告大片](../data/images/case323.jpg)
 
-**来源：** [@Mystveil7](https://x.com/Mystveil7/status/2015776042989039997)
+**來源：** [@Mystveil7](https://x.com/Mystveil7/status/2015776042989039997)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a hyper-realistic, cinematic Instagram post layout where the Instagram UI exists as a physical, tangible 3D object, photographed like a premium commercial product shot. The result should feel indistinguishable from a real studio photograph.
@@ -4706,17 +4706,17 @@ Looks like a real product photoshoot, not AI art
 
 <a name="case-324"></a>
 
-### 例 324：复古巴士上的红风衣女郎
+### 例 324：復古巴士上的紅風衣女郎
 
-![复古巴士上的红风衣女郎](../data/images/case324.jpg)
+![復古巴士上的紅風衣女郎](../data/images/case324.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
+**來源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一位时尚年轻女子坐在老式复古巴士的前缘，身穿红色长风衣、羊毛无檐小便帽、圆形蓝色反光太阳镜、叠层项链和粗犷的棕色皮靴。她有着波浪状金发，带着自信而梦幻的表情，仰望天空。巴士漆面剥落，呈青绿色与铁锈红色调。明亮清澈的蓝天，城市背景建筑极少，柔和日光，电影级色彩分级，浅景深，高端时尚旅行氛围，编辑摄影，超写实，4K分辨率，锐利对焦，自然肌肤质感，戏剧性构图，电影静帧美学。
+一位時尚年輕女子坐在老式復古巴士的前緣，身穿紅色長風衣、羊毛無簷小便帽、圓形藍色反光太陽鏡、疊層項鍊和粗獷的棕色皮靴。她有著波浪狀金髮，帶著自信而夢幻的表情，仰望天空。巴士漆面剝落，呈青綠色與鐵鏽紅色調。明亮清澈的藍天，城市背景建築極少，柔和日光，電影級色彩分級，淺景深，高階時尚旅行氛圍，編輯攝影，超寫實，4K解析度，銳利對焦，自然肌膚質感，戲劇性構圖，電影靜幀美學。
 
 [English]
 A stylish young woman sitting on the front edge of an old vintage bus, wearing a long red trench coat, woolen beanie cap, round blue reflective sunglasses, layered necklaces, and rugged brown leather boots. She has wavy blonde hair and a confident, dreamy expression, looking upward toward the sky. The bus is weathered with peeling paint in turquoise and rust red tones.Bright clear blue sky, urban background with minimal buildings, soft daylight, cinematic color grading, shallow depth of field, high fashion travel vibe, editorial photography, ultra-realistic, 4K resolution, sharp focus, natural skin texture, dramatic composition, film still aesthetic.
@@ -4726,17 +4726,17 @@ A stylish young woman sitting on the front edge of an old vintage bus, wearing a
 
 <a name="case-325"></a>
 
-### 例 325：皮克斯风阳光少年
+### 例 325：皮克斯風陽光少年
 
-![皮克斯风阳光少年](../data/images/case325.jpg)
+![皮克斯風陽光少年](../data/images/case325.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
+**來源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一个风格化的3D卡通肖像，一位年轻男子，拥有短棕发和富有表现力的绿色眼睛，温暖地微笑。他穿着黑色西装外套内搭白色T恤，现代休闲时尚。类似皮克斯/迪士尼风格角色设计，皮肤光滑，柔和光照，略微夸张的面部特征。高细节、精美的3D渲染，友好且平易近人的表情。渐变背景为柔和的蓝绿色和粉色，工作室灯光，浅景深，高分辨率。
+一個風格化的3D卡通肖像，一位年輕男子，擁有短棕發和富有表現力的綠色眼睛，溫暖地微笑。他穿著黑色西裝外套內搭白色T恤，現代休閒時尚。類似皮克斯/迪士尼風格角色設計，皮膚光滑，柔和光照，略微誇張的面部特徵。高細節、精美的3D渲染，友好且平易近人的表情。漸變背景為柔和的藍綠色和粉色，工作室燈光，淺景深，高解析度。
 
 [English]
 A stylized 3D cartoon portrait of a young man with short brown hair and expressive green eyes, smiling warmly. He is wearing a black blazer over a white t-shirt, modern casual fashion. Pixar-like / Disney-style character design with smooth skin, soft lighting, and slightly exaggerated facial features. High detail, polished 3D render, friendly and approachable expression. Gradient background with soft teal and pink colors, studio lighting, shallow depth of field, high resolution.
@@ -4746,57 +4746,57 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 <a name="case-326"></a>
 
-### 例 326：红蓝撞色高跟诱惑
+### 例 326：紅藍撞色高跟誘惑
 
-![红蓝撞色高跟诱惑](../data/images/case326.jpg)
+![紅藍撞色高跟誘惑](../data/images/case326.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
+**來源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
   "global_settings": {
     "resolution": "8K",
-    "quality": "超高清晰度",
+    "quality": "超高畫質晰度",
     "aspect_ratio": "2:3",
-    "render_style": "AI编辑、高细节3D渲染",
-    "lighting_quality": "柔和影棚光与逼真阴影",
-    "sharpness": "极致清晰、锐利边缘",
-    "noise": "无",
-    "compression": "无"
+    "render_style": "AI編輯、高細節3D渲染",
+    "lighting_quality": "柔和影棚光與逼真陰影",
+    "sharpness": "極致清晰、銳利邊緣",
+    "noise": "無",
+    "compression": "無"
   },
   "image_style": {
     "subject": {
-      "character_type": "风格化3D卡通女性",
-      "pose": "微微后仰靠在背景上",
-      "expression": "俏皮、嘴唇轻撅、眼睛斜视",
+      "character_type": "風格化3D卡通女性",
+      "pose": "微微後仰靠在背景上",
+      "expression": "俏皮、嘴唇輕撅、眼睛斜視",
       "hair": {
         "color": "棕色",
-        "style": "短发、凌乱",
-        "accessories": "红色太阳镜架在头顶"
+        "style": "短髮、凌亂",
+        "accessories": "紅色太陽鏡架在頭頂"
       }
     },
     "clothing": {
-      "dress": "贴身蓝色罗纹吊带裙",
-      "footwear": "红色高跟凉鞋配蝴蝶结"
+      "dress": "貼身藍色羅紋吊帶裙",
+      "footwear": "紅色高跟涼鞋配蝴蝶結"
     },
     "color_palette": [
-      "大胆红色",
-      "深蓝"
+      "大膽紅色",
+      "深藍"
     ],
     "background": {
-      "color": "纯红色",
-      "texture": "光滑哑光表面"
+      "color": "純紅色",
+      "texture": "光滑啞光表面"
     },
     "lighting": {
-      "direction": "一侧柔和定向光",
-      "shadow": "在红色背景上投下清晰影子"
+      "direction": "一側柔和定向光",
+      "shadow": "在紅色背景上投下清晰影子"
     },
     "composition": {
       "framing": "全身",
-      "pose_emphasis": "弯曲身姿、交叉双腿"
+      "pose_emphasis": "彎曲身姿、交叉雙腿"
     }
   }
 }
@@ -4852,144 +4852,144 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 <a name="case-327"></a>
 
-### 例 327：沉香玫瑰悬浮幻景
+### 例 327：沉香玫瑰懸浮幻景
 
-![沉香玫瑰悬浮幻景](../data/images/case327.jpg)
+![沉香玫瑰懸浮幻景](../data/images/case327.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
+**來源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  "master_prompt_type": "超精细8K AI图像生成",
+  "master_prompt_type": "超精細8K AI影象生成",
   "global_settings": {
     "resolution": "8K UHD",
-    "aspect_ratio": "2:3 竖版",
-    "render_quality": "极致锐度、超微细节、电影级光效",
-    "style": "超现实商业产品摄影",
-    "color_profile": "温暖金调搭配柔和琥珀高光",
+    "aspect_ratio": "2:3 豎版",
+    "render_quality": "極致銳度、超微細節、電影級光效",
+    "style": "超現實商業產品攝影",
+    "color_profile": "溫暖金調搭配柔和琥珀高光",
     "environment": {
-      "location": "古老中东市场走廊",
+      "location": "古老中東市場走廊",
       "architecture": {
-        "walls": "岁月痕迹的粗糙石墙与可见纹理",
+        "walls": "歲月痕跡的粗糙石牆與可見紋理",
         "arches": "背景巨型石拱",
         "floor": "暖棕色石材地面"
       },
       "background_elements": [
-        "装满香料的木架",
-        "袋装与碗装干货",
-        "悬挂草药束",
-        "散发暖黄光的传统金属灯笼"
+        "裝滿香料的木架",
+        "袋裝與碗裝乾貨",
+        "懸掛草藥束",
+        "散發暖黃光的傳統金屬燈籠"
       ],
       "lighting": {
-        "primary": "柔和金色环境光",
-        "secondary": "两侧暖灯笼辉光",
-        "atmosphere": "薄雾增强光线漫射"
+        "primary": "柔和金色環境光",
+        "secondary": "兩側暖燈籠輝光",
+        "atmosphere": "薄霧增強光線漫射"
       }
     },
     "main_subject": {
       "type": "香水瓶",
       "position": "中心前景",
-      "placement": "置于华丽木桌之上",
+      "placement": "置於華麗木桌之上",
       "material": {
         "bottle": "透明清玻璃",
-        "cap": "黄金金属矩形瓶盖",
-        "liquid": "淡金香水液体"
+        "cap": "黃金金屬矩形瓶蓋",
+        "liquid": "淡金香水液體"
       },
       "design": {
-        "shape": "圆角矩形瓶身",
+        "shape": "圓角矩形瓶身",
         "finish": "高光反射表面",
-        "label": "无可见标签"
+        "label": "無可見標籤"
       },
       "table": {
         "material": "深色雕花木材",
-        "shape": "方形台面",
+        "shape": "方形檯面",
         "details": [
-          "繁复花卉与几何雕刻",
-          "金色镶嵌装饰",
-          "抛光表面映光"
+          "繁複花卉與幾何雕刻",
+          "金色鑲嵌裝飾",
+          "拋光表面映光"
         ]
       },
       "floating_elements": {
-        "composition_style": "竖向成分堆叠",
-        "motion": "成分悬浮并伴随旋转金光",
+        "composition_style": "豎向成分堆疊",
+        "motion": "成分懸浮並伴隨旋轉金光",
         "effects": [
-          "发光粒子",
-          "闪耀尘埃",
-          "柔光尾迹连接元素"
+          "發光粒子",
+          "閃耀塵埃",
+          "柔光尾跡連線元素"
         ],
         "elements_order_top_to_bottom": [
           {
-            "ingredient": "琥珀树脂",
-            "appearance": "半透明金棕树脂块",
-            "glow": "温暖内发光"
+            "ingredient": "琥珀樹脂",
+            "appearance": "半透明金棕樹脂塊",
+            "glow": "溫暖內發光"
           },
           {
-            "ingredient": "大马士革玫瑰",
+            "ingredient": "大馬士革玫瑰",
             "appearance": "盛放粉色玫瑰",
             "details": [
-              "柔软层叠花瓣",
-              "自然绿叶",
-              "轻飘附近花瓣"
+              "柔軟層疊花瓣",
+              "自然綠葉",
+              "輕飄附近花瓣"
             ]
           },
           {
             "ingredient": "白麝香",
-            "appearance": "光滑白水晶状石块",
-            "additional": "石下细白粉末"
+            "appearance": "光滑白水晶狀石塊",
+            "additional": "石下細白粉末"
           },
           {
-            "ingredient": "陈年沉香",
+            "ingredient": "陳年沉香",
             "appearance": "深棕木片",
-            "texture": "粗糙纤维木纹",
-            "effect": "缕缕白烟上升"
+            "texture": "粗糙纖維木紋",
+            "effect": "縷縷白煙上升"
           }
         ]
       },
       "text_elements": {
         "title": {
-          "text": "精致叙利亚香水",
-          "font_style": "优雅衬线体",
+          "text": "精緻敘利亞香水",
+          "font_style": "優雅襯線體",
           "color": "金色",
-          "position": "顶部中央"
+          "position": "頂部中央"
         },
         "subtitle": {
-          "text": "奢华叙利亚香水",
-          "font_style": "较小衬线体",
+          "text": "奢華敘利亞香水",
+          "font_style": "較小襯線體",
           "color": "金色",
-          "position": "主标题下方"
+          "position": "主標題下方"
         },
         "ingredient_labels": [
           {
-            "title": "纯琥珀",
-            "description": "来自自然深处的珍贵树脂"
+            "title": "純琥珀",
+            "description": "來自自然深處的珍貴樹脂"
           },
           {
-            "title": "大马士革玫瑰",
-            "description": "美丽与叙利亚传承的象征"
+            "title": "大馬士革玫瑰",
+            "description": "美麗與敘利亞傳承的象徵"
           },
           {
             "title": "白麝香",
-            "description": "干净、粉感、永恒优雅的香氛"
+            "description": "乾淨、粉感、永恆優雅的香氛"
           },
           {
-            "title": "陈年沉香",
-            "description": "深邃温暖、浓郁烟熏木香"
+            "title": "陳年沉香",
+            "description": "深邃溫暖、濃郁煙燻木香"
           }
         ],
         "typography_details": {
-          "connector_lines": "细弯金线连接文字与成分",
-          "icons": "线末端小圆点标记"
+          "connector_lines": "細彎金線連線文字與成分",
+          "icons": "線末端小圓點標記"
         },
-        "opacity": "轻微半透明"
+        "opacity": "輕微半透明"
       }
     },
     "overall_mood": {
-      "tone": "奢华、温暖、优雅",
-      "theme": "传承香水工艺",
-      "visual_feel": "浓郁、高端、电影级广告"
+      "tone": "奢華、溫暖、優雅",
+      "theme": "傳承香水工藝",
+      "visual_feel": "濃郁、高階、電影級廣告"
     }
   }
 }
@@ -5106,16 +5106,16 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 ![俯拍巨女城景自拍](../data/images/case328.jpg)
 
-**来源：** [@saniaspeaks\_](https://x.com/saniaspeaks_/status/2009834337043394622)
+**來源：** [@saniaspeaks\_](https://x.com/saniaspeaks_/status/2009834337043394622)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
 {
-  "type": "图像生成提示词",
+  "type": "影象生成提示詞",
   "language": "zh",
-  "style": "超现实电影感自拍摄影",
+  "style": "超現實電影感自拍攝影",
   "aspect_ratio": "9:16",
   "identity_preservation": {
     "use_reference_image": true,
@@ -5124,84 +5124,84 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
     "alter_skin": false,
     "alter_hair": false,
     "alter_gender": false,
-    "notes": "保留上传参考图像中完全一致的脸部特征、皮肤纹理、头发、眼镜、年龄和性别。禁止合成皮肤或雕塑感。"
+    "notes": "保留上傳參考影象中完全一致的臉部特徵、皮膚紋理、頭髮、眼鏡、年齡和性別。禁止合成皮膚或雕塑感。"
   },
   "subject": {
     "gender": "女性",
-    "capture_method": "由主体本人拍摄的自拍",
+    "capture_method": "由主體本人拍攝的自拍",
     "pose": {
       "selfie_arm": {
-        "description": "一只手臂完全伸直并完全向上伸展，手持拍摄自拍的相机",
-        "visibility": "手臂在画面中清晰可见、笔直且占主导地位",
-        "camera_visibility": "自拍相机设备本身不得在画面中出现"
+        "description": "一隻手臂完全伸直並完全向上伸展，手持拍攝自拍的相機",
+        "visibility": "手臂在畫面中清晰可見、筆直且占主導地位",
+        "camera_visibility": "自拍相機裝置本身不得在畫面中出現"
       },
       "product_arm": {
-        "description": "另一只手臂完全伸向相机，手持附带的佳能相机",
-        "importance": "产品最靠近相机并在视觉上占主导地位"
+        "description": "另一隻手臂完全伸向相機，手持附帶的佳能相機",
+        "importance": "產品最靠近相機並在視覺上占主導地位"
       },
       "head": {
-        "tilt": "头部向自拍相机微微倾斜"
+        "tilt": "頭部向自拍相機微微傾斜"
       },
-      "expression": "自然放松的面部表情"
+      "expression": "自然放鬆的面部表情"
     },
-    "body_visibility": "从头到脚全身可见",
-    "feet": "双脚清晰接触路面"
+    "body_visibility": "從頭到腳全身可見",
+    "feet": "雙腳清晰接觸路面"
   },
   "composition": {
-    "perspective": "胸部高度的自然自拍视角",
-    "camera_angle": "极端俯拍角度，相机位于主体正上方并直视下方",
+    "perspective": "胸部高度的自然自拍視角",
+    "camera_angle": "極端俯拍角度，相機位於主體正上方並直視下方",
     "layer_depth": [
-      "产品（最靠近相机）",
-      "脸部",
+      "產品（最靠近相機）",
+      "臉部",
       "全身",
-      "城市环境（背景）"
+      "城市環境（背景）"
     ]
   },
   "scale_and_perspective": {
-    "effect": "强制透视",
-    "subject_scale": "女性呈现极度巨大",
-    "buildings_scale": "建筑物显得小得多，最高不超过她的膝盖",
-    "dominance": "主体在视觉上完全主导整个场景",
-    "realism": "激发规模感同时保持物理可信"
+    "effect": "強制透視",
+    "subject_scale": "女性呈現極度巨大",
+    "buildings_scale": "建築物顯得小得多，最高不超過她的膝蓋",
+    "dominance": "主體在視覺上完全主導整個場景",
+    "realism": "激發規模感同時保持物理可信"
   },
   "environment": {
-    "location": "真实城市十字路口",
+    "location": "真實城市十字路口",
     "elements": [
-      "人行横道",
-      "道路标线",
-      "交通标志",
-      "汽车",
-      "自行车",
-      "真实人类尺度的行人"
+      "人行橫道",
+      "道路標線",
+      "交通標誌",
+      "汽車",
+      "腳踏車",
+      "真實人類尺度的行人"
     ],
-    "setting": "地面层城市环境"
+    "setting": "地面層城市環境"
   },
   "lighting": {
     "type": "自然日光",
-    "conditions": "晴朗或轻度多云天空",
-    "shadows": "柔和且真实",
-    "restrictions": "禁止奇幻或戏剧性照明"
+    "conditions": "晴朗或輕度多雲天空",
+    "shadows": "柔和且真實",
+    "restrictions": "禁止奇幻或戲劇性照明"
   },
   "product_rules": {
-    "usage": "完全按提供的上传佳能产品使用",
-    "distortion": "无",
-    "logo": "保持不变",
-    "appearance": "仅有自然反射和真实高光"
+    "usage": "完全按提供的上傳佳能產品使用",
+    "distortion": "無",
+    "logo": "保持不變",
+    "appearance": "僅有自然反射和真實高光"
   },
   "camera_quality": {
-    "realism": "最大照片真实感",
-    "depth": "前景、主体与背景清晰分离",
-    "artifacts": "无"
+    "realism": "最大照片真實感",
+    "depth": "前景、主體與背景清晰分離",
+    "artifacts": "無"
   },
   "constraints": [
-    "禁止AI艺术感",
-    "禁止塑料或雕塑皮肤",
-    "禁止扭曲脸部或身体",
-    "禁止多余肢体或错误解剖",
+    "禁止AI藝術感",
+    "禁止塑膠或雕塑皮膚",
+    "禁止扭曲臉部或身體",
+    "禁止多餘肢體或錯誤解剖",
     "禁止文字或水印",
-    "禁止可见自拍相机设备"
+    "禁止可見自拍相機裝置"
   ],
-  "output_goal": "创作一张超现实电影感自拍图像：女性使用其确切参考身份，从极端俯拍视角在真实城市人行横道拍摄，具备强制透视比例、自然日光，并将佳能相机产品明显持向镜头。"
+  "output_goal": "創作一張超現實電影感自拍影象：女性使用其確切參考身份，從極端俯拍視角在真實城市人行橫道拍攝，具備強制透視比例、自然日光，並將佳能相機產品明顯持向鏡頭。"
 }
 
 [English]
@@ -5302,17 +5302,17 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 <a name="case-329"></a>
 
-### 例 329：烬甲猎鹰者与燃翼神禽
+### 例 329：燼甲獵鷹者與燃翼神禽
 
-![烬甲猎鹰者与燃翼神禽](../data/images/case329.jpg)
+![燼甲獵鷹者與燃翼神禽](../data/images/case329.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)
+**來源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [中文]
-一幅充满奇幻色彩的电影场景：一位英姿飒爽的女战士兼猎鹰师，身着饱经战火洗礼、饰以闪耀余烬纹理的皮甲，漫步于幽暗迷雾笼罩的森林之中。她高举手臂，指挥着一头巨大的凤凰与雄鹰的混合体，这头猛禽双翼燃烧，羽毛燃焰，尖端喷吐着火焰。它周身散发着橙红色的熔岩光芒，火星和余烬飞溅。女战士梳着辫子，皮肤上沾满了灰烬，神情坚定，手中拿着绳索和工具袋。画面细节丰富，羽毛纹理逼真，火焰物理效果自然，光照效果极具戏剧性，运用了体积雾、浅景深等技术，营造出史诗般的奇幻氛围，色彩调校极具电影质感，背景阴郁深沉，分辨率高达8K，呈现出概念艺术的精髓，并采用了虚幻引擎的渲染效果。
+一幅充滿奇幻色彩的電影場景：一位英姿颯爽的女戰士兼獵鷹師，身著飽經戰火洗禮、飾以閃耀餘燼紋理的皮甲，漫步於幽暗迷霧籠罩的森林之中。她高舉手臂，指揮著一頭巨大的鳳凰與雄鷹的混合體，這頭猛禽雙翼燃燒，羽毛燃焰，尖端噴吐著火焰。它周身散發著橙紅色的熔岩光芒，火星和餘燼飛濺。女戰士梳著辮子，皮膚上沾滿了灰燼，神情堅定，手中拿著繩索和工具袋。畫面細節豐富，羽毛紋理逼真，火焰物理效果自然，光照效果極具戲劇性，運用了體積霧、淺景深等技術，營造出史詩般的奇幻氛圍，色彩調校極具電影質感，背景陰鬱深沉，解析度高達8K，呈現出概念藝術的精髓，並採用了虛幻引擎的渲染效果。
 
 [English]
 A cinematic fantasy scene of a fierce female use image for face reference warrior falconer walking through a dark misty forest, wearing battle-worn leather armor infused with glowing ember textures. Her arm is raised, commanding a massive phoenix-eagle hybrid with blazing wings and flaming feathers, fire trailing from its tips. The bird radiates molten orange and red light, casting sparks and embers into the air.The warrior has braided hair, ash-streaked skin, and a determined expression, carrying a rope and utility pouch. Ultra-detailed feathers, realistic fire physics, dramatic lighting, volumetric fog, shallow depth of field, epic fantasy atmosphere, hyper-realistic, cinematic color grading, dark moody background, 8k, concept art, unreal engine quality.
@@ -5322,144 +5322,144 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-330"></a>
 
-### 例 330：月下美女直播画面
+### 例 330：月下美女直播畫面
 
-![月下美女直播画面](../data/images/case330.png)
+![月下美女直播畫面](../data/images/case330.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-生成一张直播间的图片，直播间氛围是月下美女跳舞的画面，直播间有很多人评论
+生成一張直播間的圖片，直播間氛圍是月下美女跳舞的畫面，直播間有很多人留言
 ```
 
 ***
 
 <a name="case-331"></a>
 
-### 例 331：西安手绘水彩城市地图
+### 例 331：西安手繪水彩城市地圖
 
-![西安手绘水彩城市地图](../data/images/case331.png)
+![西安手繪水彩城市地圖](../data/images/case331.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色
+生成一張手繪水彩風格的「西安」城市地圖，包含當地特色美食、地標建築及城市特色
 ```
 
 ***
 
 <a name="case-332"></a>
 
-### 例 332：茶π产品宣传海报
+### 例 332：茶π產品宣傳海報
 
-![茶π产品宣传海报](../data/images/case332.png)
+![茶π產品宣傳海報](../data/images/case332.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-帮这个产品生成宣传图
+幫這個產品生成宣傳圖
 ```
 
 ***
 
 <a name="case-333"></a>
 
-### 例 333：AI 眼镜爆炸拆解图
+### 例 333：AI 眼鏡爆炸拆解圖
 
-![AI 眼镜爆炸拆解图](../data/images/case333.png)
+![AI 眼鏡爆炸拆解圖](../data/images/case333.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
+生成一張AI眼鏡的爆炸檢視，包含每個元件的名稱以及這款產品的幾大核心賣點。
 ```
 
 ***
 
 <a name="case-334"></a>
 
-### 例 334：RAG 技术详解图
+### 例 334：RAG 技術詳解圖
 
-![RAG 技术详解图](../data/images/case334.png)
+![RAG 技術詳解圖](../data/images/case334.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-帮我生成一张 RAG 技术的详细讲解图
+幫我生成一張 RAG 技術的詳細講解圖
 ```
 
 ***
 
 <a name="case-335"></a>
 
-### 例 335：朋友圈截图生成
+### 例 335：朋友圈截圖生成
 
-![朋友圈截图生成](../data/images/case335.png)
+![朋友圈截圖生成](../data/images/case335.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-原文未公开，重点展示 GPT-Image2 在高仿社交截图与中文排版场景中的能力。
+原文未公開，重點展示 GPT-Image2 在高仿社交截圖與中文排版場景中的能力。
 ```
 
 ***
 
 <a name="case-336"></a>
 
-### 例 336：个人网页视觉设计
+### 例 336：個人網頁視覺設計
 
-![个人网页视觉设计](../data/images/case336.png)
+![個人網頁視覺設計](../data/images/case336.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。
+原文未公開，案例目標是生成一張高完成度的個人主頁視覺設計圖。
 ```
 
 ***
 
 <a name="case-337"></a>
 
-### 例 337：《短歌行》诗词意境图
+### 例 337：《短歌行》詩詞意境圖
 
-![短歌行诗词意境图](../data/images/case337.png)
+![短歌行詩詞意境圖](../data/images/case337.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
+幫我生成一張《短歌行》的意境圖，帶整篇《短歌行》文字
 ```
 
 ***
 
 <a name="case-338"></a>
 
-### 例 338：《赤壁怀古》长卷图
+### 例 338：《赤壁懷古》長卷圖
 
-![赤壁怀古长卷图](../data/images/case338.png)
+![赤壁懷古長卷圖](../data/images/case338.png)
 
-**来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
+**來源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
-**提示词：**
+**提示詞：**
 
 ```text
-帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
+幫我生成一張《赤壁懷古》的長卷圖，帶整篇《赤壁賦》文字
 ```
 
 ***
@@ -5470,143 +5470,143 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 <a name="case-339"></a>
 
-### 例 339：Apple 风格自然科普海报
+### 例 339：Apple 風格自然科普海報
 
-![Apple风格自然科普海报](../data/images/case339.jpg)
+![Apple風格自然科普海報](../data/images/case339.jpg)
 
-**来源：** [@berryxia](https://x.com/berryxia/status/2048251413147644100)
+**來源：** [@berryxia](https://x.com/berryxia/status/2048251413147644100)
 
-**提示词：**
+**提示詞：**
 
 ```text
-你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。
+你是一個高階自然科普海報生成系統，目標是為稀有動物、昆蟲、爬行動物、哺乳動物或其他小眾生物生成 Apple keynote 風格的高階科普視覺海報。
 
-整体视觉方向：
-生成一张 9:16 竖版高级科普海报，画面采用极简、纯白、干净、现代、Apple 式产品发布海报语言。背景应为纯白或极浅灰白渐变，保持大量留白。整体设计应具备高级感、克制感、视觉冲击力和科学展示感。
+整體視覺方向：
+生成一張 9:16 豎版高階科普海報，畫面採用極簡、純白、乾淨、現代、Apple 式產品發布海報語言。背景應為純白或極淺灰白漸變，保持大量留白。整體設計應具備高階感、克制感、視覺衝擊力和科學展示感。
 
-核心设计原则：
-1. 主体动物必须被极度放大，成为画面最强视觉中心。
-2. 主体应具有强烈立体感、真实质感、高清细节和柔和棚拍光影。
-3. 海报信息要少而准，避免拥挤。
-4. 不使用传统信息图的卡片、圆角框、复杂底纹、淡黄色纸张质感或装饰性边框。
-5. 底部信息区只使用四列极简 icon + 标题 + 短说明，通过细竖线分隔。
-6. 文字排版要像高端发布会视觉，标题巨大，副标题克制，正文小而清晰。
-7. 风格关键词：Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster.
+核心設計原則：
+1. 主體動物必須被極度放大，成為畫面最強視覺中心。
+2. 主體應具有強烈立體感、真實質感、高畫質細節和柔和棚拍光影。
+3. 海報資訊要少而準，避免擁擠。
+4. 不使用傳統資訊圖表的卡片、圓角框、複雜底紋、淡黃色紙張質感或裝飾性邊框。
+5. 底部資訊區只使用四列極簡 icon + 標題 + 短說明，透過細豎線分隔。
+6. 文字排版要像高階發布會視覺，標題巨大，副標題克制，正文小而清晰。
+7. 風格關鍵詞：Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster.
 
-画面结构：
-顶部左侧为标题区：
-中文大标题：{中文物种名}
-中文副标题：{一句有吸引力的物种定位}
-细短横线
-英文名：{英文物种名}
-分布信息：主要分布：{分布区域}
+畫面結構：
+頂部左側為標題區：
+中文大標題：{中文物種名}
+中文副標題：{一句有吸引力的物種定位}
+細短橫線
+英文名：{英文物種名}
+分佈資訊：主要分佈：{分佈區域}
 
-中部与下中部为主体视觉：
-生成一个超高清、真实、具有强烈立体感的 {中文物种名}。
-主体应占据画面 50% 到 70% 的视觉面积。
-主体姿态应具有展示性、力量感或识别度。
-保持白色背景，不添加复杂自然环境。
-可以保留少量必要承托物，例如树枝、岩石、雪地、沙土或木皮，但必须简洁。
-主体要有真实阴影，使其像高级产品摄影一样立在画面中。
+中部與下中部為主體視覺：
+生成一個超高畫質、真實、具有強烈立體感的 {中文物種名}。
+主體應占據畫面 50% 到 70% 的視覺面積。
+主體姿態應具有展示性、力量感或識別度。
+保持白色背景，不新增複雜自然環境。
+可以保留少量必要承託物，例如樹枝、岩石、雪地、沙土或木皮，但必須簡潔。
+主體要有真實陰影，使其像高階產品攝影一樣立在畫面中。
 
-底部信息区：
-用四个极简信息栏目展示科普信息。
-每个栏目包含：
-一个细线 icon
-一个彩色小标题
+底部資訊區：
+用四個極簡資訊欄目展示科普資訊。
+每個欄目包含：
+一個細線 icon
+一個彩色小標題
 一段 1 到 3 行短文字
-栏目之间用极细浅灰竖线分隔。
-不使用卡片框，不使用圆角背景，不使用大面积色块。
+欄目之間用極細淺灰豎線分隔。
+不使用卡片框，不使用圓角背景，不使用大面積色塊。
 
-四个信息栏目：
-栏目 1：
-标题：{重点特征1标题}
-说明：{重点特征1短说明}
+四個資訊欄目：
+欄目 1：
+標題：{重點特徵1標題}
+說明：{重點特徵1短說明}
 
-栏目 2：
-标题：{重点特征2标题}
-说明：{重点特征2短说明}
+欄目 2：
+標題：{重點特徵2標題}
+說明：{重點特徵2短說明}
 
-栏目 3：
-标题：{重点特征3标题}
-说明：{重点特征3短说明}
+欄目 3：
+標題：{重點特徵3標題}
+說明：{重點特徵3短說明}
 
-栏目 4：
-标题：{重点特征4标题}
-说明：{重点特征4短说明}
+欄目 4：
+標題：{重點特徵4標題}
+說明：{重點特徵4短說明}
 
-底部总结句：
-在最底部居中放置一句灰色小字总结：
-{一句高级、克制、有记忆点的科普总结}
+底部總結句：
+在最底部居中放置一句灰色小字總結：
+{一句高階、克制、有記憶點的科普總結}
 
-字体与排版：
-中文标题使用大号黑色、高级、稳重、有力量感的字体。
-副标题使用灰色，中等字号，字距略宽。
-英文名使用小号灰色，简洁现代。
-正文使用清晰现代中文字体，保持可读。
-所有文字必须留有足够呼吸感。
+字型與排版：
+中文標題使用大號黑色、高階、穩重、有力量感的字型。
+副標題使用灰色，中等字號，字距略寬。
+英文名使用小號灰色，簡潔現代。
+正文使用清晰現代中文字型，保持可讀。
+所有文字必須留有足夠呼吸感。
 
-色彩规范：
-背景：纯白、极浅灰、轻微柔光渐变。
-主标题：黑色或深石墨色。
-副标题与正文：中性灰。
-底部四个信息标题可使用低饱和强调色：
-暖棕、冷蓝、松石绿、紫色、橙色。
-颜色只用于 icon 和小标题，不要大面积铺色。
+色彩規範：
+背景：純白、極淺灰、輕微柔光漸變。
+主標題：黑色或深石墨色。
+副標題與正文：中性灰。
+底部四個資訊標題可使用低飽和強調色：
+暖棕、冷藍、松石綠、紫色、橙色。
+顏色只用於 icon 和小標題，不要大面積鋪色。
 
-图像质量：
-2K 高清质感，细节清晰，主体锐利，光影真实。
-主体纹理必须可信，例如毛发、鳞片、甲壳、皮肤褶皱、羽毛或斑纹。
-避免变形、错误肢体、错误解剖结构、模糊主体、低质贴图、塑料感、卡通感。
+影象品質：
+2K 高畫質質感，細節清晰，主體銳利，光影真實。
+主體紋理必須可信，例如毛髮、鱗片、甲殼、皮膚褶皺、羽毛或斑紋。
+避免變形、錯誤肢體、錯誤解剖結構、模糊主體、低質貼圖、塑膠感、卡通感。
 
-禁止项：
-不要使用淡黄色旧纸背景。
-不要使用复杂信息图网格。
-不要使用圆角卡片。
-不要使用厚边框。
-不要使用大面积装饰图形。
-不要添加无关 logo。
-不要添加多余小字。
-不要让主体太小。
-不要让文字压住主体。
-不要让底部信息区过度拥挤。
-不要出现儿童科普风、卡通风、低端展板风。
+禁止項：
+不要使用淡黃色舊紙背景。
+不要使用複雜資訊圖表網格。
+不要使用圓角卡片。
+不要使用厚邊框。
+不要使用大面積裝飾圖形。
+不要新增無關 logo。
+不要新增多餘小字。
+不要讓主體太小。
+不要讓文字壓住主體。
+不要讓底部資訊區過度擁擠。
+不要出現兒童科普風、卡通風、低端展板風。
 
-最终输出：
-生成一张 9:16 竖版、高级、干净、强视觉冲击的 Apple 风自然科普海报。
+最終輸出：
+生成一張 9:16 豎版、高階、乾淨、強視覺衝擊的 Apple 風自然科普海報。
 ```
 
 ***
 
 <a name="case-340"></a>
 
-### 例 340：彼岸花丛中的红妆女子
+### 例 340：彼岸花叢中的紅妝女子
 
-![彼岸花丛中的红妆女子](../data/images/case340.png)
+![彼岸花叢中的紅妝女子](../data/images/case340.png)
 
-**来源：** [@xiaofenggan](https://x.com/xiaofenggan)
+**來源：** [@xiaofenggan](https://x.com/xiaofenggan)
 
-**补充：** 该“异质类 OC”案例线索由倒放老师发现。
+**補充：** 該“異質類 OC”案例線索由倒放老師發現。
 
-**提示词：**
+**提示詞：**
 
 ```text
-异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
+異質感oc，絕美紅妝女子，位於彼岸花叢中，張力。 唐琬《釵頭鳳·世情薄》 世情薄，人情惡，雨送黃昏花易落。曉風乾，淚痕殘。欲箋心事，獨語斜闌。難，難，難！
 ```
 
 ***
 
 <a name="case-341"></a>
 
-### 例 341：AP Calculus 学习表信息图
+### 例 341：AP Calculus 學習表資訊圖表
 
-![AP Calculus 学习表信息图](../data/images/case341.jpg)
+![AP Calculus 學習表資訊圖表](../data/images/case341.jpg)
 
-**来源：** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
+**來源：** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 10:16（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 10:16（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.
@@ -5616,15 +5616,15 @@ Please create a mathematical visualization infographic about "[math concept / to
 
 <a name="case-342"></a>
 
-### 例 342：四季包装 Campaign 宫格
+### 例 342：四季包裝 Campaign 宮格
 
-![四季包装 Campaign 宫格](../data/images/case342.jpg)
+![四季包裝 Campaign 宮格](../data/images/case342.jpg)
 
-**来源：** [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
+**來源：** [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 10:00（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 10:00（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design
@@ -5639,15 +5639,15 @@ Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
 
 <a name="case-343"></a>
 
-### 例 343：高定时尚杂志封面
+### 例 343：高定時尚雜誌封面
 
-![高定时尚杂志封面](../data/images/case343.jpg)
+![高定時尚雜誌封面](../data/images/case343.jpg)
 
-**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
+**來源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 09:22（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 09:22（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones, layered over a modest high-neck top, paired with a bold gold choker necklace and subtle statement earrings.
@@ -5669,15 +5669,15 @@ Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy
 
 <a name="case-344"></a>
 
-### 例 344：NOIR 街头服饰 Campaign
+### 例 344：NOIR 街頭服飾 Campaign
 
-![NOIR 街头服饰 Campaign](../data/images/case344.jpg)
+![NOIR 街頭服飾 Campaign](../data/images/case344.jpg)
 
-**来源：** [@Daniel_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)
+**來源：** [@Daniel_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 07:19（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 07:19（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like "Wear the Dark." Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.
@@ -5687,15 +5687,15 @@ Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern street
 
 <a name="case-345"></a>
 
-### 例 345：法新浪潮撕纸电影海报
+### 例 345：法新浪潮撕紙電影海報
 
-![法新浪潮撕纸电影海报](../data/images/case345.jpg)
+![法新浪潮撕紙電影海報](../data/images/case345.jpg)
 
-**来源：** [@bananaprompts](https://x.com/bananaprompts/status/2048541390900994476) / [Banana Prompts](https://www.bananaprompts.xyz/prompts/70d54231-f0ee-4a50-9dfc-26156b72f819)
+**來源：** [@bananaprompts](https://x.com/bananaprompts/status/2048541390900994476) / [Banana Prompts](https://www.bananaprompts.xyz/prompts/70d54231-f0ee-4a50-9dfc-26156b72f819)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 07:15（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 07:15（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a vertical poster composition on aged cream paper with a handmade analog feel. Use rough ripped paper edges, layered magazine cutouts, photocopy grain, halftone texture, ink bleed, and slightly imperfect screen-print registration. Keep the subject as the main black-and-white photographic portrait, placed prominently in the center or upper center. Surround the subject with graphic blocks of deep red, cobalt blue, warm yellow, black, and ivory.
@@ -5709,33 +5709,33 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 <a name="case-346"></a>
 
-### 例 346：立体刺绣小鸟花枝
+### 例 346：立體刺繡小鳥花枝
 
-![立体刺绣小鸟花枝](../data/images/case346.jpg)
+![立體刺繡小鳥花枝](../data/images/case346.jpg)
 
-**来源：** [@dotey](https://x.com/dotey/status/2048529821706195442)
+**來源：** [@dotey](https://x.com/dotey/status/2048529821706195442)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 06:29（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 06:29（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
-精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
+精緻立體刺繡風插畫，淺浮雕纖維藝術效果，純淨「蠶絲白 + 奶白」底色，細膩絲線質感。畫面為數只小鳥停在蜿蜒花枝上，周圍點綴粉白、淺桃、珊瑚粉、淡金色花朵與葉片，構圖輕盈雅緻、留白充足。鳥兒羽毛以奶白、淺藍、淡粉、淺金絲線刺繡表現，花枝纖細自然，花朵層層疊線，整體呈現高階手工刺繡、絲線堆繡、柔和光影、細節豐富、溫柔清新的藝術效果。
 ```
 
 ***
 
 <a name="case-347"></a>
 
-### 例 347：4×4 动作分解参考表
+### 例 347：4×4 動作分解參考表
 
-![4×4 动作分解参考表](../data/images/case347.jpg)
+![4×4 動作分解參考表](../data/images/case347.jpg)
 
-**来源：** [@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
+**來源：** [@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 12:04（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 12:04（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 [STYLE]
@@ -5767,15 +5767,15 @@ No background scenery, no color tones, no additional characters, no complex back
 
 <a name="case-348"></a>
 
-### 例 348：胡须风格分析海报
+### 例 348：鬍鬚風格分析海報
 
-![胡须风格分析海报](../data/images/case348.jpg)
+![鬍鬚風格分析海報](../data/images/case348.jpg)
 
-**来源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
+**來源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:48（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 11:48（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
@@ -5785,15 +5785,15 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 
 <a name="case-349"></a>
 
-### 例 349：运动时尚三联 Campaign
+### 例 349：運動時尚三聯 Campaign
 
-![运动时尚三联 Campaign](../data/images/case349.jpg)
+![運動時尚三聯 Campaign](../data/images/case349.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
+**來源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:32（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 11:32（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.
@@ -5809,15 +5809,15 @@ Consistent color grading, dark green and white palette, sharp details, cinematic
 
 <a name="case-350"></a>
 
-### 例 350：足球球员数据涂鸦海报
+### 例 350：足球球員資料塗鴉海報
 
-![足球球员数据涂鸦海报](../data/images/case350.jpg)
+![足球球員資料塗鴉海報](../data/images/case350.jpg)
 
-**来源：** [@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
+**來源：** [@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:16（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 11:16（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a scrapbook doodle-style football poster of [PLAYER_NAME].
@@ -5847,11 +5847,11 @@ Important: all stats must be realistic and proportional to the player's real car
 
 ![健身品牌力量 Campaign](../data/images/case351.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
+**來源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
 
-**补充：** 近 24 小时 X 社区案例，原帖发布于 2026-04-27 11:13（北京时间）。
+**補充：** 近 24 小時 X 社群案例，原帖發布於 2026-04-27 11:13（北京時間）。
 
-**提示词：**
+**提示詞：**
 
 ```text
 Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
@@ -5861,158 +5861,158 @@ Cinematic fitness campaign, oversized dumbbell placed diagonally like a statemen
 
 <a name="case-352"></a>
 
-### 例 352：西楚霸王国风暗黑海报
+### 例 352：西楚霸王國風暗黑海報
 
-![西楚霸王国风暗黑海报](../data/images/case352.jpg)
+![西楚霸王國風暗黑海報](../data/images/case352.jpg)
 
-**来源：** [@stellimbris](https://x.com/stellimbris/status/2048633434961072617) / [提示词回复](https://x.com/stellimbris/status/2048775687188709575)
+**來源：** [@stellimbris](https://x.com/stellimbris/status/2048633434961072617) / [提示词回复](https://x.com/stellimbris/status/2048775687188709575)
 
-**提示词：**
+**提示詞：**
 
 ```text
-竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
+豎版國風暗黑海報，黑色純背景，中央巨大的中文標題字，佔據畫面大部分空間，字型為粗糲做舊的米白色石刻/舊紙質感，帶明顯顆粒、磨損、裂痕與噪點；整體構圖層次豐富，強烈黑白金紅對比，東方審美，神秘、壓抑、慾望與審判感並存 電影海報質感 高階平面設計，極致細節 紙張紋理 印章落款 小字標語，4K
 ```
 
 ***
 
 <a name="case-353"></a>
 
-### 例 353：品牌口红推荐报告信息图
+### 例 353：品牌口紅推薦報告資訊圖表
 
-![品牌口红推荐报告信息图](../data/images/case353.jpg)
+![品牌口紅推薦報告資訊圖表](../data/images/case353.jpg)
 
-**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219)
+**來源：** [@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219)
 
-**提示词：**
+**提示詞：**
 
 ```text
-一、系统角色
-你是一个专业美妆顾问 + 人脸分析系统 + 品牌视觉设计系统。
-你的任务是：基于用户上传自拍与指定口红品牌，生成一张具有品牌调性的“口红推荐报告信息结构图”。
+一、系統角色
+你是一個專業美妝顧問 + 人臉分析系統 + 品牌視覺設計系統。
+你的任務是：基於使用者上傳自拍與指定口紅品牌，生成一張具有品牌調性的“口紅推薦報告資訊結構圖”。
 
-二、输入参数
-用户图像：{用户自拍}
-品牌：{口红品牌，如 Dior / YSL / Armani / Chanel / TF}
-风格偏好（可选）：{通勤 / 温柔 / 气场 / 氛围感 / 显白优先}
-推荐数量：3–5
+二、輸入引數
+使用者影象：{使用者自拍}
+品牌：{口紅品牌，如 Dior / YSL / Armani / Chanel / TF}
+風格偏好（可選）：{通勤 / 溫柔 / 氣場 / 氛圍感 / 顯白優先}
+推薦數量：3–5
 
-三、品牌视觉层（新增核心模块）
-根据 {品牌} 自动构建视觉风格（Brand Visual Identity），提取品牌调性，例如：
+三、品牌視覺層（新增核心模組）
+根據 {品牌} 自動構建視覺風格（Brand Visual Identity），提取品牌調性，例如：
 Dior：
-优雅、高级、法式、灰白 + 银色、柔光
+優雅、高階、法式、灰白 + 銀色、柔光
 YSL：
-黑金、性感、强对比、时尚编辑感
+黑金、性感、強對比、時尚編輯感
 Armani：
-低饱和、雾面、克制、灰调高级感
+低飽和、霧面、克制、灰調高階感
 Chanel：
-极简黑白、高级、理性、结构清晰
+極簡黑白、高階、理性、結構清晰
 Tom Ford：
-深色、高对比、奢华、电影感
+深色、高對比、奢華、電影感
 
-视觉应用到海报：
-1. 主色调（背景微变化，不是大面积铺色）
-2. 强调色（用于色号标题/细线/小元素）
-3. 光影风格（柔光 / 强对比 / 冷调 / 暖调）
-4. 字体气质（优雅 / 现代 / 冷感 / 力量感）
+視覺應用到海報：
+1. 主色調（背景微變化，不是大面積鋪色）
+2. 強調色（用於色號標題/細線/小元素）
+3. 光影風格（柔光 / 強對比 / 冷調 / 暖調）
+4. 字型氣質（優雅 / 現代 / 冷感 / 力量感）
 
-四、分析层
-对用户进行分析：
-- 肤色：冷 / 暖 / 中性（+ 明度）
-- 气质：清冷 / 温柔 / 明艳 / 干净 / 成熟
-- 唇部特征：薄 / 厚 / 唇色基础
-- 妆容状态：素颜 / 日常 / 精致
-输出一句总结：「更适合 {色系} + {饱和度} + {质地} 的口红方向」
+四、分析層
+對使用者進行分析：
+- 膚色：冷 / 暖 / 中性（+ 明度）
+- 氣質：清冷 / 溫柔 / 明豔 / 乾淨 / 成熟
+- 唇部特徵：薄 / 厚 / 唇色基礎
+- 妝容狀態：素顏 / 日常 / 精緻
+輸出一句總結：「更適合 {色系} + {飽和度} + {質地} 的口紅方向」
 
-五、推荐层（增强差异）
-从 {品牌} 推荐 3–5 个色号：
-每个包含：
-- 色号名称（#999）
-- 色系（正红 / 豆沙 / 枫叶 / 奶茶 / 玫瑰）
-- 上脸效果（显白 / 提气色 / 氛围感 / 气场增强）
-- 场景（逛街 / 通勤 / 聚餐 / 约会 / 宴会）
+五、推薦層（增強差異）
+從 {品牌} 推薦 3–5 個色號：
+每個包含：
+- 色號名稱（#999）
+- 色系（正紅 / 豆沙 / 楓葉 / 奶茶 / 玫瑰）
+- 上臉效果（顯白 / 提氣色 / 氛圍感 / 氣場增強）
+- 場景（逛街 / 通勤 / 聚餐 / 約會 / 宴會）
 
-要求：每个色号“风格明确区分”（一个日常、一个气场、一个氛围感等）
+要求：每個色號“風格明確區分”（一個日常、一個氣場、一個氛圍感等）
 
-六、信息结构图
-生成竖版信息结构图
-整体风格：美妆时尚大片质感 + 结构化信息可视化排版 + 品牌视觉体系深度融合
-极简但不单调，高级但有视觉层次
+六、資訊結構圖
+生成豎版資訊結構圖
+整體風格：美妝時尚大片質感 + 結構化資訊視覺化排版 + 品牌視覺體系深度融合
+極簡但不單調，高階但有視覺層次
 
-【整体布局】
-左上：用户输入区
-右上：分析结论
-中部：试色矩阵（核心）
-底部：总结
+【整體佈局】
+左上：使用者輸入區
+右上：分析結論
+中部：試色矩陣（核心）
+底部：總結
 
-## 1️⃣ 左上（用户区）
-用户自拍（真实质感）
-+ 小标题：「肤色分析」
-+ 一句话结论：「适合低饱和玫瑰调，避免高荧光色」
+## 1️⃣ 左上（使用者區）
+使用者自拍（真實質感）
++ 小標題：「膚色分析」
++ 一句話結論：「適合低飽和玫瑰調，避免高熒光色」
 
-极细品牌色线条（如 YSL 金线 / Dior 灰线）
+極細品牌色線條（如 YSL 金線 / Dior 灰線）
 
-## 2️⃣ 中部（核心试色矩阵）
-这是视觉重点区域（占比60%以上）
-展示方式：将 3–5 个色号以“人脸试色对比”的形式排列：
-每一列 = 一个色号
-每个色号包含：
-- 小型人脸图（同一张脸，不同唇色）
-- 色号名称（如 #999）
-- 色系标签（如 Classic Red）
-- 一句话效果说明
-要求：所有人脸保持一致，仅唇色变化，真实试色效果（lip color try-on），肤质真实，不塑料，光影统一。
-排列方式：横向排布 或 网格排布（整齐但不死板）
+## 2️⃣ 中部（核心試色矩陣）
+這是視覺重點區域（佔比60%以上）
+展示方式：將 3–5 個色號以“人臉試色對比”的形式排列：
+每一列 = 一個色號
+每個色號包含：
+- 小型人臉圖（同一張臉，不同唇色）
+- 色號名稱（如 #999）
+- 色系標籤（如 Classic Red）
+- 一句話效果說明
+要求：所有人臉保持一致，僅唇色變化，真實試色效果（lip color try-on），膚質真實，不塑膠，光影統一。
+排列方式：橫向排布 或 網格排布（整齊但不死板）
 
-品牌增强点：
-- Dior：轻柔渐变背景 + 柔光阴影
-- YSL：更强对比 + 黑色细分割线
-- Armani：整体灰调统一，低对比
-- Chanel：严格对齐，极简黑白
-- TF：局部暗背景 + 高光强调
+品牌增強點：
+- Dior：輕柔漸變背景 + 柔光陰影
+- YSL：更強對比 + 黑色細分割線
+- Armani：整體灰調統一，低對比
+- Chanel：嚴格對齊，極簡黑白
+- TF：局部暗背景 + 高光強調
 
-## 3️⃣ 每个色号模块
+## 3️⃣ 每個色號模組
 包含：
-色号名（突出）
-色系标签
-一句推荐语
-场景标签（逛街/通勤/聚餐/约会/宴会等）
+色號名（突出）
+色系標籤
+一句推薦語
+場景標籤（逛街/通勤/聚餐/約會/宴會等）
 
-品牌化处理：
-- 用“品牌强调色”做：
-  - 色号标题
-  - 细分隔线
+品牌化處理：
+- 用“品牌強調色”做：
+  - 色號標題
+  - 細分隔線
   - 小icon
-（不是色块，而是“精致点缀”）
+（不是色塊，而是“精緻點綴”）
 
-## 4️⃣ 底部总结
-一段“有判断力的建议”，
-例如：「日常建议选择低饱和豆沙色提升气色，重要场合可使用正红增强气场」
-或：「你的肤色更适合柔和玫瑰调，避免高荧光色系」
-但不要完全引用以上2个例子的建议，根据用户实际肤色来建议。
-品牌增强：底部可加极淡品牌风格横线 / 极小品牌字样（非logo）
+## 4️⃣ 底部總結
+一段“有判斷力的建議”，
+例如：「日常建議選擇低飽和豆沙色提升氣色，重要場合可使用正紅增強氣場」
+或：「你的膚色更適合柔和玫瑰調，避免高熒光色系」
+但不要完全引用以上2個例子的建議，根據使用者實際膚色來建議。
+品牌增強：底部可加極淡品牌風格橫線 / 極小品牌字樣（非logo）
 
-七、UI设计
-- 不使用圆角卡片 UI
-- 不使用厚边框
-1. 引入“层级对比”：
-   - 主体亮
-   - 次要信息弱
-2. 使用“微对比”：
-   - 细线
+七、UI設計
+- 不使用圓角卡片 UI
+- 不使用厚邊框
+1. 引入“層級對比”：
+   - 主體亮
+   - 次要資訊弱
+2. 使用“微對比”：
+   - 細線
    - 灰度差
-   - 字重变化
-3. 加入“节奏感”：
-   - 疏密变化
-   - 模块呼吸
-4. 品牌点缀：
-   - 只用 5% 强调
-   - 不破坏极简结构
+   - 字重變化
+3. 加入“節奏感”：
+   - 疏密變化
+   - 模組呼吸
+4. 品牌點綴：
+   - 只用 5% 強調
+   - 不破壞極簡結構
 
-八、图像质量
-真实皮肤质感
-唇色精准
-统一光影
-商业级美妆摄影
+八、影象品質
+真實皮膚質感
+唇色精準
+統一光影
+商業級美妝攝影
 8K
 
 ———
@@ -6023,154 +6023,154 @@ Tom Ford：
 
 <a name="case-354"></a>
 
-### 例 354：Logo 与品牌身份系统提示词合集
+### 例 354：Logo 與品牌身份系統提示詞合集
 
-![Logo 与品牌身份系统提示词合集](../data/images/case354.jpg)
+![Logo 與品牌身份系統提示詞合集](../data/images/case354.jpg)
 
-**来源：** [@wanerfu](https://x.com/wanerfu/status/2048659924822184026)
+**來源：** [@wanerfu](https://x.com/wanerfu/status/2048659924822184026)
 
-**提示词：**
+**提示詞：**
 
 ```text
-1. Logo概念生成提示词
+1. Logo概念生成提示詞
 
-你是一位拥有20年经验的顶级Logo设计师，为全球知名品牌设计过即时识别且深具意义的标志。
+你是一位擁有20年經驗的頂級Logo設計師，為全球知名品牌設計過即時識別且深具意義的標誌。
 
-品牌名称：[你的品牌名]
-行业：[你的行业]
-品牌个性：[描述]
-目标受众：[描述]
-欣赏的视觉身份：[列举3个]
-讨厌的视觉身份：[列举3个]
-偏好风格：[如极简、大胆、几何、有机、复古、未来]
+品牌名稱：[你的品牌名]
+行業：[你的行業]
+品牌個性：[描述]
+目標受眾：[描述]
+欣賞的視覺身份：[列舉3個]
+討厭的視覺身份：[列舉3個]
+偏好風格：[如極簡、大膽、幾何、有機、復古、未來]
 
-为我的品牌生成5个完全不同的Logo概念。
+為我的品牌生成5個完全不同的Logo概念。
 
-对每个概念提供：
+對每個概念提供：
 
-- 核心视觉理念及象征意义
-- 形状语言及为何适合品牌
-- 字体方向建议
-- 第一眼的情感触发
-- 为何适合目标受众
-- 在名片、App图标和广告牌上的效果
-- 何为永恒而非潮流
+- 核心視覺理念及象徵意義
+- 形狀語言及為何適合品牌
+- 字型方向建議
+- 第一眼的情感觸發
+- 為何適合目標受眾
+- 在名片、App圖示和廣告牌上的效果
+- 何為永恆而非潮流
 
-然后告诉我，如果这是你的品牌，你会选哪个以及原因。
+然後告訴我，如果這是你的品牌，你會選哪個以及原因。
 
-2. 品牌身份基础提示词
+2. 品牌身份基礎提示詞
 
-你是为财富500强公司和初创企业建立品牌身份的顶级品牌战略师，这些企业后来融资数百万。
+你是為財富500強公司和初創企業建立品牌身份的頂級品牌戰略師，這些企業後來融資數百萬。
 
-业务名称：[你的业务名]
-业务描述：[一句话]
-目标受众：[详细描述]
-竞争对手：[列举3-5个]
-想触发的感受：[如信任、兴奋、奢华、亲近、力量]
-想关联的词汇：[列举5-10个]
-不想关联的词汇：[列举5-10个]
+業務名稱：[你的業務名]
+業務描述：[一句話]
+目標受眾：[詳細描述]
+競爭對手：[列舉3-5個]
+想觸發的感受：[如信任、興奮、奢華、親近、力量]
+想關聯的詞彙：[列舉5-10個]
+不想關聯的詞彙：[列舉5-10個]
 
-在设计任何视觉效果之前建立完整的品牌身份基础。
+在設計任何視覺效果之前建立完整的品牌身份基礎。
 
-为我提供：
+為我提供：
 
-- 品牌原型及为何完美契合
-- 5个具体人类特征描述的品牌个性
-- 带示例的品牌语调指南
-- 核心品牌承诺（一句话）
-- 3个品牌应触发的情感层级
-- 与竞争对手的根本差异
-- 定义品牌的唯一关键词
+- 品牌原型及為何完美契合
+- 5個具體人類特徵描述的品牌個性
+- 帶示例的品牌語調指南
+- 核心品牌承諾（一句話）
+- 3個品牌應觸發的情感層級
+- 與競爭對手的根本差異
+- 定義品牌的唯一關鍵詞
 
-3. 配色方案提示词
+3. 配色方案提示詞
 
-你是色彩心理学专家和品牌设计师，深知色彩如何触发情感、建立信任和驱动购买决策。
+你是色彩心理學專家和品牌設計師，深知色彩如何觸發情感、建立信任和驅動購買決策。
 
-品牌名称：[你的品牌名]
-行业：[你的行业]
-目标受众：[年龄、性别、收入、生活方式]
-想触发的首要情感：[如信任、能量、奢华、平静、兴奋]
-前3名竞争对手颜色：[列举]
-喜欢的颜色：[列举]
-讨厌的颜色：[列举]
+品牌名稱：[你的品牌名]
+行業：[你的行業]
+目標受眾：[年齡、性別、收入、生活方式]
+想觸發的首要情感：[如信任、能量、奢華、平靜、興奮]
+前3名競爭對手顏色：[列舉]
+喜歡的顏色：[列舉]
+討厭的顏色：[列舉]
 
-为我建立完整品牌配色板。
+為我建立完整品牌配色板。
 
-为我提供：
+為我提供：
 
-- 主色及其HEX代码和心理学解释
-- 两个辅助色及HEX代码
-- 一个强调色用于CTA和高亮
-- 一个中性色用于背景和文字
-- 每种颜色对目标受众的影响
-- 与竞争对手的差异化
-- 在网站、社交媒体和包装上的应用示例
-- 永远不要搭配的颜色组合及原因
+- 主色及其HEX程式碼和心理學解釋
+- 兩個輔助色及HEX程式碼
+- 一個強調色用於CTA和高亮
+- 一箇中性色用於背景和文字
+- 每種顏色對目標受眾的影響
+- 與競爭對手的差異化
+- 在網站、社群媒體和包裝上的應用示例
+- 永遠不要搭配的顏色組合及原因
 
-4. 字体方向提示词
+4. 字型方向提示詞
 
-你是字体专家和品牌设计师，深知字体如何传达个性、建立可信度和实现品牌即时识别。
+你是字型專家和品牌設計師，深知字型如何傳達個性、建立可信度和實現品牌即時識別。
 
-品牌名称：[你的品牌名]
-品牌个性：[5个词]
-行业：[你的行业]
-目标受众：[描述]
-字体应触发的感受：[如权威、友好、创新、优雅、能量]
-喜欢的品牌字体：[列举3个]
+品牌名稱：[你的品牌名]
+品牌個性：[5個詞]
+行業：[你的行業]
+目標受眾：[描述]
+字型應觸發的感受：[如權威、友好、創新、優雅、能量]
+喜歡的品牌字型：[列舉3個]
 
-为我建立完整字体系统。
+為我建立完整字型系統。
 
-为我提供：
+為我提供：
 
-- 标题用主显示字体名称及为何完美
-- 长文本的辅助字体
-- 引言或重点的强调字体
-- 标题、副标题、正文、说明文字的精确字号层级
-- 字距和行高建议
-- 字体搭配方法
-- 预算有限时的免费替代方案
-- 你所在行业应避免的字体错误
+- 標題用主顯示字型名稱及為何完美
+- 長文字的輔助字型
+- 引言或重點的強調字型
+- 標題、副標題、正文、說明文字的精確字號層級
+- 字距和行高建議
+- 字型搭配方法
+- 預算有限時的免費替代方案
+- 你所在行業應避免的字型錯誤
 
-5. 完整品牌身份包提示词
+5. 完整品牌身份包提示詞
 
-你是顶级品牌代理创意总监，交付覆盖每个触点的完整品牌身份系统。
+你是頂級品牌代理創意總監，交付覆蓋每個觸點的完整品牌身份系統。
 
-业务名称：[你的业务名]
-业务描述：[一句话]
-目标受众：[详细描述]
-品牌个性：[5个词]
-行业：[你的行业]
-竞争对手：[列举3个]
-设计工具预算：[免费或付费]
-时间表：[你需要的时间]
+業務名稱：[你的業務名]
+業務描述：[一句話]
+目標受眾：[詳細描述]
+品牌個性：[5個詞]
+行業：[你的行業]
+競爭對手：[列舉3個]
+設計工具預算：[免費或付費]
+時間表：[你需要的時間]
 
-在一个回复中交付我的完整品牌身份系统。
+在一個回覆中交付我的完整品牌身份系統。
 
 包含所有元素：
 
-- 品牌战略基础、原型、个性、承诺和定位
-- Logo概念及3个变体
-- 完整配色板、HEX代码和使用规则
-- 字体系统、名称、字号和层级
-- 视觉方向指南
-- 品牌语调指南和标语选项
-- 社交媒体视觉模板
-- 3条永远不要打破的核心品牌规则
+- 品牌戰略基礎、原型、個性、承諾和定位
+- Logo概念及3個變體
+- 完整配色板、HEX程式碼和使用規則
+- 字型系統、名稱、字號和層級
+- 視覺方向指南
+- 品牌語調指南和標語選項
+- 社群媒體視覺範本
+- 3條永遠不要打破的核心品牌規則
 
-将一切作为结构化品牌手册交付，任何设计师、开发者或AI工具都能在10分钟内完全理解你的品牌。
+將一切作為結構化品牌手冊交付，任何設計師、開發者或AI工具都能在10分鐘內完全理解你的品牌。
 ```
 
 ***
 
 <a name="case-355"></a>
 
-### 例 355：概念字体海报 Prompt
+### 例 355：概念字型海報 Prompt
 
-![概念字体海报 Prompt](../data/images/case355.jpg)
+![概念字型海報 Prompt](../data/images/case355.jpg)
 
-**来源：** [@dotey](https://x.com/dotey/status/2048793351290327381) / [Credit @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2048443572119330853)
+**來源：** [@dotey](https://x.com/dotey/status/2048793351290327381) / [Credit @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2048443572119330853)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create ONE finished premium conceptual typography poster for the exact title:
@@ -6206,13 +6206,13 @@ INPUT_TEXT：Phoenix Rebirth
 
 <a name="case-356"></a>
 
-### 例 356：过度思考超现实街头 Campaign
+### 例 356：過度思考超現實街頭 Campaign
 
-![过度思考超现实街头 Campaign](../data/images/case356.jpg)
+![過度思考超現實街頭 Campaign](../data/images/case356.jpg)
 
-**来源：** [@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)
+**來源：** [@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture.
@@ -6240,13 +6240,13 @@ Mood: introspective, emotional weight, identity, self-awareness, quiet confidenc
 
 <a name="case-357"></a>
 
-### 例 357：鱼眼镜面复古咖啡馆人像
+### 例 357：魚眼鏡面復古咖啡館人像
 
-![鱼眼镜面复古咖啡馆人像](../data/images/case357.jpg)
+![魚眼鏡面復古咖啡館人像](../data/images/case357.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2049044698900361241)
+**來源：** [@harboriis](https://x.com/harboriis/status/2049044698900361241)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
@@ -6256,13 +6256,13 @@ A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquo
 
 <a name="case-358"></a>
 
-### 例 358：草莓能量饮料商业广告
+### 例 358：草莓能量飲料商業廣告
 
-![草莓能量饮料商业广告](../data/images/case358.jpg)
+![草莓能量飲料商業廣告](../data/images/case358.jpg)
 
-**来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
+**來源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.
@@ -6274,13 +6274,13 @@ Bright cinematic lighting with dramatic highlights and motion effects. Vibrant o
 
 <a name="case-359"></a>
 
-### 例 359：水墨双重曝光人物海报
+### 例 359：水墨雙重曝光人物海報
 
-![水墨双重曝光人物海报](../data/images/case359.jpg)
+![水墨雙重曝光人物海報](../data/images/case359.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
+**來源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling.
@@ -6327,13 +6327,13 @@ OUTPUT:
 
 <a name="case-360"></a>
 
-### 例 360：长发造型分析信息图
+### 例 360：長髮造型分析資訊圖表
 
-![长发造型分析信息图](../data/images/case360.jpg)
+![長髮造型分析資訊圖表](../data/images/case360.jpg)
 
-**来源：** [@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)
+**來源：** [@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a professional "HAIRSTYLE ANALYSIS" infographic with a different male model (the same face) having long, thick hair (6-10 inches), slightly wavy texture.
@@ -6385,13 +6385,13 @@ High resolution, 4K
 
 <a name="case-361"></a>
 
-### 例 361：手机爆炸拆解图
+### 例 361：手機爆炸拆解圖
 
-![手机爆炸拆解图](../data/images/case361.jpg)
+![手機爆炸拆解圖](../data/images/case361.jpg)
 
-**来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
+**來源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a 3D Insane detailed exploded assembly drawing of [subject or object]
@@ -6401,13 +6401,13 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 
 <a name="case-362"></a>
 
-### 例 362：抹茶品牌触点系统视觉板
+### 例 362：抹茶品牌觸點系統視覺板
 
-![抹茶品牌触点系统视觉板](../data/images/case362.jpg)
+![抹茶品牌觸點系統視覺板](../data/images/case362.jpg)
 
-**来源：** [@Preda2005](https://x.com/Preda2005/status/2049846981271699685)
+**來源：** [@Preda2005](https://x.com/Preda2005/status/2049846981271699685)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium “Matcha Brand Touchpoint System” visual board for a modern lifestyle brand called:
@@ -6461,13 +6461,13 @@ Ultra-detailed, realistic, clean, aesthetic, and highly shareable.
 
 <a name="case-363"></a>
 
-### 例 363：磁场铁粉 Logo 物理成像
+### 例 363：磁場鐵粉 Logo 物理成像
 
-![磁场铁粉 Logo 物理成像](../data/images/case363.jpg)
+![磁場鐵粉 Logo 物理成像](../data/images/case363.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460)
+**來源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform the uploaded logo into a hyper-realistic scene where the logo silhouette is formed by iron filings reacting to a magnetic field. The logo must keep its exact shape and proportions, appearing as if a magnet shaped like the logo (or hidden beneath the surface) is influencing the filings to align naturally into that recognizable formation. Material details:
@@ -6524,13 +6524,13 @@ Cinematic yet grounded realism.
 
 <a name="case-364"></a>
 
-### 例 364：奢华个人色彩档案信息图
+### 例 364：奢華個人色彩檔案資訊圖表
 
-![奢华个人色彩档案信息图](../data/images/case364.jpg)
+![奢華個人色彩檔案資訊圖表](../data/images/case364.jpg)
 
-**来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
+**來源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
 
-**提示词：**
+**提示詞：**
 
 ```text
 LUXURY PERSONAL COLOR PROFILE — EDITORIAL LAYOUT
@@ -6553,13 +6553,13 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 
 <a name="case-365"></a>
 
-### 例 365：科学家收藏级玩具发布板
+### 例 365：科學家收藏級玩具發布板
 
-![科学家收藏级玩具发布板](../data/images/case365.jpg)
+![科學家收藏級玩具發布板](../data/images/case365.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
+**來源：** [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
 
-**提示词：**
+**提示詞：**
 
 ```text
 2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.
@@ -6569,13 +6569,13 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 
 <a name="case-366"></a>
 
-### 例 366：咖啡馆写实照片与 2D 涂鸦叠加
+### 例 366：咖啡館寫實照片與 2D 塗鴉疊加
 
-![咖啡馆写实照片与 2D 涂鸦叠加](../data/images/case366.jpg)
+![咖啡館寫實照片與 2D 塗鴉疊加](../data/images/case366.jpg)
 
-**来源：** [@Jawad\_Rahman\_](https://x.com/Jawad_Rahman_/status/2049796647237066971)
+**來源：** [@Jawad\_Rahman\_](https://x.com/Jawad_Rahman_/status/2049796647237066971)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A trendy young woman sitting at an outdoor café table, holding a hot coffee cup near her lips. She has short curly black hair and wears oversized tinted sunglasses, a cropped beige sweater, loose brown high-waisted pants, and chunky white sneakers. A tote bag with minimal coffee-themed illustrations hangs on her shoulder.
@@ -6593,13 +6593,13 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 <a name="case-367"></a>
 
-### 例 367：VELORA 奢华香水广告海报
+### 例 367：VELORA 奢華香水廣告海報
 
-![VELORA 奢华香水广告海报](../data/images/case367.jpg)
+![VELORA 奢華香水廣告海報](../data/images/case367.jpg)
 
-**来源：** [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
+**來源：** [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
 
-**提示词：**
+**提示詞：**
 
 ```text
 {
@@ -6678,45 +6678,45 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 <a name="case-368"></a>
 
-### 例 368：印度餐厅菜单改造宣传图
+### 例 368：印度餐廳選單改造宣傳圖
 
-![印度餐厅菜单改造宣传图](../data/images/case368.jpg)
+![印度餐廳選單改造宣傳圖](../data/images/case368.jpg)
 
-**来源：** [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
+**來源：** [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
 
-**提示词：**
+**提示詞：**
 
 ```text
-这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
+這是india 料理中的一份真實menu。根據此 重新生成帶文字說明的 引人入勝垂涎欲滴的 說明圖片 先用English 文字易於識別（手機小螢幕） 這個是beef roast
 ```
 
 ***
 
 <a name="case-369"></a>
 
-### 例 369：明洞旅游区域地图
+### 例 369：明洞旅遊區域地圖
 
-![明洞旅游区域地图](../data/images/case369.jpg)
+![明洞旅遊區域地圖](../data/images/case369.jpg)
 
-**来源：** [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
+**來源：** [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
 
-**提示词：**
+**提示詞：**
 
 ```text
-[エリア]の観光エリアマップを画像で作成して
+[エリア]の観光エリアマップを畫像で作成して
 ```
 
 ***
 
 <a name="case-370"></a>
 
-### 例 370：Crumple Chair 概念沙发研发板
+### 例 370：Crumple Chair 概念沙發研發板
 
-![Crumple Chair 概念沙发研发板](../data/images/case370.jpg)
+![Crumple Chair 概念沙發研發板](../data/images/case370.jpg)
 
-**来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
+**來源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Design Concept: The Crumple Chair Core Philosophy: Translating the "controlled chaos" of a tossed paper ball into a sculptural, high-comfort seating experience.
@@ -6736,13 +6736,13 @@ Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte
 
 <a name="case-371"></a>
 
-### 例 371：Scrapbook 真人图与迷你分身
+### 例 371：Scrapbook 真人圖與迷你分身
 
-![Scrapbook 真人图与迷你分身](../data/images/case371.jpg)
+![Scrapbook 真人圖與迷你分身](../data/images/case371.jpg)
 
-**来源：** [@Kashberg\_0](https://x.com/Kashberg_0/status/2050272100884340783)
+**來源：** [@Kashberg\_0](https://x.com/Kashberg_0/status/2050272100884340783)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background.
@@ -6764,13 +6764,13 @@ The final result must look like the SAME original image enhanced with mini alter
 
 <a name="case-372"></a>
 
-### 例 372：可爱角色设定表
+### 例 372：可愛角色設定表
 
-![可爱角色设定表](../data/images/case372.jpg)
+![可愛角色設定表](../data/images/case372.jpg)
 
-**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)
+**來源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a cute female character design sheet inspired by the uploaded image.
@@ -6799,78 +6799,78 @@ High quality, clean background, soft lighting.
 
 <a name="case-373"></a>
 
-### 例 373：高端肉类海鲜品牌英雄图
+### 例 373：高階肉類海鮮品牌英雄圖
 
-![高端肉类海鲜品牌英雄图](../data/images/case373.jpg)
+![高階肉類海鮮品牌英雄圖](../data/images/case373.jpg)
 
-**来源：** [@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
+**來源：** [@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
 
-**提示词：**
+**提示詞：**
 
 ```text
-一、品牌基础设定
-品牌名称：[请填写，例如：PRIME STEAK / OCEAN PRIME]
-品牌标语：[请填写，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]
-主色调：[请填写，例如：黑金 / 深红+金 / 深蓝+银]
-字体风格：
-标题：[请填写，例如：金色衬线体，大写，奢华感]
-正文：[请填写，例如：细衬线体/无衬线体]
-二、核心视觉元素
-台面材质：[请填写，例如：大理石/黑色石板]
-背景调性：[请填写，例如：深色渐变/暗调餐厅环境]
-光线风格：[请填写，例如：聚光/侧光/顶部照明]
-三、主产品定义（必填）
-产品名称/类型：[请填写，例如：和牛牛排 / 帝王蟹 / 北极甜虾]
-产品数量/摆放：[请填写，例如：1份单品 / 3块整齐摆放]
-呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示]
-产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]
+一、品牌基礎設定
+品牌名稱：[請填寫，例如：PRIME STEAK / OCEAN PRIME]
+品牌標語：[請填寫，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]
+主色調：[請填寫，例如：黑金 / 深紅+金 / 深藍+銀]
+字型風格：
+標題：[請填寫，例如：金色襯線體，大寫，奢華感]
+正文：[請填寫，例如：細襯線體/無襯線體]
+二、核心視覺元素
+檯面材質：[請填寫，例如：大理石/黑色石板]
+背景調性：[請填寫，例如：深色漸變/暗調餐廳環境]
+光線風格：[請填寫，例如：聚光/側光/頂部照明]
+三、主產品定義（必填）
+產品名稱/型別：[請填寫，例如：和牛牛排 / 帝王蟹 / 北極甜蝦]
+產品數量/擺放：[請填寫，例如：1份單品 / 3塊整齊擺放]
+呈現方式：[請填寫，例如：切片展示 / 帶骨展示 / 原殼展示]
+產品特色/質感提示：[請填寫，例如：肉質紋理清晰、多汁感 / 光澤晶亮 / 肉眼可見油花]
 ```
 
 ***
 
 <a name="case-374"></a>
 
-### 例 374：彩色潦草小狗线条风格重绘
+### 例 374：彩色潦草小狗線條風格重繪
 
-![彩色潦草小狗线条风格重绘](../data/images/case374.jpg)
+![彩色潦草小狗線條風格重繪](../data/images/case374.jpg)
 
-**来源：** [@berryxia](https://x.com/berryxia/status/2050226420681757102)
+**來源：** [@berryxia](https://x.com/berryxia/status/2050226420681757102)
 
-**提示词：**
+**提示詞：**
 
 ```text
-彩色潦草小狗线条风格绘制该图，童趣和doodle加入其中，务必使用毫无章法的绘制手法，凌乱和草率即可。
+彩色潦草小狗線條風格繪製該圖，童趣和doodle加入其中，務必使用毫無章法的繪製手法，凌亂和草率即可。
 ```
 
 ***
 
 <a name="case-375"></a>
 
-### 例 375：古希腊三哲时间轴城市图
+### 例 375：古希臘三哲時間軸城市圖
 
-![古希腊三哲时间轴城市图](../data/images/case375.jpg)
+![古希臘三哲時間軸城市圖](../data/images/case375.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
+**來源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
 
-**提示词：**
+**提示詞：**
 
 ```text
-二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。
+二千五百年前，柏拉圖，蘇格拉底， 亞力士多德，坐在雅典街頭聊天，聊出了世界文明史的源頭。
 
-背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。
+背景可以加上他們聊天內容，按時間軸的走向，重疊在古希臘雅典的城市風光中。
 ```
 
 ***
 
 <a name="case-376"></a>
 
-### 例 376：泼洒抹茶街头手机照片
+### 例 376：潑灑抹茶街頭手機照片
 
-![泼洒抹茶街头手机照片](../data/images/case376.jpg)
+![潑灑抹茶街頭手機照片](../data/images/case376.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) / [提示词回复](https://x.com/Shinning1010/status/2050693246247207087)
+**來源：** [@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) / [提示词回复](https://x.com/Shinning1010/status/2050693246247207087)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A realistic vertical smartphone photo of a spilled green iced drink on outdoor stone pavement, a transparent disposable plastic cup lying on its side inside the green puddle, clear plastic lid nearby, scattered ice cubes floating in the drink, small foam bubbles on the surface, green liquid naturally spreading across rough square floor tiles, strong midday sunlight, harsh realistic shadows, a dark human shadow silhouette cast across the ground and partially over the spill, accidental street moment, urban documentary photography, handheld phone camera perspective, slightly top-down angle, natural colors, realistic pavement texture, raw unedited photo look, high detail, authentic everyday scene, 9:16 vertical composition
@@ -6883,13 +6883,13 @@ cartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, ov
 
 <a name="case-377"></a>
 
-### 例 377：樱花咖啡户外人像
+### 例 377：櫻花咖啡戶外人像
 
-![樱花咖啡户外人像](../data/images/case377.jpg)
+![櫻花咖啡戶外人像](../data/images/case377.jpg)
 
-**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716)
+**來源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.
@@ -6913,13 +6913,13 @@ Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, i
 
 <a name="case-378"></a>
 
-### 例 378：高端 3D 收藏玩具头像
+### 例 378：高階 3D 收藏玩具頭像
 
-![高端 3D 收藏玩具头像](../data/images/case378.jpg)
+![高階 3D 收藏玩具頭像](../data/images/case378.jpg)
 
-**来源：** [@Genematicai](https://x.com/Genematicai/status/2050654848216109429) / [提示词回复 1](https://x.com/Genematicai/status/2050654987135656043) / [提示词回复 2](https://x.com/Genematicai/status/2050655151120429464)
+**來源：** [@Genematicai](https://x.com/Genematicai/status/2050654848216109429) / [提示词回复 1](https://x.com/Genematicai/status/2050654987135656043) / [提示词回复 2](https://x.com/Genematicai/status/2050655151120429464)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform the input photo into a high-end stylized 3D collectible figure. Large head, slightly exaggerated facial features while preserving identity. Hyper-detailed skin texture with subtle pores, realistic wrinkles, and a cinematic expression.
@@ -6931,13 +6931,13 @@ Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-s
 
 <a name="case-379"></a>
 
-### 例 379：品牌人格漫画信息图
+### 例 379：品牌人格漫畫資訊圖表
 
-![品牌人格漫画信息图](../data/images/case379.jpg)
+![品牌人格漫畫資訊圖表](../data/images/case379.jpg)
 
-**来源：** [@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) / [PhotoGPT prompt](https://www.photogptai.com/community-gallery/media/0d2fcf15-6ab2-48d3-04b3-71f58b296000)
+**來源：** [@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) / [PhotoGPT prompt](https://www.photogptai.com/community-gallery/media/0d2fcf15-6ab2-48d3-04b3-71f58b296000)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Using the uploaded logo, create a highly detailed, comic-style infographic poster:
@@ -7092,13 +7092,13 @@ NOT:
 
 <a name="case-380"></a>
 
-### 例 380：冠状病毒尺度缩放科学信息图
+### 例 380：冠狀病毒尺度縮放科學資訊圖表
 
-![冠状病毒尺度缩放科学信息图](../data/images/case380.jpg)
+![冠狀病毒尺度縮放科學資訊圖表](../data/images/case380.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
+**來源：** [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
 
-**提示词：**
+**提示詞：**
 
 ```text
 instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
@@ -7108,13 +7108,13 @@ instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infograp
 
 <a name="case-381"></a>
 
-### 例 381：90 年代公寓场景参考板
+### 例 381：90 年代公寓場景參考板
 
-![90 年代公寓场景参考板](../data/images/case381.jpg)
+![90 年代公寓場景參考板](../data/images/case381.jpg)
 
-**来源：** [@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) / [提示词回复](https://x.com/Iancu_ai/status/2051287283140096253)
+**來源：** [@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) / [提示词回复](https://x.com/Iancu_ai/status/2051287283140096253)
 
-**提示词：**
+**提示詞：**
 
 ```text
 {
@@ -7142,13 +7142,13 @@ instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infograp
 
 <a name="case-382"></a>
 
-### 例 382：春日花田三联竖版写真拼贴
+### 例 382：春日花田三聯豎版寫真拼貼
 
-![春日花田三联竖版写真拼贴](../data/images/case382.jpg)
+![春日花田三聯豎版寫真拼貼](../data/images/case382.jpg)
 
-**来源：** [@frametheory058](https://x.com/frametheory058/status/2051294907214844249)
+**來源：** [@frametheory058](https://x.com/frametheory058/status/2051294907214844249)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A high-quality 3-panel vertical photo collage of a stunning uploaded woman with soft, voluminous wavy hair glowing in golden sunlight. She is styled in a cream-colored lace-up vintage blouse with delicate textures, olive green high-waisted flowy trousers, and a wide-brimmed straw hat slightly tilted for a fashionable editorial look. Light golden jewelry (thin chains, rings) adds a subtle luxury touch.
@@ -7177,9 +7177,9 @@ Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, cand
 
 ![AI 日常生活 iPhone 抓拍](../data/images/case383.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2051292618248904809)
+**來源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2051292618248904809)
 
-**提示词：**
+**提示詞：**
 
 ```text
 I want to see what you really look like.
@@ -7192,13 +7192,13 @@ The photo should have slight motion blur, with uneven, natural lighting.
 
 <a name="case-384"></a>
 
-### 例 384：十国传统服饰时尚拼贴
+### 例 384：十國傳統服飾時尚拼貼
 
-![十国传统服饰时尚拼贴](../data/images/case384.jpg)
+![十國傳統服飾時尚拼貼](../data/images/case384.jpg)
 
-**来源：** [@amynys](https://x.com/amynys/status/2051287229532639677)
+**來源：** [@amynys](https://x.com/amynys/status/2051287229532639677)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A 10-Nation Cinematic Fashion Transformation of One Timeless BeautyChatGPT Prompt:
@@ -7232,13 +7232,13 @@ Style: Ultra-realistic, 8K resolution, Vogue editorial shoot, cinematic lighting
 
 <a name="case-385"></a>
 
-### 例 385：青岛啤酒灵感女装系列
+### 例 385：青島啤酒靈感女裝系列
 
-![青岛啤酒灵感女装系列](../data/images/case385.jpg)
+![青島啤酒靈感女裝系列](../data/images/case385.jpg)
 
-**来源：** [@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
+**來源：** [@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Inspired by Tsingtao (China beer)🍺
@@ -7250,13 +7250,13 @@ Inspired by Tsingtao (China beer)🍺
 
 <a name="case-386"></a>
 
-### 例 386：品牌包络产品广告
+### 例 386：品牌包絡產品廣告
 
-![品牌包络产品广告](../data/images/case386.jpg)
+![品牌包絡產品廣告](../data/images/case386.jpg)
 
-**来源：** [@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) / [提示词回复](https://x.com/SRKDAN/status/2051482048729166109)
+**來源：** [@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) / [提示词回复](https://x.com/SRKDAN/status/2051482048729166109)
 
-**提示词：**
+**提示詞：**
 
 ```text
 The Brand Envelope | GPT Image-2 Prompt #89
@@ -7275,13 +7275,13 @@ Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
 
 <a name="case-387"></a>
 
-### 例 387：Netflix 首页主视觉 UI
+### 例 387：Netflix 首頁主視覺 UI
 
-![Netflix 首页主视觉 UI](../data/images/case387.jpg)
+![Netflix 首頁主視覺 UI](../data/images/case387.jpg)
 
-**来源：** [@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
+**來源：** [@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.
@@ -7291,13 +7291,13 @@ Create a Netflix homepage UI featuring a main hero film with its title and still
 
 <a name="case-388"></a>
 
-### 例 388：1980s Claude 复古杂志广告
+### 例 388：1980s Claude 復古雜誌廣告
 
-![1980s Claude 复古杂志广告](../data/images/case388.jpg)
+![1980s Claude 復古雜誌廣告](../data/images/case388.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436) / [提示词回复](https://x.com/Shinning1010/status/2051410812829335959)
+**來源：** [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436) / [提示词回复](https://x.com/Shinning1010/status/2051410812829335959)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A fictional 1980s magazine advertisement poster introducing “Claude” as a revolutionary home AI assistant, retro commercial print ad style, bold headline at the top reading “Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yellow italic tagline underneath: “The AI assistant that talks back.”
@@ -7350,13 +7350,13 @@ modern laptop, smartphone, flat design, minimalism, futuristic 2020s interface, 
 
 <a name="case-389"></a>
 
-### 例 389：Transparent Labs Hydrate 健身补剂 Campaign
+### 例 389：Transparent Labs Hydrate 健身補劑 Campaign
 
-![Transparent Labs Hydrate 健身补剂 Campaign](../data/images/case389.jpg)
+![Transparent Labs Hydrate 健身補劑 Campaign](../data/images/case389.jpg)
 
-**来源：** [@amynys](https://x.com/amynys/status/2051409591137972606)
+**來源：** [@amynys](https://x.com/amynys/status/2051409591137972606)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate.
@@ -7380,13 +7380,13 @@ Hyper realistic textures, polished commercial retouching, premium sports nutriti
 
 <a name="case-390"></a>
 
-### 例 390：羊毛毡国家微缩世界
+### 例 390：羊毛氈國家微縮世界
 
-![羊毛毡国家微缩世界](../data/images/case390.jpg)
+![羊毛氈國家微縮世界](../data/images/case390.jpg)
 
-**来源：** [@volkan_iras](https://x.com/volkan_iras/status/2051403524966141980) / [提示词回复](https://x.com/volkan_iras/status/2051403530590638325)
+**來源：** [@volkan_iras](https://x.com/volkan_iras/status/2051403524966141980) / [提示词回复](https://x.com/volkan_iras/status/2051403530590638325)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Country: [INSERT COUNTRY NAME]
@@ -7438,13 +7438,13 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 
 <a name="case-391"></a>
 
-### 例 391：四国文化锚点服装设计宫格
+### 例 391：四國文化錨點服裝設計宮格
 
-![四国文化锚点服装设计宫格](../data/images/case391.jpg)
+![四國文化錨點服裝設計宮格](../data/images/case391.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
+**來源：** [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
 
-**提示词：**
+**提示詞：**
 
 ```text
 <instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)
@@ -7454,13 +7454,13 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 
 <a name="case-392"></a>
 
-### 例 392：头发里的微型城市
+### 例 392：頭髮裡的微型城市
 
-![头发里的微型城市](../data/images/case392.jpg)
+![頭髮裡的微型城市](../data/images/case392.jpg)
 
-**来源：** [@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
+**來源：** [@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow
@@ -7470,13 +7470,13 @@ Macro photograph of a miniature city hidden in human hair, clearly on a real hum
 
 <a name="case-393"></a>
 
-### 例 393：Y2K 金色时刻人像
+### 例 393：Y2K 金色時刻人像
 
-![Y2K 金色时刻人像](../data/images/case393.jpg)
+![Y2K 金色時刻人像](../data/images/case393.jpg)
 
-**来源：** [@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014)
+**來源：** [@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014)
 
-**提示词：**
+**提示詞：**
 
 ```text
 candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips
@@ -7486,13 +7486,13 @@ candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kis
 
 <a name="case-394"></a>
 
-### 例 394：中世纪村庄双精灵冒险者
+### 例 394：中世紀村莊雙精靈冒險者
 
-![中世纪村庄双精灵冒险者](../data/images/case394.jpg)
+![中世紀村莊雙精靈冒險者](../data/images/case394.jpg)
 
-**来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
+**來源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name="left character hair color" default="ash blonde"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name="right character hair color" default="dark brown"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name="face covering color" default="dark brown"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name="lighting mood" default="warm late-afternoon golden sunlight"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.
@@ -7502,13 +7502,13 @@ Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game
 
 <a name="case-395"></a>
 
-### 例 395：骑士法师大战石像魔像
+### 例 395：騎士法師大戰石像魔像
 
-![骑士法师大战石像魔像](../data/images/case395.jpg)
+![騎士法師大戰石像魔像](../data/images/case395.jpg)
 
-**来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
+**來源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name="hero type" default="female armored knight-mage"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name="enemy type" default="headless stone golem"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.
@@ -7518,13 +7518,13 @@ Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argu
 
 <a name="case-396"></a>
 
-### 例 396：龙类物种复古百科海报
+### 例 396：龍類物種復古百科海報
 
-![龙类物种复古百科海报](../data/images/case396.jpg)
+![龍類物種復古百科海報](../data/images/case396.jpg)
 
-**来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
+**來源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster.
@@ -7571,29 +7571,29 @@ Ultra detailed.
 
 <a name="case-397"></a>
 
-### 例 397：街舞角色设定参考图
+### 例 397：街舞角色設定參考圖
 
-![街舞角色设定参考图](../data/images/case397.jpg)
+![街舞角色設定參考圖](../data/images/case397.jpg)
 
-**来源：** [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
+**來源：** [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
 
-**提示词：**
+**提示詞：**
 
 ```text
-角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果
+角色設定圖佈局，聚焦於一位18歲的亞裔女性街舞舞者。包含4個大型、高細節度的全身動態舞姿（突出舞蹈動作，面部清晰）。側邊附一條清晰的多角度參考條，僅含3個精細頭部特寫（正面、側面、3/4側面）。最大限度減少文字元素，將畫素空間優先用於面部細節刻畫。背景為粗礪工業風，搭配寫實光影效果
 ```
 
 ***
 
 <a name="case-398"></a>
 
-### 例 398：8 套日常穿搭编辑拼贴
+### 例 398：8 套日常穿搭編輯拼貼
 
-![8 套日常穿搭编辑拼贴](../data/images/case398.jpg)
+![8 套日常穿搭編輯拼貼](../data/images/case398.jpg)
 
-**来源：** [@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463)
+**來源：** [@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a freeform fashion-editorial collage of me in 8 distinct full-body casual wear, arranged organically on a clean cream studio backdrop. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts.
@@ -7603,13 +7603,13 @@ Create a freeform fashion-editorial collage of me in 8 distinct full-body casual
 
 <a name="case-399"></a>
 
-### 例 399：唱片公司楼梯间写真人像
+### 例 399：唱片公司樓梯間寫真人像
 
-![唱片公司楼梯间写真人像](../data/images/case399.jpg)
+![唱片公司樓梯間寫真人像](../data/images/case399.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2052217544388546827)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2052217544388546827)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use case: photorealistic-natural
@@ -7636,113 +7636,113 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 
 <a name="case-400"></a>
 
-### 例 400：多风格签名选择海报
+### 例 400：多風格簽名選擇海報
 
-![多风格签名选择海报](../data/images/case400.png)
+![多風格簽名選擇海報](../data/images/case400.png)
 
-**来源：** [GitHub prompt](https://github.com/zaizhi-1112/ai-image-extension-playbook/blob/main/signature-image-prompts-gpt-image-2.md) / [@liyue_ai](https://x.com/liyue_ai)
+**來源：** [GitHub prompt](https://github.com/zaizhi-1112/ai-image-extension-playbook/blob/main/signature-image-prompts-gpt-image-2.md) / [@liyue_ai](https://x.com/liyue_ai)
 
-**提示词：**
+**提示詞：**
 
 ```text
-你是一个高端签名设计系统 + 风格人格视觉系统。
+你是一個高階簽名設計系統 + 風格人格視覺系統。
 
-任务：
-仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。
-目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。
+任務：
+僅基於使用者輸入的「姓名」，生成一張「多風格簽名選擇海報（卡片式結構）」。
+目標是把名字轉譯為具有筆勢、氣質與力量感的簽名設計系統，讓使用者產生選擇欲、認同感和分享欲。
 
-输入信息：
-姓名：[输入你的昵称]
-禁止要求额外信息，必须自动完成气质与风格推断。
+輸入資訊：
+姓名：[輸入你的暱稱]
+禁止要求額外資訊，必須自動完成氣質與風格推斷。
 
-隐藏执行逻辑：
-1. 字形与笔势分析：
-- 结构：疏密、横竖比例、重心位置
-- 节奏：连贯、停顿、爆发、收束
-- 适配：连笔程度、草写程度、变形空间
+隱藏執行邏輯：
+1. 字形與筆勢分析：
+- 結構：疏密、橫豎比例、重心位置
+- 節奏：連貫、停頓、爆發、收束
+- 適配：連筆程度、草寫程度、變形空間
 
-2. 气质推断：
-清冷、张扬、克制、商业、文艺、松弛、锋利、高级。
+2. 氣質推斷：
+清冷、張揚、克制、商業、文藝、鬆弛、鋒利、高階。
 
-3. 生成 6 个签名分支：
-- 全部适配该姓名
-- 每一个都有明确书写风格
-- 差异来自笔势、节奏、结构和收笔方式
+3. 生成 6 個簽名分支：
+- 全部適配該姓名
+- 每一個都有明確書寫風格
+- 差異來自筆勢、節奏、結構和收筆方式
 
-整体画面：
-9:16 竖版海报，极简、高级、干净、有设计感、适合传播。
-背景使用纯白或极浅灰渐变，留白不少于 40%。
+整體畫面：
+9:16 豎版海報，極簡、高階、乾淨、有設計感、適合傳播。
+背景使用純白或極淺灰漸變，留白不少於 40%。
 
-顶部标题区：
-主标题可用：
-「你的名字，适合哪种签名？」
+頂部標題區：
+主標題可用：
+「你的名字，適合哪種簽名？」
 或：
-「[姓名] · 签名风格选择」
-副标题：
-「不同笔势，不同气场」
-排版为黑色与灰色，高级字距，留白充足。
+「[姓名] · 簽名風格選擇」
+副標題：
+「不同筆勢，不同氣場」
+排版為黑色與灰色，高階字距，留白充足。
 
-签名卡片区域：
-使用整齐网格卡片布局，推荐 2 列 × 3 行，共 6 个卡片。
-每个卡片统一尺寸、统一间距、整体对齐干净。
+簽名卡片區域：
+使用整齊網格卡片佈局，推薦 2 列 × 3 行，共 6 個卡片。
+每個卡片統一尺寸、統一間距、整體對齊乾淨。
 
-卡片样式：
-- 轻微圆角 8-16px
-- 无明显边框，或极细描边
-- 极轻阴影
-- 背景为纯白微差、极浅灰，或轻微宣纸 / 磨砂质感
-视觉目标接近高级杂志排版，避免强 UI 感、厚卡片和 App 组件感。
+卡片樣式：
+- 輕微圓角 8-16px
+- 無明顯邊框，或極細描邊
+- 極輕陰影
+- 背景為純白微差、極淺灰，或輕微宣紙 / 磨砂質感
+視覺目標接近高階雜誌排版，避免強 UI 感、厚卡片和 App 元件感。
 
-签名生成规则：
-签名必须基于书写动作生成，避免只做字体变形。
-每一个签名风格在生成前，先确定一套明确书写行为规则：
-1. 起笔方式：轻触起笔、重压起笔、直接横扫、从左下进入或从中段切入。
-2. 连笔结构：前两个字强连笔后面断开、全连笔一气呵成、只连接偏旁。
-3. 节奏变化：快到慢再收、慢到爆发再拉伸、或均匀节奏。
-4. 结构变形：横向拉长、垂直压缩、整体右倾或左倾、字间重叠或错位。
-5. 收笔设计：尾笔长甩、突然收断、回钩、渐隐收尾。
+簽名生成規則：
+簽名必須基於書寫動作生成，避免只做字型變形。
+每一個簽名風格在生成前，先確定一套明確書寫行為規則：
+1. 起筆方式：輕觸起筆、重壓起筆、直接橫掃、從左下進入或從中段切入。
+2. 連筆結構：前兩個字強連筆後面斷開、全連筆一氣呵成、只連線偏旁。
+3. 節奏變化：快到慢再收、慢到爆發再拉伸、或均勻節奏。
+4. 結構變形：橫向拉長、垂直壓縮、整體右傾或左傾、字間重疊或錯位。
+5. 收筆設計：尾筆長甩、突然收斷、回鉤、漸隱收尾。
 
-6 种签名方向：
-1. 极简理性：接近品牌签名
-2. 狂放张力：强烈连笔和拉伸
-3. 松弛随性：手写感强
-4. 东方行草：飞白和墨感
-5. 锋利结构：几何感和断裂
-6. 实验风格：允许部分不可读，但需要强设计感
+6 種簽名方向：
+1. 極簡理性：接近品牌簽名
+2. 狂放張力：強烈連筆和拉伸
+3. 鬆弛隨性：手寫感強
+4. 東方行草：飛白和墨感
+5. 鋒利結構：幾何感和斷裂
+6. 實驗風格：允許部分不可讀，但需要強設計感
 
 色彩策略：
-整体以黑、灰、白为主。每个卡片允许一个极轻微点缀色，例如冷灰蓝、香槟金、墨黑、暖棕、深绿。
-避免大面积色块和花哨配色。
+整體以黑、灰、白為主。每個卡片允許一個極輕微點綴色，例如冷灰藍、香檳金、墨黑、暖棕、深綠。
+避免大面積色塊和花哨配色。
 
-底部互动区：
-底部居中加入小号灰字：
-「选一个，作为你的专属签名。」
+底部互動區：
+底部居中加入小號灰字：
+「選一個，作為你的專屬簽名。」
 或：
-「你是第几种？」
+「你是第幾種？」
 
-光影与质感：
-高级棚拍光、柔光环境、细腻阴影、干净空气感。
-质感参考 Apple 发布会视觉和高端品牌视觉。
+光影與質感：
+高階棚拍光、柔光環境、細膩陰影、乾淨空氣感。
+質感參考 Apple 發布會視覺和高階品牌視覺。
 
-禁止项：
-不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要模板拼接感。
+禁止項：
+不要字型拼貼，不要普通書法字，不要 UI 卡片風，不要顏色雜亂，不要簽名太小，不要排版鬆散，不要缺乏筆勢，不要範本拼接感。
 
-最终目标：
-生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。
-用户一眼能选出最像自己的一款签名。
+最終目標：
+生成一張高階、乾淨、有秩序、有筆勢張力的 6 風格簽名選擇海報。
+使用者一眼能選出最像自己的一款簽名。
 ```
 
 ***
 
 <a name="case-401"></a>
 
-### 例 401：Lost in 国家旅行海报拼贴
+### 例 401：Lost in 國家旅行海報拼貼
 
-![Lost in 国家旅行海报拼贴](../data/images/case401.jpg)
+![Lost in 國家旅行海報拼貼](../data/images/case401.jpg)
 
-**来源：** [@SadiaMalik182](https://x.com/SadiaMalik182) / [aiiStudio prompt](https://aiistudio.com/prompt/2052388203395514683/lost-in-country-travel-poster-collage)
+**來源：** [@SadiaMalik182](https://x.com/SadiaMalik182) / [aiiStudio prompt](https://aiistudio.com/prompt/2052388203395514683/lost-in-country-travel-poster-collage)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
@@ -7752,75 +7752,75 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 <a name="case-402"></a>
 
-### 例 402：3D 小红书个人资料卡
+### 例 402：3D 小红书個人資料卡
 
-![3D 小红书个人资料卡](../data/images/case402.jpg)
+![3D 小红书個人資料卡](../data/images/case402.jpg)
 
-**来源：** [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
+**來源：** [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
 
-**提示词：**
+**提示詞：**
 
 ```text
-一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
+一隻手中握著一張3D小红书個人資料卡，卡片中間方形鏤空，一個女孩隨意地坐在卡片鏤空的邊緣，溫暖的米色和柔和的粉彩美學背景，逼真的深度和陰影，電影般的柔和光線，閃亮光滑的紋理，小红书風格的UI，漂浮的互動圖示（按讚、留言、分享）帶有發光的霓虹效果，閃光和光暈，背景中溫馨的美學佈置包括書籍、花瓶裡的花和一臺復古相機，夢幻氛圍，Pixar風格+半現實主義融合，超高品質，4K，居中構圖，高階影響者美學
 ```
 
 ***
 
 <a name="case-403"></a>
 
-### 例 403：小红书数字破屏 3D 女孩
+### 例 403：小红书數字破屏 3D 女孩
 
-![小红书数字破屏 3D 女孩](../data/images/case403.jpg)
+![小红书數字破屏 3D 女孩](../data/images/case403.jpg)
 
-**来源：** [@MrGafish](https://x.com/MrGafish/status/2052632520563528051) / [补发提示词](https://x.com/MrGafish/status/2052682279257026631)
+**來源：** [@MrGafish](https://x.com/MrGafish/status/2052632520563528051) / [补发提示词](https://x.com/MrGafish/status/2052682279257026631)
 
-**提示词：**
+**提示詞：**
 
 ```text
-将一位气质绝佳的女孩放置在一个显示小红书帖文的3D透明玻璃手机画面中，并重新调整她的身体姿势，使她看起来像是正从屏幕中突破、进入现实世界。其中一只脚必须强烈地朝向观者延伸，采用戏剧化的 3D 透视效果，创造出强烈的深度感与沉浸感。整体姿势需要具有动态感、自然且符合人体结构，就像是在从屏幕中跨步而出的瞬间。
+將一位氣質絕佳的女孩放置在一個顯示小红书帖文的3D透明玻璃手機畫面中，並重新調整她的身體姿勢，使她看起來像是正從螢幕中突破、進入現實世界。其中一隻腳必須強烈地朝向觀者延伸，採用戲劇化的 3D 透視效果，創造出強烈的深度感與沉浸感。整體姿勢需要具有動態感、自然且符合人體結構，就像是在從螢幕中跨步而出的瞬間。
 
-手机屏幕边缘出现真实细腻的玻璃裂纹与数字粒子效果，大量发光的像素碎片与光粒向外扩散，形成富有未来感的“数字破屏”视觉特效。所有碎片与光效自然围绕人物运动方向展开，具有电影级空间层次感。
+手機螢幕邊緣出現真實細膩的玻璃裂紋與數字粒子效果，大量發光的畫素碎片與光粒向外擴散，形成富有未來感的“數字破屏”視覺特效。所有碎片與光效自然圍繞人物運動方向展開，具有電影級空間層次感。
 
-整体画面采用温暖米色、柔粉色与梦幻紫色渐变背景，结合金粉色夕阳光斑与电影级柔光渲染。Pixar风格与半现实主义融合，超精细材质，柔和景深，电影感光影，8K超高清品质。
+整體畫面採用溫暖米色、柔粉色與夢幻紫色漸變背景，結合金粉色夕陽光斑與電影級柔光渲染。Pixar風格與半現實主義融合，超精細材質，柔和景深，電影感光影，8K超高畫質品質。
 
-将画面优化为竖版【9:16】比例（1080×1440），适用于社交媒体展示。
+將畫面最佳化為豎版【9:16】比例（1080×1440），適用於社群媒體展示。
 ```
 
 ***
 
 <a name="case-404"></a>
 
-### 例 404：豪华社媒破屏商业广告
+### 例 404：豪華社群媒體破屏商業廣告
 
-![豪华社媒破屏商业广告](../data/images/case404.jpg)
+![豪華社群媒體破屏商業廣告](../data/images/case404.jpg)
 
-**来源：** [@you1873118](https://x.com/you1873118/status/2052624395932455061)
+**來源：** [@you1873118](https://x.com/you1873118/status/2052624395932455061)
 
-**提示词：**
+**提示詞：**
 
 ```text
-动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。
+動態的豪華商業廣告海報，特色是超現實3D渲染的充滿活力的年輕女性，以上傳的女性面部作為參考，穿著高階亮橙色設計師服裝、豪華配飾以及時尚的金色墨鏡，自信地從一個巨大的金色智慧手機螢幕中爆發出色。她的姿勢有力且時尚，一隻運動鞋透過強烈的強制透視戲劇性地穿過數字顯示屏，踏入現實。
 
-构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。
+構圖在前臺強調她白色豪華運動鞋，帶有紋理口香糖鞋底，透過電影般的廣角鏡頭失真和淺景深增強。漂浮的閃亮3D社群媒體圖示、金色幾何元素和豪華品牌圖形環繞著她，營造出高階影響者營銷美學。
 
-明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。
+明亮的攝影棚燈光營造出充滿活力的優質促銷氛圍，金屬金色手機邊緣的豐富反射與啞光織物質地形成對比。主導的橙色、白色和金色調色盤傳遞出超現代豪華X / Twitter 廣告氛圍。乾淨的白色背景上帶有大膽的編輯排版、優質軟體品牌元素、優雅的UI圖形、漂浮的互動圖示以及時尚的QR Code區域。
 
-超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。
+超現實8K品質、電影般的陰影、精緻的商業藝術指導、豪華女效能量、時尚營銷美學、現代社群媒體品牌、閃亮反射以及高階數字廣告風格。
 
-宽高比：3:4。
+寬高比：3:4。
 ```
 
 ***
 
 <a name="case-405"></a>
 
-### 例 405：可爱纸艺风照片重绘
+### 例 405：可愛紙藝風照片重繪
 
-![可爱纸艺风照片重绘](../data/images/case405.jpg)
+![可愛紙藝風照片重繪](../data/images/case405.jpg)
 
-**来源：** [@oggii_0](https://x.com/oggii_0/status/2052609040539328759)
+**來源：** [@oggii_0](https://x.com/oggii_0/status/2052609040539328759)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Recreate this image in a paper craft style, simplifying the details to make them suitable for paper craft artwork. Arrange the overall composition to feel visually pleasing, soft, and cute. You may add charming decorative elements such as birds, butterflies, flowers, etc., to enhance the adorable atmosphere while still matching the original image.
@@ -7830,13 +7830,13 @@ Recreate this image in a paper craft style, simplifying the details to make them
 
 <a name="case-406"></a>
 
-### 例 406：巨型游戏手柄街头 Campaign
+### 例 406：巨型遊戲手柄街頭 Campaign
 
-![巨型游戏手柄街头 Campaign](../data/images/case406.jpg)
+![巨型遊戲手柄街頭 Campaign](../data/images/case406.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
+**來源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones.
@@ -7852,13 +7852,13 @@ Environment: seamless studio backdrop with glossy floor reflections, high-end co
 
 <a name="case-407"></a>
 
-### 例 407：Neuro-AI 混合系统信息图
+### 例 407：Neuro-AI 混合系統資訊圖表
 
-![Neuro-AI 混合系统信息图](../data/images/case407.jpg)
+![Neuro-AI 混合系統資訊圖表](../data/images/case407.jpg)
 
-**来源：** [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
+**來源：** [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page.
@@ -7899,13 +7899,13 @@ Style:
 
 <a name="case-408"></a>
 
-### 例 408：Cozy Academia 学习手记
+### 例 408：Cozy Academia 學習手記
 
-![Cozy Academia 学习手记](../data/images/case408.jpg)
+![Cozy Academia 學習手記](../data/images/case408.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying outdoors at a wooden table during golden hour, cozy oversized green sweater and scarf, writing in notebook beside open laptop, historic university campus in background, warm sunset lighting, soft glow, autumn atmosphere, aesthetic doodles and handwritten notes floating around image, kawaii scrapbook style overlays, pastel hearts and stars, motivational text, shallow depth of field, nostalgic film grain, soft beige and warm green tones, peaceful productive vibe, ultra detailed, Pinterest aesthetic, photorealistic, cozy academia style, 35mm film look
@@ -7915,13 +7915,13 @@ Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying 
 
 <a name="case-409"></a>
 
-### 例 409：拙劣 MS Paint 风重绘
+### 例 409：拙劣 MS Paint 風重繪
 
-![拙劣 MS Paint 风重绘](../data/images/case409.jpg)
+![拙劣 MS Paint 風重繪](../data/images/case409.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2052969749878059362)
+**來源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2052969749878059362)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Please redraw the attached image in the most clumsy, messy, and hopelessly pathetic way possible. Use a white background and make it look like it was drawn in MS Paint with a mouse. It should vaguely resemble the original, but not really — like it’s kind of correct in some places yet strangely off and awkward overall. Emphasize a low-quality, pixelated look, and make it appear ridiculously badly drawn. …Actually, never mind — just draw it however you want in a sloppy way.
@@ -7931,13 +7931,13 @@ Please redraw the attached image in the most clumsy, messy, and hopelessly pathe
 
 <a name="case-410"></a>
 
-### 例 410：夸张动漫风主体重绘
+### 例 410：誇張動漫風主體重繪
 
-![夸张动漫风主体重绘](../data/images/case410.jpg)
+![誇張動漫風主體重繪](../data/images/case410.jpg)
 
-**来源：** [@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
+**來源：** [@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world
@@ -7947,13 +7947,13 @@ Create a trending anime art style image from the uploaded subject. Use confident
 
 <a name="case-411"></a>
 
-### 例 411：极简建筑地标海报
+### 例 411：極簡建築地標海報
 
-![极简建筑地标海报](../data/images/case411.jpg)
+![極簡建築地標海報](../data/images/case411.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
@@ -7963,13 +7963,13 @@ Design a luxury minimalist poster centered on a famous architectural landmark of
 
 <a name="case-412"></a>
 
-### 例 412：彩色按钮时尚 Campaign
+### 例 412：彩色按鈕時尚 Campaign
 
-![彩色按钮时尚 Campaign](../data/images/case412.jpg)
+![彩色按鈕時尚 Campaign](../data/images/case412.jpg)
 
-**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258)
+**來源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use reference image as style guide.
@@ -7990,13 +7990,13 @@ Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury ca
 
 <a name="case-413"></a>
 
-### 例 413：当代舞现场 Storyboard
+### 例 413：當代舞現場 Storyboard
 
-![当代舞现场 Storyboard](../data/images/case413.jpg)
+![當代舞現場 Storyboard](../data/images/case413.jpg)
 
-**来源：** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
+**來源：** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a raw contemporary dance performance storyboard focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels.
@@ -8022,13 +8022,13 @@ End with one overwhelming final movement pose beneath a harsh isolated spotlight
 
 <a name="case-414"></a>
 
-### 例 414：室内晨间写实摄影
+### 例 414：室內晨間寫實攝影
 
-![室内晨间写实摄影](../data/images/case414.jpg)
+![室內晨間寫實攝影](../data/images/case414.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421)
+**來源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A close-medium shot of a young Japanese woman in her bedroom on an ordinary morning, captured in authentic daily life photography as a natural candid moment. She is seated sideways on the edge of the bed, not fully awake yet, photographed from a slightly elevated three-quarter angle with cool-to-warm morning window light entering from the left.
@@ -8041,69 +8041,69 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 
 <a name="case-415"></a>
 
-### 例 415：东方神话人物志百科海报
+### 例 415：東方神話人物誌百科海報
 
-![东方神话人物志百科海报](../data/images/case415.jpg)
+![東方神話人物誌百科海報](../data/images/case415.jpg)
 
-**来源：** [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
+**來源：** [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
 
-**提示词：**
+**提示詞：**
 
 ```text
-请基于【孙悟空】生成一张竖版 A4「东方神话人物志」百科海报。
+請基於【孫悟空】生成一張豎版 A4「東方神話人物誌」百科海報。
 
-你是一名东方神话视觉设定师、古籍图谱设计师和中文信息图设计师。请根据【人物名称】在东方神话、民间传说、古籍、戏曲、文学或传统文化中的已知形象，生成一张内容完整、视觉统一、具有东方神话气质的人物档案海报。
+你是一名東方神話視覺設定師、古籍圖譜設計師和中文資訊圖表設計師。請根據【人物名稱】在東方神話、民間傳說、古籍、戲曲、文學或傳統文化中的已知形象，生成一張內容完整、視覺統一、具有東方神話氣質的人物檔案海報。
 
-最重要原则：
-全部内容必须围绕【人物名称】展开，不要套用通用神仙模板。
-人物形象、法器、坐骑、神通、典故、象征物、背景场景都必须符合【人物名称】的神话设定。
-如果该人物存在多个传说版本，请采用最广为人知的版本；存在异文时，可以在相关板块简短标注“传说版本不一”。
-不确定的信息不要强行编造，可写“民间传说中多有异文”或“相关记载较少”。
-不要使用北欧符文、维京图腾、哥特边框、西方盔甲、欧式城堡、西幻恶魔角、赛博朋克元素。
-整体必须是东方神话审美，而不是“西幻人物换中式衣服”。
-整体视觉风格：
-东方神话史诗感，融合《山海经》异兽图谱、敦煌壁画、青绿山水、唐代人物画、宋元古画、青铜器纹样、古籍注疏和符箓篆刻风格。画面庄重、神秘、古雅、华丽但克制。
-画面构图：
+最重要原則：
+全部內容必須圍繞【人物名稱】展開，不要套用通用神仙範本。
+人物形象、法器、坐騎、神通、典故、象徵物、背景場景都必須符合【人物名稱】的神話設定。
+如果該人物存在多個傳說版本，請採用最廣為人知的版本；存在異文時，可以在相關板塊簡短標註“傳說版本不一”。
+不確定的資訊不要強行編造，可寫“民間傳說中多有異文”或“相關記載較少”。
+不要使用北歐符文、維京圖騰、哥特邊框、西方盔甲、歐式城堡、西幻惡魔角、賽博朋克元素。
+整體必須是東方神話審美，而不是“西幻人物換中式衣服”。
+整體視覺風格：
+東方神話史詩感，融合《山海經》異獸圖譜、敦煌壁畫、青綠山水、唐代人物畫、宋元古畫、青銅器紋樣、古籍註疏和符籙篆刻風格。畫面莊重、神秘、古雅、華麗但克制。
+畫面構圖：
 
-竖版 A4 海报，中轴对称布局。中央为【人物名称】的全身或半身主视觉，姿态庄严，有神性和叙事感。人物服饰、发冠、法器、神态、灵兽、背景都要符合该人物传说。左右两侧为信息卡片，底部为核心总结。四周使用云雷纹、回纹、青铜纹、祥云纹、卷草纹、山海纹、篆刻印章式边框。
-主标题：“【人物名称】”
-副标题：“东方神话人物志｜根据该人物神话传说生成”
-顶部精神题记：请根据【人物名称】的核心精神，自动生成一句古雅、凝练、有哲学意味的题记。题记要体现该人物背后的价值观、生命姿态或精神内核，而不是说明性文字。不要写“非史实考证”“仅供参考”“传说版本”等免责声明。字数控制在 12-28 字，适合放在标题下方。题记应与人物高度绑定，不要套用“守护苍生”“大道无边”等空泛句式。
+豎版 A4 海報，中軸對稱佈局。中央為【人物名稱】的全身或半身主視覺，姿態莊嚴，有神性和敘事感。人物服飾、發冠、法器、神態、靈獸、背景都要符合該人物傳說。左右兩側為資訊卡片，底部為核心總結。四周使用雲雷紋、回紋、青銅紋、祥雲紋、卷草紋、山海紋、篆刻印章式邊框。
+主標題：“【人物名稱】”
+副標題：“東方神話人物誌｜根據該人物神話傳說生成”
+頂部精神題記：請根據【人物名稱】的核心精神，自動生成一句古雅、凝練、有哲學意味的題記。題記要體現該人物背後的價值觀、生命姿態或精神核心，而不是說明性文字。不要寫“非史實考證”“僅供參考”“傳說版本”等免責宣告。字數控制在 12-28 字，適合放在標題下方。題記應與人物高度繫結，不要套用“守護蒼生”“大道無邊”等空泛句式。
 
-请生成以下内容板块：
-【1. 神格身份】说明【人物名称】在东方神话体系中的身份定位。
-【2. 神话源流】说明该人物主要出自哪些神话、古籍、民间传说、小说、戏曲或宗教信仰。
-【3. 司职权柄】总结该人物掌管或象征的领域。
-【4. 形象特征】描述该人物的典型外貌、服饰、神态、姿态和视觉气质。
-【5. 法器神通】展示该人物最具代表性的法器、兵器、符咒、神通或能力。
-【6. 灵兽坐骑 / 随身象征】如果【人物名称】有坐骑、灵兽、伴生生灵，请展示其名称、形态和寓意。如果没有明确坐骑，请改为“随身象征物”或“相关意象”。不要强行给每个人物安排龙、凤、仙鹤或麒麟。
-【7. 典故出处】列出 2-4 个与【人物名称】相关的经典故事、传说片段或文化典故。不要虚构不存在的典故。若版本不一，请标注“异文较多”。
-【8. 象征意象】提炼该人物最核心的视觉符号。符号必须与【人物名称】相关。
-【9. 神话谱系】说明该人物与其他神话人物、阵营、族属或体系的关系。如果谱系不明确，请写“谱系传说不一”。
-【10. 文化影响】说明该人物在民俗、节日、祭祀、文学、戏曲、绘画、庙宇、影视或现代文化中的影响。
-【11. 精神内核】从神话叙事角度总结该人物象征的精神。这里只分析神话形象，不推断真实人物性格。
-【12. 核心总结】用一段古雅但易懂的中文总结【人物名称】：“【人物名称】在东方神话中象征……，其形象融合了……，代表着……。”
+請生成以下內容板塊：
+【1. 神格身份】說明【人物名稱】在東方神話體系中的身份定位。
+【2. 神話源流】說明該人物主要出自哪些神話、古籍、民間傳說、小說、戲曲或宗教信仰。
+【3. 司職權柄】總結該人物掌管或象徵的領域。
+【4. 形象特徵】描述該人物的典型外貌、服飾、神態、姿態和視覺氣質。
+【5. 法器神通】展示該人物最具代表性的法器、兵器、符咒、神通或能力。
+【6. 靈獸坐騎 / 隨身象徵】如果【人物名稱】有坐騎、靈獸、伴生生靈，請展示其名稱、形態和寓意。如果沒有明確坐騎，請改為“隨身象徵物”或“相關意象”。不要強行給每個人物安排龍、鳳、仙鶴或麒麟。
+【7. 典故出處】列出 2-4 個與【人物名稱】相關的經典故事、傳說片段或文化典故。不要虛構不存在的典故。若版本不一，請標註“異文較多”。
+【8. 象徵意象】提煉該人物最核心的視覺符號。符號必須與【人物名稱】相關。
+【9. 神話譜系】說明該人物與其他神話人物、陣營、族屬或體系的關係。如果譜系不明確，請寫“譜系傳說不一”。
+【10. 文化影響】說明該人物在民俗、節日、祭祀、文學、戲曲、繪畫、廟宇、影視或現代文化中的影響。
+【11. 精神核心】從神話敘事角度總結該人物象徵的精神。這裡只分析神話形象，不推斷真實人物性格。
+【12. 核心總結】用一段古雅但易懂的中文總結【人物名稱】：“【人物名稱】在東方神話中象徵……，其形象融合了……，代表著……。”
 
-视觉版式要求：
-顶部：大标题 + 副标题 + 精神题记。
-中央：人物主视觉，气势庄重，细节丰富。
-左侧栏目：神格身份、神话源流、司职权柄、形象特征、法器神通。
-右侧栏目：灵兽坐骑/随身象征、典故出处、象征意象、神话谱系、文化影响。
-底部：精神内核 + 核心总结。
-可加入小型图标、注释线、古籍标签、卷轴卡片、青铜铭牌、朱砂印章、符箓纹样。
-信息卡片像古书页、玉简、青铜牌、卷轴或碑铭，不要像现代科技 UI。
+視覺版式要求：
+頂部：大標題 + 副標題 + 精神題記。
+中央：人物主視覺，氣勢莊重，細節豐富。
+左側欄目：神格身份、神話源流、司職權柄、形象特徵、法器神通。
+右側欄目：靈獸坐騎/隨身象徵、典故出處、象徵意象、神話譜系、文化影響。
+底部：精神核心 + 核心總結。
+可加入小型圖示、註釋線、古籍標籤、卷軸卡片、青銅銘牌、硃砂印章、符籙紋樣。
+資訊卡片像古書頁、玉簡、青銅牌、卷軸或碑銘，不要像現代科技 UI。
 
-材质与纹样：
-宣纸肌理、矿物颜料、鎏金线条、朱砂印章、墨色晕染、青铜器铭文、云雷纹、回纹、祥云纹、山水纹、敦煌藻井纹样。
+材質與紋樣：
+宣紙肌理、礦物顏料、鎏金線條、硃砂印章、墨色暈染、青銅器銘文、雲雷紋、回紋、祥雲紋、山水紋、敦煌藻井紋樣。
 
-配色规则：
-根据【人物名称】的属性自动选择东方配色。火焰 / 战斗 / 护法：朱砂、玄黑、鎏金、赤红。月亮 / 水系 / 清冷神祇：黛青、银白、月白、石蓝。山川 / 木系 / 自然神灵：石绿、青黛、玉白、赭石。帝王 / 天庭 / 尊神：鎏金、玄黑、朱砂、玉白。妖灵 / 山海异兽：墨黑、铜绿、暗金、赭红。不要所有人物都使用同一套配色。
+配色規則：
+根據【人物名稱】的屬性自動選擇東方配色。火焰 / 戰鬥 / 護法：硃砂、玄黑、鎏金、赤紅。月亮 / 水系 / 清冷神祇：黛青、銀白、月白、石藍。山川 / 木系 / 自然神靈：石綠、青黛、玉白、赭石。帝王 / 天庭 / 尊神：鎏金、玄黑、硃砂、玉白。妖靈 / 山海異獸：墨黑、銅綠、暗金、赭紅。不要所有人物都使用同一套配色。
 
 文字要求：
-中文必须清晰可读，标题大气，正文简短准确。不要乱码、伪文字、错别字、文字重叠或裁切。如果空间不足，优先压缩正文，但保留所有板块标题。
+中文必須清晰可讀，標題大氣，正文簡短準確。不要亂碼、偽文字、錯別字、文字重疊或裁切。如果空間不足，優先壓縮正文，但保留所有板塊標題。
 
 避免：
-北欧符文、维京风、哥特边框、西方盔甲、欧式城堡、魔幻游戏 UI、赛博朋克、现代科技感、过度暗黑、随机龙凤、无关法器、模板化神仙形象、与【人物名称】无关的典故、空泛精神题记。
+北歐符文、維京風、哥特邊框、西方盔甲、歐式城堡、魔幻遊戲 UI、賽博朋克、現代科技感、過度暗黑、隨機龍鳳、無關法器、範本化神仙形象、與【人物名稱】無關的典故、空泛精神題記。
 ```
 
 ***
@@ -8114,9 +8114,9 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 
 ![Earth Signs 角色 Scrapbook](../data/images/case416.jpg)
 
-**来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
+**來源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
 
-**提示词：**
+**提示詞：**
 
 ```text
 CREATE A NEW IMAGE USING THE PROVIDED FEMALE SUBJECT AS THE ONLY REFERENCE. Preserve her exact facial features, identity, and characteristics with zero alteration.
@@ -8177,13 +8177,13 @@ Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifes
 
 <a name="case-417"></a>
 
-### 例 417：复古印尼猫薄荷广告
+### 例 417：復古印尼貓薄荷廣告
 
-![复古印尼猫薄荷广告](../data/images/case417.jpg)
+![復古印尼貓薄荷廣告](../data/images/case417.jpg)
 
-**来源：** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
+**來源：** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.
@@ -8193,13 +8193,13 @@ Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s pape
 
 <a name="case-418"></a>
 
-### 例 418：中世纪城市旅行海报
+### 例 418：中世紀城市旅行海報
 
-![中世纪城市旅行海报](../data/images/case418.jpg)
+![中世紀城市旅行海報](../data/images/case418.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
+**來源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR].
@@ -8212,13 +8212,13 @@ Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language nam
 
 <a name="case-419"></a>
 
-### 例 419：可颂烘焙流程 Storyboard
+### 例 419：可頌烘焙流程 Storyboard
 
-![可颂烘焙流程 Storyboard](../data/images/case419.jpg)
+![可頌烘焙流程 Storyboard](../data/images/case419.jpg)
 
-**来源：** [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
+**來源：** [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light.
@@ -8254,13 +8254,13 @@ BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamina
 
 <a name="case-420"></a>
 
-### 例 420：红跑道低角度夏日人像
+### 例 420：紅跑道低角度夏日人像
 
-![红跑道低角度夏日人像](../data/images/case420.jpg)
+![紅跑道低角度夏日人像](../data/images/case420.jpg)
 
-**来源：** [@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285)
+**來源：** [@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use the uploaded portrait photo as the appearance reference for the person. Create a bright photorealistic outdoor portrait of a young woman lying on a red running track on a modern white arch pedestrian bridge. Ultra-wide low-angle selfie perspective, her arm reaching toward the camera in the foreground, relaxed pose, wired headphones around her neck, white sleeveless top, loose gray pants, black hair spread on the ground. Clean blue sky with soft white clouds, strong midday sunlight, crisp shadows, high clarity, fresh youthful mood, architectural symmetry, realistic skin texture, cinematic composition, 3:4 vertical image
@@ -8274,13 +8274,13 @@ watermark, logo, text, caption, signature, AI label, extra fingers, deformed han
 
 <a name="case-421"></a>
 
-### 例 421：iPhone 屏幕遮脸创意人像
+### 例 421：iPhone 螢幕遮臉創意人像
 
-![iPhone 屏幕遮脸创意人像](../data/images/case421.jpg)
+![iPhone 螢幕遮臉創意人像](../data/images/case421.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
+**來源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.
@@ -8290,13 +8290,13 @@ Ultra-realistic creative portrait taken with an iPhone, identity accurately pres
 
 <a name="case-422"></a>
 
-### 例 422：冬季生存惊悚 Storyboard
+### 例 422：冬季生存驚悚 Storyboard
 
-![冬季生存惊悚 Storyboard](../data/images/case422.jpg)
+![冬季生存驚悚 Storyboard](../data/images/case422.jpg)
 
-**来源：** [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
+**來源：** [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Cinematic Survival Thriller Storyboard Prompt
@@ -8474,13 +8474,13 @@ Cinematography notes:
 
 <a name="case-423"></a>
 
-### 例 423：日系手绘涂鸦半身插画
+### 例 423：日系手繪塗鴉半身插畫
 
-![日系手绘涂鸦半身插画](../data/images/case423.jpg)
+![日系手繪塗鴉半身插畫](../data/images/case423.jpg)
 
-**来源：** [@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
+**來源：** [@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Generate an illustration of "me" as you imagine it. Features include a Japanese illustration style, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.
@@ -8490,13 +8490,13 @@ Generate an illustration of "me" as you imagine it. Features include a Japanese 
 
 <a name="case-424"></a>
 
-### 例 424：FMCG 棒棒糖霓虹广告
+### 例 424：FMCG 棒棒糖霓虹廣告
 
-![FMCG 棒棒糖霓虹广告](../data/images/case424.jpg)
+![FMCG 棒棒糖霓虹廣告](../data/images/case424.jpg)
 
-**来源：** [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149) / [Prompt reply](https://x.com/Diplomeme/status/2054061980240224476)
+**來源：** [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149) / [Prompt reply](https://x.com/Diplomeme/status/2054061980240224476)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Hyper-realistic cinematic FMCG billboard advertising poster for Chupa Chups India, focusing on playful energy, bold flavor explosion, and Gen-Z candy culture.
@@ -8537,13 +8537,13 @@ Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG 
 
 <a name="case-425"></a>
 
-### 例 425：黑白时尚人像拼贴海报
+### 例 425：黑白時尚人像拼貼海報
 
-![黑白时尚人像拼贴海报](../data/images/case425.jpg)
+![黑白時尚人像拼貼海報](../data/images/case425.jpg)
 
-**来源：** [@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
+**來源：** [@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
 
-**提示词：**
+**提示詞：**
 
 ```text
 {
@@ -8556,13 +8556,13 @@ Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG 
 
 <a name="case-426"></a>
 
-### 例 426：日韩咖啡馆情侣写真
+### 例 426：日韓咖啡館情侶寫真
 
-![日韩咖啡馆情侣写真](../data/images/case426.jpg)
+![日韓咖啡館情侶寫真](../data/images/case426.jpg)
 
-**来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2054047328420634927)
+**來源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2054047328420634927)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic cozy Japanese-Korean café photography featuring a cute young [Japanese/Korean] couple sitting together naturally in a trendy aesthetic café. The young couple should look stylish and youthful, wearing [fashion style/outfit colors], smiling softly and enjoying desserts together.
@@ -8580,13 +8580,13 @@ Color palette should focus on [color theme] tones. Style inspired by viral Pinte
 
 <a name="case-427"></a>
 
-### 例 427：9-frame 时尚人像拼贴
+### 例 427：9-frame 時尚人像拼貼
 
-![9-frame 时尚人像拼贴](../data/images/case427.jpg)
+![9-frame 時尚人像拼貼](../data/images/case427.jpg)
 
-**来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2054046866497573214)
+**來源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2054046866497573214)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Edit this photo and don't change the face, portrait 9:16. A 9-frame fashion portrait collage featuring a stylish young woman with playful expressions and sporty streetwear aesthetics. The concept combines modern model test photography, casual Gen-Z energy, and clean editorial studio vibes. Each frame captures different candid facial expressions and subtle attitude poses, creating a cool, confident, and slightly mischievous mood. Minimalist composition with strong focus on facial expressions, cap styling, and soft fashion portrait lighting.
@@ -8612,13 +8612,13 @@ Background minimal white studio backdrop. Photobooth-style collage layout with b
 
 <a name="case-428"></a>
 
-### 例 428：F1 直播转播围场截图
+### 例 428：F1 直播轉播圍場截圖
 
-![F1 直播转播围场截图](../data/images/case428.jpg)
+![F1 直播轉播圍場截圖](../data/images/case428.jpg)
 
-**来源：** [@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
+**來源：** [@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic F1 live TV broadcast screenshot. A strikingly beautiful, 25-year-old young woman with bright light blue hair and captivating bright cerulean blue eyes is sitting in the VIP paddock / team garage during a Formula 1 race. Shown on the official live race broadcast as the girlfriend of an F1 driver, she is listening to the team radio through a professional racing headset. It is the final lap, and she is watching the garage monitors with a proud, enchanting smile.
@@ -8631,13 +8631,13 @@ Team staff (in generic kit), headsets, garage screens, and generic race equipmen
 
 <a name="case-429"></a>
 
-### 例 429：韩国便利店粉色 Hoodie 人像
+### 例 429：韓國便利店粉色 Hoodie 人像
 
-![韩国便利店粉色 Hoodie 人像](../data/images/case429.jpg)
+![韓國便利店粉色 Hoodie 人像](../data/images/case429.jpg)
 
-**来源：** [@john_my07](https://x.com/john_my07/status/2054573350199111928)
+**來源：** [@john_my07](https://x.com/john_my07/status/2054573350199111928)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.
@@ -8647,13 +8647,13 @@ Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean wom
 
 <a name="case-430"></a>
 
-### 例 430：铅笔素描时尚编辑插画
+### 例 430：鉛筆素描時尚編輯插畫
 
-![铅笔素描时尚编辑插画](../data/images/case430.jpg)
+![鉛筆素描時尚編輯插畫](../data/images/case430.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2054573031343931418)
+**來源：** [@harboriis](https://x.com/harboriis/status/2054573031343931418)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A high-detail digital illustration of a stylish woman sitting gracefully on a stone ledge, posing with one hand near her chin and legs crossed. She is wearing vintage-inspired round sunglasses, a white blouse with rolled-up sleeves, denim overalls, and rugged lace-up combat boots. The subject is rendered in a desaturated, monochromatic pencil-sketch style with soft cross-hatching and charcoal textures. In the background, a large, vibrant solid orange circle creates a bold geometric contrast against a clean, light grey backdrop. The overall composition is minimalist, editorial, and features a clean "indie-magazine" aesthetic with sharp linework and soft shading.
@@ -8665,13 +8665,13 @@ Aspect ratio is 9:16
 
 <a name="case-431"></a>
 
-### 例 431：城市文字旅行海报
+### 例 431：城市文字旅行海報
 
-![城市文字旅行海报](../data/images/case431.jpg)
+![城市文字旅行海報](../data/images/case431.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-high-resolution typography travel poster themed around [CITY NAME]. 16:9 poster ratio.
@@ -8715,13 +8715,13 @@ QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typo
 
 <a name="case-432"></a>
 
-### 例 432：大堡礁复古旅行海报
+### 例 432：大堡礁復古旅行海報
 
-![大堡礁复古旅行海报](../data/images/case432.jpg)
+![大堡礁復古旅行海報](../data/images/case432.jpg)
 
-**来源：** [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
+**來源：** [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia.
@@ -8744,13 +8744,13 @@ Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. 
 
 <a name="case-433"></a>
 
-### 例 433：韩国城市水彩旅行插画
+### 例 433：韓國城市水彩旅行插畫
 
-![韩国城市水彩旅行插画](../data/images/case433.jpg)
+![韓國城市水彩旅行插畫](../data/images/case433.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2055492435862773978)
+**來源：** [@Taaruk_](https://x.com/Taaruk_/status/2055492435862773978)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Dreamy watercolor travel illustration of a peaceful Korean city street, hand-painted urban sketchbook style, delicate ink linework mixed with soft watercolor washes, cozy café storefronts, warm bakery lights glowing through windows, quiet morning atmosphere after light rain, reflective wet pavement, pedestrians with umbrellas and tote bags, bicycles parked along narrow streets, traditional Korean signs and typography, subtle Korean text labels, soft beige paper texture background, architectural sketch aesthetic, calm everyday city life, muted earthy palette with warm browns, faded greens, cream whites and soft blue accents, highly detailed pen-and-ink drawing, loose expressive brush strokes, travel journal composition, editorial postcard layout, elegant serif title text at top (“SEOUL”, “JEONJU”, “DAEJEON”), handwritten notes and date stamps, vintage travel diary aesthetic, cozy East Asian urban scenery, cinematic slice-of-life mood, watercolor bleeding edges, natural perspective, atmospheric depth, peaceful storytelling illustration, minimalist negative space, ultra detailed watercolor texture, sketchbook traveler aesthetic, nostalgic café culture vibes, Studio Ghibli-inspired realism, European urban sketching style mixed with Korean street scenery, soft daylight, calm and poetic composition, vertical poster design, premium art print quality.
@@ -8760,13 +8760,13 @@ Dreamy watercolor travel illustration of a peaceful Korean city street, hand-pai
 
 <a name="case-434"></a>
 
-### 例 434：东京街头胶片人像
+### 例 434：東京街頭膠片人像
 
-![东京街头胶片人像](../data/images/case434.jpg)
+![東京街頭膠片人像](../data/images/case434.jpg)
 
-**来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2055491616392052887)
+**來源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2055491616392052887)
 
-**提示词：**
+**提示詞：**
 
 ```text
 film photography, candid street snapshot aesthetic, razor-sharp focus on subject, shallow depth of field with soft blurred urban background, bright daylight, slightly overexposed highlights, vivid contrast, subtle analog film texture, heavy film grain, nostalgic cinematic atmosphere, Tokyo backstreet neighborhood scene near a quiet train station, narrow pedestrian street lined with Japanese convenience stores, vintage vending machines, small ramen shops, hanging signs with faded typography, bicycles parked along tiled sidewalks, utility poles and overhead wires stretching across the sky, scattered fallen leaves on the ground, distant pedestrians and passing taxis softly blurred in the background, warm afternoon sunlight with deep blue sky, realistic street fashion photography style, effortless cool street vibe, vibrant colors with slightly muted faded film tones, beautiful 19-year-old Chinese female influencer, fair porcelain skin with cold pale undertones, exquisite natural makeup, glossy soft lips, defined brows, delicate lashes, soft messy long black hair with natural flowing curves, wearing an off-shoulder white fluffy faux fur jacket, playful yet subtly seductive expression, lazy dreamy vintage filter, ultra high-quality details, intentionally mundane phone-camera snapshot feeling, casual accidental composition, imperfect framing, realistic iPhone photography texture, spontaneous candid energy, highly attractive girl casually posing in the middle of the sidewalk, body facing away from the camera while turning her head back toward the lens with direct eye contact, relaxed posture, soft wind moving her hair, emotional youthful atmosphere, modern Asian street fashion editorial, soft haze, layered composition, masterpiece, best quality, ultra detailed, slight motion blur from slow shutter, authentic everyday realism, “BubbleBrain” small handwritten signature text on bottom corner --ar 9:16
@@ -8776,13 +8776,13 @@ film photography, candid street snapshot aesthetic, razor-sharp focus on subject
 
 <a name="case-435"></a>
 
-### 例 435：层叠纸雕情侣插画
+### 例 435：層疊紙雕情侶插畫
 
-![层叠纸雕情侣插画](../data/images/case435.jpg)
+![層疊紙雕情侶插畫](../data/images/case435.jpg)
 
-**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
+**來源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
 
-**提示词：**
+**提示詞：**
 
 ```text
 {
@@ -8830,13 +8830,13 @@ film photography, candid street snapshot aesthetic, razor-sharp focus on subject
 
 <a name="case-436"></a>
 
-### 例 436：数码相机屏幕怀旧人像
+### 例 436：數位相機螢幕懷舊人像
 
-![数码相机屏幕怀旧人像](../data/images/case436.jpg)
+![數位相機螢幕懷舊人像](../data/images/case436.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2055876982630686956)
+**來源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2055876982630686956)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.
@@ -8856,13 +8856,13 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 <a name="case-437"></a>
 
-### 例 437：面部美学分析报告
+### 例 437：面部美學分析報告
 
-![面部美学分析报告](../data/images/case437.jpg)
+![面部美學分析報告](../data/images/case437.jpg)
 
-**来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
+**來源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a clean, minimal, luxury-style facial aesthetics analysis report based on the uploaded portrait photo.
@@ -8894,13 +8894,13 @@ Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated ed
 
 <a name="case-438"></a>
 
-### 例 438：珠宝微缩城市广告海报
+### 例 438：珠寶微縮城市廣告海報
 
-![珠宝微缩城市广告海报](../data/images/case438.jpg)
+![珠寶微縮城市廣告海報](../data/images/case438.jpg)
 
-**来源：** [@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
+**來源：** [@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
@@ -8910,13 +8910,13 @@ Create a hyper-detailed luxury advertising poster in a cinematic miniature-world
 
 <a name="case-439"></a>
 
-### 例 439：赛博黑客角色设定表
+### 例 439：賽博駭客角色設定表
 
-![赛博黑客角色设定表](../data/images/case439.jpg)
+![賽博駭客角色設定表](../data/images/case439.jpg)
 
-**来源：** [@Kashberg_0](https://x.com/Kashberg_0/status/2055865126335762902)
+**來源：** [@Kashberg_0](https://x.com/Kashberg_0/status/2055865126335762902)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker girl named “NEO // RIN”, full body turnaround (front, side, back) plus close-up portrait and accessory callouts. Short silver-white bob haircut with neon cyan and magenta gradient streaks, glowing translucent cyber visor over one eye, pale skin, sharp violet eyes, calm confident expression. Oversized techwear jacket with black tactical cargo pants, belts, straps, dangling utility tags, cropped top, futuristic sneakers, holographic accessories, barcode decals, warning symbols, “BYTE//NULL” typography, hacker aesthetic.
@@ -8930,13 +8930,13 @@ Highly polished cel shading, crisp lineart, soft glow effects, intricate clothin
 
 <a name="case-440"></a>
 
-### 例 440：手机拍摄 FaceTime 工作屏幕
+### 例 440：手機拍攝 FaceTime 工作螢幕
 
-![手机拍摄 FaceTime 工作屏幕](../data/images/case440.jpg)
+![手機拍攝 FaceTime 工作螢幕](../data/images/case440.jpg)
 
-**来源：** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
+**來源：** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
@@ -8946,13 +8946,13 @@ Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio
 
 <a name="case-441"></a>
 
-### 例 441：WILDCAMP 巨型帐篷广告海报
+### 例 441：WILDCAMP 巨型帳篷廣告海報
 
-![WILDCAMP 巨型帐篷广告海报](../data/images/case441.jpg)
+![WILDCAMP 巨型帳篷廣告海報](../data/images/case441.jpg)
 
-**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
+**來源：** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
 
-**提示词：**
+**提示詞：**
 
 ```text
 An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
@@ -8962,13 +8962,13 @@ An outdoor adventure advertisement poster featuring a rugged bearded man in full
 
 <a name="case-442"></a>
 
-### 例 442：舒适发廊插画
+### 例 442：舒適髮廊插畫
 
-![舒适发廊插画](../data/images/case442.jpg)
+![舒適髮廊插畫](../data/images/case442.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.
@@ -8978,13 +8978,13 @@ A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a
 
 <a name="case-443"></a>
 
-### 例 443：塔可爆炸拆解信息图
+### 例 443：塔可爆炸拆解資訊圖表
 
-![塔可爆炸拆解信息图](../data/images/case443.jpg)
+![塔可爆炸拆解資訊圖表](../data/images/case443.jpg)
 
-**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
+**來源：** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a hyper-realistic exploded vertical infographic composition of tacos.
@@ -9010,16 +9010,16 @@ Ultra-detailed food textures, premium commercial aesthetic, 8K.
 
 <a name="case-444"></a>
 
-### 例 444：迪斯科镜面 3D App 图标
+### 例 444：迪斯科鏡面 3D App 圖示
 
-![迪斯科镜面 3D App 图标](../data/images/case444.jpg)
+![迪斯科鏡面 3D App 圖示](../data/images/case444.jpg)
 
-**来源：** [@vista8](https://x.com/vista8/status/2056308962778296715)
+**來源：** [@vista8](https://x.com/vista8/status/2056308962778296715)
 
-**提示词：**
+**提示詞：**
 
 ```text
-为【品牌名】生成一个高级 3D App 图标，圆角方形底板，玻璃与金属铬材质，迪斯科球镜面马赛克小方块质感，闪亮高光，柔和工作室灯光，干净极简背景，高端产品图标风格，Blender 3D 渲染，超精细
+為【品牌名】生成一個高階 3D App 圖示，圓角方形底板，玻璃與金屬鉻材質，迪斯科球鏡面馬賽克小方塊質感，閃亮高光，柔和工作室燈光，乾淨極簡背景，高階產品圖示風格，Blender 3D 渲染，超精細
 
 英文版：
 
@@ -9030,29 +9030,29 @@ A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass 
 
 <a name="case-445"></a>
 
-### 例 445：旅游照水墨明信片
+### 例 445：旅遊照水墨明信片
 
-![旅游照水墨明信片](../data/images/case445.jpg)
+![旅遊照水墨明信片](../data/images/case445.jpg)
 
-**来源：** [@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
+**來源：** [@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
 
-**提示词：**
+**提示詞：**
 
 ```text
-Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.
+Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定義標題]  at top, handwritten notes:[自定義文案] , date: [自定義日期] and location: [自定義地點]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.
 ```
 
 ***
 
 <a name="case-446"></a>
 
-### 例 446：低多边形纸艺男士肖像
+### 例 446：低多邊形紙藝男士肖像
 
-![低多边形纸艺男士肖像](../data/images/case446.jpg)
+![低多邊形紙藝男士肖像](../data/images/case446.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
+**來源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.
@@ -9062,13 +9062,13 @@ Create a highly detailed low-poly papercraft portrait of a stylish young man, de
 
 <a name="case-447"></a>
 
-### 例 447：现代地铁工程信息图
+### 例 447：現代地鐵工程資訊圖表
 
-![现代地铁工程信息图](../data/images/case447.jpg)
+![現代地鐵工程資訊圖表](../data/images/case447.jpg)
 
-**来源：** [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
+**來源：** [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.
@@ -9164,13 +9164,13 @@ The final result should resemble a professionally published railway infrastructu
 
 <a name="case-448"></a>
 
-### 例 448：1942 空战街机电影城
+### 例 448：1942 空戰街機電影城
 
-![1942 空战街机电影城](../data/images/case448.jpg)
+![1942 空戰街機電影城](../data/images/case448.jpg)
 
-**来源：** [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
+**來源：** [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition
@@ -9215,13 +9215,13 @@ cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion bl
 
 <a name="case-449"></a>
 
-### 例 449：奢华机械腕表技术图鉴
+### 例 449：奢華機械腕錶技術圖鑑
 
-![奢华机械腕表技术图鉴](../data/images/case449.jpg)
+![奢華機械腕錶技術圖鑑](../data/images/case449.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
+**來源：** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
 
-**提示词：**
+**提示詞：**
 
 ```text
 2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:
@@ -9262,13 +9262,13 @@ class Haute_Horlogerie_DNA:
 
 <a name="case-450"></a>
 
-### 例 450：烛光侧室写实摄影
+### 例 450：燭光側室寫實攝影
 
-![烛光侧室写实摄影](../data/images/case450.jpg)
+![燭光側室寫實攝影](../data/images/case450.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
+**來源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A medium-shot authentic daily life photograph, natural candid moment, of an East Asian young woman standing in a small side room lit only by a single candle on a low stone shelf. 85mm lens, waist-up framing, shallow depth of field. The candle is off-frame to the left; the room behind her exists only as dark warm suggestion.
@@ -9284,29 +9284,29 @@ Single candle — warm amber-orange, directional and fragile. It carves the left
 
 <a name="case-451"></a>
 
-### 例 451：韩国海滩日落时尚人像
+### 例 451：韓國海灘日落時尚人像
 
-![韩国海滩日落时尚人像](../data/images/case451.jpg)
+![韓國海灘日落時尚人像](../data/images/case451.jpg)
 
-**来源：** [@MrGafish](https://x.com/MrGafish/status/2057107670226870577)
+**來源：** [@MrGafish](https://x.com/MrGafish/status/2057107670226870577)
 
-**提示词：**
+**提示詞：**
 
 ```text
-一位成年韩国女孩，人物位于画面中央，半身到大腿视角，身体微微前倾。身形比例协调，肩颈线条舒展，可以看到胸部轮廓，轮廓自然优美，腰部线条柔和，整体凸显丰腴健康的女性美，丝滑黑发随风飘扬，人物气质成熟、温柔、安静，面带自然微笑。身穿白色一字肩连衣裙，背景是热带海滩日落，电影感DSLR摄影，温暖辉光照明，梦幻虚化，超详细，鲜艳色彩，丰富对比，韩国时尚美学氛围，自然欢乐情感，高端生活方式摄影。9:16 竖版构图。
+一位成年韓國女孩，人物位於畫面中央，半身到大腿視角，身體微微前傾。身形比例協調，肩頸線條舒展，可以看到胸部輪廓，輪廓自然優美，腰部線條柔和，整體凸顯豐腴健康的女性美，絲滑黑髮隨風飄揚，人物氣質成熟、溫柔、安靜，面帶自然微笑。身穿白色一字肩連衣裙，背景是熱帶海灘日落，電影感DSLR攝影，溫暖輝光照明，夢幻虛化，超詳細，鮮豔色彩，豐富對比，韓國時尚美學氛圍，自然歡樂情感，高階生活方式攝影。9:16 豎版構圖。
 ```
 
 ***
 
 <a name="case-452"></a>
 
-### 例 452：极简童话手绘儿童插画
+### 例 452：極簡童話手繪兒童插畫
 
-![极简童话手绘儿童插画](../data/images/case452.jpg)
+![極簡童話手繪兒童插畫](../data/images/case452.jpg)
 
-**来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
+**來源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles.
@@ -9318,60 +9318,60 @@ Stylize the clothing in a playful storybook way with simplified shapes and gentl
 
 <a name="case-453"></a>
 
-### 例 453：企业级商用画册视觉系统
+### 例 453：企業級商用畫冊視覺系統
 
-![企业级商用画册视觉系统](../data/images/case453.jpg)
+![企業級商用畫冊視覺系統](../data/images/case453.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
 
-**提示词：**
+**提示詞：**
 
 ```text
-请生成一套企业级商用画册视觉方案，主题为【品牌名称】的【行业 / 产品 / 解决方案】宣传画册。
+請生成一套企業級商用畫冊視覺方案，主題為【品牌名稱】的【行業 / 產品 / 解決方案】宣傳畫冊。
 
-整体风格：高端、专业、具有强视觉冲击力；避免传统 Word 排版感和普通 PPT 感。采用【深色科技美学 / 白色极简商务 / 高端工业风 / 艺术化品牌画册】风格。
+整體風格：高階、專業、具有強視覺衝擊力；避免傳統 Word 排版感和普通 PPT 感。採用【深色科技美學 / 白色極簡商務 / 高階工業風 / 藝術化品牌畫冊】風格。
 
-画册内容包括：
-1、封面与封底
-2、企业介绍与品牌理念
-3、核心产品与技术优势
-4、应用场景与解决方案
-5、客户案例与合作方式
-6、全册系统预览图
+畫冊內容包括：
+1、封面與封底
+2、企業介紹與品牌理念
+3、核心產品與技術優勢
+4、應用場景與解決方案
+5、客戶案例與合作方式
+6、全冊系統預覽圖
 
 要求：
-版式要有设计感，图片、标题、数据、图标、留白和层级关系清晰；保持整套画册统一的品牌视觉系统；重点体现真实商业物料的完成度，避免简单文字排版。
+版式要有設計感，圖片、標題、資料、圖示、留白和層級關係清晰；保持整套畫冊統一的品牌視覺系統；重點體現真實商業物料的完成度，避免簡單文字排版。
 
-结构规划：
-1、封面 / 封底：建立品牌门面、行业气质和整体视觉调性。
-2、企业介绍页：说明公司定位、能力边界和服务对象。
-3、产品技术页：展示核心产品、技术优势和解决方案。
-4、应用场景页：让用户看到产品能用在哪些行业。
-5、案例 / 合作页：补充可信度和商业转化信息。
-6、全册系统预览：验证风格统一性和整本画册的系统感。
+結構規劃：
+1、封面 / 封底：建立品牌門面、行業氣質和整體視覺調性。
+2、企業介紹頁：說明公司定位、能力邊界和服務物件。
+3、產品技術頁：展示核心產品、技術優勢和解決方案。
+4、應用場景頁：讓使用者看到產品能用在哪些行業。
+5、案例 / 合作頁：補充可信度和商業轉化資訊。
+6、全冊系統預覽：驗證風格統一性和整本畫冊的系統感。
 
-如果已有企业资料，可以上传旧版企业画册、公司介绍文档、产品说明书、官网内容、PPT 提案、产品图片或案例图片，让 ChatGPT 完成三件事：
-1、重新梳理内容结构，判断哪些内容适合做封面、企业介绍、产品页、案例页和合作页。
-2、提炼画册主线，避免只堆资料，需要形成清晰的商业叙事。
-3、统一视觉方向，让整本画册看起来像同一个品牌系统，避免不同页面拼贴感。
+如果已有企業資料，可以上傳舊版企業畫冊、公司介紹檔案、產品說明書、官網內容、PPT 提案、產品圖片或案例圖片，讓 ChatGPT 完成三件事：
+1、重新梳理內容結構，判斷哪些內容適合做封面、企業介紹、產品頁、案例頁和合作頁。
+2、提煉畫冊主線，避免只堆資料，需要形成清晰的商業敘事。
+3、統一視覺方向，讓整本畫冊看起來像同一個品牌系統，避免不同頁面拼貼感。
 
 避坑：
-1、避免一上来只说“生成一本画册”，否则容易变成模板图。
-2、避免只堆文字，画册一定要有产品视觉、场景图、数据模块和设计层级。
-3、避免只生成单页，最好补一张全册预览图，才能体现完整系统感。
+1、避免一上來只說“生成一本畫冊”，否則容易變成範本圖。
+2、避免只堆文字，畫冊一定要有產品視覺、場景圖、資料模組和設計層級。
+3、避免只生成單頁，最好補一張全冊預覽圖，才能體現完整系統感。
 ```
 
 ***
 
 <a name="case-454"></a>
 
-### 例 454：旅行美食薯片广告海报
+### 例 454：旅行美食薯片廣告海報
 
-![旅行美食薯片广告海报](../data/images/case454.jpg)
+![旅行美食薯片廣告海報](../data/images/case454.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
+**來源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.
@@ -9411,13 +9411,13 @@ Composition rules:
 
 <a name="case-455"></a>
 
-### 例 455：巨型舒适洞洞鞋 Campaign
+### 例 455：巨型舒適洞洞鞋 Campaign
 
-![巨型舒适洞洞鞋 Campaign](../data/images/case455.jpg)
+![巨型舒適洞洞鞋 Campaign](../data/images/case455.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.
@@ -9437,13 +9437,13 @@ Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper
 
 <a name="case-456"></a>
 
-### 例 456：历史事件 2x2 可视化地图
+### 例 456：歷史事件 2x2 視覺化地圖
 
-![历史事件 2x2 可视化地图](../data/images/case456.jpg)
+![歷史事件 2x2 視覺化地圖](../data/images/case456.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
+**來源：** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
 
-**提示词：**
+**提示詞：**
 
 ```text
 2x2 grid, 16:9, do this for 4 famous historical events:
@@ -9462,13 +9462,13 @@ Render_Target =
 
 <a name="case-457"></a>
 
-### 例 457：运动轨迹舞者光绘海报
+### 例 457：運動軌跡舞者光繪海報
 
-![运动轨迹舞者光绘海报](../data/images/case457.jpg)
+![運動軌跡舞者光繪海報](../data/images/case457.jpg)
 
-**来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
+**來源：** [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
 
-**提示词：**
+**提示詞：**
 
 ```text
 <instructions>
@@ -9500,13 +9500,13 @@ function render_kinesphere ($ dancer, $ movement)
 
 <a name="case-458"></a>
 
-### 例 458：巴黎秋季时装插画
+### 例 458：巴黎秋季時裝插畫
 
-![巴黎秋季时装插画](../data/images/case458.jpg)
+![巴黎秋季時裝插畫](../data/images/case458.jpg)
 
-**来源：** [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
+**來源：** [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.
@@ -9516,274 +9516,274 @@ Full-body fashion illustration of a young woman walking down a Parisian street i
 
 <a name="case-459"></a>
 
-### 例 459：品牌奶茶 KV 概念海报
+### 例 459：品牌奶茶 KV 概念海報
 
-![品牌奶茶 KV 概念海报](../data/images/case459.jpg)
+![品牌奶茶 KV 概念海報](../data/images/case459.jpg)
 
-**来源：** [@liyue_ai](https://x.com/liyue_ai/status/2057739678485495885) / [提示词回复](https://x.com/liyue_ai/status/2057739894261518670)
+**來源：** [@liyue_ai](https://x.com/liyue_ai/status/2057739678485495885) / [提示词回复](https://x.com/liyue_ai/status/2057739894261518670)
 
-**提示词：**
+**提示詞：**
 
 ```text
-你是一个品牌视觉识别系统、商业广告创意总监、KV海报设计师和高传播品牌视觉生成系统。
+你是一個品牌視覺識別系統、商業廣告創意總監、KV海報設計師和高傳播品牌視覺生成系統。
 
-请根据用户输入的【现有品牌名称】，自动识别该品牌最具代表性的品牌Logo形象、品牌名称文字识别特征、主推产品、产品包装、品牌色彩、视觉调性、目标人群和广告传播风格，并生成一张符合该品牌气质的概念 KV 海报。
+請根據使用者輸入的【現有品牌名稱】，自動識別該品牌最具代表性的品牌Logo形象、品牌名稱文字識別特徵、主推產品、產品包裝、品牌色彩、視覺調性、目標人群和廣告傳播風格，並生成一張符合該品牌氣質的概念 KV 海報。
 
-创作定位：
-- 基于真实品牌认知进行二次创作的品牌概念 KV 海报
+創作定位：
+- 基於真實品牌認知進行二次創作的品牌概念 KV 海報
 - Brand-inspired Concept Key Visual
-- 用于个人学习、视觉练习与社交平台展示
+- 用於個人學習、視覺練習與社交平台展示
 
-不需要绝对严苛的一比一官方复刻，但必须做到：
+不需要絕對嚴苛的一比一官方復刻，但必須做到：
 
-品牌识别度高；
-品牌Logo风格明显；
-品牌代表产品明显；
-品牌调性准确；
-整体像该品牌会出现的视觉广告。
-
-────────────────
-一、用户输入
-────────────────
-
-品牌名称：{品牌名称}
-
-主推产品：{可选，不填则自动识别该品牌最具代表性的产品}
-广告语：{可选，不填则根据品牌调性自动生成原创广告语}
-目标人群：{可选，不填则自动判断}
-画幅比例：{9:16 / 16:9 / 4:5 / 1:1 / 2.35:1}
-KV类型：{产品英雄KV / 品牌情绪KV / 强口号传播KV / 人物场景KV / 超现实概念KV / 自动选择}
-平台用途：{小红书 / X / 公众号封面 / 视觉练习 / 概念提案}
+品牌識別度高；
+品牌Logo風格明顯；
+品牌代表產品明顯；
+品牌調性準確；
+整體像該品牌會出現的視覺廣告。
 
 ────────────────
-二、自动识别逻辑
+一、使用者輸入
 ────────────────
 
-请根据品牌名称自动完成以下识别，不需要在画面中展示分析过程：
+品牌名稱：{品牌名稱}
 
-1. 自动识别该品牌所属行业
+主推產品：{可選，不填則自動識別該品牌最具代表性的產品}
+廣告語：{可選，不填則根據品牌調性自動生成原創廣告語}
+目標人群：{可選，不填則自動判斷}
+畫幅比例：{9:16 / 16:9 / 4:5 / 1:1 / 2.35:1}
+KV型別：{產品英雄KV / 品牌情緒KV / 強口號傳播KV / 人物場景KV / 超現實概念KV / 自動選擇}
+平台用途：{小红书 / X / 公眾帳號封面 / 視覺練習 / 概念提案}
+
+────────────────
+二、自動識別邏輯
+────────────────
+
+請根據品牌名稱自動完成以下識別，不需要在畫面中展示分析過程：
+
+1. 自動識別該品牌所屬行業
 例如：
-科技、运动、美妆、奢侈品、汽车、饮品、咖啡、服饰、潮流、护肤、珠宝、生活方式、数码、家居等。
+科技、運動、美妝、奢侈品、汽車、飲品、咖啡、服飾、潮流、護膚、珠寶、生活方式、數位、家居等。
 
-2. 自动识别该品牌最具代表性的视觉资产
+2. 自動識別該品牌最具代表性的視覺資產
 包括：
 品牌Logo形象
-品牌名称文字风格
-主色调与辅助色
-最具代表性的产品
-包装外观特征
-品牌常见广告风格
-品牌场景气质
-品牌材质感与光影方式
+品牌名稱文字風格
+主色調與輔助色
+最具代表性的產品
+包裝外觀特徵
+品牌常見廣告風格
+品牌場景氣質
+品牌材質感與光影方式
 
-3. 自动识别该品牌的目标人群
+3. 自動識別該品牌的目標人群
 例如：
-年轻潮流人群、都市白领、精致女性、运动人群、科技用户、高端消费人群、Z世代、商务人群等。
+年輕潮流人群、都市白領、精緻女性、運動人群、科技使用者、高階消費人群、Z世代、商務人群等。
 
-4. 自动识别该品牌的广告语气质
+4. 自動識別該品牌的廣告語氣質
 例如：
-极简高级、年轻活力、热血冲击、奢华克制、温柔浪漫、科技理性、时尚先锋、生活方式化等。
+極簡高階、年輕活力、熱血衝擊、奢華克制、溫柔浪漫、科技理性、時尚先鋒、生活方式化等。
 
 ────────────────
-三、Logo与产品识别规则
+三、Logo與產品識別規則
 ────────────────
 
-本次任务允许 AI 根据品牌名称自动识别品牌视觉资产，不需要用户必须上传 Logo 或产品图。
+本次任務允許 AI 根據品牌名稱自動識別品牌視覺資產，不需要使用者必須上傳 Logo 或產品圖。
 
-请遵守以下原则：
+請遵守以下原則：
 
 1. 品牌Logo
-- 画面中需要有明显的品牌标识
-- Logo 或品牌名称文字要具有较高识别度
-- 不必追求百分之百精确复刻，但必须让人一眼联想到该品牌
-- 不要生成完全陌生、无关、错误感很强的标识
-- 不要让品牌名称出现明显错字、乱码或胡乱变形
+- 畫面中需要有明顯的品牌標識
+- Logo 或品牌名稱文字要具有較高識別度
+- 不必追求百分之百精確復刻，但必須讓人一眼聯想到該品牌
+- 不要生成完全陌生、無關、錯誤感很強的標識
+- 不要讓品牌名稱出現明顯錯字、亂碼或胡亂變形
 
-2. 品牌产品
-- 自动选择该品牌最具代表性的主推产品或经典产品作为主视觉
-- 产品外观、包装、色彩和气质应接近大众对该品牌的常见认知
-- 不需要绝对严格到工业级复刻
-- 但要保证“像这个品牌的真实代表产品”，避免完全陌生的产品
+2. 品牌產品
+- 自動選擇該品牌最具代表性的主推產品或經典產品作為主視覺
+- 產品外觀、包裝、色彩和氣質應接近大眾對該品牌的常見認知
+- 不需要絕對嚴格到工業級復刻
+- 但要保證“像這個品牌的真實代表產品”，避免完全陌生的產品
 
-3. 品牌包装与材质
-- 自动识别该品牌常见包装与材质语言
-- 如金属、玻璃、磨砂、塑料、皮革、纸盒、极简包装、奢华包装、运动感材质等
-- 产品必须具有真实商业视觉质感
+3. 品牌包裝與材質
+- 自動識別該品牌常見包裝與材質語言
+- 如金屬、玻璃、磨砂、塑膠、皮革、紙盒、極簡包裝、奢華包裝、運動感材質等
+- 產品必須具有真實商業視覺質感
 
 ────────────────
-四、KV创意方向
+四、KV創意方向
 ────────────────
 
-请根据品牌属性自动选择最合适的 KV 创意方式。
+請根據品牌屬性自動選擇最合適的 KV 創意方式。
 
 如果是科技品牌：
-使用极简、未来感、真实产品质感、冷静留白、克制光影、干净空间。
+使用極簡、未來感、真實產品質感、冷靜留白、克制光影、乾淨空間。
 
-如果是运动品牌：
-使用速度感、力量感、身体动势、汗水、冲刺、突破、强烈口号感。
+如果是運動品牌：
+使用速度感、力量感、身體動勢、汗水、衝刺、突破、強烈口號感。
 
-如果是美妆品牌：
-使用柔光、精致产品、肌肤质感、女性气质、色彩情绪、时尚大片感。
+如果是美妝品牌：
+使用柔光、精緻產品、肌膚質感、女性氣質、色彩情緒、時尚大片感。
 
 如果是奢侈品牌：
-使用高级材质、留白、低饱和色调、秩序构图、稀缺感、时尚大片感。
+使用高階材質、留白、低飽和色調、秩序構圖、稀缺感、時尚大片感。
 
-如果是饮品品牌：
-使用冰爽、液体、气泡、年轻感、快乐氛围、色彩冲击、清爽材质。
+如果是飲品品牌：
+使用冰爽、液體、氣泡、年輕感、快樂氛圍、色彩衝擊、清爽材質。
 
 如果是咖啡品牌：
-使用温度、城市生活、松弛氛围、绿色或木质感、晨间陪伴感。
+使用溫度、城市生活、鬆弛氛圍、綠色或木質感、晨間陪伴感。
 
-如果是汽车品牌：
-使用道路、速度、未来空间、金属质感、城市夜景、驾驶欲望。
+如果是汽車品牌：
+使用道路、速度、未來空間、金屬質感、城市夜景、駕駛慾望。
 
 如果是潮流品牌：
-使用街头、反叛、年轻、图形感、视觉冲击和社交传播感。
+使用街頭、反叛、年輕、圖形感、視覺衝擊和社交傳播感。
 
 ────────────────
-五、广告语规则
+五、廣告語規則
 ────────────────
 
-如果用户没有输入广告语，请根据品牌调性自动生成一句原创广告语。
+如果使用者沒有輸入廣告語，請根據品牌調性自動生成一句原創廣告語。
 
 要求：
 
-- 广告语不能太长
-- 要有品牌感和传播感
-- 不使用官方原广告语
-- 不需要像正式企业公告
-- 更像概念广告的主标语
+- 廣告語不能太長
+- 要有品牌感和傳播感
+- 不使用官方原廣告語
+- 不需要像正式企業公告
+- 更像概念廣告的主標語
 
-中文广告语建议：
-4到12个字
+中文廣告語建議：
+4到12個字
 
-英文广告语建议：
-2到6个单词
+英文廣告語建議：
+2到6個單詞
 
-广告语风格要与品牌匹配，例如：
+廣告語風格要與品牌匹配，例如：
 
 科技品牌：
-更少干扰，更近未来
+更少干擾，更近未來
 
-运动品牌：
-把极限踩在脚下
+運動品牌：
+把極限踩在腳下
 
-美妆品牌：
-光泽，自成主张
+美妝品牌：
+光澤，自成主張
 
 奢侈品牌：
-优雅，从不喧哗
+優雅，從不喧譁
 
-饮品品牌：
-这一口，刚好上头
+飲品品牌：
+這一口，剛好上頭
 
 咖啡品牌：
-唤醒城市的温度
+喚醒城市的溫度
 
-汽车品牌：
-驶向更远的秩序
-
-────────────────
-六、画面结构要求
-────────────────
-
-整张图必须具备真实品牌 KV 的基本结构：
-
-1. 品牌标识区
-品牌Logo或品牌名称需要清晰可见，位置合理。
-
-2. 产品主视觉区
-品牌代表产品必须明显，是画面核心之一。
-
-3. 广告语区
-广告语清晰可读，具备传播记忆点。
-
-4. 品牌氛围区
-背景、光影、材质、空间和色彩必须符合品牌调性。
-
-5. 信息层级区
-画面层级建议为：
-品牌标识
-产品主体
-广告语
-少量辅助文字
-
-文字不要太多，不要做成密密麻麻的海报。
+汽車品牌：
+駛向更遠的秩序
 
 ────────────────
-七、风格要求
+六、畫面結構要求
 ────────────────
 
-整体视觉必须具备：
+整張圖必須具備真實品牌 KV 的基本結構：
 
-高识别度品牌感
-高级商业广告质感
-清晰品牌标识
-明显品牌产品
-强主视觉
-强广告语
-干净排版
-适合社交平台传播
-适合小红书和X展示
-具有“像某知名品牌概念广告”的完成度
+1. 品牌標識區
+品牌Logo或品牌名稱需要清晰可見，位置合理。
 
-允许适度创意发挥，但品牌核心识别不能丢失。
+2. 產品主視覺區
+品牌代表產品必須明顯，是畫面核心之一。
+
+3. 廣告語區
+廣告語清晰可讀，具備傳播記憶點。
+
+4. 品牌氛圍區
+背景、光影、材質、空間和色彩必須符合品牌調性。
+
+5. 資訊層級區
+畫面層級建議為：
+品牌標識
+產品主體
+廣告語
+少量輔助文字
+
+文字不要太多，不要做成密密麻麻的海報。
 
 ────────────────
-八、画幅适配
+七、風格要求
+────────────────
+
+整體視覺必須具備：
+
+高識別度品牌感
+高階商業廣告質感
+清晰品牌標識
+明顯品牌產品
+強主視覺
+強廣告語
+乾淨排版
+適合社交平台傳播
+適合小红书和X展示
+具有“像某知名品牌概念廣告”的完成度
+
+允許適度創意發揮，但品牌核心識別不能丟失。
+
+────────────────
+八、畫幅適配
 ────────────────
 
 如果是 9:16：
-适合竖版社交海报，产品更聚焦，广告语放中上区域，适合手机浏览。
+適合豎版社交海報，產品更聚焦，廣告語放中上區域，適合手機瀏覽。
 
 如果是 16:9：
-适合横版品牌KV、封面、头图，产品与广告语形成左右平衡。
+適合橫版品牌KV、封面、頭圖，產品與廣告語形成左右平衡。
 
 如果是 4:5：
-适合社交平台信息流，主体更近，品牌识别更集中。
+適合社交平台資訊流，主體更近，品牌識別更集中。
 
 如果是 2.35:1：
-适合公众号封面或宽幅视觉，适合大字广告语和强冲击横版构图。
+適合公眾帳號封面或寬幅視覺，適合大字廣告語和強衝擊橫版構圖。
 
 如果是 1:1：
-适合方形封面与品牌视觉展示。
+適合方形封面與品牌視覺展示。
 
 ────────────────
-九、负面限制
+九、負面限制
 ────────────────
 
-不要生成明显错误的品牌名称。
-不要生成过于离谱的Logo变形。
-不要生成与品牌无关的产品。
-不要生成廉价拼贴感。
-不要生成过多小字。
-不要生成杂乱无章的背景。
-不要生成山寨感很强的画面。
-不要生成像促销海报一样的低级电商视觉。
-不要出现二维码、购买链接、价格标签、活动说明。
-不要让整体画面失去品牌调性。
+不要生成明顯錯誤的品牌名稱。
+不要生成過於離譜的Logo變形。
+不要生成與品牌無關的產品。
+不要生成廉價拼貼感。
+不要生成過多小字。
+不要生成雜亂無章的背景。
+不要生成山寨感很強的畫面。
+不要生成像促銷海報一樣的低階電商視覺。
+不要出現QR Code、購買連結、價格標籤、活動說明。
+不要讓整體畫面失去品牌調性。
 
 ────────────────
-十、最终目标
+十、最終目標
 ────────────────
 
-请生成一张基于真实品牌认知自动识别完成的品牌概念 KV 海报。
+請生成一張基於真實品牌認知自動識別完成的品牌概念 KV 海報。
 
 要求：
-无需用户上传 Logo 和产品素材；
-由AI自动识别该品牌最具代表性的Logo形象与代表产品；
-不要求绝对严格复刻；
-但必须保持高识别度、高品牌感、高完成度；
-整体像一张高级品牌概念广告海报；
-适合个人学习、视觉练习和社交平台展示。
+無需使用者上傳 Logo 和產品素材；
+由AI自動識別該品牌最具代表性的Logo形象與代表產品；
+不要求絕對嚴格復刻；
+但必須保持高識別度、高品牌感、高完成度；
+整體像一張高階品牌概念廣告海報；
+適合個人學習、視覺練習和社交平台展示。
 
 ————
-品牌名称：{蜜雪冰城}
-主推产品：{奶茶}
-广告语：{可选，如果用户不输入，则根据品牌调性自动生成一句高传播感广告语}
-目标人群：{年轻潮流人群}
-画幅比例：{9:16}
-KV类型：{产品英雄KV}
+品牌名稱：{蜜雪冰城}
+主推產品：{奶茶}
+廣告語：{可選，如果使用者不輸入，則根據品牌調性自動生成一句高傳播感廣告語}
+目標人群：{年輕潮流人群}
+畫幅比例：{9:16}
+KV型別：{產品英雄KV}
 平台用途：{小红书}
 ```
 
@@ -9791,13 +9791,13 @@ KV类型：{产品英雄KV}
 
 <a name="case-460"></a>
 
-### 例 460：棋盘低角度奢华男装 Campaign
+### 例 460：棋盤低角度奢華男裝 Campaign
 
-![棋盘低角度奢华男装 Campaign](../data/images/case460.jpg)
+![棋盤低角度奢華男裝 Campaign](../data/images/case460.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2058414859658956888)
+**來源：** [@harboriis](https://x.com/harboriis/status/2058414859658956888)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle perspective across a glossy chessboard table. A stylish young male model with sharp facial features, textured curly hair, wearing thin luxury glasses and a fitted sleeveless knitted brown vest, leaning forward in a confident pose. One hand extended toward the camera holding a large white king chess piece in forced perspective, dominating the foreground. Tattooed arms visible, intense confident facial expression, direct eye contact. Elegant vintage royal interior background with dark paneled walls, warm chandelier wall lights, cinematic amber lighting, moody shadows, luxury editorial atmosphere. Chess pieces scattered on the board in foreground and background for depth. High contrast premium fashion advertising style, ultra-detailed skin texture, sharp focus on face and chess piece, shallow depth of field, glossy reflections on chessboard, dramatic commercial campaign photography, luxury menswear brand aesthetic. Bold typography at bottom saying “DRESSED TO DOMINATE”, premium poster layout, cinematic color grading, high-end fashion ad, editorial magazine quality, 4:5 aspect ratio.
@@ -9807,13 +9807,13 @@ Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle pe
 
 <a name="case-461"></a>
 
-### 例 461：家庭旅行纸雕拼贴
+### 例 461：家庭旅行紙雕拼貼
 
-![家庭旅行纸雕拼贴](../data/images/case461.jpg)
+![家庭旅行紙雕拼貼](../data/images/case461.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2058400056722731079)
+**來源：** [@Taaruk_](https://x.com/Taaruk_/status/2058400056722731079)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Adorable kawaii family travel collage, combining four different scenes in one composition, cute anime-inspired parents, friends and children taking selfies and exploring together, handcrafted paper-cut diorama style, layered cardboard and felt textures, miniature world aesthetic, cozy pastel color palette, soft cinematic lighting, playful vacation atmosphere, urban city station scene, shopping mall selfie corner, outdoor nature park, and crowded playground blended into one seamless scrapbook-style artwork, charming sticker-like white outlines around characters, tiny tourists and pedestrians in background, whimsical handcrafted textures, soft depth of field, highly detailed paper craft illustration, warm nostalgic mood, cute casual outfits with glasses, caps, bags and sandals, dreamy Instagram kawaii aesthetic, storybook composition, ultra detailed miniature environment, 3D layered paper art, tilt-shift effect, cozy wholesome family travel vibes, premium handcrafted look, high detail, 8k, vertical composition
@@ -9823,40 +9823,40 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 <a name="case-462"></a>
 
-### 例 462：复古日系迷你橡皮商品包装
+### 例 462：復古日系迷你橡皮商品包裝
 
-![复古日系迷你橡皮商品包装](../data/images/case462.jpg)
+![復古日系迷你橡皮商品包裝](../data/images/case462.jpg)
 
-**来源：** [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
+**來源：** [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
 
-**提示词：**
+**提示詞：**
 
 ```text
 添付されたキャラクターシートをSTRICTなデザインリファレンスとして使用すること。 キャラクターの顔、髪型、目の形、プロポーションは絶対に変更しない。
 
-■目的： キャラクターを日本の「ちび消しゴム商品」として完全に商品化し、 実際に文房具売り場やガチャで販売されているようなリアルなパッケージ商品写真を作成する。
+■目的： キャラクターを日本の「ちび消しゴム商品」として完全に商品化し、 実際に文房具売り場やガチャで販売されているようなリアルなパッケージ商品寫真を作成する。
 
 ■コンセプト： 「100円ショップや文房具店で売られている袋入りちび消しゴム商品」
 
-■消しゴム本体： （※前回と同じ仕様を完全維持） - 強いデフォルメちびキャラ - 厚みのあるブロック形状 - 完全マットなラバー素材 - 微細な粒子・粉・削れ・摩耗あり - 印刷ズレ・色ブレあり - 50個以上のランダム構成
+■消しゴム本體： （※前回と同じ仕様を完全維持） - 強いデフォルメちびキャラ - 厚みのあるブロック形狀 - 完全マットなラバー素材 - 微細な粒子・粉・削れ・摩耗あり - 印刷ズレ・色ブレあり - 50個以上のランダム構成
 
-■パッケージ（超重要）： - 小さな透明ビニール袋（OPP袋） - 上部に紙ヘッダー（吊り下げ用の穴あり） - ヘッダーはややチープな印刷（軽いズレ・インクのムラ） - ビニールはシワあり、やや曇り、静電気で中身に張り付く - 一部空気が入ってふくらみあり - シール部分に軽いヨレ
+■パッケージ（超重要）： - 小さな透明ビニール袋（OPP袋） - 上部に紙ヘッダー（吊り下げ用の穴あり） - ヘッダーはややチープな印刷（軽いズレ・インクのムラ） - ビニールはシワあり、やや曇り、靜電気で中身に張り付く - 一部空気が入ってふくらみあり - シール部分に軽いヨレ
 
-■グラフィックデザイン： - 日本の子供向け文房具風デザイン - ポップでカラフル（ピンク・黄色・水色ベース） - 手書き風フォントや丸文字 - 商品名ロゴ（オリジナルでOK） - 「ミニけし」「ちびけし」などの表記 - 星・ハート・キラキラ装飾
+■グラフィックデザイン： - 日本の子供向け文房具風デザイン - ポップでカラフル（ピンク・黃色・水色ベース） - 手書き風フォントや丸文字 - 商品名ロゴ（オリジナルでOK） - 「ミニけし」「ちびけし」などの表記 - 星・ハート・キラキラ裝飾
 
-■情報要素（リアル感強化）： - JANコード（バーコード） - 「対象年齢6才以上」 - 「食べられません」注意書き - 「全◯種」や「ランダム封入」 - 小さな会社名（架空） - MADE IN JAPAN or CHINA表記
+■情報要素（リアル感強化）： - JANコード（バーコード） - 「対象年齢6才以上」 - 「食べられません」注意書き - 「全◯種」や「ランダム封入」 - 小さな會社名（架空） - MADE IN JAPAN or CHINA表記
 
-■構図： - パッケージがメインで画面中央 - 周囲に少しだけこぼれた消しゴム - 1〜2個は袋から出ている - 指先が1つをつまもうとしている演出 - 一部フレームアウトで自然さ
+■構図： - パッケージがメインで畫面中央 - 周囲に少しだけこぼれた消しゴム - 1〜2個は袋から出ている - 指先が1つをつまもうとしている演出 - 一部フレームアウトで自然さ
 
-■レア要素： - 蛍光カラーやグラデーションの特別個体を1つ混ぜる - 視線誘導として目立つ位置に配置
+■レア要素： - 蛍光カラーやグラデーションの特別個體を1つ混ぜる - 視線誘導として目立つ位置に配置
 
-■ライティング： - 明るい自然光（ややハイキー） - 柔らかい影 - 商品写真のような清潔感
+■ライティング： - 明るい自然光（ややハイキー） - 柔らかい影 - 商品寫真のような清潔感
 
-■カメラ： - マクロ寄り - 浅い被写界深度 - 中央シャープ
+■カメラ： - マクロ寄り - 淺い被寫界深度 - 中央シャープ
 
 ■背景： - 白〜パステルのテーブル - ほんのりドットやポップ柄 - シンプルで清潔
 
-■禁止： - プラスチック感 - glossy表現 - 高級すぎる質感（安っぽさが正解） - 完璧すぎる印刷
+■禁止： - プラスチック感 - glossy表現 - 高階すぎる質感（安っぽさが正解） - 完璧すぎる印刷
 
 ■出力： - 実在する商品にしか見えないレベル - コンビニや100均にありそうなリアリティ - SNSで「これ欲しい」と思わせる完成度
 ```
@@ -9865,98 +9865,98 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 <a name="case-463"></a>
 
-### 例 463：黑色吊带袜单款图鉴展示
+### 例 463：黑色吊帶襪單款圖鑑展示
 
-![黑色吊带袜单款图鉴展示](../data/images/case463.jpg)
+![黑色吊帶襪單款圖鑑展示](../data/images/case463.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2058175014168396245) / [提示词回复](https://x.com/MrLarus/status/2058175145328394441)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2058175014168396245) / [提示词回复](https://x.com/MrLarus/status/2058175145328394441)
 
-**提示词：**
+**提示詞：**
 
 ```text
-《黑色丝袜图鉴款式单图》提示词：
+《黑色絲襪圖鑑款式單圖》提示詞：
 
-请基于同一套「黑色丝袜 / 吊带袜图鉴」系列风格，继续生成 8 张对应单款的独立展示图。
+請基於同一套「黑色絲襪 / 吊帶襪圖鑑」系列風格，繼續生成 8 張對應單款的獨立展示圖。
 
 【系列要求】
-- 这些图片必须和已完成的总览图鉴属于同一个系列
-- 整体版式、字体、色调、背景、质感、排版逻辑保持一致
-- 都是竖版、高完成度、暖白 / 浅灰白背景、轻奢女性向时尚图鉴风格
-- 每一张都像同一个品牌或同一套视觉系统下的延展页面
+- 這些圖片必須和已完成的總覽圖鑑屬於同一個系列
+- 整體版式、字型、色調、背景、質感、排版邏輯保持一致
+- 都是豎版、高完成度、暖白 / 淺灰白背景、輕奢女性向時尚圖鑑風格
+- 每一張都像同一個品牌或同一套視覺系統下的延展頁面
 
-【每张单图的共同结构】
-1. 顶部标题区
-- 英文系列标题：BLACK GARTER GUIDE
-- 中文主标题：黑色丝袜 / 吊带袜单款展示
-- 当前款式名称：__________
-- 一句简短副标题：突出该款式的核心特点
+【每張單圖的共同結構】
+1. 頂部標題區
+- 英文系列標題：BLACK GARTER GUIDE
+- 中文主標題：黑色絲襪 / 吊帶襪單款展示
+- 目前款式名稱：__________
+- 一句簡短副標題：突出該款式的核心特點
 
-2. 中部主体区
-- 以 1 位成人女性模特穿戴展示为主
-- 重点展示对应款式的关键细节：
-  - 经典蕾丝款：袜口蕾丝、优雅氛围
-  - 细网眼款：网格纹理、轻盈通透
-  - 波点款：波点图案、复古俏皮
-  - 后缝线款：背后缝线、线条感
-  - 竖条纹款：纵向条纹、修饰腿型
-  - 交叉绑带款：绑带结构、设计感
-  - 极简透肤款：透明感、基础百搭
-  - 花纹蕾丝款：花纹装饰、浪漫氛围
-- 每张图的人物长相、发型、姿势、镜头角度要不同，但都要保持高级、真实、性感、写实
-- 允许使用站姿、坐姿、交叉腿、倚靠、回眸等不同姿势
-- 画面要有立体感、阴影层次和高级编辑感
+2. 中部主體區
+- 以 1 位成人女性模特穿戴展示為主
+- 重點展示對應款式的關鍵細節：
+  - 經典蕾絲款：襪口蕾絲、優雅氛圍
+  - 細網眼款：網格紋理、輕盈通透
+  - 波點款：波點圖案、復古俏皮
+  - 後縫線款：背後縫線、線條感
+  - 豎條紋款：縱向條紋、修飾腿型
+  - 交叉綁帶款：綁帶結構、設計感
+  - 極簡透膚款：透明感、基礎百搭
+  - 花紋蕾絲款：花紋裝飾、浪漫氛圍
+- 每張圖的人物長相、髮型、姿勢、鏡頭角度要不同，但都要保持高階、真實、性感、寫實
+- 允許使用站姿、坐姿、交叉腿、倚靠、回眸等不同姿勢
+- 畫面要有立體感、陰影層次和高階編輯感
 
-3. 注释区
-- 每张图都要保留 3 到 5 条手绘式标注
-- 可以使用箭头、短线、圈注、手写风标签
-- 标注内容要围绕该款式最关键的细节，比如：
-  - 袜口结构
-  - 花纹纹理
+3. 註釋區
+- 每張圖都要保留 3 到 5 條手繪式標註
+- 可以使用箭頭、短線、圈注、手寫風標籤
+- 標註內容要圍繞該款式最關鍵的細節，比如：
+  - 襪口結構
+  - 花紋紋理
   - 透明度
-  - 缝线位置
-  - 绑带方式
-  - 腿部线条效果
-- 标注文字简洁、清楚、统一风格
+  - 縫線位置
+  - 綁帶方式
+  - 腿部線條效果
+- 標註文字簡潔、清楚、統一風格
 
-4. 底部信息区
-- 加入简短的 “Style Notes / 风格速记”
-- 用 1 到 2 句说明该款适合的场景和氛围
-- 保持简洁，不要抢主体
+4. 底部資訊區
+- 加入簡短的 “Style Notes / 風格速記”
+- 用 1 到 2 句說明該款適合的場景和氛圍
+- 保持簡潔，不要搶主體
 
-【统一视觉要求】
-- 保持和总览图鉴完全统一的整体视觉系统
-- 背景统一为暖白、浅灰白或奶白
-- 风格统一为高级、干净、时尚图鉴感、轻奢女性视觉
-- 模特必须真实、立体、写实、自然肤质
-- 每张图都要突出产品，不要低俗，不要过度情色化
-- 每张图都应像同一系列里的不同章节，避免呈现为彼此割裂的作品
+【統一視覺要求】
+- 保持和總覽圖鑑完全統一的整體視覺系統
+- 背景統一為暖白、淺灰白或奶白
+- 風格統一為高階、乾淨、時尚圖鑑感、輕奢女性視覺
+- 模特必須真實、立體、寫實、自然膚質
+- 每張圖都要突出產品，不要低俗，不要過度情色化
+- 每張圖都應像同一系列裡的不同章節，避免呈現為彼此割裂的作品
 
 【款式列表】
-1. 经典蕾丝款 / Classic Lace
-2. 细网眼款 / Fine Fishnet
-3. 波点款 / Dot Sheer
-4. 后缝线款 / Back Seam
-5. 竖条纹款 / Stripe Sheer
-6. 交叉绑带款 / Cross Strap
-7. 极简透肤款 / Minimal Sheer
-8. 花纹蕾丝袜 / Floral Lace
+1. 經典蕾絲款 / Classic Lace
+2. 細網眼款 / Fine Fishnet
+3. 波點款 / Dot Sheer
+4. 後縫線款 / Back Seam
+5. 豎條紋款 / Stripe Sheer
+6. 交叉綁帶款 / Cross Strap
+7. 極簡透膚款 / Minimal Sheer
+8. 花紋蕾絲襪 / Floral Lace
 
-【输出目标】
-按以上 8 个款式，分别生成 8 张独立展示图。
-要求每张都保留统一系列感，同时人物造型、发型、姿势和镜头语言明显不同，确保整套看起来完整、专业、可收藏。
+【輸出目標】
+按以上 8 個款式，分別生成 8 張獨立展示圖。
+要求每張都保留統一系列感，同時人物造型、髮型、姿勢和鏡頭語言明顯不同，確保整套看起來完整、專業、可收藏。
 ```
 
 ***
 
 <a name="case-464"></a>
 
-### 例 464：高雄水彩拼贴旅行海报
+### 例 464：高雄水彩拼貼旅行海報
 
-![高雄水彩拼贴旅行海报](../data/images/case464.jpg)
+![高雄水彩拼貼旅行海報](../data/images/case464.jpg)
 
-**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
+**來源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm golden hour color palette.
@@ -9978,64 +9978,64 @@ Style: Modern travel poster meets watercolor painting, airy and atmospheric, ble
 
 <a name="case-465"></a>
 
-### 例 465：逆光美背女性情绪写真
+### 例 465：逆光美背女性情緒寫真
 
-![逆光美背女性情绪写真](../data/images/case465.jpg)
+![逆光美背女性情緒寫真](../data/images/case465.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2058131948904599860) / [提示词回复](https://x.com/MrLarus/status/2058132915150639425)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2058131948904599860) / [提示词回复](https://x.com/MrLarus/status/2058132915150639425)
 
-**提示词：**
+**提示詞：**
 
 ```text
-逆光美背女性情绪写真提示词：
+逆光美背女性情緒寫真提示詞：
 
-请生成一张竖版高质感女性情绪写真，主题为「逆光美背·女性情绪写真」。
+請生成一張豎版高質感女性情緒寫真，主題為「逆光美背·女性情緒寫真」。
 
 核心要求：
-画面的绝对重点是“美背”，通过露背结构、肩颈线条、肩胛骨、脊柱中线、腰背曲线和逆光轮廓来呈现女性美。请避免普通女性写真或普通穿搭图的处理方式，背部必须是主视觉核心，脸只作为辅助。
+畫面的絕對重點是“美背”，透過露背結構、肩頸線條、肩胛骨、脊柱中線、腰背曲線和逆光輪廓來呈現女性美。請避免普通女性寫真或普通穿搭圖的處理方式，背部必須是主視覺核心，臉只作為輔助。
 
-人物设定：
-成年女性，真实自然，气质可为温柔、清冷、慵懒、文艺、轻熟或安静。人物不要网红脸，不要塑料感，不要夸张妆容。可侧脸、回眸、低头或闭眼，但正脸不是重点。
+人物設定：
+成年女性，真實自然，氣質可為溫柔、清冷、慵懶、文藝、輕熟或安靜。人物不要網紅臉，不要塑膠感，不要誇張妝容。可側臉、回眸、低頭或閉眼，但正臉不是重點。
 
-姿态要求：
-姿态必须服务于背部展示，例如背对镜头微微回头、侧身站立、侧坐、抬手整理头发、低头蜷身、斜倚窗边、半躺回眸、披衣下滑等。动作自然，不要僵硬摆拍，不要正面直视镜头。
+姿態要求：
+姿態必須服務於背部展示，例如背對鏡頭微微回頭、側身站立、側坐、抬手整理頭髮、低頭蜷身、斜倚窗邊、半躺回眸、披衣下滑等。動作自然，不要僵硬擺拍，不要正面直視鏡頭。
 
-露背结构：
-必须有明确的露背设计，可为低背长裙、吊带裙、露背礼服、针织外套滑落、薄纱披肩、浴袍半披、宽松衬衫滑肩、丝质罩衫半落等。重点表现肩线、肩胛骨、背中线、腰背收束和布料与肌肤之间的高级过渡。
+露背結構：
+必須有明確的露背設計，可為低背長裙、吊帶裙、露背禮服、針織外套滑落、薄紗披肩、浴袍半披、寬鬆襯衫滑肩、絲質罩衫半落等。重點表現肩線、肩胛骨、背中線、腰背收束和布料與肌膚之間的高階過渡。
 
-服装与材质：
-服装选择轻柔、垂坠、带有透光感和褶皱感的材质，如薄纱、真丝、针织、棉麻、细闪纱、浴袍质地、软垂感长裙。布料要参与构图，形成半遮半露、滑落、包裹、垂挂的层次，但不能厚重。
+服裝與材質：
+服裝選擇輕柔、垂墜、帶有透光感和褶皺感的材質，如薄紗、真絲、針織、棉麻、細閃紗、浴袍質地、軟垂感長裙。布料要參與構圖，形成半遮半露、滑落、包裹、垂掛的層次，但不能厚重。
 
-场景：
-场景为卧室、窗边、床上、白墙房间、民宿、酒店房间、木质空间或复古公寓。背景简洁克制，少量床品、窗帘、木椅、花束、地板等元素即可，不能喧宾夺主。
+場景：
+場景為臥室、窗邊、床上、白牆房間、民宿、酒店房間、木質空間或復古公寓。背景簡潔克制，少量床品、窗簾、木椅、花束、地板等元素即可，不能喧賓奪主。
 
-光线要求：
-采用自然光或柔和暖光，以逆光、侧逆光、窗边光为主。重点是让光打到背部，勾出肩颈边缘、肩胛骨轮廓、腰线和发丝高光。可使用晨光、黄昏金光、柔雾散射光或冷白窗光，但背部受光状态必须成立。
+光線要求：
+採用自然光或柔和暖光，以逆光、側逆光、窗邊光為主。重點是讓光打到背部，勾出肩頸邊緣、肩胛骨輪廓、腰線和髮絲高光。可使用晨光、黃昏金光、柔霧散射光或冷白窗光，但背部受光狀態必須成立。
 
-构图：
-竖版构图，画幅可为 9:16、3:4 或 4:5。人物是绝对主角，视觉重心放在背部、肩颈和腰背曲线上。可采用半身、七分身、近景或全身，但不要让场景抢走主体。
+構圖：
+豎版構圖，畫幅可為 9:16、3:4 或 4:5。人物是絕對主角，視覺重心放在背部、肩頸和腰背曲線上。可採用半身、七分身、近景或全身，但不要讓場景搶走主體。
 
-氛围：
-整体氛围安静、柔软、私密、克制、高级，像真实摄影师拍摄的电影感情绪写真。重点避免直白性感，改用“美背 + 逆光 + 柔软布料 + 自然姿态”表达女性美。
+氛圍：
+整體氛圍安靜、柔軟、私密、克制、高階，像真實攝影師拍攝的電影感情緒寫真。重點避免直白性感，改用“美背 + 逆光 + 柔軟布料 + 自然姿態”表達女性美。
 
-画质要求：
-真实摄影感、电影感、柔雾胶片感、细腻肤色、真实皮肤质感、浅景深、轻微颗粒感、画面通透自然。不要 AI 塑料感，不要 CG 感，不要错误手指，不要肢体畸形，不要低俗色情化表达，不要文字、水印、Logo、边框。
+畫質要求：
+真實攝影感、電影感、柔霧膠片感、細膩膚色、真實皮膚質感、淺景深、輕微顆粒感、畫面通透自然。不要 AI 塑膠感，不要 CG 感，不要錯誤手指，不要肢體畸形，不要低俗色情化表達，不要文字、水印、Logo、邊框。
 
-最终效果：
-一张以“美背”为主视觉核心的高完成度女性情绪写真，通过露背结构、肩颈背部线条、柔光逆光和柔软布料来呈现克制而高级的女性美。
+最終效果：
+一張以“美背”為主視覺核心的高完成度女性情緒寫真，透過露背結構、肩頸背部線條、柔光逆光和柔軟布料來呈現克制而高階的女性美。
 ```
 
 ***
 
 <a name="case-466"></a>
 
-### 例 466：鱼市追猫 CCD 街拍
+### 例 466：魚市追貓 CCD 街拍
 
-![鱼市追猫 CCD 街拍](../data/images/case466.jpg)
+![魚市追貓 CCD 街拍](../data/images/case466.jpg)
 
-**来源：** [@mehvishs25](https://x.com/mehvishs25/status/2058375167550845263)
+**來源：** [@mehvishs25](https://x.com/mehvishs25/status/2058375167550845263)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use the uploaded reference image as the exact identity base for the main subject. Preserve their authentic facial structure, recognizable appearance, hairstyle, body proportions, skin texture, and overall identity with high consistency. Completely ignore any unrelated background from the original image.
@@ -10075,282 +10075,282 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 <a name="case-467"></a>
 
-### 例 467：泳装杂志九宫格广告页
+### 例 467：泳裝雜誌九宮格廣告頁
 
-![泳装杂志九宫格广告页](../data/images/case467.jpg)
+![泳裝雜誌九宮格廣告頁](../data/images/case467.jpg)
 
-**来源：** [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
+**來源：** [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
 
-**提示词：**
+**提示詞：**
 
 ```text
-泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性
+泳裝時尚雜誌廣告頁面，日本成熟模特，S型曲線。變換姿勢和風格，九宮格展示，保持人物面部一致性
 ```
 
 ***
 
 <a name="case-468"></a>
 
-### 例 468：霓虹涂鸦展会自拍
+### 例 468：霓虹塗鴉展會自拍
 
-![霓虹涂鸦展会自拍](../data/images/case468.jpg)
+![霓虹塗鴉展會自拍](../data/images/case468.jpg)
 
-**来源：** [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
+**來源：** [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
 
-**提示词：**
+**提示詞：**
 
 ```text
-生成一张写实感合照，9:16构图，真实手机摄影质感。
+生成一張寫實感合照，9:16構圖，真實手機攝影質感。
 
-画面中是一位20岁成年东方女性模特，站在室内展会现场，靠近镜头自然拍照。人物妆造精致，五官清秀，皮肤清透，眼神自然看向镜头，整体气质甜美。
+畫面中是一位20歲成年東方女性模特，站在室內展會現場，靠近鏡頭自然拍照。人物妝造精緻，五官清秀，皮膚清透，眼神自然看向鏡頭，整體氣質甜美。
 
-人物姿态自然端正，身体略微前倾，肩颈柔和舒展，腰部自然收束，整体体态呈现成熟柔美的女性S型曲线。人物体态为成熟丰腴型，肩部圆润柔和，胸部饱满自然，腰线清晰但不过度纤细，臀腿曲线圆润匀称，大腿与手臂带有柔软健康的肉感，整体呈现温柔、甜美、丰腴、优雅的女性美。
+人物姿態自然端正，身體略微前傾，肩頸柔和舒展，腰部自然收束，整體體態呈現成熟柔美的女性S型曲線。人物體態為成熟豐腴型，肩部圓潤柔和，胸部飽滿自然，腰線清晰但不過度纖細，臀腿曲線圓潤勻稱，大腿與手臂帶有柔軟健康的肉感，整體呈現溫柔、甜美、豐腴、優雅的女性美。
 
-人物服装为“霓虹手绘线条构成的艺术涂鸦”，笔触故意粗糙随意，带明显蜡笔与 marker 手绘质感。画面中的 doodle graphics 形成若隐若现的视觉错觉感，突出身体线条和优美轮廓，让人物看起来像穿着由霓虹线条构成的 cosplay outfit，避免呈现为真实布料服装。整体偏日本互联网自拍文化中的 playful sticker aesthetic，避免直白裸露风格。
+人物服裝為“霓虹手繪線條構成的藝術塗鴉”，筆觸故意粗糙隨意，帶明顯蠟筆與 marker 手繪質感。畫面中的 doodle graphics 形成若隱若現的視覺錯覺感，突出身體線條和優美輪廓，讓人物看起來像穿著由霓虹線條構成的 cosplay outfit，避免呈現為真實布料服裝。整體偏日本網際網路自拍文化中的 playful sticker aesthetic，避免直白裸露風格。
 
-人物发型为精致古风高马尾，搭配白色花朵头饰、水晶发簪、流苏耳饰、额间水晶装饰。妆容清透，带有淡粉色眼影、自然腮红和柔和唇色。
+人物髮型為精緻古風高馬尾，搭配白色花朵頭飾、水晶髮簪、流蘇耳飾、額間水晶裝飾。妝容清透，帶有淡粉色眼影、自然腮紅和柔和唇色。
 
-场景为大型室内展会现场，背景有人群和展台但轻微虚化，顶部有真实展馆灯光。画面采用近景合照构图，人物面部和服装细节清晰，背景虚化自然，有真实手机自拍感。
+場景為大型室內展會現場，背景有人群和展臺但輕微虛化，頂部有真實展館燈光。畫面採用近景合照構圖，人物面部和服裝細節清晰，背景虛化自然，有真實手機自拍感。
 
-整体风格：写实、清透、明亮、梦幻。
+整體風格：寫實、清透、明亮、夢幻。
 ```
 
 ***
 
 <a name="case-469"></a>
 
-### 例 469：导览式科普绘本
+### 例 469：導覽式科普繪本
 
-![导览式科普绘本](../data/images/case469.jpg)
+![導覽式科普繪本](../data/images/case469.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2058773446167773521) / [提示词回复](https://x.com/MrLarus/status/2058773784664920233)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2058773446167773521) / [提示词回复](https://x.com/MrLarus/status/2058773784664920233)
 
-**提示词：**
+**提示詞：**
 
 ```text
-《导览式科普绘本》提示词：
+《導覽式科普繪本》提示詞：
 
-请根据【主题】创作一张高完成度的「导览式科普绘本」风格插画。
+請根據【主題】創作一張高完成度的「導覽式科普繪本」風格插畫。
 
-这是一张结合“大型场景主视觉 + 导览路线 + 可爱导览 IP + 知识站点 + 儿童科普绘本质感”的场景导览式科普图解页。画面需要让观者像被带着参观一个复杂系统一样，边看边理解主题背后的运行逻辑、空间结构、流程关系和关键知识点。
+這是一張結合“大型場景主視覺 + 導覽路線 + 可愛導覽 IP + 知識站點 + 兒童科普繪本質感”的場景導覽式科普圖解頁。畫面需要讓觀者像被帶著參觀一個複雜系統一樣，邊看邊理解主題背後的執行邏輯、空間結構、流程關係和關鍵知識點。
 
-【基础设定】
-主题：【填写主题，例如发射场的一天 / 一个集装箱的旅行 / 地铁站里的秘密路线 / 下潜到深海的一小时 / 机场如何运转 / 医院急诊系统 / 智慧农场 / 消防站出警流程】
-画幅比例：【4:3 横版】
-主色调：【根据主题自动匹配，整体保持明亮、清爽、儿童友好】
-风格方向：【现代儿童科普绘本 / 场景导览式图解 / 高完成度数字插画】
+【基礎設定】
+主題：【填寫主題，例如發射場的一天 / 一個集裝箱的旅行 / 地鐵站裡的秘密路線 / 下潛到深海的一小時 / 機場如何運轉 / 醫院急診系統 / 智慧農場 / 消防站出警流程】
+畫幅比例：【4:3 橫版】
+主色調：【根據主題自動匹配，整體保持明亮、清爽、兒童友好】
+風格方向：【現代兒童科普繪本 / 場景導覽式圖解 / 高完成度數字插畫】
 
-【核心表达】
-请围绕【主题】设计一个完整的大型场景或复杂系统。画面中必须有一个明确的主视觉场景，例如大型设施、交通系统、科技装备、自然探索场景、城市公共系统或生产流程。主体要足够清晰、有规模感、有细节，能够成为第一眼的视觉中心。
+【核心表達】
+請圍繞【主題】設計一個完整的大型場景或複雜系統。畫面中必須有一個明確的主視覺場景，例如大型設施、交通系統、科技裝備、自然探索場景、城市公共系統或生產流程。主體要足夠清晰、有規模感、有細節，能夠成為第一眼的視覺中心。
 
-画面要通过“导览路线”的方式组织信息，避免仅把场景做成静态陈列。请设计一条清晰的参观路线、流程路线、时间线或空间动线，让读者可以沿着路线一步步理解这个系统是如何运行的。
+畫面要透過“導覽路線”的方式組織資訊，避免僅把場景做成靜態陳列。請設計一條清晰的參觀路線、流程路線、時間軸或空間動線，讓讀者可以沿著路線一步步理解這個系統是如何執行的。
 
-【导览 IP 设计】
-请为本图设计一个原创、可爱、亲和的导览小 IP。导览 IP 可以是小动物、小朋友、拟人化工具或其他适合主题的原创形象，但必须具有独立原创性，不要照搬任何参考图中的角色、动物形象、服装、配色或搭档关系。
+【導覽 IP 設計】
+請為本圖設計一個原創、可愛、親和的導覽小 IP。導覽 IP 可以是小動物、小朋友、擬人化工具或其他適合主題的原創形象，但必須具有獨立原創性，不要照搬任何參考圖中的角色、動物形象、服裝、配色或搭檔關係。
 
-导览 IP 的作用是：
-1. 开场介绍主题
-2. 指向关键知识点
-3. 引导读者顺着路线阅读
-4. 增加儿童绘本的陪伴感和趣味性
+導覽 IP 的作用是：
+1. 開場介紹主題
+2. 指向關鍵知識點
+3. 引導讀者順著路線閱讀
+4. 增加兒童繪本的陪伴感和趣味性
 
-导览 IP 可以在画面中出现 2-3 次，但不要过度抢主视觉。角色应圆润、可爱、有表情、有动作，适合儿童科普绘本。
+導覽 IP 可以在畫面中出現 2-3 次，但不要過度搶主視覺。角色應圓潤、可愛、有表情、有動作，適合兒童科普繪本。
 
-【信息结构】
-画面中请设置 3-6 个“知识站点”，每个站点用简短中文标签和短说明表达。站点命名可以采用：
+【資訊結構】
+畫面中請設定 3-6 個“知識站點”，每個站點用簡短中文標籤和短說明表達。站點命名可以採用：
 - 第1站｜xxx
 - 第2站｜xxx
-- 重点观察｜xxx
-- 小知识｜xxx
-- 为什么｜xxx
+- 重點觀察｜xxx
+- 小知識｜xxx
+- 為什麼｜xxx
 - 如何工作｜xxx
 
-每个知识点都要围绕主题的核心运行逻辑展开，不要写空泛说明。文字要短、清楚、自然，避免长段落，适合儿童阅读。
+每個知識點都要圍繞主題的核心執行邏輯展開，不要寫空泛說明。文字要短、清楚、自然，避免長段落，適合兒童閱讀。
 
-【画面模块】
-整张图建议包含以下模块：
-1. 顶部主标题区：清楚写出主题名称
-2. 开场导览区：导览 IP 引出主题
-3. 大型主场景区：展示主题系统的完整场景
-4. 导览路线区：用箭头、虚线、路径、时间节点或流程线串联知识点
-5. 知识站点区：用小信息框、导览牌、局部标注展示关键知识
-6. 小百科 / 小贴士区：补充一个有趣知识
-7. 收尾区：让导览 IP 做简短总结或引导
+【畫面模組】
+整張圖建議包含以下模組：
+1. 頂部主標題區：清楚寫出主題名稱
+2. 開場導覽區：導覽 IP 引出主題
+3. 大型主場景區：展示主題系統的完整場景
+4. 導覽路線區：用箭頭、虛線、路徑、時間節點或流程線串聯知識點
+5. 知識站點區：用小資訊框、導覽牌、局部標註展示關鍵知識
+6. 小百科 / 小貼士區：補充一個有趣知識
+7. 收尾區：讓導覽 IP 做簡短總結或引導
 
-【构图要求】
-画面采用 4:3 横版构图，整体像一本高质量儿童科普绘本的跨页，也像一张儿童科技馆导览图。画面需要有清晰的视觉重心：大型主场景占据主要空间，导览路线贯穿画面，知识模块自然分布在周围。信息丰富但不能杂乱，阅读路径要顺畅。
+【構圖要求】
+畫面採用 4:3 橫版構圖，整體像一本高品質兒童科普繪本的跨頁，也像一張兒童科技館導覽圖。畫面需要有清晰的視覺重心：大型主場景佔據主要空間，導覽路線貫穿畫面，知識模組自然分佈在周圍。資訊豐富但不能雜亂，閱讀路徑要順暢。
 
-【视觉风格】
-整体采用现代儿童科普绘本风格：
-- 明亮、清爽、干净的色彩
-- 清晰自然的手绘线条
-- 高完成度数字插画质感
-- 细节丰富但有秩序
-- 可爱但不低幼
-- 有科普图解感
-- 有导览地图感
-- 场景真实可信，但表达方式亲和
+【視覺風格】
+整體採用現代兒童科普繪本風格：
+- 明亮、清爽、乾淨的色彩
+- 清晰自然的手繪線條
+- 高完成度數字插畫質感
+- 細節豐富但有秩序
+- 可愛但不低幼
+- 有科普圖解感
+- 有導覽地圖感
+- 場景真實可信，但表達方式親和
 
-【文字与标注】
-文字以中文为主，使用短标题、短标签、简短说明。不要生成大段复杂文字。信息框应像儿童科普书中的导览牌、知识卡片或小贴士。文字要尽量清晰、简洁、可读。
+【文字與標註】
+文字以中文為主，使用短標題、短標籤、簡短說明。不要生成大段複雜文字。資訊框應像兒童科普書中的導覽牌、知識卡片或小貼士。文字要儘量清晰、簡潔、可讀。
 
-【最终目标】
-让整张图像一页高质量的儿童科普绘本：孩子第一眼被可爱角色和大场景吸引，第二眼能顺着路线读懂系统如何运行，第三眼还能继续发现细节和知识点。画面要具有系列化潜力，方便后续替换不同主题继续创作同类型图片。
+【最終目標】
+讓整張影象一頁高品質的兒童科普繪本：孩子第一眼被可愛角色和大場景吸引，第二眼能順著路線讀懂系統如何執行，第三眼還能繼續發現細節和知識點。畫面要具有系列化潛力，方便後續替換不同主題繼續創作同型別圖片。
 ```
 
 ***
 
 <a name="case-470"></a>
 
-### 例 470：本地生活小店异形展架
+### 例 470：本地生活小店異形展架
 
-![本地生活小店异形展架](../data/images/case470.jpg)
+![本地生活小店異形展架](../data/images/case470.jpg)
 
-**来源：** [@MrLarus](https://x.com/MrLarus/status/2059248197910827364) / [提示词回复](https://x.com/MrLarus/status/2058431837534343283)
+**來源：** [@MrLarus](https://x.com/MrLarus/status/2059248197910827364) / [提示词回复](https://x.com/MrLarus/status/2058431837534343283)
 
-**提示词：**
+**提示詞：**
 
 ```text
-《餐饮异形展架/立牌物料》提示词：
+《餐飲異形展架/立牌物料》提示詞：
 
-请生成一张高完成度的「餐饮异形展架 / 立牌」设计图，用于展示餐饮门店的新品推荐、招牌产品、套餐促销或品牌活动信息。
+請生成一張高完成度的「餐飲異形展架 / 立牌」設計圖，用於展示餐飲門店的新品推薦、招牌產品、方案促銷或品牌活動資訊。
 
-【基础信息】
+【基礎資訊】
 品牌名：【品牌名】
-主标题：【主标题】
-副标题：【副标题】
-辅助短句：【短句1】｜【短句2】｜【短句3】
-主题方向：【主题方向，例如：爆辣夜市风 / 金黄浓郁风 / 清新轻食风 / 山野自然风 / 甜品下午茶风 / 快餐促销风】
-主色调：【主色调】
-辅助色：【辅助色】
-点缀色：【点缀色】
-画幅比例：【建议 3:4 竖版】
+主標題：【主標題】
+副標題：【副標題】
+輔助短句：【短句1】｜【短句2】｜【短句3】
+主題方向：【主題方向，例如：爆辣夜市風 / 金黃濃郁風 / 清新輕食風 / 山野自然風 / 甜品下午茶風 / 快餐促銷風】
+主色調：【主色調】
+輔助色：【輔助色】
+點綴色：【點綴色】
+畫幅比例：【建議 3:4 豎版】
 
-【产品内容】
-主推产品：【主推产品】
-辅助产品1：【辅助产品1】
-辅助产品2：【辅助产品2】
-辅助产品3：【辅助产品3】
-辅助产品4：【辅助产品4】
-加料 / 配角产品：【加料或配角产品，例如：饮品 / 小食 / 配菜 / 酱料 / 甜品】
+【產品內容】
+主推產品：【主推產品】
+輔助產品1：【輔助產品1】
+輔助產品2：【輔助產品2】
+輔助產品3：【輔助產品3】
+輔助產品4：【輔助產品4】
+加料 / 配角產品：【加料或配角產品，例如：飲品 / 小食 / 配菜 / 醬料 / 甜品】
 
-【卖点标签】
-【卖点1】
-【卖点2】
-【卖点3】
-【卖点4】
-【卖点5】
-【卖点6】
+【賣點標籤】
+【賣點1】
+【賣點2】
+【賣點3】
+【賣點4】
+【賣點5】
+【賣點6】
 
-【促销信息】
-【促销信息1】
-【促销信息2】
-【促销信息3】
+【促銷資訊】
+【促銷資訊1】
+【促銷資訊2】
+【促銷資訊3】
 
 【最重要要求】
-避免生成门店场景效果图或墙上海报展示图。请直接生成“一张完整的异形立牌成品展示图”：
-- 背景必须为纯白色
-- 画面中只保留一个完整的异形餐饮立牌主体
-- 不要餐厅环境
-- 不要商场背景
-- 不要玻璃门、桌椅、墙面、人物、地面透视场景
-- 不要任何真实空间背景
-- 立牌主体必须完整显示
-- 异形轮廓必须完整清晰
-- 底座必须完整露出
-- 整体像一张已经抠好的门店物料成品图 / 设计提案展示图 / 电商展示图
+避免生成門店場景效果圖或牆上海報展示圖。請直接生成“一張完整的異形立牌成品展示圖”：
+- 背景必須為純白色
+- 畫面中只保留一個完整的異形餐飲立牌主體
+- 不要餐廳環境
+- 不要商場背景
+- 不要玻璃門、桌椅、牆面、人物、地面透視場景
+- 不要任何真實空間背景
+- 立牌主體必須完整顯示
+- 異形輪廓必須完整清晰
+- 底座必須完整露出
+- 整體像一張已經摳好的門店物料成品圖 / 設計提案展示圖 / 電商展示圖
 
-【画面形式】
-这是一张“门店异形展架 / 立牌”的完整设计，避免普通矩形海报处理。
-整体应采用明显的“不规则异形裁切轮廓”，有完整外边缘，边缘可带白色或浅色描边，具有真实门店物料感。
-立牌应有明确底座，整体像可落地摆放的 KT 板 / 泡沫板 / 亚克力 / 写真喷绘展架成品。
+【畫面形式】
+這是一張“門店異形展架 / 立牌”的完整設計，避免普通矩形海報處理。
+整體應採用明顯的“不規則異形裁切輪廓”，有完整外邊緣，邊緣可帶白色或淺色描邊，具有真實門店物料感。
+立牌應有明確底座，整體像可落地擺放的 KT 板 / 泡沫板 / 亞克力 / 寫真噴繪展架成品。
 
-【构图结构】
-整体采用竖版、中心聚焦、信息分层清楚的结构：
+【構圖結構】
+整體採用豎版、中心聚焦、資訊分層清楚的結構：
 
-1. 顶部区域：
-放超大主标题，标题必须醒目、有冲击力、有餐饮 POP 招贴感。
-字体可以厚重、手写感、招贴感、潮流感，但要清晰易读。
-标题是整张图的第一视觉焦点。
+1. 頂部區域：
+放超大主標題，標題必須醒目、有衝擊力、有餐飲 POP 招貼感。
+字型可以厚重、手寫感、招貼感、潮流感，但要清晰易讀。
+標題是整張圖的第一視覺焦點。
 
-2. 中部核心区域：
-中间放最大主推产品，作为主视觉主体。
-主菜必须最大、最饱满、最诱人，突出食欲感。
-围绕主菜搭配 2~5 个辅助产品，形成丰富的产品组合，前后层次明确，主次分明。
+2. 中部核心區域：
+中間放最大主推產品，作為主視覺主體。
+主菜必須最大、最飽滿、最誘人，突出食慾感。
+圍繞主菜搭配 2~5 個輔助產品，形成豐富的產品組合，前後層次明確，主次分明。
 
-3. 周边信息区域：
-在主菜和辅助产品四周加入少量标签元素、推荐标、贴纸框、手写箭头、卖点说明、小标题、小气泡标签等，使其具有“餐饮门店促销物料”的视觉特征。
-但要控制层级，做到“热闹但不乱”。
+3. 周邊資訊區域：
+在主菜和輔助產品四周加入少量標籤元素、推薦標、貼紙框、手寫箭頭、賣點說明、小標題、小氣泡標籤等，使其具有“餐飲門店促銷物料”的視覺特徵。
+但要控制層級，做到“熱鬧但不亂”。
 
-4. 底部促销区域：
-底部放价格信息、套餐信息、活动信息或新品尝鲜信息。
-价格数字要相对突出，易读清晰。
-如果没有特别要求，默认不要二维码。
+4. 底部促銷區域：
+底部放價格資訊、方案資訊、活動資訊或新品嚐鮮資訊。
+價格數字要相對突出，易讀清晰。
+如果沒有特別要求，預設不要QR Code。
 
-【视觉风格要求】
-整体风格应属于“餐饮转化型视觉 + 门店 POP 异形立牌”：
-- 强调食欲感
-- 强调信息可读性
-- 强调商业落地感
-- 强调门店物料感
-- 强调异形轮廓感
+【視覺風格要求】
+整體風格應屬於“餐飲轉化型視覺 + 門店 POP 異形立牌”：
+- 強調食慾感
+- 強調資訊可讀性
+- 強調商業落地感
+- 強調門店物料感
+- 強調異形輪廓感
 
-避免极简杂志海报、电商详情页、纯平面插画海报方向。
+避免極簡雜誌海報、電商詳情頁、純平面插畫海報方向。
 
-【食物表现要求】
-所有食物必须采用真实商业美食摄影质感：
-- 食物清晰真实
-- 有食材颗粒感
-- 有酱汁、汤汁、油光、热气、层次感
-- 有丰富细节，如葱花、辣椒、芝士、香草、蔬菜、水果、虾仁、肉块等
-- 主食要饱满，不能扁平
-- 看起来必须“能激发食欲”
-禁止过度插画化、卡通化、低质拼贴化。
+【食物表現要求】
+所有食物必須採用真實商業美食攝影質感：
+- 食物清晰真實
+- 有食材顆粒感
+- 有醬汁、湯汁、油光、熱氣、層次感
+- 有豐富細節，如蔥花、辣椒、芝士、香草、蔬菜、水果、蝦仁、肉塊等
+- 主食要飽滿，不能扁平
+- 看起來必須“能激發食慾”
+禁止過度插畫化、卡通化、低質拼貼化。
 
-【版式与信息层级】
-整张立牌的阅读顺序应为：
-主标题 → 主推产品 → 辅助产品 → 卖点标签 → 价格 / 活动信息
+【版式與資訊層級】
+整張立牌的閱讀順序應為：
+主標題 → 主推產品 → 輔助產品 → 賣點標籤 → 價格 / 活動資訊
 
-信息量可以较丰富，但必须有明确层级：
-- 主标题最大
+資訊量可以較豐富，但必須有明確層級：
+- 主標題最大
 - 主菜次大
-- 辅助菜稍小
-- 卖点标签较小
-- 底部促销清晰醒目
+- 輔助菜稍小
+- 賣點標籤較小
+- 底部促銷清晰醒目
 
-【适配范围】
-该模板需要适用于不同主题餐饮内容，例如：
-- 面 / 饭 / 粉 / 小吃
-- 火锅 / 菌汤 / 地方菜
-- 轻食 / 沙拉 / 咖啡简餐
-- 早餐 / 套餐 / 快餐
-- 茶饮 / 甜品 / 下午茶
-- 节日促销 / 新品上市 / 爆品推荐 / 双人套餐
+【適配範圍】
+該範本需要適用於不同主題餐飲內容，例如：
+- 面 / 飯 / 粉 / 小吃
+- 火鍋 / 菌湯 / 地方菜
+- 輕食 / 沙拉 / 咖啡簡餐
+- 早餐 / 方案 / 快餐
+- 茶飲 / 甜品 / 下午茶
+- 節日促銷 / 新品上市 / 爆品推薦 / 雙人方案
 
-【输出要求】
-请输出一张高清、清晰、商业完成度高的异形立牌设计图，满足以下条件：
+【輸出要求】
+請輸出一張高畫質、清晰、商業完成度高的異形立牌設計圖，滿足以下條件：
 - 白色背景
-- 完整异形轮廓
+- 完整異形輪廓
 - 完整底座
-- 只展示立牌本体
-- 不带真实场景环境
-- 不带人物
-- 不带门店背景
-- 默认不带二维码
-- 适合用于系列案例展示、设计提案、社交媒体发布、模板复用
+- 只展示立牌本體
+- 不帶真實場景環境
+- 不帶人物
+- 不帶門店背景
+- 預設不帶QR Code
+- 適合用於系列案例展示、設計提案、社群媒體發布、範本複用
 ```
 
 ***
 
 <a name="case-471"></a>
 
-### 例 471：花簪和服动漫肖像
+### 例 471：花簪和服動漫肖像
 
-![花簪和服动漫肖像](../data/images/case471.jpg)
+![花簪和服動漫肖像](../data/images/case471.jpg)
 
-**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
+**來源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
@@ -10360,13 +10360,13 @@ Ultra-detailed anime-style portrait of a young girl with large expressive eyes, 
 
 <a name="case-472"></a>
 
-### 例 472：上海地铁站台晨光
+### 例 472：上海地鐵站臺晨光
 
-![上海地铁站台晨光](../data/images/case472.jpg)
+![上海地鐵站臺晨光](../data/images/case472.jpg)
 
-**来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2059452471127240959)
+**來源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2059452471127240959)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.
@@ -10379,13 +10379,13 @@ Cool overhead fluorescent lighting with a slight greenish cast, flat frontal ill
 
 <a name="case-473"></a>
 
-### 例 473：ROGUE VIPER 游戏概念设定板
+### 例 473：ROGUE VIPER 遊戲概念設定板
 
-![ROGUE VIPER 游戏概念设定板](../data/images/case473.jpg)
+![ROGUE VIPER 遊戲概念設定板](../data/images/case473.jpg)
 
-**来源：** [@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
+**來源：** [@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
 
-**提示词：**
+**提示詞：**
 
 ```text
 **ROGUE VIPER — VIDEO GAME CONCEPT ART SHEET PROMPT**
@@ -10436,13 +10436,13 @@ Photorealistic only throughout the entire sheet. No anime, no cartoon, no styliz
 
 <a name="case-474"></a>
 
-### 例 474：四城极简旅行海报系列
+### 例 474：四城極簡旅行海報系列
 
-![四城极简旅行海报系列](../data/images/case474.jpg)
+![四城極簡旅行海報系列](../data/images/case474.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2059188921096085888)
+**來源：** [@Taaruk_](https://x.com/Taaruk_/status/2059188921096085888)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed
@@ -10452,13 +10452,13 @@ Minimalist flat travel poster illustration series of iconic destinations around 
 
 <a name="case-475"></a>
 
-### 例 475：企鹅造型包装结构板
+### 例 475：企鵝造型包裝結構板
 
-![企鹅造型包装结构板](../data/images/case475.jpg)
+![企鵝造型包裝結構板](../data/images/case475.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664) / [full prompt](https://aiistudio.com/prompt/2039679180775063573)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664) / [full prompt](https://aiistudio.com/prompt/2039679180775063573)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.
@@ -10468,13 +10468,13 @@ Using the attached image, create an illustration sheet of professional industria
 
 <a name="case-476"></a>
 
-### 例 476：早安拿铁微缩女孩
+### 例 476：早安拿鐵微縮女孩
 
-![早安拿铁微缩女孩](../data/images/case476.jpg)
+![早安拿鐵微縮女孩](../data/images/case476.jpg)
 
-**来源：** [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
+**來源：** [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.
@@ -10484,13 +10484,13 @@ Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, w
 
 <a name="case-477"></a>
 
-### 例 477：Instagram 餐桌俯拍创意
+### 例 477：Instagram 餐桌俯拍創意
 
-![Instagram 餐桌俯拍创意](../data/images/case477.jpg)
+![Instagram 餐桌俯拍創意](../data/images/case477.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060210845225980366) / [full prompt](https://aiistudio.com/prompt/2045009725218226475)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060210845225980366) / [full prompt](https://aiistudio.com/prompt/2045009725218226475)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Top-down ultra-wide hyper-realistic shot of 4 real people seated at a square dining table. Pull the camera way back so a wide ring of empty floor surrounds the whole scene, giving a clean minimal composition. Scene [ATMOSPHERE + WARDROBE]: the four are styled in [OUTFIT STYLE]. Each one is doing something specific: [DESCRIBE EACH PERSON'S ACTION].
@@ -10507,13 +10507,13 @@ The center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, d
 
 <a name="case-478"></a>
 
-### 例 478：夹层式品牌编辑海报
+### 例 478：夾層式品牌編輯海報
 
-![夹层式品牌编辑海报](../data/images/case478.jpg)
+![夾層式品牌編輯海報](../data/images/case478.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) / [full prompt](https://aiistudio.com/prompt/2040806718523748627)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) / [full prompt](https://aiistudio.com/prompt/2040806718523748627)
 
-**提示词：**
+**提示詞：**
 
 ```text
 [BRAND NAME]. You are a world-class editorial designer.
@@ -10545,13 +10545,13 @@ STEP 5, MINIMALIST BRANDING:
 
 <a name="case-479"></a>
 
-### 例 479：杂志纸艺拼贴重绘
+### 例 479：雜誌紙藝拼貼重繪
 
-![杂志纸艺拼贴重绘](../data/images/case479.jpg)
+![雜誌紙藝拼貼重繪](../data/images/case479.jpg)
 
-**来源：** [@oggii_0](https://x.com/oggii_0/status/2060212097083146644)
+**來源：** [@oggii_0](https://x.com/oggii_0/status/2060212097083146644)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform the uploaded image into a minimalist illustration in a magazine collage style, using paper cutouts. Retain the main subject, pose, and overall concept of the original image, but reimagine it as a warm, hand-edited collage. Style: Minimalist illustration in a magazine paper collage style, with flat, layered paper shapes, soft pastel paper textures, torn paper edges, paper shadow effects, neat black doodle accents, a handmade scrapbook atmosphere, modern Korean editorial design, a simple and cute composition, and large areas of clean white space. Character: Cute, simplified Korean characters with minimalist facial features, a small, relaxed smile, soft and rounded proportions, simple and casual clothing, and silhouettes constructed from layered paper cutouts. Composition: A 3:4 aspect ratio, with the main subject positioned slightly lower and off-center, leaving a large, open space on the opposite side for a breezy, minimalist composition that avoids clutter. Objects: Add only a few suitable collage elements: paper sticky notes, small hearts, plants, a cup of coffee, a window, tape fragments, and simple doodle icons. Typography: Add an elegant, handwritten English title that fits the scene's atmosphere. Use short phrases such as: ["May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.","Take a small break," or "Good day, good mood."] Atmosphere: Calm, comfortable, warm, sweet, and editorial style. Avoid: Photorealistic style, anime style, watercolor style, 3D clay style, overly detailed backgrounds, excessive collage elements, a luxury poster atmosphere, dark tones, harsh shadows, and sloppy text.
@@ -10561,13 +10561,13 @@ Transform the uploaded image into a minimalist illustration in a magazine collag
 
 <a name="case-480"></a>
 
-### 例 480：粉丝速写本角色页
+### 例 480：粉絲速寫本角色頁
 
-![粉丝速写本角色页](../data/images/case480.jpg)
+![粉絲速寫本角色頁](../data/images/case480.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2060211436232786357)
+**來源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2060211436232786357)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Draw me as if an obsessed fan artist filled an entire sketchbook page - messy, overlapping, full-body poses, tiny chibi doodles, exaggerated expressions, and random close-ups of their hands or eyes.
@@ -10578,13 +10578,13 @@ White background. No grid, no order. Pure chaos energy. With (any color) aesthet
 
 <a name="case-481"></a>
 
-### 例 481：韩系春日 scrapbook 海报
+### 例 481：韓系春日 scrapbook 海報
 
-![韩系春日 scrapbook 海报](../data/images/case481.jpg)
+![韓系春日 scrapbook 海報](../data/images/case481.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2060214163591614900)
+**來源：** [@Taaruk_](https://x.com/Taaruk_/status/2060214163591614900)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
@@ -10594,13 +10594,13 @@ Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft b
 
 <a name="case-482"></a>
 
-### 例 482：自我凝视超现实 Campaign
+### 例 482：自我凝視超現實 Campaign
 
-![自我凝视超现实 Campaign](../data/images/case482.jpg)
+![自我凝視超現實 Campaign](../data/images/case482.jpg)
 
-**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2060207260685791267)
+**來源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2060207260685791267)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic conceptual portrait of a young man with curly hair and light stubble, wearing yellow-tinted rectangular sunglasses, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture.
@@ -10626,13 +10626,13 @@ Mood: introspective, mental weight, identity, self-awareness.
 
 <a name="case-483"></a>
 
-### 例 483：都市飞鸟街头肖像
+### 例 483：都市飛鳥街頭肖像
 
-![都市飞鸟街头肖像](../data/images/case483.jpg)
+![都市飛鳥街頭肖像](../data/images/case483.jpg)
 
-**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
+**來源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.
@@ -10642,13 +10642,13 @@ A stylish cinematic portrait of a confident young woman leaning casually against
 
 <a name="case-484"></a>
 
-### 例 484：霓虹涂鸦黑白人像
+### 例 484：霓虹塗鴉黑白人像
 
-![霓虹涂鸦黑白人像](../data/images/case484.jpg)
+![霓虹塗鴉黑白人像](../data/images/case484.jpg)
 
-**来源：** [@harboriis](https://x.com/harboriis/status/2060208419811074350)
+**來源：** [@harboriis](https://x.com/harboriis/status/2060208419811074350)
 
-**提示词：**
+**提示詞：**
 
 ```text
 High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.
@@ -10658,13 +10658,13 @@ High-contrast black-and-white urban portrait of a curly-haired bearded man in a 
 
 <a name="case-485"></a>
 
-### 例 485：时尚目录电商拼贴
+### 例 485：時尚目錄電商拼貼
 
-![时尚目录电商拼贴](../data/images/case485.jpg)
+![時尚目錄電商拼貼](../data/images/case485.jpg)
 
-**来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
+**來源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.
@@ -10674,13 +10674,13 @@ Stylish fashion catalog shoot blending streetwear and luxury branding. Female mo
 
 <a name="case-486"></a>
 
-### 例 486：RCB 冠军混合媒介海报
+### 例 486：RCB 冠軍混合媒介海報
 
-![RCB 冠军混合媒介海报](../data/images/case486.jpg)
+![RCB 冠軍混合媒介海報](../data/images/case486.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
+**來源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, black, gold, and white color palette. Dramatic championship atmosphere with confetti, fireworks, cheering stadium crowd, RCB flags waving in the background, paint splatter textures, hand-drawn line art accents, and energetic brushwork.
@@ -10704,13 +10704,13 @@ Premium championship poster design, trending Behance artwork, sports magazine co
 
 <a name="case-487"></a>
 
-### 例 487：法式药妆商业分镜封面
+### 例 487：法式藥妝商業分鏡封面
 
-![法式药妆商业分镜封面](../data/images/case487.jpg)
+![法式藥妝商業分鏡封面](../data/images/case487.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
+**來源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
 
-**提示词：**
+**提示詞：**
 
 ```text
 35mm anamorphic, 2.39:1, no flares. Ultra-realistic international French pharmacy skincare commercial for La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+. Soft premium music plus tactile realistic sound effects throughout. Rich warm natural grain, premium but not over-polished. Palette: warm ivory whites, soft stone neutrals, signature La Roche-Posay orange, subtle clinical cyan-blue, sunlit beige, realistic warm skin tones. The tube is iconic. The skin is the proof. Every shot builds toward the moment the product disappears into real skin and protection becomes confidence. Fast cuts, macro intimacy, tactile realism, one quiet transformation that feels earned: sunscreen that looks invisible, breathable, and real.
@@ -10740,13 +10740,13 @@ Soft elegant premium skincare music throughout: gentle piano, airy ambient pads,
 
 <a name="case-488"></a>
 
-### 例 488：屋顶球场日落人像
+### 例 488：屋頂球場日落人像
 
-![屋顶球场日落人像](../data/images/case488.jpg)
+![屋頂球場日落人像](../data/images/case488.jpg)
 
-**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
+**來源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
@@ -10756,13 +10756,13 @@ Ultra-realistic, high-quality portrait of a stylish young South Asian woman stan
 
 <a name="case-489"></a>
 
-### 例 489：城市地图微缩旅行海报
+### 例 489：城市地圖微縮旅行海報
 
-![城市地图微缩旅行海报](../data/images/case489.jpg)
+![城市地圖微縮旅行海報](../data/images/case489.jpg)
 
-**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
+**來源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
@@ -10778,13 +10778,13 @@ Aspect ratio 1:1.
 
 <a name="case-490"></a>
 
-### 例 490：双重曝光时尚肖像
+### 例 490：雙重曝光時尚肖像
 
-![双重曝光时尚肖像](../data/images/case490.jpg)
+![雙重曝光時尚肖像](../data/images/case490.jpg)
 
-**来源：** [@Anaya_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
+**來源：** [@Anaya_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.
@@ -10798,13 +10798,13 @@ Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazi
 
 <a name="case-491"></a>
 
-### 例 491：Y2K 高楼浴室镜面自拍
+### 例 491：Y2K 高樓浴室鏡面自拍
 
-![Y2K 高楼浴室镜面自拍](../data/images/case491.jpg)
+![Y2K 高樓浴室鏡面自拍](../data/images/case491.jpg)
 
-**来源：** [@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
+**來源：** [@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A moody late-night mirror selfie captured in a luxury high-rise bathroom overlooking a glowing city skyline. A young woman with long, slightly messy black hair leans forward over a marble sink, partially obscuring one eye with loose strands. The photo is taken through a smudged mirror with visible dust particles, water spots, and imperfections, creating an authentic raw aesthetic. A powerful direct camera flash explodes in the frame, producing harsh highlights, lens flare, and a nostalgic early-2000s digital camera look.
@@ -10820,13 +10820,13 @@ Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, s
 
 <a name="case-492"></a>
 
-### 例 492：黑色高定酒店套房写真
+### 例 492：黑色高定酒店套房寫真
 
-![黑色高定酒店套房写真](../data/images/case492.jpg)
+![黑色高定酒店套房寫真](../data/images/case492.jpg)
 
-**来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
+**來源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a hyper-realistic luxury fashion portrait inspired by premium fashion-week editorials.
@@ -10872,13 +10872,13 @@ Vertical 9:16.
 
 <a name="case-493"></a>
 
-### 例 493：东京旅行 13 格视频封面
+### 例 493：東京旅行 13 格影片封面
 
-![东京旅行 13 格视频封面](../data/images/case493.jpg)
+![東京旅行 13 格影片封面](../data/images/case493.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062383568253505904)
+**來源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062383568253505904)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Generate image of young female travel vlogger exploring Tokyo across multiple candid moments, extremely beautiful with long dark wavy hair, wearing stylish Japanese-inspired oversized streetwear, expressive and spontaneous personality, captured across a 13-frame grid collage (Row 1: 4 frames | Row 2: 5 frames | Row 3: 4 frames), each frame feels like a real casual phone capture with imperfect framing and natural inconsistencies.
@@ -10906,13 +10906,13 @@ Young female travel vlogger exploring Tokyo across 13 candid moments in a grid c
 
 <a name="case-494"></a>
 
-### 例 494：电动巴士工程信息图
+### 例 494：電動巴士工程資訊圖表
 
-![电动巴士工程信息图](../data/images/case494.jpg)
+![電動巴士工程資訊圖表](../data/images/case494.jpg)
 
-**来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
+**來源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.
@@ -11022,13 +11022,13 @@ The final result should resemble a professionally published transportation-engin
 
 <a name="case-495"></a>
 
-### 例 495：巴黎街头故事书插画
+### 例 495：巴黎街頭故事書插畫
 
-![巴黎街头故事书插画](../data/images/case495.jpg)
+![巴黎街頭故事書插畫](../data/images/case495.jpg)
 
-**来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
+**來源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
@@ -11038,13 +11038,13 @@ Portrait illustration in a storybook style featuring a young adult woman explori
 
 <a name="case-496"></a>
 
-### 例 496：水雕品牌 Logo 六宫格
+### 例 496：水雕品牌 Logo 六宮格
 
-![水雕品牌 Logo 六宫格](../data/images/case496.jpg)
+![水雕品牌 Logo 六宮格](../data/images/case496.jpg)
 
-**来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
+**來源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
@@ -11054,13 +11054,13 @@ Create a premium 3x2 grid collage of iconic global brand logos recreated entirel
 
 <a name="case-497"></a>
 
-### 例 497：单色水彩城市旅行海报
+### 例 497：單色水彩城市旅行海報
 
-![单色水彩城市旅行海报](../data/images/case497.jpg)
+![單色水彩城市旅行海報](../data/images/case497.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
+**來源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework.
@@ -11078,13 +11078,13 @@ Handcrafted watercolor illustration, architectural sketch aesthetic, serene urba
 
 <a name="case-498"></a>
 
-### 例 498：铅笔画背景 3D 分身
+### 例 498：鉛筆畫背景 3D 分身
 
-![铅笔画背景 3D 分身](../data/images/case498.jpg)
+![鉛筆畫背景 3D 分身](../data/images/case498.jpg)
 
-**来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
+**來源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a handrawn pencil illustration of [image] yawning on paper, as background.
@@ -11096,13 +11096,13 @@ Add a 3D Pixar style render of [foto] standing casually infront of the giant han
 
 <a name="case-499"></a>
 
-### 例 499：极简精品店全身时尚写真
+### 例 499：極簡精品店全身時尚寫真
 
-![极简精品店全身时尚写真](../data/images/case499.jpg)
+![極簡精品店全身時尚寫真](../data/images/case499.jpg)
 
-**来源：** [@john_my07](https://x.com/john_my07/status/2062579742759649486)
+**來源：** [@john_my07](https://x.com/john_my07/status/2062579742759649486)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A full-body editorial fashion photograph of a beautiful young woman with the same appearance as the reference, long glossy dark hair, soft bangs, fair skin, and refined feminine features. She stands casually in an upscale minimalist fashion boutique, wearing an oversized pastel-blue knit sweater paired with a black pleated tennis-style skirt, white crew socks, and chunky designer sneakers. Relaxed confident pose, gentle smile, luxury retail interior with modern clothing racks, neutral-toned garments, warm ambient lighting, wood and stone textures, clean architectural lines, cinematic depth of field, realistic lighting, premium fashion advertising, Vogue-style editorial, ultra-detailed, sharp focus, photorealistic, 4K.
@@ -11112,13 +11112,13 @@ A full-body editorial fashion photograph of a beautiful young woman with the sam
 
 <a name="case-500"></a>
 
-### 例 500：梦幻花冠仙境肖像
+### 例 500：夢幻花冠仙境肖像
 
-![梦幻花冠仙境肖像](../data/images/case500.jpg)
+![夢幻花冠仙境肖像](../data/images/case500.jpg)
 
-**来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
+**來源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.
@@ -11130,13 +11130,13 @@ The scene is bathed in soft diffused morning light, creating a luminous glow aro
 
 <a name="case-501"></a>
 
-### 例 501：夏日牵手回眸电影肖像
+### 例 501：夏日牽手回眸電影肖像
 
-![夏日牵手回眸电影肖像](../data/images/case501.jpg)
+![夏日牽手回眸電影肖像](../data/images/case501.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Cinematic portrait photography, ultra-photorealistic, 2160x3840 vertical composition, 50mm or 85mm portrait lens rendering, shallow depth of field, clean translucent summer natural-light color grading — not overly yellow, not over-filtered.
@@ -11160,13 +11160,13 @@ Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expres
 
 <a name="case-502"></a>
 
-### 例 502：黑桃国王递归扑克牌
+### 例 502：黑桃國王遞迴撲克牌
 
-![黑桃国王递归扑克牌](../data/images/case502.jpg)
+![黑桃國王遞迴撲克牌](../data/images/case502.jpg)
 
-**来源：** [@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
+**來源：** [@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose, lips, beard pattern, hairstyle, hair texture, skin tone, skin texture, and overall recognizable appearance. Do not beautify, alter, or reinterpret my face. Maintain realistic anatomy and authentic likeness.
@@ -11219,13 +11219,13 @@ The final image should feel like the cover of a legendary fantasy card game wher
 
 <a name="case-503"></a>
 
-### 例 503：霓虹设计师 3D 海报
+### 例 503：霓虹設計師 3D 海報
 
-![霓虹设计师 3D 海报](../data/images/case503.jpg)
+![霓虹設計師 3D 海報](../data/images/case503.jpg)
 
-**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
+**來源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.
@@ -11239,13 +11239,13 @@ Include a collectible chibi mini-figure version of the character standing beside
 
 <a name="case-504"></a>
 
-### 例 504：粗糙涂鸦人像改图
+### 例 504：粗糙塗鴉人像改圖
 
-![粗糙涂鸦人像改图](../data/images/case504.jpg)
+![粗糙塗鴉人像改圖](../data/images/case504.jpg)
 
-**来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
+**來源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.
@@ -11257,13 +11257,13 @@ Create exaggerated facial features with awkward proportions, uneven eyes, oversi
 
 <a name="case-505"></a>
 
-### 例 505：夜间手机光沙发肖像
+### 例 505：夜間手機光沙發肖像
 
-![夜间手机光沙发肖像](../data/images/case505.jpg)
+![夜間手機光沙發肖像](../data/images/case505.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A young adult woman with soft refined features, thin metal glasses, and shoulder-length dark tousled hair, leaning forward across a dark upholstered couch at night. She wears a pale cream lace-trim camisole with thin straps and matching soft shorts. One hand holds a smartphone close to the foreground, the screen glow casting cool reflections on her fingers and glasses lenses. Her expression is dreamy and softly tired, eyes lifted toward the camera as if she just looked up from scrolling, lips gently closed in a relaxed pout.
@@ -11275,18 +11275,18 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 
 <a name="case-506"></a>
 
-### 例 506：可爱发卡图文人像海报
+### 例 506：可愛髮卡圖文人像海報
 
-![可爱发卡图文人像海报](../data/images/case506.jpg)
+![可愛髮卡圖文人像海報](../data/images/case506.jpg)
 
-**来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2062924832917029248)
+**來源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2062924832917029248)
 
-**提示词：**
+**提示詞：**
 
 ```text
-围绕具体主题内容生成一张明亮清爽的图文合成视觉：画面以大面积高明度纯净色场承托主体，背景平整、通风、没有复杂景深，视觉重心由下方被大胆裁切的人像或真实主体建立，只露出最有记忆点的局部，使主体像从画面边缘进入。主体上方叠放一个极简图形符号或拟物角色，它要像轻轻坐在主体头顶或贴合轮廓生长出来，形体圆润、边缘干净、表情或结构由少量粗线完成，兼具标识感和亲近感。文字是画面的主动角色：顶部使用大号手写感标题，字距松、笔画柔软，像一句轻声招呼；中心用更强的竖向或轴向标题建立层级；边缘安放少量小字号信息，保持安静但精确，让空白继续占主导。色彩从主题自身的材质、情绪、地域或品牌语义中提取，映射为明亮底色、洁净主体亮面、清晰深色结构线与少量强调信息色，保留大面积轻快底场、小面积高对比文字线条、自然主体暗部的关系；整体保持高明度、清透、干净、饱和度清晰而不过度刺激，暗色只用于结构和阅读，不制造脏灰、烟雾或陈旧质感。摄影局部与扁平图形之间要形成真实与童趣的反差，边缘叠压准确，阴影极少，完成感像城市公共宣传与角色插画结合的轻松视觉系统。
+圍繞具體主題內容生成一張明亮清爽的圖文合成視覺：畫面以大面積高明度純淨色場承託主體，背景平整、通風、沒有複雜景深，視覺重心由下方被大膽裁切的人像或真實主體建立，只露出最有記憶點的局部，使主體像從畫面邊緣進入。主體上方疊放一個極簡圖形符號或擬物角色，它要像輕輕坐在主體頭頂或貼合輪廓生長出來，形體圓潤、邊緣乾淨、表情或結構由少量粗線完成，兼具標識感和親近感。文字是畫面的主動角色：頂部使用大號手寫感標題，字距松、筆畫柔軟，像一句輕聲招呼；中心用更強的豎向或軸向標題建立層級；邊緣安放少量小字號資訊，保持安靜但精確，讓空白繼續佔主導。色彩從主題自身的材質、情緒、地域或品牌語義中提取，對映為明亮底色、潔淨主體亮面、清晰深色結構線與少量強調資訊色，保留大面積輕快底場、小面積高對比文字線條、自然主體暗部的關係；整體保持高明度、清透、乾淨、飽和度清晰而不過度刺激，暗色只用於結構和閱讀，不製造髒灰、煙霧或陳舊質感。攝影局部與扁平圖形之間要形成真實與童趣的反差，邊緣疊壓準確，陰影極少，完成感像城市公共宣傳與角色插畫結合的輕鬆視覺系統。
 
-主题：柳岩
+主題：柳巖
 
 比例9:16
 ```
@@ -11295,13 +11295,13 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 
 <a name="case-507"></a>
 
-### 例 507：暖调钩织角色玩偶
+### 例 507：暖調鉤織角色玩偶
 
-![暖调钩织角色玩偶](../data/images/case507.jpg)
+![暖調鉤織角色玩偶](../data/images/case507.jpg)
 
-**来源：** [@azed_ai](https://x.com/azed_ai/status/2067925399947067728)
+**來源：** [@azed_ai](https://x.com/azed_ai/status/2067925399947067728)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.
@@ -11311,29 +11311,29 @@ A handcrafted crochet doll of a [subject], made with soft yarn textures and intr
 
 <a name="case-508"></a>
 
-### 例 508：木漏日庭院俯拍猫咪人像
+### 例 508：木漏日庭院俯拍貓咪人像
 
-![木漏日庭院俯拍猫咪人像](../data/images/case508.jpg)
+![木漏日庭院俯拍貓咪人像](../data/images/case508.jpg)
 
-**来源：** [@ohmuyi](https://x.com/ohmuyi/status/2067930690977779942)
+**來源：** [@ohmuyi](https://x.com/ohmuyi/status/2067930690977779942)
 
-**提示词：**
+**提示詞：**
 
 ```text
-俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。
+俯拍鏡頭，高角度頂機位，自上而下俯瞰一位年輕的東亞裔女性，她有著精緻的東亞五官和柔順的黑髮。她蹲在花園小徑上，輕輕逗弄一隻毛茸茸的橘貓。頭頂密密的枝葉濾過陽光，形成靈動的“木漏日”效果——躍動、圓形的光斑在她的肌膚和貓毛上流轉舞動。空氣中懸浮著淡淡的潮溼薄霧，捕捉住光束，營造出柔和可見的立體光柱（丁達爾效應）。當她仰頭朝向鏡頭時，一層輕霧柔化了畫面邊緣，增添夢幻氛圍。她的表情從略帶俏皮的輕噘嘴，漸漸轉為眼角堆起細紋的真摯笑容，斑駁的光線恰好勾勒出她肌膚的細膩紋理和眼中盈盈的水光。
 ```
 
 ***
 
 <a name="case-509"></a>
 
-### 例 509：涂鸦拉衣奔跑棚拍
+### 例 509：塗鴉拉衣奔跑棚拍
 
-![涂鸦拉衣奔跑棚拍](../data/images/case509.jpg)
+![塗鴉拉衣奔跑棚拍](../data/images/case509.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071929275897491491)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2071929275897491491)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
@@ -11343,13 +11343,13 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 
 <a name="case-510"></a>
 
-### 例 510：Bichon Shop 拟物 App 图标
+### 例 510：Bichon Shop 擬物 App 圖示
 
-![Bichon Shop 拟物 App 图标](../data/images/case510.jpg)
+![Bichon Shop 擬物 App 圖示](../data/images/case510.jpg)
 
-**来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125) / [full prompt](https://aiistudio.com/prompt/i2h-061/bichon-shop)
+**來源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125) / [full prompt](https://aiistudio.com/prompt/i2h-061/bichon-shop)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.
@@ -11359,13 +11359,13 @@ A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smo
 
 <a name="case-511"></a>
 
-### 例 511：城市名地标排版旅行海报
+### 例 511：城市名地標排版旅行海報
 
-![城市名地标排版旅行海报](../data/images/case511.jpg)
+![城市名地標排版旅行海報](../data/images/case511.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
+**來源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility.
@@ -11379,13 +11379,13 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
 
 <a name="case-512"></a>
 
-### 例 512：Brutalist Freestyle 角色设定表
+### 例 512：Brutalist Freestyle 角色設定表
 
-![Brutalist Freestyle 角色设定表](../data/images/case512.jpg)
+![Brutalist Freestyle 角色設定表](../data/images/case512.jpg)
 
-**来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
+**來源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic.
@@ -11401,13 +11401,13 @@ Professional production sheet layout.  Extremely clean linework.  Cinematic conc
 
 <a name="case-513"></a>
 
-### 例 513：单色点缀旅行手账插画
+### 例 513：單色點綴旅行手賬插畫
 
-![单色点缀旅行手账插画](../data/images/case513.jpg)
+![單色點綴旅行手賬插畫](../data/images/case513.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071779087396606433)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2071779087396606433)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.
@@ -11417,13 +11417,13 @@ Create a charming editorial travel illustration of {DESTINATION} in a simple han
 
 <a name="case-514"></a>
 
-### 例 514：硬边现代艺术人像
+### 例 514：硬邊現代藝術人像
 
-![硬边现代艺术人像](../data/images/case514.jpg)
+![硬邊現代藝術人像](../data/images/case514.jpg)
 
-**来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2071783914595897555)
+**來源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2071783914595897555)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.
@@ -11434,13 +11434,13 @@ dutch angle, stray cat tail --ar 9:16
 
 <a name="case-515"></a>
 
-### 例 515：Guadalajara 复古电影旅行海报
+### 例 515：Guadalajara 復古電影旅行海報
 
-![Guadalajara 复古电影旅行海报](../data/images/case515.jpg)
+![Guadalajara 復古電影旅行海報](../data/images/case515.jpg)
 
-**来源：** [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
+**來源：** [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
 
-**提示词：**
+**提示詞：**
 
 ```text
 @Crea una imagen {
@@ -11455,13 +11455,13 @@ dutch angle, stray cat tail --ar 9:16
 
 <a name="case-516"></a>
 
-### 例 516：工业橡胶管品牌造型渲染
+### 例 516：工業橡膠管品牌造型渲染
 
-![工业橡胶管品牌造型渲染](../data/images/case516.jpg)
+![工業橡膠管品牌造型渲染](../data/images/case516.jpg)
 
-**来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
+**來源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.
@@ -11471,105 +11471,105 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 <a name="case-517"></a>
 
-### 例 517：杯内鱼眼夏日冰饮广告
+### 例 517：杯內魚眼夏日冰飲廣告
 
-![杯内鱼眼夏日冰饮广告](../data/images/case517.jpg)
+![杯內魚眼夏日冰飲廣告](../data/images/case517.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375) / [full prompt](https://lovimg.com/image-prompts/7369/item-313)
+**來源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375) / [full prompt](https://lovimg.com/image-prompts/7369/item-313)
 
-**提示词：**
+**提示詞：**
 
 ```text
 主題：
 氷越しの夏
 
-主体：
-縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。
+主體：
+縦長2:3のリアル寫真。透明な大型プラスチックカップの內側から見上げるような超広角フィッシュアイ構図。畫面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奧へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。
 
 人物・表情：
 自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。
 
-服装・ポーズ：
-白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。
+服裝・ポーズ：
+白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接觸し、奧から手前の赤い氷へ向かって強い奧行きを作る。
 
 背景・光：
-背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。
+背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない裝飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの殘りがカップ內側にリング狀についている。
 
 構図・カメラ：
-カメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。
+カメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく灣曲し、周囲の商店街も軽く歪む。畫面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく淺いボケ。
 
 質感・スタイル：
-プロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。
+プロ用カメラで撮影した夏の広告寫真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を殘し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ寫真。
 
 ネガティブ：
-実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。
+実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接觸不良、餘分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。
 ```
 
 ***
 
 <a name="case-518"></a>
 
-### 例 518：花田风动夏日人像
+### 例 518：花田風動夏日人像
 
-![花田风动夏日人像](../data/images/case518.jpg)
+![花田風動夏日人像](../data/images/case518.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036746198618336) / [full prompt](https://lovimg.com/image-prompts/7376/item-314)
+**來源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036746198618336) / [full prompt](https://lovimg.com/image-prompts/7376/item-314)
 
-**提示词：**
+**提示詞：**
 
 ```text
 主題：
 花風のまどろみ
 
-主体：
-縦長4:5の写真風ポートレート。白と黄色のマーガレット、オレンジ色の小花が密に咲く夏の草花畑に、成熟した大人の女性が仰向けで静かに横たわっている。人物は画面下部から中央にかけて大きく入り、顔は中央やや右、胸元から肩までは画面下側に収まる。周囲の花が画面全体を埋め、対角線方向に流れる花のモーションブラーが前景を横切る。
+主體：
+縦長4:5の寫真風ポートレート。白と黃色のマーガレット、オレンジ色の小花が密に咲く夏の草花畑に、成熟した大人の女性が仰向けで靜かに橫たわっている。人物は畫面下部から中央にかけて大きく入り、顔は中央やや右、胸元から肩までは畫面下側に収まる。周囲の花が畫面全體を埋め、対角線方向に流れる花のモーションブラーが前景を橫切る。
 
 人物・表情：
-自然で現実感のある日系ポートレート。暗めのブラウンロングヘアに、薄い前髪と顔まわりのやわらかな毛束。目を閉じ、眉は力が抜け、唇は軽く閉じた穏やかな表情。頬と鼻先に自然な血色、肌には過度な補正をせず細かな質感を残す。首筋、鎖骨、頬に夏の日差しが当たり、静かに眠っているような落ち着いた雰囲気。
+自然で現実感のある日系ポートレート。暗めのブラウンロングヘアに、薄い前髪と顔まわりのやわらかな毛束。目を閉じ、眉は力が抜け、唇は軽く閉じた穏やかな表情。頬と鼻先に自然な血色、肌には過度な補正をせず細かな質感を殘す。首筋、鎖骨、頬に夏の日差しが當たり、靜かに眠っているような落ち著いた雰囲気。
 
-服装・ポーズ：
-白い夏用キャミソールワンピース。細い肩紐、胸元の控えめなレース、中央の小さなリボン、薄手のコットン素材。人物の両肩は草花に自然に沈み、片腕は画面下側で花に隠れて見切れる。体は画面左下から右上へ少し斜めに置かれ、髪は草の上に広がり、風で数本だけ額にかかる。
+服裝・ポーズ：
+白い夏用キャミソールワンピース。細い肩紐、胸元の控えめなレース、中央の小さなリボン、薄手のコットン素材。人物の両肩は草花に自然に沈み、片腕は畫面下側で花に隠れて見切れる。體は畫面左下から右上へ少し斜めに置かれ、髪は草の上に広がり、風で數本だけ額にかかる。
 
 背景・光：
-郊外にある小さな花畑のような、生活感のある自然な草花の密度。背景はすべて緑の葉と白・黄色・オレンジの花で構成し、人工物や読める文字は入れない。高めの位置から差す夏の太陽光。光はやや硬めで暖かく、顔の左側と首筋、肩に明るいハイライトが入り、花と髪の影が肌に細く落ちる。草の反射で下側に淡い緑の返り光。
+郊外にある小さな花畑のような、生活感のある自然な草花の密度。背景はすべて緑の葉と白・黃色・オレンジの花で構成し、人工物や読める文字は入れない。高めの位置から差す夏の太陽光。光はやや硬めで暖かく、顔の左側と首筋、肩に明るいハイライトが入り、花と髪の影が肌に細く落ちる。草の反射で下側に淡い緑の返り光。
 
 構図・カメラ：
-やや俯瞰の近距離撮影。85mm相当の自然な圧縮感、人物の顔にピントを合わせ、周辺の花は浅い被写界深度で少しぼける。前景の花だけが風に流され、白・黄色・オレンジの細長い光跡として左上から右下へ走る。顔まわりはブラーを弱め、表情と肌の質感をはっきり見せる。
+やや俯瞰の近距離撮影。85mm相當の自然な圧縮感、人物の顔にピントを合わせ、周辺の花は淺い被寫界深度で少しぼける。前景の花だけが風に流され、白・黃色・オレンジの細長い光跡として左上から右下へ走る。顔まわりはブラーを弱め、表情と肌の質感をはっきり見せる。
 
 質感・スタイル：
-リアルな写真表現。夏の日差し、透明感のある肌、柔らかな髪の束感、薄手コットンのしわ、草花の細密な質感。ナチュラルな色調で、緑を深く、白い花を明るく、オレンジの花をアクセントにする。フィルム写真のようなわずかな粒子感と、雑誌ポートレートの落ち着いた仕上がり。
+リアルな寫真表現。夏の日差し、透明感のある肌、柔らかな髪の束感、薄手コットンのしわ、草花の細密な質感。ナチュラルな色調で、緑を深く、白い花を明るく、オレンジの花をアクセントにする。フィルム寫真のようなわずかな粒子感と、雑誌ポートレートの落ち著いた仕上がり。
 
 ネガティブ：
-不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、服と体の接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+不自然な顔、不自然な視線、餘分な指、欠けた指、手足の融合、関節の破綻、服と體の接觸不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
 ```
 
 ***
 
 <a name="case-519"></a>
 
-### 例 519：薄荷玫瑰香水电商图
+### 例 519：薄荷玫瑰香水電商圖
 
-![薄荷玫瑰香水电商图](../data/images/case519.jpg)
+![薄荷玫瑰香水電商圖](../data/images/case519.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893) / [full prompt](https://lovimg.com/image-prompts/7391/100)
+**來源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893) / [full prompt](https://lovimg.com/image-prompts/7391/100)
 
-**提示词：**
+**提示詞：**
 
 ```text
-100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
+100%完整保留上傳的原圖香水瓶的全部原始外觀細節，瓶身造型、薄荷綠玻璃質感、木紋球形瓶蓋、原有標籤文字完全不做任何修改；瓶身環繞米色織帶，周圍簇擁薄荷綠玫瑰和淺綠色植物，冷調漸變淺留白背景，冷調逆光柔焦光影，低飽和度冷清高階色調，景深虛化突出香水主體，超寫實C4D質感，輕奢高階ins風，適配豎版電商詳情頁，2K高畫質
 ```
 
 ***
 
 <a name="case-520"></a>
 
-### 例 520：月面宇航员 T 恤图形
+### 例 520：月面宇航員 T 恤圖形
 
-![月面宇航员 T 恤图形](../data/images/case520.jpg)
+![月面宇航員 T 恤圖形](../data/images/case520.jpg)
 
-**来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077035644254363972) / [full prompt](https://lovimg.com/image-prompts/7401/a-graphic-illustration-centered-on-a-dark-navy-blue-t-shi)
+**來源：** [@lovimg_com](https://x.com/lovimg_com/status/2077035644254363972) / [full prompt](https://lovimg.com/image-prompts/7401/a-graphic-illustration-centered-on-a-dark-navy-blue-t-shi)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.
@@ -11579,39 +11579,39 @@ A graphic illustration centered on a dark navy blue t-shirt, depicting an astron
 
 <a name="case-521"></a>
 
-### 例 521：青花敦煌刺绣四拼风格海报
+### 例 521：青花敦煌刺繡四拼風格海報
 
-![青花敦煌刺绣四拼风格海报](../data/images/case521.jpg)
+![青花敦煌刺繡四拼風格海報](../data/images/case521.jpg)
 
-**来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
+**來源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
 
-**提示词：**
+**提示詞：**
 
 ```text
-请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
+請將我上傳的照片製作成一張豎版拼圖海報，整體採用 3:4 豎版構圖。畫面從上到下嚴格四等分為四個橫向區域，每個區域的高度必須精確控制為整體畫面高度的25%（四層比例嚴格為1:1:1:1，不允許出現比例偏差），區域之間無縫銜接，不設分隔線、不留間隙，順序為：原圖→風格1→風格2→風格3。由於每層為約3:1的極扁寬幅比例，各層主體建議橫向居中排布，強調左右開闊留白與呼吸感，避免元素縱向拉伸變形或貼邊擁擠。四層在人物站位、場景結構、視線方向上保持連貫呼應，呈現同一畫面、四種轉譯的整體感。風格層（第二至四層）須遵循極簡原則：每層視覺元素數量壓縮至最低限度，只保留1個最核心的主體符號，其餘次要裝飾、背景細節與陪襯元素一律省略，畫面留白佔比不低於60%。
 
-第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。
+第一層保留原始照片的主體結構、人物真實互動關係與姿態、真實質感、自然光影與原有色彩氛圍，僅進行輕微高階攝影調色，呈現雜誌攝影質感，不改變人物關係與構圖邏輯，並可在不改變人物關係與構圖邏輯的前提下自然擴充套件天空、地面或環境背景，使整體更具空間感與敘事感。
 
-第二层为青花瓷绘风格：借鉴青花瓷绘画技法，以钴蓝色线条与晕染在米白底上表现人物与场景，呈现瓷器纹样的疏朗雅致感。色彩以钴蓝与米白为主的单色系。避免蓝色浓淡层次过多显杂，避免图案化装饰堆砌。
+第二層為青花瓷繪風格：借鑑青花瓷繪畫技法，以鈷藍色線條與暈染在米白底上表現人物與場景，呈現瓷器紋樣的疏朗雅緻感。色彩以鈷藍與米白為主的單色系。避免藍色濃淡層次過多顯雜，避免圖案化裝飾堆砌。
 
-第三层为敦煌壁画风格：借鉴敦煌壁画矿物重彩质感，表现古朴斑驳的美感，需简化线条与色块。背景为土黄或赭石底色，带斑驳壁画肌理感。色彩以赭石、石青、朱砂、土黄为主。避免裂纹肌理过多堆砌，避免复杂纹样装饰。
+第三層為敦煌壁畫風格：借鑑敦煌壁畫礦物重彩質感，表現古樸斑駁的美感，需簡化線條與色塊。背景為土黃或赭石底色，帶斑駁壁畫肌理感。色彩以赭石、石青、硃砂、土黃為主。避免裂紋肌理過多堆砌，避免複雜紋樣裝飾。
 
-第四层为刺绣锦缎风格：以刺绣针脚肌理表现人物与场景轮廓，呈现丝缎光泽与针线纹理感，图案需极简概括。背景为米白或浅灰缎面底色。色彩以2至3种柔和色搭配金线点缀。避免针脚过密显繁琐，避免金线过多显浮夸。
+第四層為刺繡錦緞風格：以刺繡針腳肌理表現人物與場景輪廓，呈現絲緞光澤與針線紋理感，圖案需極簡概括。背景為米白或淺灰緞面底色。色彩以2至3種柔和色搭配金線點綴。避免針腳過密顯繁瑣，避免金線過多顯浮誇。
 
-每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。
+每一層需將主體與場景統一轉換為對應風格，整體表達極度克制與簡化，只保留最核心的一個主體符號及其基本輪廓關係，刪除一切非必要的背景元素、裝飾細節與陪襯物；人物之間的關鍵位置關係、互動方向與姿態特徵需保留，但應抽象為可識別的輪廓關係，做到“元素越少、關係越清晰”。色彩均從原圖中提取歸納，每層嚴格控制在2-4種主色以內。四個區域的高度比例須嚴格保持1:1:1:1（各佔25%），不可出現拼接錯位或比例偏差。整體避免朋克/賽博朋克風格、寫實照片質感強行疊加、卡通風格、3D渲染感、商業海報感、複雜背景堆砌、元素過多或畫面擁擠、相鄰兩層風格雷同，以及任何文字、Logo、水印或標題。
 ```
 
 ***
 
 <a name="case-522"></a>
 
-### 例 522：儿童故事书手绘头像
+### 例 522：兒童故事書手繪頭像
 
-![儿童故事书手绘头像](../data/images/case522.jpg)
+![兒童故事書手繪頭像](../data/images/case522.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2090321208441262454)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2090321208441262454)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable.
@@ -11649,13 +11649,13 @@ Final feeling: the same person lovingly redrawn as an extremely cute, warm, whol
 
 <a name="case-523"></a>
 
-### 例 523：曼哈顿公园水彩旅行插画
+### 例 523：曼哈頓公園水彩旅行插畫
 
-![曼哈顿公园水彩旅行插画](../data/images/case523.jpg)
+![曼哈頓公園水彩旅行插畫](../data/images/case523.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2090307485374578755)
+**來源：** [@Taaruk_](https://x.com/Taaruk_/status/2090307485374578755)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
@@ -11665,13 +11665,13 @@ Create a vertical editorial travel illustration inspired by vintage European tra
 
 <a name="case-524"></a>
 
-### 例 524：纸雕拼贴乡野人像
+### 例 524：紙雕拼貼鄉野人像
 
-![纸雕拼贴乡野人像](../data/images/case524.jpg)
+![紙雕拼貼鄉野人像](../data/images/case524.jpg)
 
-**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
+**來源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.
@@ -11761,13 +11761,13 @@ Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resol
 
 <a name="case-525"></a>
 
-### 例 525：酒红棚拍男士时尚肖像
+### 例 525：酒紅棚拍男士時尚肖像
 
-![酒红棚拍男士时尚肖像](../data/images/case525.jpg)
+![酒紅棚拍男士時尚肖像](../data/images/case525.jpg)
 
-**来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2090294894187413883)
+**來源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2090294894187413883)
 
-**提示词：**
+**提示詞：**
 
 ```text
 A cinematic, ultra-realistic close-up portrait of a stylish man, using the provided image as an accurate face reference. Preserve his natural facial identity, thick naturally curly dark brown hair, neatly trimmed salt-and-pepper beard, strong masculine facial structure, and realistic facial proportions. He wears sophisticated round vintage amber-brown sunglasses and a premium deep burgundy suede jacket over a fitted black silk-knit shirt, creating a refined luxury fashion aesthetic.
@@ -11781,29 +11781,29 @@ Extremely detailed natural skin texture, individual beard hairs, realistic pores
 
 <a name="case-526"></a>
 
-### 例 526：体积激光黑场海报
+### 例 526：體積鐳射黑場海報
 
-![体积激光黑场海报](../data/images/case526.jpg)
+![體積鐳射黑場海報](../data/images/case526.jpg)
 
-**来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
+**來源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
 
-**提示词：**
+**提示詞：**
 
 ```text
-从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
+從全黑劇場開始，像切標本一樣用六片真實體積鐳射把空間分層。光面必須有明確起點、透視和薄霧中的厚度，人物站在交匯點，透明道具折射出一小束異色光扇。構圖沿左下至右上的對角線推進，臉只用一道克制邊光揭示；標題與其中一片光面共享透視，小字留在純黑負空間。每次替換主題與角色時，不得退化成夜店範本、HUD、霓虹城市或無物理來源的光線。
 ```
 
 ***
 
 <a name="case-527"></a>
 
-### 例 527：Rio 旅行票据纸雕立体海报
+### 例 527：Rio 旅行票據紙雕立體海報
 
-![Rio 旅行票据纸雕立体海报](../data/images/case527.jpg)
+![Rio 旅行票據紙雕立體海報](../data/images/case527.jpg)
 
-**来源：** [@john_my07](https://x.com/john_my07/status/2091408386466214031)
+**來源：** [@john_my07](https://x.com/john_my07/status/2091408386466214031)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.
@@ -11823,13 +11823,13 @@ The final image should feel like a premium collectible Rio de Janeiro travel pos
 
 <a name="case-528"></a>
 
-### 例 528：圣诞街景 Chibi 真实背景人像
+### 例 528：聖誕街景 Chibi 真實背景人像
 
-![圣诞街景 Chibi 真实背景人像](../data/images/case528.jpg)
+![聖誕街景 Chibi 真實背景人像](../data/images/case528.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2091401764360896762)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2091401764360896762)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use the uploaded image as the primary reference. Transform the person into a cute, hand-drawn anime/chibi character while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.
@@ -11845,13 +11845,13 @@ Cinematic composition, natural perspective, soft evening lighting, warm Christma
 
 <a name="case-529"></a>
 
-### 例 529：云朵气球山脊旅行人像
+### 例 529：雲朵氣球山脊旅行人像
 
-![云朵气球山脊旅行人像](../data/images/case529.jpg)
+![雲朵氣球山脊旅行人像](../data/images/case529.jpg)
 
-**来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
+**來源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a dreamy ultra-photorealistic outdoor fashion photograph based on the person in @image1.
@@ -11912,13 +11912,13 @@ Preserve the exact identity from @image1. Do not change the person's recognizabl
 
 <a name="case-530"></a>
 
-### 例 530：实拍背景涂鸦人物替换
+### 例 530：實拍背景塗鴉人物替換
 
-![实拍背景涂鸦人物替换](../data/images/case530.jpg)
+![實拍背景塗鴉人物替換](../data/images/case530.jpg)
 
-**来源：** [@Emmma__0](https://x.com/Emmma__0/status/2091391958128251286)
+**來源：** [@Emmma__0](https://x.com/Emmma__0/status/2091391958128251286)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle characters while keeping the original photographic background unchanged.
@@ -11991,13 +11991,13 @@ Avoid full-image illustration, background doodling, realistic anatomy, anime, ma
 
 <a name="case-531"></a>
 
-### 例 531：水晶框国家旅行广告海报
+### 例 531：水晶框國家旅行廣告海報
 
-![水晶框国家旅行广告海报](../data/images/case531.jpg)
+![水晶框國家旅行廣告海報](../data/images/case531.jpg)
 
-**来源：** [@Taaruk_](https://x.com/Taaruk_/status/2091391283063361558)
+**來源：** [@Taaruk_](https://x.com/Taaruk_/status/2091391283063361558)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.
@@ -12007,13 +12007,13 @@ Create a luxurious, dreamy country travel-art collection in the exact visual lan
 
 <a name="case-532"></a>
 
-### 例 532：六宫格柠檬饮料微缩广告
+### 例 532：六宮格檸檬飲料微縮廣告
 
-![六宫格柠檬饮料微缩广告](../data/images/case532.jpg)
+![六宮格檸檬飲料微縮廣告](../data/images/case532.jpg)
 
-**来源：** [@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
+**來源：** [@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a Cannes-level premium summer beverage campaign poster for a fictional lemon drink brand called "LIMORA", using a strict 2-column by 3-row grid layout with six perfectly aligned panels. Preserve the exact structural logic of the composition: each panel shows the same tiny ultra-realistic young woman on a bright sandy beach interacting with oversized lemons, lemon slices, lemon juice, or the final branded drink, while selected panels include a giant realistic human hand entering from above. The full poster must feel like one unified high-end advertising storyboard in motion, where the eye flows continuously from fresh citrus fruit to crafted beverage desire. The lemon product world must remain the absolute visual hero across all six panels.
@@ -12068,13 +12068,13 @@ copied text, Chinese text, existing brand names, cartoon style, toy-like figure,
 
 <a name="case-533"></a>
 
-### 例 533：手绘涂鸦时尚人物插画
+### 例 533：手繪塗鴉時尚人物插畫
 
-![手绘涂鸦时尚人物插画](../data/images/case533.jpg)
+![手繪塗鴉時尚人物插畫](../data/images/case533.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2092473965927334071)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2092473965927334071)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration.
@@ -12109,13 +12109,13 @@ Preserve the important details of the reference image while converting everythin
 
 <a name="case-534"></a>
 
-### 例 534：红光干扰实验编辑人像海报
+### 例 534：紅光干擾實驗編輯人像海報
 
-![红光干扰实验编辑人像海报](../data/images/case534.jpg)
+![紅光干擾實驗編輯人像海報](../data/images/case534.jpg)
 
-**来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2092471662126211143)
+**來源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2092471662126211143)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a medium-sized 9:16 experimental editorial portrait poster using the following customizable inputs:
@@ -12157,13 +12157,13 @@ Keep the overall treatment medium in scale, refined, adaptable, and universally 
 
 <a name="case-535"></a>
 
-### 例 535：同一人脸十二款发型 Lookbook
+### 例 535：同一人臉十二款髮型 Lookbook
 
-![同一人脸十二款发型 Lookbook](../data/images/case535.jpg)
+![同一人臉十二款髮型 Lookbook](../data/images/case535.jpg)
 
-**来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2092452220768002400)
+**來源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2092452220768002400)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a 12-panel grid (3 columns × 4 rows, numbered 1 to 12) showing the SAME person from the reference photo with 12 different hairstyles. This is a hairstyle lookbook. Final image aspect ratio: 4:5 (vertical/portrait).
@@ -12201,13 +12201,13 @@ Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspec
 
 <a name="case-536"></a>
 
-### 例 536：春日樱花回眸电影人像
+### 例 536：春日櫻花回眸電影人像
 
-![春日樱花回眸电影人像](../data/images/case536.jpg)
+![春日櫻花回眸電影人像](../data/images/case536.jpg)
 
-**来源：** [@SheBuildsAI_](https://x.com/SheBuildsAI_/status/2092431090095149533)
+**來源：** [@SheBuildsAI_](https://x.com/SheBuildsAI_/status/2092431090095149533)
 
-**提示词：**
+**提示詞：**
 
 ```text
 {
@@ -12233,13 +12233,13 @@ Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspec
 
 <a name="case-537"></a>
 
-### 例 537：地下档案馆暗黑概念海报
+### 例 537：地下檔案館暗黑概念海報
 
-![地下档案馆暗黑概念海报](../data/images/case537.jpg)
+![地下檔案館暗黑概念海報](../data/images/case537.jpg)
 
-**来源：** [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
+**來源：** [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Use case: stylized-concept
@@ -12260,13 +12260,13 @@ Avoid: visible letters or runes, portrait close-up, split face, black substance 
 
 <a name="case-538"></a>
 
-### 例 538：橡皮章旅行田野笔记海报
+### 例 538：橡皮章旅行田野筆記海報
 
-![橡皮章旅行田野笔记海报](../data/images/case538.jpg)
+![橡皮章旅行田野筆記海報](../data/images/case538.jpg)
 
-**来源：** [@MahnoorAi12](https://x.com/MahnoorAi12/status/2092221482139349307)
+**來源：** [@MahnoorAi12](https://x.com/MahnoorAi12/status/2092221482139349307)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Rubber Stamp Travel Field Notes Poster — Natural Realism Version
@@ -12410,13 +12410,13 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 <a name="case-539"></a>
 
-### 例 539：粗粝手绘搭档肖像海报
+### 例 539：粗糲手繪搭檔肖像海報
 
-![粗粝手绘搭档肖像海报](../data/images/case539.jpg)
+![粗糲手繪搭檔肖像海報](../data/images/case539.jpg)
 
-**来源：** [@kingofdairyque](https://x.com/kingofdairyque/status/2093279729717780736)
+**來源：** [@kingofdairyque](https://x.com/kingofdairyque/status/2093279729717780736)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and large in frame, accompanied closely by [ANIMAL], with a minimal [SCENERY] background. Render in a rough expressive illustrated style with broken black ink contours, loose sketch lines, scratchy hatching, irregular stroke weight, imperfect line edges, fast gestural mark-making, simplified anatomy, flat cel-like shadow blocks, and reduced detail. Use a restrained [COLORS] palette with one dominant warm field, one cool counter-field, dark inked shadows, and a few pale highlight accents. Keep the face oversized and central, crop around mid-torso, and place the animal in the lower foreground or tucked beside the subject, drawn with the same simplified raw linework. Reduce the scenery into only 2 or 3 bold silhouette shapes behind the subject, with no detailed environment rendering. Add a narrow warm off-white poster border and very light print texture. Strong attitude, graphic poster energy, intentionally imperfect strokes, raw and sketchy finish, ar 4:5
@@ -12426,13 +12426,13 @@ Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and
 
 <a name="case-540"></a>
 
-### 例 540：梦幻未来城市编辑艺术海报
+### 例 540：夢幻未來城市編輯藝術海報
 
-![梦幻未来城市编辑艺术海报](../data/images/case540.jpg)
+![夢幻未來城市編輯藝術海報](../data/images/case540.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093230701986672924)
+**來源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093230701986672924)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a visually unforgettable editorial art poster of a dreamlike futuristic world where familiar everyday life meets surreal architecture. Grand sculptural buildings, winding roads, oversized plants, tiny people, unexpected floating elements, dramatic perspective, cinematic atmosphere, and one iconic focal point. Blend vintage travel-poster design with modern luxury editorial aesthetics, sophisticated muted colors, soft natural light, subtle film grain, tactile paper texture, clean geometric shapes, minimal composition, nostalgic yet futuristic, whimsical but premium, highly detailed, instantly recognizable silhouette, Pinterest-worthy, Instagram-viral aesthetic, collectible art print, no clutter, no photorealism, vertical 4:5.
@@ -12442,13 +12442,13 @@ Create a visually unforgettable editorial art poster of a dreamlike futuristic w
 
 <a name="case-541"></a>
 
-### 例 541：50/50 混合媒介回忆卡
+### 例 541：50/50 混合媒介回憶卡
 
-![50/50 混合媒介回忆卡](../data/images/case541.jpg)
+![50/50 混合媒介回憶卡](../data/images/case541.jpg)
 
-**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2093212900160868430)
+**來源：** [@Sairah_0](https://x.com/Sairah_0/status/2093212900160868430)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Transform the uploaded photo into a vertical mixed-media memory card with a strict 50/50 split.
@@ -12464,13 +12464,13 @@ Create a quiet, nostalgic Morandi-style aesthetic with generous negative space. 
 
 <a name="case-542"></a>
 
-### 例 542：黑白排版侧脸肖像海报
+### 例 542：黑白排版側臉肖像海報
 
-![黑白排版侧脸肖像海报](../data/images/case542.jpg)
+![黑白排版側臉肖像海報](../data/images/case542.jpg)
 
-**来源：** [@HustleXR](https://x.com/HustleXR/status/2093206386012230000)
+**來源：** [@HustleXR](https://x.com/HustleXR/status/2093206386012230000)
 
-**提示词：**
+**提示詞：**
 
 ```text
 High-contrast black and white typographic portrait poster of [HUMAN], shown in side profile with [FEATURE]. Build the portrait with bold black silhouette blocks, sharp negative space, rough ink edges, fragmented stencil shapes, tiny editorial microtext, vertical typographic accents and expressive hand-drawn calligraphic marks. Integrate one large readable text block saying “[TEXT]” in 2 to 4 stacked lines, placed only inside the neck and body area, using oversized scribbled lettering that feels fused into the silhouette. Include a graphic design logo reading “[LOGO]” near the footer. Minimal off-white paper background, asymmetrical layout, cropped vertical composition, experimental editorial poster design, raw ink print texture, aspect ratio 4:5.
@@ -12480,13 +12480,13 @@ High-contrast black and white typographic portrait poster of [HUMAN], shown in s
 
 <a name="case-543"></a>
 
-### 例 543：旅行纪念珐琅徽章
+### 例 543：旅行紀念琺琅徽章
 
-![旅行纪念珐琅徽章](../data/images/case543.jpg)
+![旅行紀念琺琅徽章](../data/images/case543.jpg)
 
-**来源：** [@Emmma__0](https://x.com/Emmma__0/status/2093194689222705645)
+**來源：** [@Emmma__0](https://x.com/Emmma__0/status/2093194689222705645)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.
@@ -12506,13 +12506,13 @@ Avoid: black silhouette figure, blacked-out face, dark featureless head, portrai
 
 <a name="case-544"></a>
 
-### 例 544：幼儿词汇拆解学习卡
+### 例 544：幼兒詞彙拆解學習卡
 
-![幼儿词汇拆解学习卡](../data/images/case544.jpg)
+![幼兒詞彙拆解學習卡](../data/images/case544.jpg)
 
-**来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2092993830220120231)
+**來源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2092993830220120231)
 
-**提示词：**
+**提示詞：**
 
 ```text
 Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.

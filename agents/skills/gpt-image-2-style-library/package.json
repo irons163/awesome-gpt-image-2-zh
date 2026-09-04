@@ -1,7 +1,7 @@
 {
   "name": "gpt-image-2-style-library",
   "version": "1.0.4",
-  "description": "Agent skill for choosing GPT-Image2 visual styles, prompt templates, categories, and scene tags.",
+  "description": "GPT-Image2 風格與提示詞範本技能（台灣繁體中文在地化版本）",
   "type": "module",
   "license": "MIT",
   "repository": {
@@ -35,5 +35,6 @@
   ],
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "private": true
 }

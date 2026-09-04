@@ -2,7 +2,7 @@ import { parseAlipayAmount } from './alipay.js';
 
 export const COMMUNITY_PRICE_CENTS = 990;
 export const COMMUNITY_CURRENCY = 'CNY';
-export const COMMUNITY_SUBJECT = 'GPT-Image2 付费交流群长期资格';
+export const COMMUNITY_SUBJECT = 'GPT-Image2 付費交流群長期資格';
 export const COMMUNITY_TERMS_VERSION = '2026-07-22';
 export const COMMUNITY_PENDING_MINUTES = 30;
 export const COMMUNITY_QR_MAX_BYTES = 2 * 1024 * 1024;
@@ -31,8 +31,8 @@ export function communityPublicConfig(env = process.env) {
     priceLabel: '¥9.90',
     currency: COMMUNITY_CURRENCY,
     paymentEnabled: isCommunityPaymentEnabled(env),
-    support: String(env.COMMUNITY_SUPPORT_TEXT || '微信搜索苍何').trim(),
-    refundPolicy: '人工审核后原路退款',
+    support: String(env.COMMUNITY_SUPPORT_TEXT || '請聯絡本站管理員').trim(),
+    refundPolicy: '人工審核後退回原付款方式',
     termsVersion: COMMUNITY_TERMS_VERSION
   };
 }
