@@ -54,6 +54,32 @@ button {
   animation: cardDrift 2.2s ease-in-out infinite;
 }
 
+.legacyRedirect {
+  display: grid;
+  place-items: center;
+  gap: 14px;
+  min-height: 100vh;
+  color: #b7c7df;
+  font-weight: 700;
+  text-align: center;
+}
+
+.legacyRedirect svg {
+  color: #7289da;
+}
+
+.legacyRedirect a {
+  padding: 10px 16px;
+  border: 1px solid rgba(114, 137, 218, 0.52);
+  border-radius: 8px;
+  color: #ffffff;
+  background: rgba(114, 137, 218, 0.2);
+}
+
+.legacyRedirect a:hover {
+  background: rgba(114, 137, 218, 0.34);
+}
+
 .topbar {
   position: sticky;
   top: 0;
@@ -116,8 +142,7 @@ button {
   gap: 10px;
 }
 
-.topbar nav a,
-.communityNavItem > button {
+.topbar nav a {
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -132,9 +157,7 @@ button {
   letter-spacing: 0;
 }
 
-.topbar nav a:hover,
-.communityNavItem > button:hover,
-.communityNavItem:focus-within > button {
+.topbar nav a:hover {
   background: rgba(255, 255, 255, 0.08);
   color: #ffffff;
 }
@@ -152,63 +175,12 @@ button {
   color: #ffffff;
 }
 
-.communityNavItem {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
+.discordNavLink svg {
+  color: #7289da;
 }
 
-.communityNavItem > button {
-  cursor: pointer;
-}
-
-.communityNavItem > button svg {
-  color: #36ef8f;
-}
-
-.communityPopover {
-  position: absolute;
-  top: calc(100% + 12px);
-  left: 50%;
-  z-index: 60;
-  width: min(430px, calc(100vw - 36px));
-  pointer-events: none;
-  visibility: hidden;
-  opacity: 0;
-  transform: translate(-50%, -6px) scale(0.98);
-  transition:
-    visibility 0.18s ease,
-    opacity 0.18s ease,
-    transform 0.18s ease;
-}
-
-.communityPopover::before {
-  content: "";
-  position: absolute;
-  top: -12px;
-  left: 0;
-  width: 100%;
-  height: 14px;
-}
-
-.communityPopover img {
-  display: block;
-  width: 100%;
-  border: 1px solid rgba(255, 255, 255, 0.28);
-  border-radius: 8px;
-  background: #ffffff;
-  box-shadow:
-    0 26px 80px rgba(0, 0, 0, 0.55),
-    0 0 32px rgba(54, 239, 143, 0.16);
-}
-
-.communityNavItem:hover .communityPopover,
-.communityNavItem:focus-within .communityPopover,
-.communityNavItem.open .communityPopover {
-  pointer-events: auto;
-  visibility: visible;
-  opacity: 1;
-  transform: translate(-50%, 0) scale(1);
+.discordNavLink:hover {
+  background: rgba(114, 137, 218, 0.16) !important;
 }
 
 .dropdownControl {
@@ -3164,24 +3136,8 @@ button {
     display: none;
   }
 
-  .topbar nav a,
-  .communityNavItem > button {
+  .topbar nav a {
     padding: 0 8px;
-  }
-
-  .communityPopover {
-    position: fixed;
-    top: 112px;
-    right: 12px;
-    left: 12px;
-    width: auto;
-    transform: translateY(-6px) scale(0.98);
-  }
-
-  .communityNavItem:hover .communityPopover,
-  .communityNavItem:focus-within .communityPopover,
-  .communityNavItem.open .communityPopover {
-    transform: translateY(0) scale(1);
   }
 
   .languageSwitch {

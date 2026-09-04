@@ -118,7 +118,7 @@ function renderReference(library) {
     lines.push(`- Scenes: ${list(template.scenes)}`);
     lines.push(`- Tags: ${list(template.tags)}`);
     lines.push(`- Cover: \`${template.cover}\``);
-    lines.push(`- 上游範本來源： ${linkForTemplate(library, template)}`);
+    lines.push(`- 本專案範本連結： ${linkForTemplate(library, template)}`);
     lines.push(`- 參考案例： ${list((template.exampleCases || []).map((id) => `case ${id}`))}`);
     lines.push('');
     lines.push('適用時機：');

@@ -6,6 +6,8 @@ const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const docsDir = join(root, 'docs');
 const outFile = join(root, 'data', 'cases.json');
 const styleLibraryFile = join(root, 'data', 'style-library.json');
+const upstreamRepositoryUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
+const repositoryUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
 const styleLibrary = JSON.parse(readFileSync(styleLibraryFile, 'utf8'));
 
 const galleryFiles = [
@@ -164,7 +166,8 @@ function parseCases() {
         styles: tags.styles,
         scenes: tags.scenes,
         featured: featuredIds.has(id),
-        githubUrl: `https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-${part}.md#case-${id}`
+        githubUrl: `${upstreamRepositoryUrl}/blob/main/docs/gallery-part-${part}.md#case-${id}`,
+        localGithubUrl: `${repositoryUrl}/blob/main/docs/gallery-part-${part}.md#case-${id}`
       });
     }
   }
@@ -179,7 +182,7 @@ const styles = [...new Set(cases.flatMap((item) => item.styles))].sort();
 const scenes = [...new Set(cases.flatMap((item) => item.scenes))].sort();
 
 const payload = {
-  repository: 'https://github.com/freestylefly/awesome-gpt-image-2',
+  repository: repositoryUrl,
   totalCases: cases.length,
   categories,
   styles,

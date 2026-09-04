@@ -17,6 +17,7 @@ import {
   LoaderCircle,
   LogIn,
   LogOut,
+  MessageCircle,
   PackageCheck,
   RefreshCw,
   ReceiptText,
@@ -34,10 +35,10 @@ import {
 } from 'lucide-react';
 import './styles.css';
 import { isSupabaseConfigured, supabase } from './supabaseClient';
-import { CommunityAdminSection, CommunityPage } from './community';
 import skillExampleImage from '../agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png';
 
-const fallbackRepoUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
+const fallbackRepoUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
+const discordUrl = import.meta.env.VITE_DISCORD_URL || 'https://discord.gg/XmXqnb9zu';
 const sponsorUrl = 'https://apimart.ai/register?aff=oQgzUQ';
 const gaMeasurementId = import.meta.env.VITE_GA_MEASUREMENT_ID;
 const watchaLogoUrl =
@@ -50,18 +51,17 @@ const copy = {
     navCases: 'Cases',
     navSkill: 'Skill',
     navTemplates: 'Templates',
-    navCommunity: 'Community',
+    navDiscord: 'Discord',
     navSponsor: 'External API',
     navMembership: 'Membership',
-    navUpstream: 'Upstream GitHub',
+    navUpstream: 'GitHub',
     latestCases: 'Latest GPT-Image2 cases',
-    communityQrAlt: 'WeChat community invite card for GPT-Image2',
     eyebrow: 'Live GPT-Image2 prompt gallery',
     title: 'From viral images to reusable prompts.',
     subtitle:
       'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts, test image generation, explore industrial templates, and join the creator community.',
     explore: 'Explore cases',
-    githubProject: 'Upstream GitHub project',
+    githubProject: 'GitHub project',
     sponsorProject: 'External API',
     sponsorProjectLabel: 'Open APIMart (external service)',
     cases: 'cases',
@@ -74,7 +74,7 @@ const copy = {
     templateSubtitle:
       'Each template is distilled from real GPT-Image2 examples and includes structure, constraints, and pitfalls for production use.',
     templateKind: 'Prompt Template',
-    openTemplate: 'View Upstream Template',
+    openTemplate: 'View Template',
     skillEyebrow: 'Agent skill',
     skillTitle: 'Install this localized GPT-Image2 style library for Claude Code and Codex.',
     skillSubtitle:
@@ -83,7 +83,7 @@ const copy = {
     skillPromptLabel: 'Try this request',
     skillPrompt: 'Use gpt-image-2-style-library to create a city life system map.',
     skillCopyCommand: 'Copy command',
-    skillOpenDocs: 'View upstream skill source',
+    skillOpenDocs: 'View skill source',
     skillCopied: 'Command copied',
     skillExampleAlt: 'City life system map generated with the GPT-Image2 style library skill',
     skillExampleCaption: 'Example output generated from the style-library skill.',
@@ -94,7 +94,7 @@ const copy = {
     scene: 'Scene',
     all: 'All',
     matching: 'matching cases',
-    openGithub: 'View upstream GitHub project',
+    openGithub: 'View GitHub project',
     copied: 'Copied',
     copyPrompt: 'Copy Prompt',
     copyTemplatePrompt: 'Copy Template',
@@ -262,7 +262,7 @@ const copy = {
     pitfalls: 'Pitfalls',
     examples: 'Example Cases',
     source: 'Original source',
-    openOnGithub: 'View upstream source on GitHub',
+    openOnGithub: 'View case on GitHub',
     limit: (count) => `Showing the first ${count} results for speed. Use search or filters to narrow the gallery.`
   },
   zh: {
@@ -271,18 +271,17 @@ const copy = {
     navCases: '案例',
     navSkill: '技能',
     navTemplates: '範本',
-    navCommunity: '交流社群',
+    navDiscord: 'Discord 社群',
     navSponsor: '外部 API',
     navMembership: '會員',
-    navUpstream: '上游 GitHub',
+    navUpstream: 'GitHub',
     latestCases: '最新 GPT-Image2 案例',
-    communityQrAlt: 'GPT-Image2 WeChat 交流社群邀請卡',
     eyebrow: '持續更新的 GPT-Image2 提示詞圖庫',
     title: '從熱門影像，到可重複使用的提示詞。',
     subtitle:
       '專為 GPT-Image2 創作打造的視覺化工作區：瀏覽真實案例、複製提示詞、線上測試影像生成、查看產業級範本，並加入創作者社群。',
     explore: '瀏覽案例',
-    githubProject: '上游 GitHub 專案',
+    githubProject: 'GitHub 專案',
     sponsorProject: '外部 API',
     sponsorProjectLabel: '前往 APIMart（外部服務）',
     cases: '則案例',
@@ -295,7 +294,7 @@ const copy = {
     templateSubtitle:
       '每個範本均由真實 GPT-Image2 案例萃取，包含結構、限制與常見陷阱，適合直接納入工作流程。',
     templateKind: '提示詞範本',
-    openTemplate: '查看上游範本',
+    openTemplate: '查看範本',
     skillEyebrow: 'Agent 技能',
     skillTitle: '將繁中 GPT-Image2 風格庫安裝到 Claude Code 和 Codex。',
     skillSubtitle:
@@ -304,7 +303,7 @@ const copy = {
     skillPromptLabel: '試試這個要求',
     skillPrompt: '使用 gpt-image-2-style-library 技能建立城市生活系統地圖。',
     skillCopyCommand: '複製命令',
-    skillOpenDocs: '查看上游 skill 原始碼',
+    skillOpenDocs: '查看 skill 原始碼',
     skillCopied: '命令已複製',
     skillExampleAlt: '由 GPT-Image2 風格庫 skill 產生的城市生活系統地圖',
     skillExampleCaption: '範例：透過 gpt-image-2-style-library 建立「城市生活系統地圖」。',
@@ -315,7 +314,7 @@ const copy = {
     scene: '場景',
     all: '全部',
     matching: '則符合條件的案例',
-    openGithub: '查看上游 GitHub 專案',
+    openGithub: '查看 GitHub 專案',
     copied: '已複製',
     copyPrompt: '複製提示詞',
     copyTemplatePrompt: '複製範本',
@@ -483,7 +482,7 @@ const copy = {
     pitfalls: '注意事項',
     examples: '相關案例',
     source: '原始來源',
-    openOnGithub: '在 GitHub 查看上游原始碼',
+    openOnGithub: '在 GitHub 查看案例',
     limit: (count) => `為維持瀏覽速度，目前僅顯示前 ${count} 項結果。請使用搜尋或篩選縮小範圍。`
   }
 };
@@ -1170,26 +1169,27 @@ function LanguageSwitch({ language, setLanguage }) {
   );
 }
 
-function WeChatIcon({ size = 17 }) {
+function DiscordNavItem({ language }) {
+  const t = copy[language];
   return (
-    <svg className="wechatNavIcon" width={size} height={size} viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path
-        fill="currentColor"
-        fillRule="evenodd"
-        d="M9.15 4.25c-4.16 0-7.45 2.72-7.45 6.12 0 1.93 1.08 3.62 2.76 4.74l-.62 2.08a.44.44 0 0 0 .62.52l2.46-1.26c.7.18 1.45.28 2.23.28.4 0 .79-.03 1.17-.08a5.31 5.31 0 0 1-.37-1.96c0-3.2 3.18-5.78 7.1-5.78.27 0 .53.01.79.04-.75-2.7-4.26-4.7-8.69-4.7Zm-2.35 4.9a.93.93 0 1 0 0-1.86.93.93 0 0 0 0 1.86Zm4.74 0a.93.93 0 1 0 0-1.86.93.93 0 0 0 0 1.86Zm5.51 1.32c-3.24 0-5.86 2.05-5.86 4.58 0 2.54 2.62 4.59 5.86 4.59.58 0 1.13-.07 1.66-.19l1.88.96a.37.37 0 0 0 .52-.44l-.48-1.59c1.39-.85 2.27-2.04 2.27-3.33 0-2.53-2.62-4.58-5.85-4.58Zm-1.92 3.67a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm3.86 0a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z"
-        clipRule="evenodd"
-      />
-    </svg>
+    <a className="discordNavLink" href={discordUrl} target="_blank" rel="noreferrer" aria-label={t.navDiscord}>
+      <MessageCircle size={17} />
+      {t.navDiscord}
+    </a>
   );
 }
 
-function CommunityNavItem({ language }) {
-  const t = copy[language];
+function LegacyCommunityRedirect({ language }) {
+  useEffect(() => {
+    window.location.replace(discordUrl);
+  }, []);
+
   return (
-    <a className="communityNavLink" href="/community" aria-label={t.navCommunity}>
-      <WeChatIcon />
-      {t.navCommunity}
-    </a>
+    <main className="legacyRedirect">
+      <MessageCircle size={28} />
+      <p>{language === 'zh' ? '正在開啟 Discord 社群…' : 'Opening the Discord community…'}</p>
+      <a href={discordUrl} target="_blank" rel="noreferrer">{language === 'zh' ? '手動開啟 Discord' : 'Open Discord'}</a>
+    </main>
   );
 }
 
@@ -2038,8 +2038,6 @@ function AdminPanel({ open, language, session, casesById, onClose, onOpenCase })
           </div>
         </div>
 
-        <CommunityAdminSection language={language} session={session} />
-
         {metrics ? (
           <div className="adminDashboard">
             <section className="adminBlock">
@@ -2762,7 +2760,7 @@ function PromptCard({
             <ImageIcon size={17} />
             {t.generateTest}
           </button>
-          <a href={caseItem.githubUrl} target="_blank" rel="noreferrer" aria-label={t.openOnGithub}>
+          <a href={caseItem.localGithubUrl || caseItem.githubUrl} target="_blank" rel="noreferrer" aria-label={t.openOnGithub}>
             <Github size={18} />
             {t.navUpstream}
           </a>
@@ -2839,7 +2837,7 @@ function PreviewDialog({
   const promptText = isTemplate ? formatTemplatePrompt(item, language, styleLibrary) : editablePrompt;
   const copyId = isTemplate ? `template-${item.id}` : `case-${item.id}`;
   const isCopied = copiedId === copyId;
-  const primaryLink = isTemplate ? `${repoDocsUrl}#${item.anchor}` : item.githubUrl;
+  const primaryLink = isTemplate ? `${repoDocsUrl}#${item.anchor}` : (item.localGithubUrl || item.githubUrl);
   const primaryLabel = isTemplate ? t.openTemplate : t.openOnGithub;
   const meta = isTemplate
     ? [t.templateKind, localizeLabel(item.category, language, styleLibrary)]
@@ -3143,11 +3141,9 @@ function App() {
   useEffect(() => {
     localStorage.setItem('language', language);
     document.documentElement.lang = language === 'zh' ? 'zh-TW' : 'en';
-    if (!window.location.pathname.startsWith('/community')) {
-      document.title = language === 'zh'
-        ? 'GPT-Image2 提示詞圖庫｜繁體中文（台灣）'
-        : 'GPT-Image2 Prompt Gallery';
-    }
+    document.title = language === 'zh'
+      ? 'GPT-Image2 提示詞圖庫｜繁體中文（台灣）'
+      : 'GPT-Image2 Prompt Gallery';
   }, [language]);
 
   useEffect(() => {
@@ -3488,38 +3484,12 @@ function App() {
   }
 
   const normalizedPath = window.location.pathname.replace(/\/+$/, '') || '/';
-  const isCommunityRoute = normalizedPath === '/community' || normalizedPath === '/community/result';
+  const isLegacyCommunityRoute = normalizedPath === '/community' || normalizedPath === '/community/result';
 
-  if (isCommunityRoute) {
+  if (isLegacyCommunityRoute) {
     return (
       <main>
-        <CommunityPage
-          language={language}
-          setLanguage={setLanguage}
-          authReady={authReady}
-          session={session}
-          profile={profile}
-          onSignIn={openAuth}
-          onSignOut={handleSignOut}
-          onOpenAdmin={() => setAdminOpen(true)}
-        />
-        <AuthModal
-          open={authOpen}
-          language={language}
-          initialErrorCode={authErrorCode}
-          onClose={() => {
-            setAuthOpen(false);
-            setAuthErrorCode('');
-          }}
-        />
-        <AdminPanel
-          open={adminOpen}
-          language={language}
-          session={session}
-          casesById={casesById}
-          onClose={() => setAdminOpen(false)}
-          onOpenCase={handleOpenCaseFromAdmin}
-        />
+        <LegacyCommunityRedirect language={language} />
       </main>
     );
   }
@@ -3547,7 +3517,7 @@ function App() {
             <a href="#gallery">{t.navCases}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
-            <CommunityNavItem language={language} />
+            <DiscordNavItem language={language} />
             <a
               className="sponsorNavLink"
               href={sponsorUrl}

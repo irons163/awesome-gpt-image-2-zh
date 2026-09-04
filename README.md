@@ -2,7 +2,7 @@
 
 **GPT-Image2 提示詞與範本庫・繁體中文（台灣用語）**
 
-本專案是 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 的繁中在地化版本，保留原始授權、圖片、作者署名與來源連結。網站預設為台灣繁體中文，並保留英文介面。
+本專案是 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 的繁中在地化版本，發佈於 [irons163/awesome-gpt-image-2-zh](https://github.com/irons163/awesome-gpt-image-2-zh)。保留原始授權、圖片、作者署名與來源連結。網站預設為台灣繁體中文，並保留英文介面。
 
 收錄 **541 筆案例、22 套範本、13 個分類**。案例編號沿用上游，最大編號為 544，並非案例總數。英文原始提示詞保留原文；中文說明與中文提示詞使用繁體中文及台灣用語，範例圖片則維持原貌。
 
@@ -26,7 +26,7 @@ npm run check:localization # 檢查案例、來源、圖片與繁中內容
 npm test                   # 執行原有後端測試
 ```
 
-以下內容由上游 README 翻譯整理；上游網站、交流社群、贊助服務與統計徽章皆屬原專案。
+以下內容由上游 README 翻譯整理；上游網站、贊助服務與統計徽章皆屬原專案，Discord 社群連結由本版本維護。
 
 ---
 
@@ -35,8 +35,8 @@ npm test                   # 執行原有後端測試
 <h3 align="center">Prompt as Code | GPT-Image2 實務級提示詞引擎與範本庫，500+ 個案例逆向工程，20+ 套實務級範本</h3>
 
 <p align="center">
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
+  <a href="https://github.com/irons163/awesome-gpt-image-2-zh"><img src="https://img.shields.io/github/stars/irons163/awesome-gpt-image-2-zh?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
+  <a href="https://github.com/irons163/awesome-gpt-image-2-zh"><img src="https://img.shields.io/github/forks/irons163/awesome-gpt-image-2-zh?style=flat-square&color=green" alt="Forks"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-541-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
   <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=flat-square" alt="Sponsor"></a>
@@ -62,15 +62,9 @@ npm test                   # 執行原有後端測試
   </a>
 </p>
 
-## 上游交流社群
+## Discord 社群
 
-歡迎加入 GPT-Image2 交流群，與其他使用者分享提示詞、創作方法和使用經驗。點選[交流群連結](https://gpt-image2.canghe.ai/community)檢視加入方式。
-
-關注微信公眾帳號 **蒼何** 或掃描下方QR Code，及時獲取專案更新、最新案例與實用教學。
-
-<p align="center">
-  <img src="src/assets/canghe-official-account.png" alt="蒼何微信公眾帳號QR Code與微信搜尋提示" width="760">
-</p>
+歡迎加入 [Phil AI 的 Discord 社群](https://discord.gg/XmXqnb9zu)，與其他使用者分享提示詞、創作方法和使用經驗。
 
 ## ❤️ 上游贊助資訊（原文翻譯）
 
@@ -299,6 +293,7 @@ npm run install:skill -- all
 ```bash
 VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=
+VITE_DISCORD_URL=https://discord.gg/XmXqnb9zu
 SUPABASE_SERVICE_ROLE_KEY=
 SUPER_ADMIN_EMAILS=
 CIYUAN_API_KEY=
@@ -320,7 +315,6 @@ GOOGLE_ANALYTICS_REFRESH_TOKEN=
 - 將 [`supabase/migrations/202605090001_user_credits.sql`](supabase/migrations/202605090001_user_credits.sql) 應用到 Supabase 專案。
 - 將 [`supabase/migrations/20260509090000_membership_billing.sql`](supabase/migrations/20260509090000_membership_billing.sql) 應用到 Supabase 專案，新增會員方案、點數包、Stripe 訂單記錄和點數調整 RPC。
 - 啟用支付寶網站支付前，應用 [`supabase/migrations/20260721090000_alipay_webpay.sql`](supabase/migrations/20260721090000_alipay_webpay.sql)，併為需要銷售的點數包設定經業務確認的人民幣價格。詳見[支付寶網站支付接入說明](docs/alipay-web-payment.md)。
-- 啟用付費交流群前，應用 [`supabase/migrations/20260722090000_paid_community.sql`](supabase/migrations/20260722090000_paid_community.sql)。在新群碼、支付寶簽約和生產付款退款驗收完成前，保持 `COMMUNITY_PAYMENT_ENABLED=false`。詳見[付費交流群上線手冊](docs/paid-community.md)。
 - 將 [`supabase/migrations/20260512090000_google_account_center.sql`](supabase/migrations/20260512090000_google_account_center.sql) 應用到 Supabase 專案，新增帳戶用量統計和超級管理員強制扣點數邏輯。
 - 將 [`supabase/migrations/20260512143000_pricing_admin_metrics.sql`](supabase/migrations/20260512143000_pricing_admin_metrics.sql) 應用到 Supabase 專案，更新 `$5 / 300 credits` 價格體系，並新增管理員資料看板指標。
 - 將 [`supabase/migrations/20260515090000_case_favorites.sql`](supabase/migrations/20260515090000_case_favorites.sql) 應用到 Supabase 專案，新增使用者案例收藏表。

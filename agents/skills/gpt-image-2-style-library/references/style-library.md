@@ -20,7 +20,7 @@
 - Scenes: Tech, Social
 - Tags: UI, Dashboard, Screenshot
 - Cover: `/images/case17.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-ui
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-ui
 - 參考案例： case 17, case 2, case 4
 
 適用時機：
@@ -47,7 +47,7 @@
 - Scenes: Education, Tech
 - Tags: Infographic, Chart, Education
 - Cover: `/images/case334.png`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-infographic
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-infographic
 - 參考案例： case 334, case 1, case 8
 
 適用時機：
@@ -74,7 +74,7 @@
 - Scenes: Education, Tech
 - Tags: Infographic, Chart, Education
 - Cover: `/images/case341.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-infographic
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-infographic
 - 參考案例： case 341
 
 適用時機：
@@ -101,7 +101,7 @@
 - Scenes: Commerce, Social
 - Tags: Poster, Typography, Campaign
 - Cover: `/images/case345.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-poster
 - 參考案例： case 345, case 5, case 10
 
 適用時機：
@@ -128,7 +128,7 @@
 - Scenes: Commerce, Fashion
 - Tags: Poster, Campaign, Typography
 - Cover: `/images/case350.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-poster
 - 參考案例： case 350, case 3
 
 適用時機：
@@ -155,7 +155,7 @@
 - Scenes: Creative, Social
 - Tags: Typography, Poster, Style
 - Cover: `/images/case355.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-poster
 - 參考案例： case 355
 
 適用時機：
@@ -182,7 +182,7 @@
 - Scenes: Story, History
 - Tags: Poster, Classical, Style
 - Cover: `/images/case359.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-poster
 - 參考案例： case 359
 
 適用時機：
@@ -209,7 +209,7 @@
 - Scenes: Education
 - Tags: Poster, Education, Style
 - Cover: `/images/case339.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-poster
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-poster
 - 參考案例： case 339
 
 適用時機：
@@ -236,7 +236,7 @@
 - Scenes: Commerce, Food
 - Tags: Product, Commerce, Packaging
 - Cover: `/images/case373.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-product
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-product
 - 參考案例： case 373, case 358
 
 適用時機：
@@ -263,7 +263,7 @@
 - Scenes: Commerce, Fashion
 - Tags: Product, Layout, Style
 - Cover: `/images/case353.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-product
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-product
 - 參考案例： case 353
 
 適用時機：
@@ -290,7 +290,7 @@
 - Scenes: Commerce
 - Tags: Brand, Logo, Identity
 - Cover: `/images/case354.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-brand
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-brand
 - 參考案例： case 354
 
 適用時機：
@@ -317,7 +317,7 @@
 - Scenes: Commerce, Social
 - Tags: Brand, Identity, Campaign
 - Cover: `/images/case362.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-brand
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-brand
 - 參考案例： case 362
 
 適用時機：
@@ -344,7 +344,7 @@
 - Scenes: Travel, Commerce
 - Tags: Architecture, Interior, Map
 - Cover: `/images/case331.png`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-architecture
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-architecture
 - 參考案例： case 331, case 11
 
 適用時機：
@@ -371,7 +371,7 @@
 - Scenes: Fashion, Commerce
 - Tags: Photography, Realistic, Lens
 - Cover: `/images/case377.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-photo
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-photo
 - 參考案例： case 377
 
 適用時機：
@@ -398,7 +398,7 @@
 - Scenes: Travel, Social
 - Tags: Photography, Realistic, Scene
 - Cover: `/images/case376.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-photo
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-photo
 - 參考案例： case 376
 
 適用時機：
@@ -425,7 +425,7 @@
 - Scenes: Story, Creative
 - Tags: Illustration, Art, Style
 - Cover: `/images/case346.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-illustration
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-illustration
 - 參考案例： case 346, case 6
 
 適用時機：
@@ -452,7 +452,7 @@
 - Scenes: Story
 - Tags: Character, Pose, Style
 - Cover: `/images/case347.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-character
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-character
 - 參考案例： case 347
 
 適用時機：
@@ -479,7 +479,7 @@
 - Scenes: Commerce, Creative
 - Tags: Character, 3D, Style
 - Cover: `/images/case378.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-character
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-character
 - 參考案例： case 378
 
 適用時機：
@@ -506,7 +506,7 @@
 - Scenes: Story, Social
 - Tags: Scene, Story, Storyboard
 - Cover: `/images/case330.png`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-scene
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-scene
 - 參考案例： case 330
 
 適用時機：
@@ -533,7 +533,7 @@
 - Scenes: History, Story
 - Tags: History, Classical, Scroll
 - Cover: `/images/case375.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-history
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-history
 - 參考案例： case 375, case 338
 
 適用時機：
@@ -560,7 +560,7 @@
 - Scenes: Education, Tech
 - Tags: Document, Publishing, Layout
 - Cover: `/images/case360.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-document
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-document
 - 參考案例： case 360
 
 適用時機：
@@ -587,7 +587,7 @@
 - Scenes: Creative, Tech
 - Tags: Creative, R&D, Special
 - Cover: `/images/case370.jpg`
-- 上游範本來源： https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/templates.md#tpl-other
+- 本專案範本連結： https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/templates.md#tpl-other
 - 參考案例： case 370, case 361
 
 適用時機：
