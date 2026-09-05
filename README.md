@@ -2,9 +2,9 @@
 
 **GPT-Image2 提示詞與範本庫・繁體中文（台灣用語）**
 
-本專案是 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 的繁中在地化版本，發佈於 [irons163/awesome-gpt-image-2-zh](https://github.com/irons163/awesome-gpt-image-2-zh)。保留原始授權、圖片、作者署名與來源連結。網站預設為台灣繁體中文，並保留英文介面。
+本專案是 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 的繁中在地化版本，發佈於 [irons163/awesome-gpt-image-2-zh](https://github.com/irons163/awesome-gpt-image-2-zh)。保留原始授權、作者署名與來源連結；案例圖片已依台灣繁中提示詞重新生成。網站預設為台灣繁體中文，並保留英文介面。
 
-收錄 **541 筆案例、22 套範本、13 個分類**。案例編號沿用上游，最大編號為 544，並非案例總數。英文原始提示詞保留在 `prompt` 欄位，網站中文介面使用對應的 `promptZh` 台灣繁中版本；中文說明與中文提示詞使用繁體中文及台灣用語，範例圖片則維持原貌。
+收錄 **541 筆案例、22 套範本、13 個分類**。案例編號沿用上游，最大編號為 544，並非案例總數。英文原始提示詞保留在 `prompt` 欄位，網站中文介面使用對應的 `promptZh` 台灣繁中版本；中文說明與中文提示詞使用繁體中文及台灣用語，案例圖片則以對應提示詞重新生成。
 
 - [案例總覽](docs/gallery.md) · [提示詞範本](docs/templates.md) · [繁中化規範與上游同步](docs/localization.md)
 - [參與編修](CONTRIBUTING.md) · [來源與授權聲明](docs/disclaimer.md)
