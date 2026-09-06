@@ -5,7 +5,13 @@ import { fileURLToPath } from 'node:url';
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const libraryFile = join(root, 'data', 'style-library.json');
 const templatesFile = join(root, 'docs', 'templates.md');
-const skillDir = join(root, 'agents', 'skills', 'gpt-image-2-style-library');
+const skillDir = join(
+  root,
+  'plugins',
+  'awesome-gpt-image-2-zh',
+  'skills',
+  'gpt-image-2-style-library'
+);
 const referenceFile = join(skillDir, 'references', 'style-library.md');
 
 function readJson(file) {

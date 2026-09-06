@@ -82,7 +82,7 @@ GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不
 - [案例畫廊 Part 1：例 1-165](docs/gallery-part-1.md)
 - [案例畫廊 Part 2：例 166-544](docs/gallery-part-2.md)
 - [實務級提示詞範本與常見問題指南](docs/templates.md#section-templates)
-- [Agent Skill：GPT-Image2 風格庫](agents/skills/gpt-image-2-style-library/SKILL.md)
+- [Agent Plugin：GPT-Image2 台灣繁中風格庫](plugins/awesome-gpt-image-2-zh/plugin.json)
 - [MIT License](LICENSE)
 - [完整宣告頁](docs/disclaimer.md#section-disclaimer)
 
@@ -242,32 +242,30 @@ GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不
 
 </details>
 
-## 🤖 Agent Skill
+## 🤖 Agent Plugin
 
-儲存庫內提供了 agent skill，用同一份風格庫資料為 Claude Code、Codex 等 Agent 選擇 GPT-Image2 範本、分類、風格和場景標籤。
+本專案已改用 [Agent Plugins 1.0](https://agent-plugins.org/) 開放標準封裝。外掛內含台灣繁中技能與共用風格庫，可讓相容的 AI 代理程式辨識 GPT-Image2 範本、分類、風格和情境標籤。
 
-包地址：[npm](https://www.npmjs.com/package/gpt-image-2-style-library) / [GitHub Packages](https://github.com/freestylefly/awesome-gpt-image-2/pkgs/npm/gpt-image-2-style-library)
+外掛同時提供標準根目錄 `plugin.json` 與 Codex 相容資訊，來源位於 [`plugins/awesome-gpt-image-2-zh`](plugins/awesome-gpt-image-2-zh)。
 
 <p align="center">
-  <img src="agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="使用 GPT-Image2 風格庫 skill 生成的城市生命系統圖譜示例" width="760">
+  <img src="plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="使用 GPT-Image2 台灣繁中 Agent Plugin 產生的城市生命系統圖範例" width="760">
 </p>
 
-<p align="center"><sub>示例：用 gpt-image-2-style-library 生成“城市生命系統圖譜”。</sub></p>
+<p align="center"><sub>範例：用 gpt-image-2-style-library 建立「城市生命系統圖」。</sub></p>
 
-### 安裝本機繁中技能
+### 從 GitHub 安裝到 Codex
 
-在此專案目錄執行：
+先加入本專案提供的外掛市集，再安裝外掛：
 
 ```bash
-npm run generate:style-skill
-npm run install:skill -- codex
-# 或安裝至所有支援的本機技能目錄：
-npm run install:skill -- all
+codex plugin marketplace add irons163/awesome-gpt-image-2-zh
+codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
 ```
 
-安裝器會覆寫目標目錄中同名的 `gpt-image-2-style-library` 技能。若已有自行修改的版本，請先備份。安裝後重新開啟 Agent 工作階段。
+安裝後請開啟新的工作階段，再提出例如「使用 GPT-Image2 風格庫，以台灣繁體中文建立資訊圖表提示詞」的要求。
 
-此處安裝的是本專案的繁中內容；上游 npm 套件與 GitHub 安裝指令對應原始版本。
+其他相容用戶端可直接讀取外掛根目錄的 `plugin.json` 與 `skills/`；實際安裝方式依各用戶端而定。
 
 <a name="section-gallery"></a>
 

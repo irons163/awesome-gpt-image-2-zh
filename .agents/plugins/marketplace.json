@@ -1,0 +1,20 @@
+{
+  "name": "awesome-gpt-image-2-zh",
+  "interface": {
+    "displayName": "Awesome GPT-Image-2 繁中外掛"
+  },
+  "plugins": [
+    {
+      "name": "awesome-gpt-image-2-zh",
+      "source": {
+        "source": "local",
+        "path": "./plugins/awesome-gpt-image-2-zh"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creativity"
+    }
+  ]
+}

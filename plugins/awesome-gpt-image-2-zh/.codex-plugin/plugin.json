@@ -1,0 +1,38 @@
+{
+  "name": "awesome-gpt-image-2-zh",
+  "version": "1.0.0",
+  "description": "以台灣繁體中文提供 GPT-Image2 視覺風格、提示詞範本與案例索引。",
+  "author": {
+    "name": "Phil",
+    "url": "https://philforge.com/"
+  },
+  "homepage": "https://gpt-image2.zero2codex.dev/",
+  "repository": "https://github.com/irons163/awesome-gpt-image-2-zh",
+  "license": "MIT",
+  "keywords": [
+    "gpt-image-2",
+    "image-generation",
+    "prompt-library",
+    "traditional-chinese",
+    "taiwan"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GPT-Image2 台灣繁中風格庫",
+    "shortDescription": "選擇 GPT-Image2 提示詞範本、視覺風格與限制條件。",
+    "longDescription": "運用台灣繁體中文整理的範本、風格、情境標籤與案例，建立可直接使用的 GPT-Image2 圖片生成提示詞。",
+    "developerName": "Phil",
+    "category": "Creativity",
+    "capabilities": [
+      "Prompt creation",
+      "Style selection",
+      "Traditional Chinese"
+    ],
+    "websiteURL": "https://gpt-image2.zero2codex.dev/",
+    "defaultPrompt": [
+      "使用 GPT-Image2 風格庫，以台灣繁體中文建立圖片生成提示詞。",
+      "幫我挑選適合這個需求的 GPT-Image2 範本與視覺風格。"
+    ],
+    "brandColor": "#63E6D3"
+  }
+}

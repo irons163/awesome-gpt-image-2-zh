@@ -71,7 +71,7 @@ GPT-Image2 全量开放后，AI 画图从“能不能出图”变成了“能不
 - [案例画廊 Part 1：例 1-165](docs/gallery-part-1.md)
 - [案例画廊 Part 2：例 166-544](docs/gallery-part-2.md)
 - [工业级提示词模板与防坑指南](docs/templates.md#section-templates)
-- [Agent Skill：GPT-Image2 风格库](agents/skills/gpt-image-2-style-library/SKILL.md)
+- [Agent Plugin：GPT-Image2 台湾繁中风格库](plugins/awesome-gpt-image-2-zh/plugin.json)
 - [MIT License](LICENSE)
 - [完整声明页](docs/disclaimer.md#section-disclaimer)
 
@@ -231,65 +231,24 @@ GPT-Image2 全量开放后，AI 画图从“能不能出图”变成了“能不
 
 </details>
 
-## 🤖 Agent Skill
+## 🤖 Agent Plugin
 
-仓库内提供了 agent skill，用同一份风格库数据为 Claude Code、Codex 等 Agent 选择 GPT-Image2 模板、分类、风格和场景标签。
-
-包地址：[npm](https://www.npmjs.com/package/gpt-image-2-style-library) / [GitHub Packages](https://github.com/freestylefly/awesome-gpt-image-2/pkgs/npm/gpt-image-2-style-library)
+台湾繁体中文风格库已改用开放的 [Agent Plugins 1.0](https://agent-plugins.org/) 标准封装。兼容的 AI Agent 可从同一份可移植插件读取技能、模板、风格与场景标签。
 
 <p align="center">
-  <img src="agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="使用 GPT-Image2 风格库 skill 生成的城市生命系统图谱示例" width="760">
+  <img src="plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="使用 GPT-Image2 Agent Plugin 生成的城市生命系统图示例" width="760">
 </p>
 
 <p align="center"><sub>示例：用 gpt-image-2-style-library 生成“城市生命系统图谱”。</sub></p>
 
-### Agent 一键安装
-
-推荐给 Claude Code、Codex、Cursor，以及其他 [`skills`](https://www.npmjs.com/package/skills) 支持的本地 Agent：
+### 从 GitHub 安装到 Codex
 
 ```bash
-npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-library --agent claude-code codex --global --yes --copy
+codex plugin marketplace add irons163/awesome-gpt-image-2-zh
+codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
 ```
 
-安装到所有支持的本地 Agent：
-
-```bash
-npx skills add freestylefly/awesome-gpt-image-2 --global --all --copy
-```
-
-### Claude Code 插件市场
-
-在 Claude Code 中运行：
-
-```text
-/plugin marketplace add freestylefly/awesome-gpt-image-2
-/plugin install gpt-image-2-style-library@awesome-gpt-image-2
-```
-
-### npm CLI
-
-如果你习惯 npm，可以先安装 CLI，再同步到本地 Agent 技能目录：
-
-```bash
-npm install -g gpt-image-2-style-library
-gpt-image-2-style-library install all
-```
-
-也可以不全局安装，直接运行：
-
-```bash
-npx gpt-image-2-style-library install all
-```
-
-从 GitHub Packages 安装：
-
-```bash
-npm login --scope=@freestylefly --registry=https://npm.pkg.github.com
-npm install -g @freestylefly/gpt-image-2-style-library --registry=https://npm.pkg.github.com
-gpt-image-2-style-library install all
-```
-
-`install all` 会写入 Codex 和 Claude Code 常用的本地技能目录，包括 `~/.codex/skills`、`~/.claude/skills`、`~/.agents/skills`。安装后重启 Agent 会话。
+安装后请开启新的 Agent 会话。其他兼容客户端可按照各自的安装流程读取可移植的 `plugin.json` 与 `skills/`。
 
 这样调用：
 
@@ -297,14 +256,7 @@ gpt-image-2-style-library install all
 使用 gpt-image-2-style-library 技能，帮我生成介绍 Codex 的信息图
 ```
 
-本地源码开发时使用：
-
-```bash
-npm run generate:style-skill
-npm run install:skill
-```
-
-skill 源码位于 [`agents/skills/gpt-image-2-style-library`](agents/skills/gpt-image-2-style-library/SKILL.md)。生成索引来自 [`data/style-library.json`](data/style-library.json)，网站和 Agent 工作流共用这一份风格库。
+插件源码位于 [`plugins/awesome-gpt-image-2-zh`](plugins/awesome-gpt-image-2-zh)。生成索引来自 [`data/style-library.json`](data/style-library.json)，网站和 Agent 工作流共用同一份风格库。
 
 ## 🔐 网站登录与生成测试
 

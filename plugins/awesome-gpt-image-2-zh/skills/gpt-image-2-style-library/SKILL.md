@@ -37,7 +37,7 @@ description: 使用 awesome-gpt-image-2-zh 的風格庫，為 GPT-Image2 選擇�
 - 英文原始提示詞可保留英文；使用者要求翻譯時再翻譯。
 - 多個設計方向可共用範本，分別調整主體、構圖、配色與情境。
 
-## 維護與安裝
+## 維護
 
 在此專案目錄重新產生參考資料：
 
@@ -45,8 +45,4 @@ description: 使用 awesome-gpt-image-2-zh 的風格庫，為 GPT-Image2 選擇�
 npm run generate:style-skill
 ```
 
-安裝本機繁中技能（會覆寫同名技能，請先備份自訂內容）：
-
-```bash
-npm run install:skill -- codex
-```
+此外掛遵循 Agent Plugins 1.0 規格；外掛資訊位於外掛根目錄的 `plugin.json`，Codex 相容資訊位於 `.codex-plugin/plugin.json`。

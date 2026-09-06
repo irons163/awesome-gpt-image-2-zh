@@ -35,7 +35,7 @@ import {
 } from 'lucide-react';
 import './styles.css';
 import { isSupabaseConfigured, supabase } from './supabaseClient';
-import skillExampleImage from '../agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png';
+import skillExampleImage from '../plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/city-life-system-map.png';
 
 const fallbackRepoUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
 const discordUrl = import.meta.env.VITE_DISCORD_URL || 'https://discord.gg/XmXqnb9zu';
@@ -50,7 +50,7 @@ const copy = {
     loading: 'Loading GPT-Image2 cases...',
     brand: 'GPT-Image2 Gallery',
     navCases: 'Cases',
-    navSkill: 'Skill',
+    navSkill: 'Plugin',
     navTemplates: 'Templates',
     navDiscord: 'Discord',
     navPersonal: 'Personal site',
@@ -75,19 +75,20 @@ const copy = {
       'Each template is distilled from real GPT-Image2 examples and includes structure, constraints, and pitfalls for production use.',
     templateKind: 'Prompt Template',
     openTemplate: 'View Template',
-    skillEyebrow: 'Agent skill',
-    skillTitle: 'Install this localized GPT-Image2 style library for Claude Code and Codex.',
+    skillEyebrow: 'Agent Plugin 1.0',
+    skillTitle: 'Use the Taiwan-localized GPT-Image2 library as a portable Agent Plugin.',
     skillSubtitle:
-      'This localized site and its local skill share the same style library. Run the command from this project root to install the local copy for Codex and Claude Code.',
-    skillCommandLabel: "Install this project's local skill",
+      'Built with the open Agent Plugins standard, this package bundles the style workflow and shared template library for compatible AI agents.',
+    skillCommandLabel: 'Install from GitHub in Codex',
     skillPromptLabel: 'Try this request',
     skillPrompt: 'Use gpt-image-2-style-library to create a city life system map.',
     skillCopyCommand: 'Copy command',
-    skillOpenDocs: 'View skill source',
+    skillOpenDocs: 'View Agent Plugin source',
+    skillOpenStandard: 'Agent Plugins standard',
     skillCopied: 'Command copied',
     skillExampleAlt: 'City life system map generated with the GPT-Image2 style library skill',
     skillExampleCaption: 'Example output generated from the style-library skill.',
-    skillStats: ['Claude Code ready', 'Codex ready', '20+ templates'],
+    skillStats: ['Agent Plugins 1.0', 'Portable package', '20+ templates'],
     search: 'Search cases, sources, prompts...',
     category: 'Category',
     style: 'Style',
@@ -269,7 +270,7 @@ const copy = {
     loading: '正在載入 GPT-Image2 案例…',
     brand: 'GPT-Image2 圖庫',
     navCases: '案例',
-    navSkill: '技能',
+    navSkill: '外掛',
     navTemplates: '範本',
     navDiscord: 'Discord 社群',
     navPersonal: '個人主頁',
@@ -294,19 +295,20 @@ const copy = {
       '每個範本均由真實 GPT-Image2 案例萃取，包含結構、限制與常見陷阱，適合直接納入工作流程。',
     templateKind: '提示詞範本',
     openTemplate: '查看範本',
-    skillEyebrow: 'Agent 技能',
-    skillTitle: '將繁中 GPT-Image2 風格庫安裝到 Claude Code 和 Codex。',
+    skillEyebrow: 'Agent Plugin 1.0',
+    skillTitle: '用可攜式 Agent Plugin 安裝台灣繁中 GPT-Image2 風格庫。',
     skillSubtitle:
-      '此繁中網站與本機 skill 使用同一份風格資料；在專案根目錄執行下列指令，即可為 Codex 和 Claude Code 安裝本機版本。',
-    skillCommandLabel: '安裝本專案的本機 skill',
+      '採用開放的 Agent Plugins 標準，將風格工作流程與共用範本庫包成一份外掛，可供相容的 AI 代理程式載入。',
+    skillCommandLabel: '從 GitHub 安裝到 Codex',
     skillPromptLabel: '試試這個要求',
     skillPrompt: '使用 gpt-image-2-style-library 技能建立城市生活系統地圖。',
     skillCopyCommand: '複製命令',
-    skillOpenDocs: '查看 skill 原始碼',
+    skillOpenDocs: '查看 Agent Plugin 原始碼',
+    skillOpenStandard: 'Agent Plugins 標準',
     skillCopied: '命令已複製',
     skillExampleAlt: '由 GPT-Image2 風格庫 skill 產生的城市生活系統地圖',
     skillExampleCaption: '範例：透過 gpt-image-2-style-library 建立「城市生活系統地圖」。',
-    skillStats: ['Claude Code 適用', 'Codex 適用', '20+ 個範本'],
+    skillStats: ['Agent Plugins 1.0', '可攜式套件', '20+ 個範本'],
     search: '搜尋案例、來源、提示詞…',
     category: '分類',
     style: '風格',
@@ -2563,8 +2565,9 @@ function BillingPanel({
 function SkillSection({ language, repoUrl }) {
   const t = copy[language];
   const [commandCopied, setCommandCopied] = useState(false);
-  const installCommand = 'npm run install:skill -- all';
-  const skillSourceUrl = `${repoUrl}/tree/main/agents/skills/gpt-image-2-style-library`;
+  const installCommand =
+    'codex plugin marketplace add irons163/awesome-gpt-image-2-zh\ncodex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh';
+  const skillSourceUrl = `${repoUrl}/tree/main/plugins/awesome-gpt-image-2-zh`;
 
   async function handleCopyCommand() {
     await copyToClipboard(installCommand);
@@ -2612,6 +2615,10 @@ function SkillSection({ language, repoUrl }) {
             <a href={skillSourceUrl} target="_blank" rel="noreferrer">
               <Github size={18} />
               {t.skillOpenDocs}
+            </a>
+            <a href="https://agent-plugins.org/" target="_blank" rel="noreferrer">
+              <PackageCheck size={18} />
+              {t.skillOpenStandard}
             </a>
           </div>
         </div>

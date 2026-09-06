@@ -8,8 +8,6 @@
     "generate:prompt-translations": "node scripts/generate-prompt-translations.mjs",
     "generate:style-skill": "node scripts/generate-style-skill.mjs",
     "ga4:oauth": "node scripts/google-analytics-oauth.mjs",
-    "install:skill": "node scripts/install-style-skill.mjs",
-    "pack:skill": "npm pack ./agents/skills/gpt-image-2-style-library --dry-run",
     "predev": "npm run generate:site-data && npm run generate:style-skill",
     "dev": "vite",
     "start": "node scripts/production-server.mjs",

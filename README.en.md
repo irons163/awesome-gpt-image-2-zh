@@ -71,7 +71,7 @@ The core goal is simple: compress prose-style prompts into structured protocols.
 - [Gallery Part 1: cases 1-165](docs/gallery-part-1.md)
 - [Gallery Part 2: cases 166-544](docs/gallery-part-2.md)
 - [Industrial prompt templates and pitfalls guide](docs/templates.md)
-- [Agent skill: GPT-Image2 Style Library](agents/skills/gpt-image-2-style-library/SKILL.md)
+- [Agent Plugin: GPT-Image2 Taiwan Style Library](plugins/awesome-gpt-image-2-zh/plugin.json)
 - [MIT License](LICENSE)
 - [Full disclaimer](docs/disclaimer.md#section-disclaimer)
 
@@ -233,65 +233,24 @@ The prompt body remains in the original template document for now. This homepage
 
 </details>
 
-## 🤖 Agent Skill
+## 🤖 Agent Plugin
 
-This repository includes an agent skill for choosing GPT-Image2 styles, templates, categories, and scene tags from the same data used by the website.
-
-Package links: [npm](https://www.npmjs.com/package/gpt-image-2-style-library) / [GitHub Packages](https://github.com/freestylefly/awesome-gpt-image-2/pkgs/npm/gpt-image-2-style-library)
+The Taiwan-localized style library is packaged with the open [Agent Plugins 1.0](https://agent-plugins.org/) standard. Compatible AI agents can discover the bundled skill, templates, styles, and scene tags from one portable package.
 
 <p align="center">
-  <img src="agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="City life system map generated with the GPT-Image2 style library skill" width="760">
+  <img src="plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="City life system map generated with the GPT-Image2 Agent Plugin" width="760">
 </p>
 
 <p align="center"><sub>Example output from a city-life-system-map request using the style library skill.</sub></p>
 
-### Quick Install for Agent Skills
-
-Recommended for Claude Code, Codex, Cursor, and other tools supported by [`skills`](https://www.npmjs.com/package/skills):
+### Install from GitHub in Codex
 
 ```bash
-npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-library --agent claude-code codex --global --yes --copy
+codex plugin marketplace add irons163/awesome-gpt-image-2-zh
+codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
 ```
 
-Install to every supported local agent:
-
-```bash
-npx skills add freestylefly/awesome-gpt-image-2 --global --all --copy
-```
-
-### Claude Code Plugin Marketplace
-
-Run these commands inside Claude Code:
-
-```text
-/plugin marketplace add freestylefly/awesome-gpt-image-2
-/plugin install gpt-image-2-style-library@awesome-gpt-image-2
-```
-
-### npm CLI
-
-If you prefer npm, install the CLI and then sync the skill into local agent folders:
-
-```bash
-npm install -g gpt-image-2-style-library
-gpt-image-2-style-library install all
-```
-
-You can also run it without a global install:
-
-```bash
-npx gpt-image-2-style-library install all
-```
-
-Install from GitHub Packages:
-
-```bash
-npm login --scope=@freestylefly --registry=https://npm.pkg.github.com
-npm install -g @freestylefly/gpt-image-2-style-library --registry=https://npm.pkg.github.com
-gpt-image-2-style-library install all
-```
-
-`install all` writes the skill to the common local folders used by Codex and Claude Code, including `~/.codex/skills`, `~/.claude/skills`, and `~/.agents/skills`. Restart the agent session after installing.
+Start a new agent session after installation. Other compatible clients can load the portable `plugin.json` and `skills/` package using their client-specific installation flow.
 
 Use it with a request like:
 
@@ -299,14 +258,7 @@ Use it with a request like:
 Use gpt-image-2-style-library to create an infographic prompt about Codex.
 ```
 
-For local source development:
-
-```bash
-npm run generate:style-skill
-npm run install:skill
-```
-
-The skill source lives at [`agents/skills/gpt-image-2-style-library`](agents/skills/gpt-image-2-style-library/SKILL.md). Its generated reference comes from [`data/style-library.json`](data/style-library.json), so the website and Agent workflow share one style library.
+The plugin source lives at [`plugins/awesome-gpt-image-2-zh`](plugins/awesome-gpt-image-2-zh). Its generated reference comes from [`data/style-library.json`](data/style-library.json), so the website and Agent workflow share one style library.
 
 ## 🔐 Website Auth & Generation
 
