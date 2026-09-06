@@ -292,7 +292,8 @@ CIYUAN_API_KEY=
 CIYUAN_BASE_URL=https://ciyuan.today
 # 正式部署網址；本機開發請改用 http://localhost:5173。
 APP_URL=https://gpt-image2.zero2codex.dev
-HOST=127.0.0.1
+# Hetzner 上的 Docker Caddy 透過私有 bridge 連到 Node；一般自架可用 127.0.0.1。
+HOST=172.17.0.1
 PORT=4174
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
