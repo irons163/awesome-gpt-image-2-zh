@@ -72,89 +72,89 @@ GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>🧩 UI與介面</strong><br><sub>73 cases</sub></p>
-      <a href="docs/gallery.md#cat-ui"><img src="data/images/category-covers/ui.jpg" alt="UI與介面" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-ui"><img src="data/images/category-covers/ui.jpg" alt="UI與介面" width="220"></a><br>
       <sub>App、網頁、儀表盤、社群媒體截圖與產品介面。</sub><br>
-      <a href="docs/gallery.md#cat-ui"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-ui"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>📊 圖表與資訊視覺化</strong><br><sub>53 cases</sub></p>
-      <a href="docs/gallery.md#cat-infographic"><img src="data/images/category-covers/infographic.jpg" alt="圖表與資訊視覺化" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-infographic"><img src="data/images/category-covers/infographic.jpg" alt="圖表與資訊視覺化" width="220"></a><br>
       <sub>資訊圖、知識圖譜、技術解釋與結構化圖解。</sub><br>
-      <a href="docs/gallery.md#cat-infographic"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-infographic"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>📰 海報與排版</strong><br><sub>90 cases</sub></p>
-      <a href="docs/gallery.md#cat-poster"><img src="data/images/category-covers/poster.jpg" alt="海報與排版" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-poster"><img src="data/images/category-covers/poster.jpg" alt="海報與排版" width="220"></a><br>
       <sub>活動海報、封面、字型視覺和強排版畫面。</sub><br>
-      <a href="docs/gallery.md#cat-poster"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-poster"><strong>檢視案例</strong></a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>🛍️ 商品與電商</strong><br><sub>42 cases</sub></p>
-      <a href="docs/gallery.md#cat-product"><img src="data/images/category-covers/product.jpg" alt="商品與電商" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-product"><img src="data/images/category-covers/product.jpg" alt="商品與電商" width="220"></a><br>
       <sub>商品圖、詳情頁、包裝賣點和商業廣告。</sub><br>
-      <a href="docs/gallery.md#cat-product"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-product"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>🏷️ 品牌與標誌</strong><br><sub>27 cases</sub></p>
-      <a href="docs/gallery.md#cat-brand"><img src="data/images/category-covers/brand.jpg" alt="品牌與標誌" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-brand"><img src="data/images/category-covers/brand.jpg" alt="品牌與標誌" width="220"></a><br>
       <sub>Logo、VI、品牌觸點和 Campaign 視覺系統。</sub><br>
-      <a href="docs/gallery.md#cat-brand"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-brand"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>🏛️ 建築與空間</strong><br><sub>12 cases</sub></p>
-      <a href="docs/gallery.md#cat-architecture"><img src="data/images/category-covers/architecture.jpg" alt="建築與空間" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-architecture"><img src="data/images/category-covers/architecture.jpg" alt="建築與空間" width="220"></a><br>
       <sub>建築表現、室內空間、城市地圖和空間概念。</sub><br>
-      <a href="docs/gallery.md#cat-architecture"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-architecture"><strong>檢視案例</strong></a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>📷 攝影與寫實</strong><br><sub>78 cases</sub></p>
-      <a href="docs/gallery.md#cat-photo"><img src="data/images/category-covers/photo.jpg" alt="攝影與寫實" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-photo"><img src="data/images/category-covers/photo.jpg" alt="攝影與寫實" width="220"></a><br>
       <sub>人像、手機紀實、膠片質感和商業攝影。</sub><br>
-      <a href="docs/gallery.md#cat-photo"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-photo"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>🎨 插畫與藝術</strong><br><sub>59 cases</sub></p>
-      <a href="docs/gallery.md#cat-illustration"><img src="data/images/category-covers/illustration.jpg" alt="插畫與藝術" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-illustration"><img src="data/images/category-covers/illustration.jpg" alt="插畫與藝術" width="220"></a><br>
       <sub>插畫、藝術風格、材質實驗和裝飾畫面。</sub><br>
-      <a href="docs/gallery.md#cat-illustration"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-illustration"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>🧍 人物與角色</strong><br><sub>31 cases</sub></p>
-      <a href="docs/gallery.md#cat-character"><img src="data/images/category-covers/character.jpg" alt="人物與角色" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-character"><img src="data/images/category-covers/character.jpg" alt="人物與角色" width="220"></a><br>
       <sub>角色設定、動作參考、卡牌和 3D 玩具。</sub><br>
-      <a href="docs/gallery.md#cat-character"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-character"><strong>檢視案例</strong></a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>🎬 場景與敘事</strong><br><sub>21 cases</sub></p>
-      <a href="docs/gallery.md#cat-scene"><img src="data/images/category-covers/scene.jpg" alt="場景與敘事" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-scene"><img src="data/images/category-covers/scene.jpg" alt="場景與敘事" width="220"></a><br>
       <sub>分鏡、故事場景、直播畫面和世界觀敘事。</sub><br>
-      <a href="docs/gallery.md#cat-scene"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-scene"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>🏮 歷史與古風題材</strong><br><sub>16 cases</sub></p>
-      <a href="docs/gallery.md#cat-history"><img src="data/images/category-covers/history.jpg" alt="歷史與古風題材" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-history"><img src="data/images/category-covers/history.jpg" alt="歷史與古風題材" width="220"></a><br>
       <sub>古風長卷、歷史人物、傳統題材和詩詞畫面。</sub><br>
-      <a href="docs/gallery.md#cat-history"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-history"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>📚 檔案與出版物</strong><br><sub>11 cases</sub></p>
-      <a href="docs/gallery.md#cat-document"><img src="data/images/category-covers/document.jpg" alt="檔案與出版物" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-document"><img src="data/images/category-covers/document.jpg" alt="檔案與出版物" width="220"></a><br>
       <sub>白皮書、手冊、百科圖鑑和出版頁設計。</sub><br>
-      <a href="docs/gallery.md#cat-document"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-document"><strong>檢視案例</strong></a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>🧪 其他應用場景</strong><br><sub>28 cases</sub></p>
-      <a href="docs/gallery.md#cat-other"><img src="data/images/category-covers/other.jpg" alt="其他應用場景" width="220"></a><br>
+      <a href="docs/gallery.md#user-content-cat-other"><img src="data/images/category-covers/other.jpg" alt="其他應用場景" width="220"></a><br>
       <sub>創意實驗、特殊任務、混合玩法和實用場景。</sub><br>
-      <a href="docs/gallery.md#cat-other"><strong>檢視案例</strong></a>
+      <a href="docs/gallery.md#user-content-cat-other"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>🖼️ 完整畫廊</h4>
@@ -164,9 +164,9 @@ GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⭐ 最新新增</h4>
-      <a href="docs/gallery-part-2.md#case-544"><img src="data/images/case544.jpg" alt="最新新增" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-544"><img src="data/images/case544.jpg" alt="最新新增" width="220"></a><br>
       <sub>最近收錄的 X 社群案例和新玩法。</sub><br>
-      <a href="docs/gallery-part-2.md#case-544"><strong>檢視最新</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-544"><strong>檢視最新</strong></a>
     </td>
   </tr>
 </table>
@@ -249,45 +249,45 @@ codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
 
 ### 例 1：資訊圖視覺化設計
 
-[![城市生命系統圖譜 / Urban Metabolism Atlas](data/images/case1.jpg)](docs/gallery-part-1.md#case-1)
+[![城市生命系統圖譜 / Urban Metabolism Atlas](data/images/case1.jpg)](docs/gallery-part-1.md#user-content-case-1)
 
 工程白皮書氣質的資訊圖案例，適合看結構化資訊圖如何組織模組、層級和雙語標籤。
-[檢視完整案例](docs/gallery-part-1.md#case-1)
+[檢視完整案例](docs/gallery-part-1.md#user-content-case-1)
 
 ### 例 2：社群媒體介面截圖
 
-[![Ailln AI](data/images/case2.jpg)](docs/gallery-part-1.md#case-2)
+[![Ailln AI](data/images/case2.jpg)](docs/gallery-part-1.md#user-content-case-2)
 
 偏“產品介面 + 社群媒體內容截圖”的混合場景，適合看文字區域、UI 框架和內容卡片的控制方式。
-[檢視完整案例](docs/gallery-part-1.md#case-2)
+[檢視完整案例](docs/gallery-part-1.md#user-content-case-2)
 
 ### 例 6：插畫藝術創作圖
 
-[![參考圖是角色人設圖，為參考圖的少女繪製一副日系唯美奇幻風格插畫](data/images/case6.jpg)](docs/gallery-part-1.md#case-6)
+[![參考圖是角色人設圖，為參考圖的少女繪製一副日系唯美奇幻風格插畫](data/images/case6.jpg)](docs/gallery-part-1.md#user-content-case-6)
 
 日系奇幻插畫範例，適合觀察氛圍、色彩和大場景構圖的描述方式。
-[檢視完整案例](docs/gallery-part-1.md#case-6)
+[檢視完整案例](docs/gallery-part-1.md#user-content-case-6)
 
 ### 例 17：介面互動設計圖
 
-[![type](data/images/case17.jpg)](docs/gallery-part-1.md#case-17)
+[![type](data/images/case17.jpg)](docs/gallery-part-1.md#user-content-case-17)
 
 典型的“結構分解圖 + 說明排版”場景，適合做產品示意圖、海報化技術講解圖。
-[檢視完整案例](docs/gallery-part-1.md#case-17)
+[檢視完整案例](docs/gallery-part-1.md#user-content-case-17)
 
 ### 例 166：十二黃金聖鬥士卡牌合集
 
-[![十二黃金聖鬥士卡牌合集](data/images/case166.jpg)](docs/gallery-part-2.md#case-166)
+[![十二黃金聖鬥士卡牌合集](data/images/case166.jpg)](docs/gallery-part-2.md#user-content-case-166)
 
 多卡面、多元素統一風格的案例，適合參考批次生成與系列化設計。
-[檢視完整案例](docs/gallery-part-2.md#case-166)
+[檢視完整案例](docs/gallery-part-2.md#user-content-case-166)
 
 ### 例 310：零食品牌技術分解圖
 
-[![零食品牌技術分解圖](data/images/case310.jpg)](docs/gallery-part-2.md#case-310)
+[![零食品牌技術分解圖](data/images/case310.jpg)](docs/gallery-part-2.md#user-content-case-310)
 
 品牌敘事、分解結構和商業化呈現結合得比較完整，適合作為“資訊圖 + 品牌視覺”混合參考。
-[檢視完整案例](docs/gallery-part-2.md#case-310)
+[檢視完整案例](docs/gallery-part-2.md#user-content-case-310)
 
 ### 蒼何新增實測
 
@@ -295,41 +295,41 @@ codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>例 330：月下美女直播畫面</strong></p>
-      <a href="docs/gallery-part-2.md#case-330"><img src="data/images/category-covers/scene.jpg" alt="月下美女直播畫面" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-330"><img src="data/images/category-covers/scene.jpg" alt="月下美女直播畫面" width="220"></a><br>
       <sub>高仿直播截圖，適合參考介面氛圍、彈幕和人物寫實結合。</sub><br>
-      <a href="docs/gallery-part-2.md#case-330"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-330"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 334：RAG 技術詳解圖</strong></p>
-      <a href="docs/gallery-part-2.md#case-334"><img src="data/images/category-covers/infographic.jpg" alt="RAG 技術詳解圖" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-334"><img src="data/images/category-covers/infographic.jpg" alt="RAG 技術詳解圖" width="220"></a><br>
       <sub>技術概念、流程箭頭和中文說明模組的結構參考。</sub><br>
-      <a href="docs/gallery-part-2.md#case-334"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-334"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 338：《赤壁懷古》長卷圖</strong></p>
-      <a href="docs/gallery-part-2.md#case-338"><img src="data/images/category-covers/history.jpg" alt="赤壁懷古長卷圖" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-338"><img src="data/images/category-covers/history.jpg" alt="赤壁懷古長卷圖" width="220"></a><br>
       <sub>長卷尺寸、古風敘事和整篇文字排版結合完整。</sub><br>
-      <a href="docs/gallery-part-2.md#case-338"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-338"><strong>檢視案例</strong></a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>例 331：西安手繪水彩城市地圖</strong></p>
-      <a href="docs/gallery-part-2.md#case-331"><img src="data/images/case331.png" alt="西安手繪水彩城市地圖" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-331"><img src="data/images/case331.png" alt="西安手繪水彩城市地圖" width="220"></a><br>
       <sub>城市地圖、手繪路線和地標標註的輕量參考。</sub><br>
-      <a href="docs/gallery-part-2.md#case-331"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-331"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 332：茶π產品宣傳海報</strong></p>
-      <a href="docs/gallery-part-2.md#case-332"><img src="data/images/case332.png" alt="茶π產品宣傳海報" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-332"><img src="data/images/case332.png" alt="茶π產品宣傳海報" width="220"></a><br>
       <sub>飲品商品圖、中文賣點和清爽商業海報組合。</sub><br>
-      <a href="docs/gallery-part-2.md#case-332"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-332"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 339：Apple 風格自然科普海報</strong></p>
-      <a href="docs/gallery-part-2.md#case-339"><img src="data/images/case339.jpg" alt="Apple 風格自然科普海報" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-339"><img src="data/images/case339.jpg" alt="Apple 風格自然科普海報" width="220"></a><br>
       <sub>極簡棚拍、自然主體和科普資訊排版。</sub><br>
-      <a href="docs/gallery-part-2.md#case-339"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-339"><strong>檢視案例</strong></a>
     </td>
   </tr>
 </table>
@@ -340,41 +340,41 @@ codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>例 539：粗糲手繪搭檔肖像海報</strong></p>
-      <a href="docs/gallery-part-2.md#case-539"><img src="data/images/case539.jpg" alt="粗糲手繪搭檔肖像海報" width="180"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-539"><img src="data/images/case539.jpg" alt="粗糲手繪搭檔肖像海報" width="180"></a><br>
       <sub>粗糲墨線人物海報，組合半身主體、近景搭檔、極簡背景、受控配色和紙張印刷質感。</sub><br>
-      <a href="docs/gallery-part-2.md#case-539"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-539"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 540：夢幻未來城市編輯藝術海報</strong></p>
-      <a href="docs/gallery-part-2.md#case-540"><img src="data/images/case540.jpg" alt="夢幻未來城市編輯藝術海報" width="180"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-540"><img src="data/images/case540.jpg" alt="夢幻未來城市編輯藝術海報" width="180"></a><br>
       <sub>豎版編輯藝術海報，組織未來城市、雕塑建築、巨型植物、小人物、復古旅行海報質感。</sub><br>
-      <a href="docs/gallery-part-2.md#case-540"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-540"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 541：50/50 混合媒介回憶卡</strong></p>
-      <a href="docs/gallery-part-2.md#case-541"><img src="data/images/case541.jpg" alt="50/50 混合媒介回憶卡" width="180"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-541"><img src="data/images/case541.jpg" alt="50/50 混合媒介回憶卡" width="180"></a><br>
       <sub>把參考照片做成上下 50/50 回憶卡，上半區保留照片，下半區轉為手工紙與蠟筆線稿。</sub><br>
-      <a href="docs/gallery-part-2.md#case-541"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-541"><strong>檢視案例</strong></a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
       <p><strong>例 542：黑白排版側臉肖像海報</strong></p>
-      <a href="docs/gallery-part-2.md#case-542"><img src="data/images/case542.jpg" alt="黑白排版側臉肖像海報" width="180"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-542"><img src="data/images/case542.jpg" alt="黑白排版側臉肖像海報" width="180"></a><br>
       <sub>黑白高反差排版肖像，控制側臉剪影、粗糙墨跡、小字資訊和大號可讀標題塊。</sub><br>
-      <a href="docs/gallery-part-2.md#case-542"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-542"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 543：旅行紀念琺琅徽章</strong></p>
-      <a href="docs/gallery-part-2.md#case-543"><img src="data/images/case543.jpg" alt="旅行紀念琺琅徽章" width="180"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-543"><img src="data/images/case543.jpg" alt="旅行紀念琺琅徽章" width="180"></a><br>
       <sub>把旅行照片轉成場景型琺琅徽章，控制金色分隔線、人物比例、光澤和深色布紋背景。</sub><br>
-      <a href="docs/gallery-part-2.md#case-543"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-543"><strong>檢視案例</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <p><strong>例 544：幼兒詞彙拆解學習卡</strong></p>
-      <a href="docs/gallery-part-2.md#case-544"><img src="data/images/case544.jpg" alt="幼兒詞彙拆解學習卡" width="180"></a><br>
+      <a href="docs/gallery-part-2.md#user-content-case-544"><img src="data/images/case544.jpg" alt="幼兒詞彙拆解學習卡" width="180"></a><br>
       <sub>幼兒詞彙學習卡，控制大物體、區域性拆解、虛線箭頭、簡筆提示和清晰英文標籤。</sub><br>
-      <a href="docs/gallery-part-2.md#case-544"><strong>檢視案例</strong></a>
+      <a href="docs/gallery-part-2.md#user-content-case-544"><strong>檢視案例</strong></a>
     </td>
   </tr>
 </table>
