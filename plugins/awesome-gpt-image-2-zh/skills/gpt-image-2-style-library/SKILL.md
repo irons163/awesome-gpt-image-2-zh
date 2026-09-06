@@ -9,9 +9,9 @@ description: 使用 awesome-gpt-image-2-zh 的風格庫，為 GPT-Image2 選擇�
 
 ## 範例
 
-![城市生命系統圖範例](assets/city-life-system-map.png)
+![台灣環島鐵道旅行圖範例](assets/taiwan-railway-travel-map.png)
 
-需求範例：`用 gpt-image-2-style-library 技能製作城市生命系統圖。`
+需求範例：`用 gpt-image-2-style-library 技能製作台灣環島鐵道旅行圖。`
 
 ## 參考資料
 

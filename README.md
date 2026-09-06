@@ -225,10 +225,10 @@ GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不
 外掛同時提供標準根目錄 `plugin.json` 與 Codex 相容資訊，來源位於 [`plugins/awesome-gpt-image-2-zh`](plugins/awesome-gpt-image-2-zh)。
 
 <p align="center">
-  <img src="plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/city-life-system-map.png" alt="使用 GPT-Image2 台灣繁中 Agent Plugin 產生的城市生命系統圖範例" width="760">
+  <img src="plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/taiwan-railway-travel-map.png" alt="使用 GPT-Image2 台灣繁中 Agent Plugin 產生的台灣環島鐵道旅行圖範例" width="760">
 </p>
 
-<p align="center"><sub>範例：用 gpt-image-2-style-library 建立「城市生命系統圖」。</sub></p>
+<p align="center"><sub>範例：用 gpt-image-2-style-library 建立「台灣環島鐵道旅行圖」。</sub></p>
 
 ### 從 GitHub 安裝到 Codex
 

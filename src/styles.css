@@ -907,8 +907,7 @@ button {
 .skillPreview img {
   display: block;
   width: 100%;
-  aspect-ratio: 1882 / 964;
-  object-fit: cover;
+  height: auto;
 }
 
 .skillPreview figcaption {

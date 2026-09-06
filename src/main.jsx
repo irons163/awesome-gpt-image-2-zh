@@ -35,7 +35,7 @@ import {
 } from 'lucide-react';
 import './styles.css';
 import { isSupabaseConfigured, supabase } from './supabaseClient';
-import skillExampleImage from '../plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/city-life-system-map.png';
+import skillExampleImage from '../plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/taiwan-railway-travel-map.png';
 
 const fallbackRepoUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
 const discordUrl = import.meta.env.VITE_DISCORD_URL || 'https://discord.gg/XmXqnb9zu';
@@ -81,13 +81,13 @@ const copy = {
       'Built with the open Agent Plugins standard, this package bundles the style workflow and shared template library for compatible AI agents.',
     skillCommandLabel: 'Install from GitHub in Codex',
     skillPromptLabel: 'Try this request',
-    skillPrompt: 'Use gpt-image-2-style-library to create a city life system map.',
+    skillPrompt: 'Use gpt-image-2-style-library to create a Taiwan round-island railway travel map.',
     skillCopyCommand: 'Copy command',
     skillOpenDocs: 'View Agent Plugin source',
     skillOpenStandard: 'Agent Plugins standard',
     skillCopied: 'Command copied',
-    skillExampleAlt: 'City life system map generated with the GPT-Image2 style library skill',
-    skillExampleCaption: 'Example output generated from the style-library skill.',
+    skillExampleAlt: 'Taiwan round-island railway travel map generated with the GPT-Image2 style library skill',
+    skillExampleCaption: 'Example: create a Taiwan round-island railway travel map with gpt-image-2-style-library.',
     skillStats: ['Agent Plugins 1.0', 'Portable package', '20+ templates'],
     search: 'Search cases, sources, prompts...',
     category: 'Category',
@@ -301,13 +301,13 @@ const copy = {
       '採用開放的 Agent Plugins 標準，將風格工作流程與共用範本庫包成一份外掛，可供相容的 AI 代理程式載入。',
     skillCommandLabel: '從 GitHub 安裝到 Codex',
     skillPromptLabel: '試試這個要求',
-    skillPrompt: '使用 gpt-image-2-style-library 技能建立城市生活系統地圖。',
+    skillPrompt: '使用 gpt-image-2-style-library 技能建立台灣環島鐵道旅行圖。',
     skillCopyCommand: '複製命令',
     skillOpenDocs: '查看 Agent Plugin 原始碼',
     skillOpenStandard: 'Agent Plugins 標準',
     skillCopied: '命令已複製',
-    skillExampleAlt: '由 GPT-Image2 風格庫 skill 產生的城市生活系統地圖',
-    skillExampleCaption: '範例：透過 gpt-image-2-style-library 建立「城市生活系統地圖」。',
+    skillExampleAlt: '由 GPT-Image2 風格庫技能產生的台灣環島鐵道旅行圖',
+    skillExampleCaption: '範例：透過 gpt-image-2-style-library 建立「台灣環島鐵道旅行圖」。',
     skillStats: ['Agent Plugins 1.0', '可攜式套件', '20+ 個範本'],
     search: '搜尋案例、來源、提示詞…',
     category: '分類',
