@@ -6,9 +6,10 @@ path for this repository is `/var/www/gpt-image2`.
 
 The public hostname is `gpt-image2.zero2codex.dev`. Cloudflare publishes the
 hostname with an A record named `gpt-image2` pointing to `178.105.194.250`.
-Caddy terminates HTTPS and serves the Vite build. Requests under `/api/` are
-forwarded to the Node API service on `127.0.0.1:4174`; port `4174` stays
-private to the VPS.
+This VPS already runs Caddy in Docker Compose from `/opt/caddy`. Caddy
+terminates HTTPS, serves the Vite build from a read-only bind mount, and
+forwards `/api` requests to the Node API through the host Docker bridge at
+`172.17.0.1:4174`. That bridge address is private to the VPS.
 
 ## Runtime prerequisite
 
@@ -17,11 +18,11 @@ Install Node.js `22.12.0` or newer, matching the version required by
 
 The production entrypoint is `npm run start`, which runs
 `scripts/production-server.mjs`. It binds the Node service to
-`${HOST:-127.0.0.1}:${PORT:-4174}` and discovers the handlers under `api/`. The
-checked-in adapter:
+`${HOST:-127.0.0.1}:${PORT:-4174}` and discovers the handlers under `api/`. On
+this VPS, set `HOST=172.17.0.1` so the Caddy container can reach the service;
+the address is still private to the Docker bridge. The checked-in adapter:
 
-- listens on `127.0.0.1:4174` by default and honors explicit `HOST` and `PORT`
-  values;
+- listens on the configured `HOST` and `PORT` and honors explicit values;
 - dispatches every `api/**/*.js` handler at its matching `/api/...` path and
   exposes the URL query parameters as `req.query`;
 - passes through authorization, cookie and signature headers, leaves the
@@ -46,8 +47,8 @@ In the `zero2codex.dev` Cloudflare zone, create or update only this record:
 
 Leave the apex record and any records used by the existing root site as they
 are. Caddy needs public TCP ports 80 and 443 for HTTP to HTTPS redirection and
-certificate issuance. Keep 4174 bound to loopback and do not expose it in the
-firewall.
+certificate issuance. Keep 4174 bound only to the private Docker bridge and do
+not expose it in the firewall.
 
 For a Debian or Ubuntu VPS, verify the public rules with the host's existing
 firewall policy and add only the web ports if they are missing:
@@ -65,7 +66,7 @@ sudo ufw allow 443/tcp
 if ! getent passwd gpt-image2 >/dev/null; then
   sudo useradd --system --home-dir /var/www/gpt-image2 --shell /usr/sbin/nologin gpt-image2
 fi
-sudo install -d -o gpt-image2 -g gpt-image2 -m 0750 /var/www/gpt-image2
+sudo install -d -o gpt-image2 -g gpt-image2 -m 0755 /var/www/gpt-image2
 ```
 
 第一次部署由 VPS 直接從 GitHub 取用這個儲存庫，不需要從本機上傳檔案。
@@ -104,17 +105,9 @@ unset VITE_SUPABASE_URL VITE_SUPABASE_ANON_KEY VITE_DISCORD_URL VITE_GA_MEASUREM
 Do not put service-role, Stripe, Alipay, image API or OAuth secrets in a
 `VITE_*` variable: Vite copies `VITE_*` values into browser JavaScript.
 
-Ensure that the Caddy service account can read the generated `dist` directory;
+The Caddy container reads the bind-mounted build as root. The `0755` site
+directory and normal build output are therefore sufficient for static serving;
 the runtime environment file below remains readable only by root.
-
-On the standard Debian or Ubuntu package, Caddy runs as the `caddy` user. Add
-that user to the read-only group created above, then restart Caddy once so the
-new supplementary group is applied:
-
-```bash
-sudo usermod --append --groups gpt-image2 caddy
-sudo systemctl restart caddy
-```
 
 ## Runtime environment
 
@@ -136,7 +129,7 @@ variables only when those features are enabled:
 
 ```dotenv
 APP_URL=https://gpt-image2.zero2codex.dev
-HOST=127.0.0.1
+HOST=172.17.0.1
 PORT=4174
 NODE_ENV=production
 ```
@@ -164,6 +157,7 @@ Group=gpt-image2
 WorkingDirectory=/var/www/gpt-image2
 EnvironmentFile=/etc/gpt-image2/gpt-image2.env
 Environment=NODE_ENV=production
+Environment=HOST=172.17.0.1
 Environment=PORT=4174
 ExecStart=/usr/bin/npm run start
 Restart=on-failure
@@ -179,8 +173,9 @@ WantedBy=multi-user.target
 ```
 
 Use the absolute path returned by `command -v npm` if npm is installed outside
-`/usr/bin`. The current adapter reads `HOST` and `PORT`; keep `HOST=127.0.0.1`
-so the listener stays private, and adjust only `ExecStart` if the Node
+`/usr/bin`. The current adapter reads `HOST` and `PORT`; `172.17.0.1` is the
+private host-side Docker bridge used by the Caddy container. Do not bind the
+service to a public interface, and adjust only `ExecStart` if the Node
 entrypoint is changed later.
 
 Start it after the build and environment file are ready:
@@ -189,7 +184,7 @@ Start it after the build and environment file are ready:
 sudo systemctl daemon-reload
 sudo systemctl enable --now gpt-image2.service
 sudo systemctl status gpt-image2.service
-curl --fail http://127.0.0.1:4174/api/community/config
+curl --fail http://172.17.0.1:4174/api/community/config
 ```
 
 If the local API check fails, inspect the service before changing Caddy:
@@ -200,28 +195,32 @@ sudo journalctl -u gpt-image2.service -n 100 --no-pager
 
 ## Caddy and HTTPS
 
-Install the Caddy site block from [`Caddyfile`](Caddyfile) as a separate
-include. Keep the existing `/etc/caddy/Caddyfile` and its root-site blocks in
-place; do not replace them:
+The VPS Caddy instance is managed by Docker Compose from `/opt/caddy`. Keep
+its existing site blocks in place and add the block from
+[`Caddyfile`](Caddyfile) to `/opt/caddy/Caddyfile`; do not replace the file.
+Back up the Compose files before editing them:
 
 ```bash
-sudo install -d -m 0755 /etc/caddy/sites
-sudo install -m 0644 /var/www/gpt-image2/docs/deploy/Caddyfile \
-  /etc/caddy/sites/gpt-image2.Caddyfile
+sudo cp /opt/caddy/Caddyfile /opt/caddy/Caddyfile.before-gpt-image2-YYYYMMDD
+sudo cp /opt/caddy/compose.yaml /opt/caddy/compose.yaml.before-gpt-image2-YYYYMMDD
 ```
 
-If the main Caddy configuration does not already import site snippets, add
-this single line with `sudoedit`:
+Add this read-only bind mount under the `caddy` service's `volumes` in
+`/opt/caddy/compose.yaml`:
 
-```caddyfile
-import /etc/caddy/sites/*.Caddyfile
+```yaml
+- /var/www/gpt-image2/dist:/srv/gpt-image2:ro
 ```
 
-Validate the complete configuration and reload Caddy:
+The checked-in block already uses `/srv/gpt-image2` for static files and
+`172.17.0.1:4174` for the API, matching this Compose setup. Validate the
+complete configuration and recreate only the Caddy container:
 
 ```bash
-sudo caddy validate --config /etc/caddy/Caddyfile
-sudo systemctl reload caddy
+sudo docker compose -f /opt/caddy/compose.yaml config
+sudo docker exec caddy-caddy-1 caddy validate \
+  --config /etc/caddy/Caddyfile --adapter caddyfile
+sudo docker compose -f /opt/caddy/compose.yaml up -d caddy
 ```
 
 The site block obtains and renews the certificate for

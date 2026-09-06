@@ -1,6 +1,11 @@
 gpt-image2.zero2codex.dev {
 	encode gzip zstd
 
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+	}
+
 	@api path /api /api/*
 	handle @api {
 		# The community QR upload is limited to 2 MiB by the application. Keep
@@ -15,13 +20,13 @@ gpt-image2.zero2codex.dev {
 			Pragma "no-cache"
 		}
 
-		reverse_proxy 127.0.0.1:4174
+		reverse_proxy 172.17.0.1:4174
 	}
 
 	# Serve the Vite build directly. try_files sends client-side routes such as
 	# /community and /community/result to the SPA entry point.
 	handle {
-		root * /var/www/gpt-image2/dist
+		root * /srv/gpt-image2
 		try_files {path} /index.html
 		file_server
 	}
