@@ -57,7 +57,7 @@ const copy = {
     eyebrow: 'Live GPT-Image2 prompt gallery',
     title: 'From viral images to reusable prompts.',
     subtitle:
-      'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts, test image generation, explore industrial templates, and join the creator community.',
+      'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts, explore industrial templates, and join the creator community.',
     explore: 'Explore cases',
     githubProject: 'GitHub project',
     cases: 'cases',
@@ -274,7 +274,7 @@ const copy = {
     eyebrow: '持續更新的 GPT-Image2 提示詞圖庫',
     title: '從熱門影像，到可重複使用的提示詞。',
     subtitle:
-      '專為 GPT-Image2 創作打造的視覺化工作區：瀏覽真實案例、複製提示詞、線上測試影像生成、查看產業級範本，並加入創作者社群。',
+      '專為 GPT-Image2 創作打造的視覺化工作區：瀏覽真實案例、複製提示詞、查看產業級範本，並加入創作者社群。',
     explore: '瀏覽案例',
     githubProject: 'GitHub 專案',
     cases: '則案例',
@@ -2693,13 +2693,9 @@ function TemplateSection({ language, styleLibrary, onOpenTemplate }) {
 function PromptCard({
   caseItem,
   copied,
-  favorited,
-  favoriteBusy,
   language,
   onCopy,
   onOpen,
-  onGenerate,
-  onToggleFavorite,
   styleLibrary
 }) {
   const t = copy[language];
@@ -2734,16 +2730,6 @@ function PromptCard({
           ))}
         </div>
         <div className="cardActions caseActions">
-          <button
-            className={cx('favoriteAction', favorited && 'active')}
-            type="button"
-            onClick={() => onToggleFavorite(caseItem)}
-            disabled={favoriteBusy}
-            aria-pressed={Boolean(favorited)}
-          >
-            {favoriteBusy ? <LoaderCircle className="spinIcon" size={17} /> : <Heart size={17} />}
-            {favorited ? t.favorited : t.favorite}
-          </button>
           <button type="button" onClick={() => onCopy(caseItem)}>
             {copied ? <Check size={17} /> : <Copy size={17} />}
             {copied ? t.copied : t.copyPrompt}
@@ -2751,10 +2737,6 @@ function PromptCard({
           <button type="button" onClick={() => onOpen(caseItem)}>
             <Eye size={17} />
             {t.viewDetails}
-          </button>
-          <button type="button" onClick={() => onGenerate(caseItem)}>
-            <ImageIcon size={17} />
-            {t.generateTest}
           </button>
           <a href={caseItem.localGithubUrl || caseItem.githubUrl} target="_blank" rel="noreferrer" aria-label={t.openOnGithub}>
             <Github size={18} />
@@ -2771,25 +2753,12 @@ function PreviewDialog({
   language,
   styleLibrary,
   copiedId,
-  session,
-  profile,
-  favorite,
-  favoriteBusy,
   onClose,
-  onCopyText,
-  onToggleFavorite,
-  onAuthRequired,
-  onBillingRequired,
-  onProfileChange
+  onCopyText
 }) {
   const t = copy[language];
   const repoDocsUrl = `${styleLibrary.repository || fallbackRepoUrl}/blob/main/${styleLibrary.templateDocument}`;
   const [editablePrompt, setEditablePrompt] = useState('');
-  const [generationState, setGenerationState] = useState({
-    status: 'idle',
-    image: '',
-    message: ''
-  });
   useBodyScrollLock(Boolean(preview));
 
   useEffect(() => {
@@ -2807,20 +2776,8 @@ function PreviewDialog({
 
   useEffect(() => {
     if (preview?.type !== 'case') return;
-    const savedGeneration = getSavedGeneration(preview.item.id);
     setEditablePrompt(promptFor(preview.item, language));
-    setGenerationState(
-      savedGeneration
-        ? {
-            status: 'saved',
-            image: savedGeneration.image,
-            message: '',
-            prompt: savedGeneration.prompt || promptFor(preview.item, language),
-            savedAt: savedGeneration.savedAt || ''
-          }
-        : { status: 'idle', image: '', message: '', prompt: '', savedAt: '' }
-    );
-  }, [preview]);
+  }, [preview, language]);
 
   if (!preview) return null;
 
@@ -2846,76 +2803,6 @@ function PreviewDialog({
     : [...new Set([...(item.styles || []), ...(item.scenes || [])])].slice(0, 8);
   const guidance = listFor(item.guidance, language);
   const pitfalls = listFor(item.pitfalls, language);
-  const isGenerating = generationState.status === 'generating';
-  const generatedImage = !isTemplate ? generationState.image : '';
-  const isSignedIn = Boolean(session?.access_token);
-  const creditBalance = Number(profile?.creditBalance || 0);
-  const isOutOfCredits = isSignedIn
-    && creditBalance <= 0
-    && (profile?.isSuperAdmin || Boolean(profile?.freeUsed));
-  const generationLocked = isGenerating;
-  const quotaText = isSignedIn ? getGenerationQuotaText(profile, language) : t.authRequired;
-
-  async function handleGenerate() {
-    if (isTemplate || isGenerating) return;
-    if (!isSignedIn) {
-      onAuthRequired();
-      setGenerationState({ status: 'idle', image: generatedImage, message: '' });
-      return;
-    }
-    const prompt = editablePrompt.trim();
-    if (!prompt || prompt.length > 6000) {
-      setGenerationState({ status: 'error', image: '', message: t.promptRequired });
-      return;
-    }
-    if (isOutOfCredits) {
-      onBillingRequired();
-      setGenerationState({ status: 'idle', image: generatedImage, message: t.creditsRequired });
-      return;
-    }
-
-    setGenerationState({ status: 'generating', image: '', message: '' });
-
-    try {
-      const response = await fetch('/api/generate-image', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          ...getAuthHeaders(session)
-        },
-        body: JSON.stringify({
-          caseId: item.id,
-          prompt
-        })
-      });
-      const payload = await response.json().catch(() => ({}));
-
-      if (!response.ok || !payload.ok || !payload.image) {
-        if (payload.user) onProfileChange(payload.user);
-        if (payload.error === 'AUTH_REQUIRED' || payload.loginRequired) {
-          onAuthRequired();
-          setGenerationState({ status: 'idle', image: generatedImage, message: '' });
-          return;
-        }
-        throw new Error(payload.error || 'GENERATION_FAILED');
-      }
-
-      const savedAt = new Date().toISOString();
-      saveGeneratedTest(item.id, {
-        image: payload.image,
-        prompt,
-        savedAt
-      });
-      if (payload.user) onProfileChange(payload.user);
-      setGenerationState({ status: 'success', image: payload.image, message: '', prompt, savedAt });
-    } catch (error) {
-      setGenerationState({
-        status: 'error',
-        image: '',
-        message: generationErrorMessage(error.message, language)
-      });
-    }
-  }
 
   return (
     <div
@@ -2929,24 +2816,8 @@ function PreviewDialog({
         <button className="previewClose" type="button" onClick={onClose} aria-label={t.closePreview}>
           <X size={20} />
         </button>
-        <div className={cx('previewMedia', generatedImage && 'hasComparison')}>
-          {generatedImage ? (
-            <div className="comparisonGrid">
-              <figure className="comparisonFigure">
-                <div className="comparisonLabel">{t.originalImage}</div>
-                <img src={image} alt={imageAlt} />
-              </figure>
-              <figure className="comparisonFigure generatedFigure">
-                <div className="comparisonLabel">
-                  {t.generatedResult}
-                  {generationState.status === 'saved' ? <span>{t.savedInBrowser}</span> : null}
-                </div>
-                <img src={generatedImage} alt={t.generatedResult} />
-              </figure>
-            </div>
-          ) : (
-            <img src={image} alt={imageAlt} />
-          )}
+        <div className="previewMedia">
+          <img src={image} alt={imageAlt} />
         </div>
         <div className="previewContent">
           <div className="previewMeta">
@@ -2972,28 +2843,10 @@ function PreviewDialog({
             </div>
           ) : null}
           <div className="previewActions">
-            {!isTemplate ? (
-              <button
-                className={cx('favoriteAction', favorite && 'active')}
-                type="button"
-                onClick={() => onToggleFavorite(item)}
-                disabled={favoriteBusy}
-                aria-pressed={Boolean(favorite)}
-              >
-                {favoriteBusy ? <LoaderCircle className="spinIcon" size={17} /> : <Heart size={17} />}
-                {favorite ? t.unfavorite : t.favorite}
-              </button>
-            ) : null}
             <button type="button" onClick={() => onCopyText(promptText, copyId)}>
               {isCopied ? <Check size={17} /> : <Copy size={17} />}
               {isCopied ? t.copied : isTemplate ? t.copyTemplatePrompt : t.copyPrompt}
             </button>
-            {!isTemplate ? (
-              <button type="button" onClick={handleGenerate} disabled={generationLocked}>
-                {isGenerating ? <LoaderCircle className="spinIcon" size={17} /> : <ImageIcon size={17} />}
-                {isGenerating ? t.generating : isOutOfCredits ? t.buyCredits : isSignedIn ? t.generateTest : t.signInToGenerate}
-              </button>
-            ) : null}
             <a href={primaryLink} target="_blank" rel="noreferrer">
               {primaryLabel}
               <ArrowUpRight size={17} />
@@ -3025,20 +2878,6 @@ function PreviewDialog({
               />
             )}
           </div>
-          {!isTemplate ? (
-            <div className="generationPanel">
-              <div className={cx('generationQuota', (!isSignedIn || isOutOfCredits) && 'used')}>
-                {quotaText}
-              </div>
-              <button type="button" onClick={handleGenerate} disabled={generationLocked}>
-                {isGenerating ? <LoaderCircle className="spinIcon" size={17} /> : <ImageIcon size={17} />}
-                {isGenerating ? t.generating : isOutOfCredits ? t.buyCredits : isSignedIn ? t.generateImage : t.signInToGenerate}
-              </button>
-              {generationState.status === 'error' ? (
-                <p className="generationMessage">{generationState.message}</p>
-              ) : null}
-            </div>
-          ) : null}
           {isTemplate && (guidance.length || pitfalls.length || item.exampleCases?.length) ? (
             <div className="previewColumns">
               {guidance.length ? (
@@ -3098,21 +2937,6 @@ function App() {
   const [style, setStyle] = useState('All');
   const [scene, setScene] = useState('All');
   const [preview, setPreview] = useState(null);
-  const [session, setSession] = useState(null);
-  const [authReady, setAuthReady] = useState(!isSupabaseConfigured || !supabase);
-  const [profile, setProfile] = useState(null);
-  const [favoriteRows, setFavoriteRows] = useState([]);
-  const [favoriteBusyId, setFavoriteBusyId] = useState(null);
-  const [favoriteMessage, setFavoriteMessage] = useState('');
-  const [authOpen, setAuthOpen] = useState(false);
-  const [authErrorCode, setAuthErrorCode] = useState('');
-  const [accountOpen, setAccountOpen] = useState(false);
-  const [accountInitialSection, setAccountInitialSection] = useState('overview');
-  const [adminOpen, setAdminOpen] = useState(false);
-  const [billingOpen, setBillingOpen] = useState(false);
-  const [billingNotice, setBillingNotice] = useState('');
-  const [billingReturnOrderId, setBillingReturnOrderId] = useState('');
-  const alipayReturnHandledRef = useRef('');
   const { copiedId, copyPrompt, copyText } = useCopy(language);
   const repoUrl = siteData?.repository || fallbackRepoUrl;
   const t = copy[language];
@@ -3143,118 +2967,6 @@ function App() {
   }, [language]);
 
   useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const authError = params.get('auth_error');
-    if (!authError) return;
-
-    setAuthErrorCode(authError);
-    setAuthOpen(true);
-    params.delete('auth_error');
-    params.delete('auth_provider');
-    const nextSearch = params.toString();
-    const nextUrl = `${window.location.pathname}${nextSearch ? `?${nextSearch}` : ''}${window.location.hash}`;
-    window.history.replaceState({}, '', nextUrl);
-  }, []);
-
-  useEffect(() => {
-    if (!isSupabaseConfigured || !supabase) return undefined;
-
-    let active = true;
-    supabase.auth.getSession()
-      .then(({ data }) => {
-        if (active) setSession(data.session || null);
-      })
-      .catch(() => {
-        if (active) setSession(null);
-      })
-      .finally(() => {
-        if (active) setAuthReady(true);
-      });
-
-    const { data } = supabase.auth.onAuthStateChange((_event, nextSession) => {
-      setSession(nextSession || null);
-      setAuthReady(true);
-    });
-
-    return () => {
-      active = false;
-      data.subscription.unsubscribe();
-    };
-  }, []);
-
-  useEffect(() => {
-    let cancelled = false;
-
-    if (!session?.access_token) {
-      setProfile(null);
-      setFavoriteRows([]);
-      return () => {
-        cancelled = true;
-      };
-    }
-
-    fetch('/api/me', {
-      headers: getAuthHeaders(session)
-    })
-      .then((response) => response.json())
-      .then((payload) => {
-        if (!cancelled && payload?.ok) {
-          setProfile(payload.user);
-        }
-      })
-      .catch(() => {
-        if (!cancelled) setProfile(null);
-      });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [session?.access_token]);
-
-  async function loadFavorites({ silent = true } = {}) {
-    if (!session?.access_token) {
-      setFavoriteRows([]);
-      return [];
-    }
-
-    try {
-      const response = await fetch('/api/favorites', {
-        headers: getAuthHeaders(session)
-      });
-      const payload = await response.json().catch(() => ({}));
-      if (!response.ok || !payload?.ok) {
-        throw new Error(payload.error || 'FAVORITES_LOAD_FAILED');
-      }
-      const favorites = normalizeFavoriteRows(payload.favorites);
-      setFavoriteRows(favorites);
-      return favorites;
-    } catch {
-      if (!silent) setTimedFavoriteMessage(t.favoriteFailed);
-      return [];
-    }
-  }
-
-  useEffect(() => {
-    let cancelled = false;
-
-    if (!session?.access_token) {
-      setFavoriteRows([]);
-      return () => {
-        cancelled = true;
-      };
-    }
-
-    loadFavorites().then((favorites) => {
-      if (cancelled) return;
-      setFavoriteRows(favorites);
-    });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [session?.access_token]);
-
-  useEffect(() => {
     if (!siteData || !styleLibrary || !window.location.hash) return;
     const target = document.getElementById(window.location.hash.slice(1));
     if (!target) return;
@@ -3262,65 +2974,6 @@ function App() {
       target.scrollIntoView({ block: 'start' });
     });
   }, [siteData, styleLibrary]);
-
-  function openAuth() {
-    setAuthErrorCode('');
-    setAuthOpen(true);
-  }
-
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const billing = params.get('billing');
-    if (!billing) return;
-    if (billing === 'alipay_return') {
-      const orderId = params.get('order_id') || '';
-      setBillingReturnOrderId(orderId);
-      setBillingNotice(t.alipayReturnPending);
-      setBillingOpen(true);
-
-      const cleanParams = new URLSearchParams({ billing: 'alipay_return' });
-      if (orderId) cleanParams.set('order_id', orderId);
-      const nextUrl = `${window.location.pathname}?${cleanParams.toString()}${window.location.hash}`;
-      window.history.replaceState({}, '', nextUrl);
-      return;
-    }
-    if (billing === 'success') setBillingNotice(t.billingSuccess);
-    if (billing === 'cancelled') setBillingNotice(t.billingCancelled);
-    setBillingOpen(true);
-    params.delete('billing');
-    params.delete('session_id');
-    const nextSearch = params.toString();
-    const nextUrl = `${window.location.pathname}${nextSearch ? `?${nextSearch}` : ''}${window.location.hash}`;
-    window.history.replaceState({}, '', nextUrl);
-  }, [t.alipayReturnPending, t.billingCancelled, t.billingSuccess]);
-
-  useEffect(() => {
-    if (!billingReturnOrderId || !session?.access_token) return undefined;
-    const handledKey = `${billingReturnOrderId}:${session.user?.id || ''}`;
-    if (alipayReturnHandledRef.current === handledKey) return undefined;
-    alipayReturnHandledRef.current = handledKey;
-
-    let cancelled = false;
-    fetch(`/api/billing/alipay/query?orderId=${encodeURIComponent(billingReturnOrderId)}`, {
-      headers: getAuthHeaders(session)
-    })
-      .then(async (response) => {
-        const payload = await response.json().catch(() => ({}));
-        if (!response.ok || !payload.ok) {
-          throw new Error(payload.error || 'ALIPAY_QUERY_FAILED');
-        }
-        if (cancelled) return;
-        if (payload.user) setProfile(payload.user);
-        setBillingNotice(payload.paid ? t.alipayPaymentSuccess : t.alipayPaymentPending);
-      })
-      .catch((error) => {
-        if (!cancelled) setBillingNotice(generationErrorMessage(error.message, language));
-      });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [billingReturnOrderId, language, session?.access_token, session?.user?.id, t.alipayPaymentPending, t.alipayPaymentSuccess]);
 
   const latestCases = useMemo(() => {
     if (!siteData) return [];
@@ -3371,113 +3024,6 @@ function App() {
   );
 
   const visibleCases = filteredCases.slice(0, 72);
-  const casesById = useMemo(() => new Map((siteData?.cases || []).map((caseItem) => [caseItem.id, caseItem])), [siteData]);
-  const favoriteCaseIds = useMemo(
-    () => new Set(normalizeFavoriteRows(favoriteRows).map((favorite) => favorite.caseId)),
-    [favoriteRows]
-  );
-
-  async function handleSignOut() {
-    if (supabase) await supabase.auth.signOut();
-    setSession(null);
-    setProfile(null);
-    setFavoriteRows([]);
-    setAccountOpen(false);
-    setAdminOpen(false);
-    setBillingOpen(false);
-  }
-
-  function handleProfileChange(nextProfile) {
-    if (nextProfile) setProfile(nextProfile);
-  }
-
-  function handleOpenCaseFromAccount(caseItem) {
-    setAccountOpen(false);
-    setAccountInitialSection('overview');
-    setBillingOpen(false);
-    setPreview({ type: 'case', item: caseItem });
-  }
-
-  function handleOpenCaseFromAdmin(caseItem) {
-    setAdminOpen(false);
-    setPreview({ type: 'case', item: caseItem });
-  }
-
-  function setTimedFavoriteMessage(message) {
-    setFavoriteMessage(message);
-    window.setTimeout(() => {
-      setFavoriteMessage((current) => (current === message ? '' : current));
-    }, 2400);
-  }
-
-  async function handleToggleFavorite(caseItem) {
-    if (!caseItem?.id) return;
-    if (!session?.access_token) {
-      openAuth();
-      setTimedFavoriteMessage(t.signInToFavorite);
-      return;
-    }
-
-    const caseId = Number(caseItem.id);
-    const isFavorite = favoriteCaseIds.has(caseId);
-    const previousRows = favoriteRows;
-    setFavoriteBusyId(caseId);
-
-    if (isFavorite) {
-      setFavoriteRows((current) => normalizeFavoriteRows(current).filter((favorite) => favorite.caseId !== caseId));
-    } else {
-      setFavoriteRows((current) => [
-        { caseId, createdAt: new Date().toISOString() },
-        ...normalizeFavoriteRows(current).filter((favorite) => favorite.caseId !== caseId)
-      ]);
-    }
-
-    try {
-      const response = await fetch(isFavorite ? `/api/favorites?caseId=${caseId}` : '/api/favorites', {
-        method: isFavorite ? 'DELETE' : 'POST',
-        headers: {
-          ...(isFavorite ? {} : { 'Content-Type': 'application/json' }),
-          ...getAuthHeaders(session)
-        },
-        body: isFavorite ? undefined : JSON.stringify({ caseId })
-      });
-      const payload = await response.json().catch(() => ({}));
-
-      if (!response.ok || !payload.ok) {
-        if (payload.error === 'AUTH_REQUIRED' || payload.loginRequired) openAuth();
-        throw new Error(payload.error || 'FAVORITE_FAILED');
-      }
-
-      if (!isFavorite && payload.favorite) {
-        const favorite = normalizeFavoriteRows([payload.favorite])[0];
-        if (favorite) {
-          setFavoriteRows((current) => [
-            favorite,
-            ...normalizeFavoriteRows(current).filter((item) => item.caseId !== caseId)
-          ]);
-        }
-      }
-      setTimedFavoriteMessage(isFavorite ? t.favoriteRemoved : t.favoriteSaved);
-    } catch {
-      setFavoriteRows(previousRows);
-      setTimedFavoriteMessage(t.favoriteFailed);
-    } finally {
-      setFavoriteBusyId(null);
-    }
-  }
-
-  function handleOpenAccount(section = 'overview') {
-    setAccountInitialSection(section);
-    setAccountOpen(true);
-    if (section === 'favorites') {
-      loadFavorites({ silent: false });
-    }
-  }
-
-  function handleCloseAccount() {
-    setAccountOpen(false);
-    setAccountInitialSection('overview');
-  }
 
   const normalizedPath = window.location.pathname.replace(/\/+$/, '') || '/';
   const isLegacyCommunityRoute = normalizedPath === '/community' || normalizedPath === '/community/result';
@@ -3519,23 +3065,8 @@ function App() {
             </a>
           </nav>
           <LanguageSwitch language={language} setLanguage={setLanguage} />
-          <UserMenu
-            language={language}
-            session={session}
-            profile={profile}
-            onSignIn={openAuth}
-            onSignOut={handleSignOut}
-            onAccount={() => handleOpenAccount('overview')}
-            onFavorites={() => handleOpenAccount('favorites')}
-            onAdmin={() => setAdminOpen(true)}
-            onBilling={() => {
-              setBillingNotice('');
-              setBillingOpen(true);
-            }}
-          />
         </div>
       </header>
-      {favoriteMessage ? <div className="toastNotice">{favoriteMessage}</div> : null}
 
       <Hero
         latestCases={heroCases}
@@ -3625,16 +3156,9 @@ function App() {
             <PromptCard
               caseItem={caseItem}
               copied={copiedId === `case-${caseItem.id}`}
-              favorited={favoriteCaseIds.has(caseItem.id)}
-              favoriteBusy={favoriteBusyId === caseItem.id}
               language={language}
               onCopy={copyPrompt}
               onOpen={(item) => setPreview({ type: 'case', item })}
-              onGenerate={(item) => {
-                setPreview({ type: 'case', item });
-                if (!session?.access_token) openAuth();
-              }}
-              onToggleFavorite={handleToggleFavorite}
               styleLibrary={styleLibrary}
               key={caseItem.id}
             />
@@ -3660,65 +3184,8 @@ function App() {
         language={language}
         styleLibrary={styleLibrary}
         copiedId={copiedId}
-        session={session}
-        profile={profile}
-        favorite={preview?.type === 'case' ? favoriteCaseIds.has(preview.item.id) : false}
-        favoriteBusy={preview?.type === 'case' && favoriteBusyId === preview.item.id}
         onClose={() => setPreview(null)}
         onCopyText={copyText}
-        onToggleFavorite={handleToggleFavorite}
-        onAuthRequired={openAuth}
-        onBillingRequired={() => {
-          setBillingNotice(t.creditsRequired);
-          setBillingOpen(true);
-        }}
-        onProfileChange={handleProfileChange}
-      />
-      <AuthModal
-        open={authOpen}
-        language={language}
-        initialErrorCode={authErrorCode}
-        onClose={() => {
-          setAuthOpen(false);
-          setAuthErrorCode('');
-        }}
-      />
-      <AccountPanel
-        open={accountOpen}
-        language={language}
-        session={session}
-        profile={profile}
-        casesById={casesById}
-        favoriteRows={favoriteRows}
-        initialSection={accountInitialSection}
-        onClose={handleCloseAccount}
-        onProfileChange={handleProfileChange}
-        onOpenCase={handleOpenCaseFromAccount}
-        onBilling={() => {
-          setAccountOpen(false);
-          setBillingNotice('');
-          setBillingOpen(true);
-        }}
-      />
-      <AdminPanel
-        open={adminOpen}
-        language={language}
-        session={session}
-        casesById={casesById}
-        onClose={() => setAdminOpen(false)}
-        onOpenCase={handleOpenCaseFromAdmin}
-      />
-      <BillingPanel
-        open={billingOpen}
-        language={language}
-        session={session}
-        profile={profile}
-        notice={billingNotice}
-        casesById={casesById}
-        onClose={() => setBillingOpen(false)}
-        onAuthRequired={openAuth}
-        onProfileChange={handleProfileChange}
-        onOpenCase={handleOpenCaseFromAccount}
       />
     </main>
   );
