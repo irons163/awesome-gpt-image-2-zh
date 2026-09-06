@@ -135,10 +135,10 @@ test('admin operations require super_admin and same-origin writes', () => {
   assert.equal(isCommunityAdmin({ profile: { role: 'super_admin' } }), true);
   assert.equal(isCommunityAdmin({ profile: { role: 'user' } }), false);
   const previousAppUrl = process.env.APP_URL;
-  process.env.APP_URL = 'https://gpt-image2.canghe.ai';
+  process.env.APP_URL = 'https://gpt-image2.zero2codex.dev';
   try {
-    assert.equal(validateSameOrigin({ headers: { origin: 'https://gpt-image2.canghe.ai', host: 'gpt-image2.canghe.ai' } }), true);
-    assert.equal(validateSameOrigin({ headers: { origin: 'https://evil.example', host: 'gpt-image2.canghe.ai' } }), false);
+    assert.equal(validateSameOrigin({ headers: { origin: 'https://gpt-image2.zero2codex.dev', host: 'gpt-image2.zero2codex.dev' } }), true);
+    assert.equal(validateSameOrigin({ headers: { origin: 'https://evil.example', host: 'gpt-image2.zero2codex.dev' } }), false);
   } finally {
     if (previousAppUrl === undefined) delete process.env.APP_URL;
     else process.env.APP_URL = previousAppUrl;

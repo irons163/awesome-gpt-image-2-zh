@@ -62,4 +62,4 @@
 
 原有付款金額與幣別保持不變，繁中化不會將人民幣或美元自動換成新台幣。歷史資料庫 migration 保留；新增的繁中文案 migration 只更新預設方案說明，不更動價格及權限，也不套用至既有服務。
 
-網站與 GitHub 連結指向本版本；上游網站、npm 套件、贊助及來源連結仍保留原作者資訊。Discord 社群使用本版本的 Phil AI 邀請連結。若要重新發布，請先設定自己的網址、Discord 邀請連結與套件名稱。原授權見 [LICENSE](../LICENSE)，第三方內容來源見[聲明](disclaimer.md)。
+網站（預定為 `https://gpt-image2.zero2codex.dev`）與 GitHub 連結指向本版本；上游 npm 套件、贊助及來源連結仍保留原作者資訊。Discord 社群使用本版本的 Phil AI 邀請連結。若要重新發布，請設定自己的網址、Discord 邀請連結與套件名稱。原授權見 [LICENSE](../LICENSE)，第三方內容來源見[聲明](disclaimer.md)。

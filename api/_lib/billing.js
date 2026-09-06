@@ -1,7 +1,7 @@
 import Stripe from 'stripe';
 
 const STRIPE_API_VERSION = '2026-02-25.clover';
-const DEFAULT_APP_URL = 'https://gpt-image2.canghe.ai';
+const DEFAULT_APP_URL = 'https://gpt-image2.zero2codex.dev';
 
 let stripeClient;
 

@@ -28,7 +28,7 @@ npm test                   # 執行原有後端測試
 
 若更新來源文件中的英文提示詞，先執行 `npm run generate:prompt-translations` 更新 `zh-TW` 翻譯快取，再執行資料產生與檢查；此步驟需要網路連線。
 
-以下內容由上游 README 翻譯整理；上游網站、贊助服務與統計徽章皆屬原專案，Discord 社群連結由本版本維護。
+以下內容由上游 README 翻譯整理；本版本網站與 Discord 社群連結由本版本維護，上游贊助服務與部分統計徽章仍屬原專案。
 
 ---
 
@@ -54,12 +54,12 @@ npm test                   # 執行原有後端測試
   <strong>繁體中文（台灣）</strong> | <a href="./README.en.md">上游 English</a> | <a href="./README.zh-CN.md">上游简体中文</a> | <a href="./README.ja.md">上游日本語</a>
 </p>
 
-## 🌐 上游網站與本機預覽
+## 🌐 網站與本機預覽
 
-開啟 [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) 可以用產品化方式瀏覽案例：檢視大圖、複製完整 Prompt、按風格或場景篩選、登入後測試生成，並快速回到 GitHub 原始案例。
+部署完成後開啟 [gpt-image2.zero2codex.dev](https://gpt-image2.zero2codex.dev/) 可以用產品化方式瀏覽本版本案例：檢視大圖、複製完整 Prompt、按風格或場景篩選、登入後測試生成，並快速回到 GitHub 原始案例。
 
 <p align="center">
-  <a href="https://gpt-image2.canghe.ai/">
+  <a href="https://gpt-image2.zero2codex.dev/">
     <img src="data/images/site-preview.png" alt="GPT-Image2 Gallery 網站預覽" width="900">
   </a>
 </p>
@@ -290,7 +290,7 @@ npm run install:skill -- all
 
 視覺化網站已經接入登入後生成測試圖能力，底層使用 Supabase Auth、Supabase Postgres，以及 Vercel Function 代理 GPT Image 2 API。
 
-下列為自行架設後端的設定範例。文中的上游網址須替換為自己的網域；單純瀏覽案例不需要 API 金鑰。完整欄位見 [`.env.example`](.env.example)。
+下列為本版本正式部署的設定範例；若自行架設，請將網站網址替換為你的網域。單純瀏覽案例不需要 API 金鑰。完整欄位見 [`.env.example`](.env.example)。
 
 ```bash
 VITE_SUPABASE_URL=
@@ -300,7 +300,8 @@ SUPABASE_SERVICE_ROLE_KEY=
 SUPER_ADMIN_EMAILS=
 CIYUAN_API_KEY=
 CIYUAN_BASE_URL=https://ciyuan.today
-APP_URL=http://localhost:5173
+# 正式部署網址；本機開發請改用 http://localhost:5173。
+APP_URL=https://gpt-image2.zero2codex.dev
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
 VITE_GA_MEASUREMENT_ID=
@@ -320,16 +321,18 @@ GOOGLE_ANALYTICS_REFRESH_TOKEN=
 - 將 [`supabase/migrations/20260512090000_google_account_center.sql`](supabase/migrations/20260512090000_google_account_center.sql) 應用到 Supabase 專案，新增帳戶用量統計和超級管理員強制扣點數邏輯。
 - 將 [`supabase/migrations/20260512143000_pricing_admin_metrics.sql`](supabase/migrations/20260512143000_pricing_admin_metrics.sql) 應用到 Supabase 專案，更新 `$5 / 300 credits` 價格體系，並新增管理員資料看板指標。
 - 將 [`supabase/migrations/20260515090000_case_favorites.sql`](supabase/migrations/20260515090000_case_favorites.sql) 應用到 Supabase 專案，新增使用者案例收藏表。
-- 在 Supabase Auth Redirect URLs 中加入 `https://gpt-image2.canghe.ai`，以及 `http://127.0.0.1:5173` 等本機開發地址。
+- 在 Supabase Auth Redirect URLs 中加入 `https://gpt-image2.zero2codex.dev`，以及 `http://127.0.0.1:5173` 等本機開發地址。
 - 在 Supabase Dashboard 填入 Google OAuth 憑據並啟用 Google Provider。
 - 如需強制只允許 Google 登入，可以在 Supabase Auth settings 裡關閉 Email Provider。
 - `SUPABASE_SERVICE_ROLE_KEY` 只放在 Vercel Environment Variables 這類伺服器端環境裡。
-- 設定 Stripe Checkout Webhook：`https://gpt-image2.canghe.ai/api/billing/webhook`。
+- 設定 Stripe Checkout Webhook：`https://gpt-image2.zero2codex.dev/api/billing/webhook`。
 - Stripe Webhook 訂閱 `checkout.session.completed`、`invoice.payment_succeeded`、`customer.subscription.updated`、`customer.subscription.deleted`。
 - `STRIPE_SECRET_KEY` 和 `STRIPE_WEBHOOK_SECRET` 只放在 Vercel Environment Variables 這類伺服器端環境裡。
-- 為 `gpt-image2.canghe.ai` 建立 GA4 property，把 measurement ID 填到 `VITE_GA_MEASUREMENT_ID`，把數字版 property ID 填到 `GA4_PROPERTY_ID`。
+- 為 `gpt-image2.zero2codex.dev` 建立 GA4 property，把 measurement ID 填到 `VITE_GA_MEASUREMENT_ID`，把數字版 property ID 填到 `GA4_PROPERTY_ID`。
 - 建立 Google OAuth Web Client，Authorized redirect URI 填 `http://localhost:8080/oauth2callback`，然後把 `GOOGLE_ANALYTICS_CLIENT_ID` 和 `GOOGLE_ANALYTICS_CLIENT_SECRET` 寫入本機 `.env.local`。
 - 執行 `npm run ga4:oauth`，開啟指令碼生成的授權連結，同意 `analytics.readonly` 許可權，把重新導向 URL 貼上回終端，再把得到的 `GOOGLE_ANALYTICS_REFRESH_TOKEN` 作為 Sensitive 環境變數加到 Vercel。
+
+部署到 Vercel 後，將 `gpt-image2.zero2codex.dev` 綁定到該專案，並在 DNS 服務商建立 Vercel 提供的 `gpt-image2` 子網域記錄；`zero2codex.dev` 根網域可保留現有網站。
 
 <a name="section-gallery"></a>
 
