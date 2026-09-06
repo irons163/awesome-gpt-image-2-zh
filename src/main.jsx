@@ -39,6 +39,8 @@ import skillExampleImage from '../agents/skills/gpt-image-2-style-library/assets
 
 const fallbackRepoUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
 const discordUrl = import.meta.env.VITE_DISCORD_URL || 'https://discord.gg/XmXqnb9zu';
+const personalSiteUrl = 'https://philforge.com/';
+const codexLearningUrl = 'https://zero2codex.dev/';
 const gaMeasurementId = import.meta.env.VITE_GA_MEASUREMENT_ID;
 const watchaLogoUrl =
   'https://watcha.tos-cn-beijing.volces.com/products/logo/1752064513_guan-cha-insights.png?x-tos-process=image/resize,w_720/format,webp';
@@ -51,6 +53,8 @@ const copy = {
     navSkill: 'Skill',
     navTemplates: 'Templates',
     navDiscord: 'Discord',
+    navPersonal: 'Personal site',
+    navCodexLearning: 'Learn Codex',
     navMembership: 'Membership',
     navUpstream: 'GitHub',
     latestCases: 'Latest GPT-Image2 cases',
@@ -268,6 +272,8 @@ const copy = {
     navSkill: '技能',
     navTemplates: '範本',
     navDiscord: 'Discord 社群',
+    navPersonal: '個人主頁',
+    navCodexLearning: '從零開始學習 Codex',
     navMembership: '會員',
     navUpstream: 'GitHub',
     latestCases: '最新 GPT-Image2 案例',
@@ -3059,6 +3065,12 @@ function App() {
             <a href="#gallery">{t.navCases}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
+            <a href={personalSiteUrl} target="_blank" rel="noreferrer">
+              {t.navPersonal}
+            </a>
+            <a href={codexLearningUrl} target="_blank" rel="noreferrer">
+              {t.navCodexLearning}
+            </a>
             <DiscordNavItem language={language} />
             <a href={repoUrl} target="_blank" rel="noreferrer">
               {t.navUpstream}
