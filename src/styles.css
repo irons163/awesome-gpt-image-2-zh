@@ -162,19 +162,6 @@ button {
   color: #ffffff;
 }
 
-.topbar nav a.sponsorNavLink {
-  color: #ffd7e8;
-}
-
-.topbar nav a.sponsorNavLink svg {
-  color: #ff78ad;
-}
-
-.topbar nav a.sponsorNavLink:hover {
-  background: rgba(255, 120, 173, 0.13);
-  color: #ffffff;
-}
-
 .discordNavLink svg {
   color: #7289da;
 }
@@ -591,16 +578,6 @@ button {
 
 .heroActions .secondaryAction {
   color: #dfeaff;
-}
-
-.heroActions .sponsorAction {
-  border-color: rgba(255, 120, 173, 0.32);
-  background: rgba(255, 120, 173, 0.1);
-  color: #ffe4ef;
-}
-
-.heroActions .sponsorAction svg {
-  color: #ff78ad;
 }
 
 .metrics {

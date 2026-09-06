@@ -39,7 +39,6 @@ import skillExampleImage from '../agents/skills/gpt-image-2-style-library/assets
 
 const fallbackRepoUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
 const discordUrl = import.meta.env.VITE_DISCORD_URL || 'https://discord.gg/XmXqnb9zu';
-const sponsorUrl = 'https://apimart.ai/register?aff=oQgzUQ';
 const gaMeasurementId = import.meta.env.VITE_GA_MEASUREMENT_ID;
 const watchaLogoUrl =
   'https://watcha.tos-cn-beijing.volces.com/products/logo/1752064513_guan-cha-insights.png?x-tos-process=image/resize,w_720/format,webp';
@@ -52,7 +51,6 @@ const copy = {
     navSkill: 'Skill',
     navTemplates: 'Templates',
     navDiscord: 'Discord',
-    navSponsor: 'External API',
     navMembership: 'Membership',
     navUpstream: 'GitHub',
     latestCases: 'Latest GPT-Image2 cases',
@@ -62,8 +60,6 @@ const copy = {
       'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts, test image generation, explore industrial templates, and join the creator community.',
     explore: 'Explore cases',
     githubProject: 'GitHub project',
-    sponsorProject: 'External API',
-    sponsorProjectLabel: 'Open APIMart (external service)',
     cases: 'cases',
     categories: 'categories',
     templates: 'templates',
@@ -272,7 +268,6 @@ const copy = {
     navSkill: '技能',
     navTemplates: '範本',
     navDiscord: 'Discord 社群',
-    navSponsor: '外部 API',
     navMembership: '會員',
     navUpstream: 'GitHub',
     latestCases: '最新 GPT-Image2 案例',
@@ -282,8 +277,6 @@ const copy = {
       '專為 GPT-Image2 創作打造的視覺化工作區：瀏覽真實案例、複製提示詞、線上測試影像生成、查看產業級範本，並加入創作者社群。',
     explore: '瀏覽案例',
     githubProject: 'GitHub 專案',
-    sponsorProject: '外部 API',
-    sponsorProjectLabel: '前往 APIMart（外部服務）',
     cases: '則案例',
     categories: '個分類',
     templates: '個範本',
@@ -1063,16 +1056,6 @@ function Hero({ latestCases, language, repoUrl, totalCases, categoryCount, onOpe
           <a className="secondaryAction" href={repoUrl} target="_blank" rel="noreferrer">
             <Github size={18} />
             {t.githubProject}
-          </a>
-          <a
-            className="secondaryAction sponsorAction"
-            href={sponsorUrl}
-            target="_blank"
-            rel="noreferrer"
-            aria-label={t.sponsorProjectLabel}
-          >
-            <Heart size={18} />
-            {t.sponsorProject}
           </a>
         </div>
         <div className="metrics">
@@ -3531,16 +3514,6 @@ function App() {
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
             <DiscordNavItem language={language} />
-            <a
-              className="sponsorNavLink"
-              href={sponsorUrl}
-              target="_blank"
-              rel="noreferrer"
-              aria-label={t.sponsorProjectLabel}
-            >
-              <Heart size={16} />
-              {t.navSponsor}
-            </a>
             <a href={repoUrl} target="_blank" rel="noreferrer">
               {t.navUpstream}
             </a>
