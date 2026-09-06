@@ -42,13 +42,6 @@ npm test                   # 執行後端與自架服務測試
   <a href="https://github.com/irons163/awesome-gpt-image-2-zh"><img src="https://img.shields.io/github/forks/irons163/awesome-gpt-image-2-zh?style=flat-square&color=green" alt="Forks"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-541-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
-  <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=flat-square" alt="Sponsor"></a>
-</p>
-
-<p align="center">
-  <a href="https://trendshift.io/repositories/28623?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28623">
-    <img src="https://trendshift.io/api/badge/repositories/28623" alt="freestylefly/awesome-gpt-image-2 | Trendshift" width="250" height="55">
-  </a>
 </p>
 
 <p align="center">
