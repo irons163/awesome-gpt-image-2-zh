@@ -254,13 +254,6 @@ codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
 工程白皮書氣質的資訊圖案例，適合看結構化資訊圖如何組織模組、層級和雙語標籤。
 [檢視完整案例](docs/gallery-part-1.md#user-content-case-1)
 
-### 例 2：社群媒體介面截圖
-
-[![Ailln AI](data/images/case2.jpg)](docs/gallery-part-1.md#user-content-case-2)
-
-偏“產品介面 + 社群媒體內容截圖”的混合場景，適合看文字區域、UI 框架和內容卡片的控制方式。
-[檢視完整案例](docs/gallery-part-1.md#user-content-case-2)
-
 ### 例 6：插畫藝術創作圖
 
 [![參考圖是角色人設圖，為參考圖的少女繪製一副日系唯美奇幻風格插畫](data/images/case6.jpg)](docs/gallery-part-1.md#user-content-case-6)
