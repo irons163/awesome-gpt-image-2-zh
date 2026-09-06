@@ -56,31 +56,31 @@
 
   <g>
     <rect x="112" y="86" width="186" height="34" rx="17" fill="#102A42" stroke="#68E8D0" stroke-opacity="0.42"/>
-    <text x="132" y="108" fill="#B8FFF1" font-family="'SF Pro Display','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" font-weight="800" letter-spacing="1.6">PROMPT AS CODE</text>
+    <text x="132" y="108" fill="#B8FFF1" font-family="'SF Pro Display','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="14" font-weight="800" letter-spacing="1.6">PROMPT AS CODE</text>
   </g>
 
-  <text x="112" y="171" fill="#F7FBFF" font-family="'SF Pro Display','PingFang SC','Microsoft YaHei',sans-serif" font-size="50" font-weight="850">GPT-Image2</text>
-  <text x="112" y="218" fill="#69EED8" font-family="'SF Pro Display','PingFang SC','Microsoft YaHei',sans-serif" font-size="32" font-weight="760">工业级提示词引擎与模板库</text>
-  <text x="112" y="255" fill="#BFD2E5" font-family="'SF Pro Text','PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="500">把社区案例逆向成可复用协议，让图像生成从灵感走向系统工程。</text>
+  <text x="112" y="171" fill="#F7FBFF" font-family="'SF Pro Display','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="50" font-weight="850">GPT-Image2</text>
+  <text x="112" y="218" fill="#69EED8" font-family="'SF Pro Display','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="32" font-weight="760">實務級提示詞引擎與範本庫</text>
+  <text x="112" y="255" fill="#BFD2E5" font-family="'SF Pro Text','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="500">把社群案例逆向整理成可重複使用的協議，讓影像生成從靈感走向系統工程。</text>
 
   <g filter="url(#smallShadow)">
     <rect x="112" y="286" width="154" height="42" rx="14" fill="#F7FBFF"/>
-    <text x="132" y="313" fill="#0B2538" font-family="'SF Pro Display','PingFang SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="850">370+ 案例</text>
+    <text x="132" y="313" fill="#0B2538" font-family="'SF Pro Display','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="19" font-weight="850">541 筆案例</text>
   </g>
   <g filter="url(#smallShadow)">
     <rect x="278" y="286" width="160" height="42" rx="14" fill="#0E3246" stroke="#73EBD5" stroke-opacity="0.42"/>
-    <text x="300" y="313" fill="#E9FFFA" font-family="'SF Pro Display','PingFang SC','Microsoft YaHei',sans-serif" font-size="19" font-weight="800">20+ 模板</text>
+    <text x="300" y="313" fill="#E9FFFA" font-family="'SF Pro Display','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="19" font-weight="800">20+ 套範本</text>
   </g>
   <g filter="url(#smallShadow)">
     <rect x="450" y="286" width="188" height="42" rx="14" fill="#122B3F" stroke="#9DBFFF" stroke-opacity="0.34"/>
-    <text x="472" y="313" fill="#EAF3FF" font-family="'SF Pro Display','PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="760">Schema 驱动</text>
+    <text x="472" y="313" fill="#EAF3FF" font-family="'SF Pro Display','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="760">Schema 驅動</text>
   </g>
 
   <g filter="url(#softShadow)">
     <rect x="728" y="70" width="174" height="220" rx="24" fill="url(#cardA)"/>
     <g clip-path="url(#clipCardA)">
       <rect x="728" y="70" width="174" height="54" fill="#102A42"/>
-      <text x="750" y="104" fill="#DDF7FF" font-family="'SF Pro Text','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" font-weight="760">Case Gallery</text>
+      <text x="750" y="104" fill="#DDF7FF" font-family="'SF Pro Text','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="16" font-weight="760">案例圖庫</text>
       <rect x="750" y="146" width="130" height="20" rx="10" fill="#BDE4F4"/>
       <rect x="750" y="180" width="94" height="12" rx="6" fill="#8EBED4"/>
       <rect x="750" y="202" width="118" height="12" rx="6" fill="#8EBED4"/>
@@ -96,7 +96,7 @@
       <rect x="902" y="136" width="136" height="88" rx="18" fill="#0B2538"/>
       <path d="M924 193L952 164L976 188L994 171L1020 203H924Z" fill="#7EE8D2"/>
       <circle cx="1006" cy="154" r="10" fill="#FFD86B"/>
-      <text x="902" y="252" fill="#17283A" font-family="'SF Pro Display','PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="850">Visual Output</text>
+      <text x="902" y="252" fill="#17283A" font-family="'SF Pro Display','PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif" font-size="18" font-weight="850">視覺輸出</text>
       <rect x="902" y="270" width="120" height="10" rx="5" fill="#C58D49" fill-opacity="0.42"/>
       <rect x="902" y="290" width="94" height="10" rx="5" fill="#C58D49" fill-opacity="0.42"/>
     </g>
