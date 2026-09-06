@@ -9,28 +9,6 @@
 - [案例總覽](docs/gallery.md) · [提示詞範本](docs/templates.md) · [繁中化規範與上游同步](docs/localization.md)
 - [參與編修](CONTRIBUTING.md) · [來源與授權聲明](docs/disclaimer.md)
 
-## 在本機啟動
-
-需要 Node.js 22.12 以上版本及 npm。在本專案目錄執行：
-
-```bash
-npm ci
-npm run dev
-```
-
-開啟終端機顯示的本機網址，即可瀏覽、搜尋、篩選案例及複製提示詞。單純瀏覽案例不需要 API 金鑰；登入、圖片生成與付款功能需另外設定後端服務。
-
-```bash
-npm run build              # 產生靜態網站至 dist/
-npm run start              # 啟動正式網站服務（需先完成 build）
-npm run check:localization # 檢查案例、來源、圖片與繁中內容
-npm test                   # 執行後端與自架服務測試
-```
-
-若更新來源文件中的英文提示詞，先執行 `npm run generate:prompt-translations` 更新 `zh-TW` 翻譯快取，再執行資料產生與檢查；此步驟需要網路連線。
-
-以下內容由上游 README 翻譯整理；本版本網站與 Discord 社群連結由本版本維護，上游來源與部分統計徽章仍保留原作者資訊。
-
 ---
 
 <p align="center"><img src="./data/images/banner.svg" alt="GPT-Image2 Prompt System" width="800" /></p>
