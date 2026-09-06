@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <strong>繁體中文（台灣）</strong> | <a href="./README.en.md">上游 English</a> | <a href="./README.zh-CN.md">上游简体中文</a> | <a href="./README.ja.md">上游日本語</a>
+  <strong>繁體中文（台灣）</strong>
 </p>
 
 ## 🌐 網站
