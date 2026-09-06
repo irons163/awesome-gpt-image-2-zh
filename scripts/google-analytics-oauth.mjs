@@ -82,5 +82,5 @@ if (!tokens.refresh_token) {
   process.exit(1);
 }
 
-console.log('\nAdd this to Vercel Environment Variables as a Sensitive value:\n');
+console.log('\n請將以下內容以敏感環境變數加入正式伺服器：\n');
 console.log(`GOOGLE_ANALYTICS_REFRESH_TOKEN=${tokens.refresh_token}`);

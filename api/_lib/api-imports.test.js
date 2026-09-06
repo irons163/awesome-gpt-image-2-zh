@@ -22,7 +22,7 @@ async function listApiModules(directory) {
   return modules;
 }
 
-test('all Vercel API modules load without broken imports', async () => {
+test('all API modules load without broken imports', async () => {
   const modules = await listApiModules(apiRoot);
   assert.ok(modules.length > 0);
 

@@ -22,8 +22,9 @@ npm run dev
 
 ```bash
 npm run build              # 產生靜態網站至 dist/
+npm run start              # 啟動 Hetzner 自架服務（需先完成 build）
 npm run check:localization # 檢查案例、來源、圖片與繁中內容
-npm test                   # 執行原有後端測試
+npm test                   # 執行後端與自架服務測試
 ```
 
 若更新來源文件中的英文提示詞，先執行 `npm run generate:prompt-translations` 更新 `zh-TW` 翻譯快取，再執行資料產生與檢查；此步驟需要網路連線。
@@ -57,6 +58,8 @@ npm test                   # 執行原有後端測試
 ## 🌐 網站與本機預覽
 
 部署完成後開啟 [gpt-image2.zero2codex.dev](https://gpt-image2.zero2codex.dev/) 可以用產品化方式瀏覽本版本案例：檢視大圖、複製完整 Prompt、按風格或場景篩選、登入後測試生成，並快速回到 GitHub 原始案例。
+
+本版本正式部署在既有的 Hetzner 主機，使用 `gpt-image2.zero2codex.dev` 子網域；部署步驟請參閱[自架說明](docs/deploy/hetzner.md)。
 
 <p align="center">
   <a href="https://gpt-image2.zero2codex.dev/">
@@ -275,7 +278,7 @@ npm run install:skill -- all
 
 ## 🔐 網站登入與生成測試
 
-視覺化網站已經接入登入後生成測試圖能力，底層使用 Supabase Auth、Supabase Postgres，以及 Vercel Function 代理 GPT Image 2 API。
+視覺化網站已經接入登入後生成測試圖能力，底層使用 Supabase Auth、Supabase Postgres，以及自架 Node.js API 服務代理 GPT Image 2 API。
 
 下列為本版本正式部署的設定範例；若自行架設，請將網站網址替換為你的網域。單純瀏覽案例不需要 API 金鑰。完整欄位見 [`.env.example`](.env.example)。
 
@@ -289,8 +292,16 @@ CIYUAN_API_KEY=
 CIYUAN_BASE_URL=https://ciyuan.today
 # 正式部署網址；本機開發請改用 http://localhost:5173。
 APP_URL=https://gpt-image2.zero2codex.dev
+HOST=127.0.0.1
+PORT=4174
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
+
+WATCHA_CLIENT_ID=
+WATCHA_CLIENT_SECRET=
+WATCHA_PUBLIC_CLIENT=false
+WATCHA_REDIRECT_URI=
+WATCHA_SCOPE=read email
 VITE_GA_MEASUREMENT_ID=
 GA4_PROPERTY_ID=
 GOOGLE_ANALYTICS_CLIENT_ID=
@@ -311,15 +322,16 @@ GOOGLE_ANALYTICS_REFRESH_TOKEN=
 - 在 Supabase Auth Redirect URLs 中加入 `https://gpt-image2.zero2codex.dev`，以及 `http://127.0.0.1:5173` 等本機開發地址。
 - 在 Supabase Dashboard 填入 Google OAuth 憑據並啟用 Google Provider。
 - 如需強制只允許 Google 登入，可以在 Supabase Auth settings 裡關閉 Email Provider。
-- `SUPABASE_SERVICE_ROLE_KEY` 只放在 Vercel Environment Variables 這類伺服器端環境裡。
+- `SUPABASE_SERVICE_ROLE_KEY` 只放在 Hetzner 伺服器的環境檔或秘密管理器裡，不要寫入儲存庫。
 - 設定 Stripe Checkout Webhook：`https://gpt-image2.zero2codex.dev/api/billing/webhook`。
 - Stripe Webhook 訂閱 `checkout.session.completed`、`invoice.payment_succeeded`、`customer.subscription.updated`、`customer.subscription.deleted`。
-- `STRIPE_SECRET_KEY` 和 `STRIPE_WEBHOOK_SECRET` 只放在 Vercel Environment Variables 這類伺服器端環境裡。
+- `STRIPE_SECRET_KEY` 和 `STRIPE_WEBHOOK_SECRET` 只放在 Hetzner 伺服器的環境檔或秘密管理器裡，不要寫入儲存庫。
 - 為 `gpt-image2.zero2codex.dev` 建立 GA4 property，把 measurement ID 填到 `VITE_GA_MEASUREMENT_ID`，把數字版 property ID 填到 `GA4_PROPERTY_ID`。
+- 若啟用 Watcha 登入，將 `https://gpt-image2.zero2codex.dev/api/auth/watcha/callback` 加入 Watcha 應用程式的回呼網址白名單。
 - 建立 Google OAuth Web Client，Authorized redirect URI 填 `http://localhost:8080/oauth2callback`，然後把 `GOOGLE_ANALYTICS_CLIENT_ID` 和 `GOOGLE_ANALYTICS_CLIENT_SECRET` 寫入本機 `.env.local`。
-- 執行 `npm run ga4:oauth`，開啟指令碼生成的授權連結，同意 `analytics.readonly` 許可權，把重新導向 URL 貼上回終端，再把得到的 `GOOGLE_ANALYTICS_REFRESH_TOKEN` 作為 Sensitive 環境變數加到 Vercel。
+- 執行 `npm run ga4:oauth`，開啟指令碼生成的授權連結，同意 `analytics.readonly` 許可權，把重新導向 URL 貼上回終端，再把得到的 `GOOGLE_ANALYTICS_REFRESH_TOKEN` 以敏感環境變數放到 Hetzner 伺服器。
 
-部署到 Vercel 後，將 `gpt-image2.zero2codex.dev` 綁定到該專案，並在 DNS 服務商建立 Vercel 提供的 `gpt-image2` 子網域記錄；`zero2codex.dev` 根網域可保留現有網站。
+Hetzner 部署與 Cloudflare DNS 設定請參閱[部署說明](docs/deploy/hetzner.md)。將 `gpt-image2.zero2codex.dev` 指向同一台主機即可；`zero2codex.dev` 根網域可保留現有網站。
 
 <a name="section-gallery"></a>
 

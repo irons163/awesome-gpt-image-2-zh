@@ -12,11 +12,12 @@
     "pack:skill": "npm pack ./agents/skills/gpt-image-2-style-library --dry-run",
     "predev": "npm run generate:site-data && npm run generate:style-skill",
     "dev": "vite",
+    "start": "node scripts/production-server.mjs",
     "dev:alipay-sandbox": "node scripts/alipay-webpay-sandbox-server.mjs",
     "prebuild": "npm run generate:site-data && npm run generate:style-skill",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "node --test api/_lib/*.test.js",
+    "test": "node --test api/_lib/*.test.js scripts/production-server.test.mjs",
     "check:localization": "node scripts/check-localization.mjs"
   },
   "dependencies": {

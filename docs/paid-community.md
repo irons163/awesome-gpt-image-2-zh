@@ -48,7 +48,7 @@ COMMUNITY_ALIPAY_NOTIFY_URL=https://your-domain.example/api/community/alipay/not
 COMMUNITY_SUPPORT_TEXT=請填寫本站客服聯絡方式
 ```
 
-支付寶正式變數沿用現有 `ALIPAY_APP_ID`、`ALIPAY_PRIVATE_KEY`、`ALIPAY_PUBLIC_KEY`、`ALIPAY_SELLER_ID` 和正式閘道器設定。正式私鑰只在 Vercel Sensitive Environment Variables 中設定，不寫入儲存庫、檔案或對話。
+支付寶正式變數沿用現有 `ALIPAY_APP_ID`、`ALIPAY_PRIVATE_KEY`、`ALIPAY_PUBLIC_KEY`、`ALIPAY_SELLER_ID` 和正式閘道器設定。正式私鑰只放在 Hetzner 伺服器的敏感環境變數或秘密管理器中，不寫入儲存庫、檔案或對話。
 
 ## 首次部署順序
 

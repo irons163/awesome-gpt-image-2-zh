@@ -28,7 +28,7 @@ function isSupabaseServerConfigured() {
   );
 }
 
-function attachVercelResponseHelpers(res) {
+function attachResponseHelpers(res) {
   res.status = (status) => {
     res.statusCode = status;
     return res;
@@ -52,9 +52,9 @@ function attachVercelResponseHelpers(res) {
   };
 }
 
-export function localVercelApi() {
+export function localApi() {
   return {
-    name: 'local-vercel-community-api',
+    name: 'local-community-api',
     apply: 'serve',
     configureServer(server) {
       server.middlewares.use(async (req, res, next) => {
@@ -82,7 +82,7 @@ export function localVercelApi() {
 
         req.query = Object.fromEntries(requestUrl.searchParams.entries());
         req.headers['x-forwarded-proto'] ||= 'http';
-        attachVercelResponseHelpers(res);
+        attachResponseHelpers(res);
 
         try {
           const module = await routeLoader();
