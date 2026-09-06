@@ -28,7 +28,7 @@ npm test                   # 執行原有後端測試
 
 若更新來源文件中的英文提示詞，先執行 `npm run generate:prompt-translations` 更新 `zh-TW` 翻譯快取，再執行資料產生與檢查；此步驟需要網路連線。
 
-以下內容由上游 README 翻譯整理；本版本網站與 Discord 社群連結由本版本維護，上游贊助服務與部分統計徽章仍屬原專案。
+以下內容由上游 README 翻譯整理；本版本網站與 Discord 社群連結由本版本維護，上游來源與部分統計徽章仍保留原作者資訊。
 
 ---
 
@@ -67,19 +67,6 @@ npm test                   # 執行原有後端測試
 ## Discord 社群
 
 歡迎加入 [Phil AI 的 Discord 社群](https://discord.gg/XmXqnb9zu)，與其他使用者分享提示詞、創作方法和使用經驗。
-
-## ❤️ 上游贊助資訊（原文翻譯）
-
-> 以下保留上游的贊助資訊與連結；服務、價格及優惠為上游快照內容。
-
-> [想出現在這裡？](data/images/sponsors/wechat-personal.jpg) 可以透過 GitHub Sponsors 支援專案，也可以在微信搜尋蒼何併傳送產品名與簡短贊助說明。
-
-| 贊助方 | 說明 |
-| ------ | ---- |
-| <a href="https://apimart.ai/register?aff=oQgzUQ"><img src="data/images/sponsors/apimart.jpg" alt="APIMart" width="240"></a> | 感謝 APIMart 贊助了本專案！APIMart 是專注 AI 圖片/影片生成的低價 API 平臺，GPT-Image-2 低至 `$0.006/張`，1 美元可出圖 160+ 張。圖片、影片一套非同步 API 皆可使用，提交任務拿 ID、回撥取結果，跑批萬張不超時、換模型不改程式碼。按量付費、無月費，透過此[註冊連結](https://apimart.ai/register?aff=oQgzUQ)註冊即可開用。 |
-| <a href="https://www.hiapi.ai/zh/register?aff=DzuH"><img src="data/images/sponsors/hiapi.jpg" alt="hiapi" width="240"></a> | 感謝 hiapi 贊助了本專案！hiapi 是聚焦 AI 圖片/影片生成的 API 平臺——GPT-Image-2 全系（文產生圖片、圖產生圖片、1K–4K）加 Seedance、可靈、萬相等影片模型，統一非同步 API 皆可使用：提交任務拿 `task_id`，輪詢或回撥取結果，跑批不超時、換模型不改程式碼。生成結果轉存自有 CDN 並**支援持久化儲存**——圖片/影片連結長期有效、隨時回取，免去自行下載備份。原生 Remote MCP 與 Agent Skills，一行接入 Claude Code、Cursor。中文介面與檔案、支援微信支付，按量付費無月費，新使用者註冊即送 $1（約 50 張圖）。透過此[註冊連結](https://www.hiapi.ai/zh/register?aff=DzuH&utm_source=github&utm_medium=sponsor&utm_campaign=awesome-gpt-image-2)即可開用。 |
-| <a href="https://www.packyapi.ai/register?aff=CV0c"><img src="data/images/sponsors/packycode.png" alt="PackyCode" width="240"></a> | 感謝 PackyCode 贊助本專案！PackyCode 是一家穩定、高效的 API 中轉服務商，提供 Claude Code、Codex、Gemini 等多種中轉服務，具備自動故障轉移、智慧路由和無限併發等功能，幫助 AI 程式設計提升生產效率。透過此[註冊連結](https://www.packyapi.ai/register?aff=CV0c)即可開始使用。 |
-| <a href="https://pptoken.cc/"><img src="data/images/sponsors/pptoken.png" alt="PPToken" width="240"></a> | 專案贊助方。PPToken 提供 ChatGPT、Claude、Gemini 等主流 AI 模型的 API 中轉和 Key 分發能力，支援低延遲、高可用、按量付費和靈活訂閱。 |
 
 <a name="section-vision"></a>
 
