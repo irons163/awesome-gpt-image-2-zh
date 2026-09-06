@@ -16,7 +16,6 @@ import {
   Github,
   Heart,
   ImageIcon,
-  Info,
   LoaderCircle,
   LogIn,
   LogOut,
@@ -41,7 +40,6 @@ import { isSupabaseConfigured, supabase } from './supabaseClient';
 import skillExampleImage from '../plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/taiwan-railway-travel-map.png';
 
 const fallbackRepoUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
-const upstreamRepoUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
 const discordUrl = import.meta.env.VITE_DISCORD_URL || 'https://discord.gg/XmXqnb9zu';
 const personalSiteUrl = 'https://philforge.com/';
 const codexLearningUrl = 'https://zero2codex.dev/';
@@ -56,7 +54,6 @@ const copy = {
     navCases: 'Cases',
     navSkill: 'Plugin',
     navTemplates: 'Templates',
-    navAbout: 'About',
     navDiscord: 'Discord',
     navPersonal: 'Personal site',
     navCodexLearning: 'Learn Codex',
@@ -94,17 +91,6 @@ const copy = {
     skillExampleAlt: 'Taiwan round-island railway travel map generated with the GPT-Image2 style library skill',
     skillExampleCaption: 'Example: create a Taiwan round-island railway travel map with gpt-image-2-style-library.',
     skillStats: ['Agent Plugins 1.0', 'Portable package', '20+ templates'],
-    aboutEyebrow: 'About',
-    aboutTitle: 'A Taiwan-localized home for GPT-Image2 prompts.',
-    aboutSubtitle:
-      'This project turns the public GPT-Image2 case library into a Taiwan Traditional Chinese workspace for browsing, reuse, and Agent workflows. Original licensing, author attribution, and source links remain available throughout the project.',
-    aboutSourceLabel: 'Original project',
-    aboutSourceDetail: 'freestylefly/awesome-gpt-image-2',
-    aboutLocalLabel: 'Taiwan edition',
-    aboutLocalDetail: 'irons163/awesome-gpt-image-2-zh',
-    aboutCommunityLabel: 'Community',
-    aboutCommunityDetail: 'Join Phil AI on Discord',
-    aboutOpen: 'Open',
     search: 'Search cases, sources, prompts...',
     category: 'Category',
     style: 'Style',
@@ -290,7 +276,6 @@ const copy = {
     navCases: '案例',
     navSkill: '外掛',
     navTemplates: '範本',
-    navAbout: 'About',
     navDiscord: 'Discord 社群',
     navPersonal: '個人主頁',
     navCodexLearning: '從零開始學習 Codex',
@@ -328,17 +313,6 @@ const copy = {
     skillExampleAlt: '由 GPT-Image2 風格庫技能產生的台灣環島鐵道旅行圖',
     skillExampleCaption: '範例：透過 gpt-image-2-style-library 建立「台灣環島鐵道旅行圖」。',
     skillStats: ['Agent Plugins 1.0', '可攜式套件', '20+ 個範本'],
-    aboutEyebrow: 'About',
-    aboutTitle: '關於這個 GPT-Image2 圖庫',
-    aboutSubtitle:
-      '這是 GPT-Image2 公開案例庫的台灣繁中在地化版本，整理案例、提示詞與範本，方便搜尋、複製並放進 Agent 工作流程。專案保留原始授權、作者署名與來源連結，案例圖片則依台灣繁中提示詞重新生成。',
-    aboutSourceLabel: '原始專案',
-    aboutSourceDetail: 'freestylefly/awesome-gpt-image-2',
-    aboutLocalLabel: '繁中版本',
-    aboutLocalDetail: 'irons163/awesome-gpt-image-2-zh',
-    aboutCommunityLabel: 'Discord 社群',
-    aboutCommunityDetail: '加入 Phil AI 社群',
-    aboutOpen: '開啟',
     search: '搜尋案例、來源、提示詞…',
     category: '分類',
     style: '風格',
@@ -2667,61 +2641,6 @@ function SkillSection({ language, repoUrl }) {
   );
 }
 
-function AboutSection({ language, repoUrl, totalCases }) {
-  const t = copy[language];
-  const links = [
-    {
-      href: upstreamRepoUrl,
-      icon: Github,
-      label: t.aboutSourceLabel,
-      detail: t.aboutSourceDetail
-    },
-    {
-      href: repoUrl,
-      icon: Info,
-      label: t.aboutLocalLabel,
-      detail: t.aboutLocalDetail
-    },
-    {
-      href: discordUrl,
-      icon: MessageCircle,
-      label: t.aboutCommunityLabel,
-      detail: t.aboutCommunityDetail
-    }
-  ];
-
-  return (
-    <section className="aboutSection" id="about">
-      <div className="aboutIntro">
-        <span className="eyebrow">
-          <Info size={16} />
-          {t.aboutEyebrow}
-        </span>
-        <h2>{t.aboutTitle}</h2>
-        <p>{t.aboutSubtitle}</p>
-        <div className="aboutStats" aria-label={t.aboutEyebrow}>
-          <span>{language === 'zh' ? '繁體中文（台灣）' : 'Taiwan Traditional Chinese'}</span>
-          <span>{totalCases} {t.cases}</span>
-          <span>{language === 'zh' ? '20+ 個範本' : '20+ templates'}</span>
-        </div>
-      </div>
-      <div className="aboutLinks">
-        {links.map(({ href, icon: Icon, label, detail }) => (
-          <a href={href} target="_blank" rel="noreferrer" key={label}>
-            <span className="aboutLinkIcon"><Icon size={18} /></span>
-            <span className="aboutLinkText">
-              <strong>{label}</strong>
-              <small>{detail}</small>
-            </span>
-            <ArrowUpRight size={16} />
-            <em>{t.aboutOpen}</em>
-          </a>
-        ))}
-      </div>
-    </section>
-  );
-}
-
 function TemplateSection({ language, styleLibrary, onOpenTemplate }) {
   const t = copy[language];
   const repoDocsUrl = `${styleLibrary.repository || fallbackRepoUrl}/blob/main/${styleLibrary.templateDocument}`;
@@ -3180,7 +3099,6 @@ function App() {
             <a href="#gallery">{t.navCases}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
-            <a href="#about">{t.navAbout}</a>
             <a href={personalSiteUrl} target="_blank" rel="noreferrer">
               {t.navPersonal}
             </a>
@@ -3336,7 +3254,6 @@ function App() {
       />
 
       <SkillSection language={language} repoUrl={repoUrl} />
-      <AboutSection language={language} repoUrl={repoUrl} totalCases={siteData.totalCases} />
       <PreviewDialog
         preview={preview}
         language={language}
