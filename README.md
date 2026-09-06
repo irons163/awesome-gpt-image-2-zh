@@ -397,6 +397,8 @@ codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
 
 ## 致謝與來源說明
 
+特別感謝 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 提供原始專案與內容基礎。本專案依其授權進行台灣繁中在地化，並保留原作者署名與來源連結。
+
 本專案在整理與研究過程中，參考並使用了 [YouMind](https://youmind.com/) 與 [OpenNana](https://opennana.com/) 的公開提示詞庫內容，僅用於學習、歸納與方法論研究。相關內容版權歸原作者或原平臺所有，如有侵權或不當使用請聯絡處理，我們將第一時間修正或下線。
 
 ## 宣告 (Disclaimer)
