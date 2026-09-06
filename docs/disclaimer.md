@@ -23,7 +23,7 @@
 
 ## Star 趨勢圖
 
-[![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/awesome-gpt-image-2&type=Date)](https://star-history.com/#freestylefly/awesome-gpt-image-2&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=irons163/awesome-gpt-image-2-zh&type=Date)](https://star-history.com/#irons163/awesome-gpt-image-2-zh&Date)
 
 ## 上游公眾帳號與交流社群
 
