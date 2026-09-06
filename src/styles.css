@@ -1159,6 +1159,7 @@ button {
   padding: 0 14px;
   border-radius: 8px;
   color: #aebcd0;
+  scroll-margin-top: 92px;
 }
 
 .resultBar a {
@@ -2927,10 +2928,47 @@ button {
   color: #93a4bc;
 }
 
-.limitNote {
-  margin: 24px 0 0;
-  color: #8d9bb0;
-  text-align: center;
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 28px 0 0;
+}
+
+.pagination button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-width: 42px;
+  min-height: 42px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+  padding: 0 12px;
+  background: rgba(9, 15, 32, 0.78);
+  color: #c9d5e7;
+  font-weight: 800;
+}
+
+.pagination button:hover:not(:disabled),
+.pagination button.active {
+  border-color: rgba(103, 232, 249, 0.82);
+  background: rgba(103, 232, 249, 0.16);
+  color: #ffffff;
+}
+
+.pagination button:disabled {
+  cursor: not-allowed;
+  opacity: 0.38;
+}
+
+.pageNumbers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
 }
 
 @keyframes floatGlow {

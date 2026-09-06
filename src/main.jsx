@@ -5,6 +5,8 @@ import {
   BarChart3,
   Bot,
   ChevronDown,
+  ChevronLeft,
+  ChevronRight,
   Check,
   Coins,
   Copy,
@@ -95,6 +97,9 @@ const copy = {
     scene: 'Scene',
     all: 'All',
     matching: 'matching cases',
+    previousPage: 'Previous',
+    nextPage: 'Next',
+    pageStatus: (current, total) => `Page ${current} of ${total}`,
     openGithub: 'View GitHub project',
     copied: 'Copied',
     copyPrompt: 'Copy Prompt',
@@ -263,8 +268,7 @@ const copy = {
     pitfalls: 'Pitfalls',
     examples: 'Example Cases',
     source: 'Original source',
-    openOnGithub: 'View case on GitHub',
-    limit: (count) => `Showing the first ${count} results for speed. Use search or filters to narrow the gallery.`
+    openOnGithub: 'View case on GitHub'
   },
   zh: {
     loading: '正在載入 GPT-Image2 案例…',
@@ -315,6 +319,9 @@ const copy = {
     scene: '場景',
     all: '全部',
     matching: '則符合條件的案例',
+    previousPage: '上一頁',
+    nextPage: '下一頁',
+    pageStatus: (current, total) => `第 ${current}／${total} 頁`,
     openGithub: '查看 GitHub 專案',
     copied: '已複製',
     copyPrompt: '複製提示詞',
@@ -483,8 +490,7 @@ const copy = {
     pitfalls: '注意事項',
     examples: '相關案例',
     source: '原始來源',
-    openOnGithub: '在 GitHub 查看案例',
-    limit: (count) => `為維持瀏覽速度，目前僅顯示前 ${count} 項結果。請使用搜尋或篩選縮小範圍。`
+    openOnGithub: '在 GitHub 查看案例'
   }
 };
 
@@ -569,6 +575,7 @@ const GENERATED_TESTS_STORAGE_KEY = 'gpt-image-2-generated-tests:v1';
 const MAX_SAVED_GENERATIONS = 12;
 const HERO_CASE_COUNT = 5;
 const HOT_STRIP_CASE_COUNT = 8;
+const CASES_PER_PAGE = 72;
 let bodyScrollLockCount = 0;
 let bodyScrollLockState = null;
 
@@ -2949,6 +2956,7 @@ function App() {
   const [category, setCategory] = useState('All');
   const [style, setStyle] = useState('All');
   const [scene, setScene] = useState('All');
+  const [currentPage, setCurrentPage] = useState(1);
   const [preview, setPreview] = useState(null);
   const { copiedId, copyPrompt, copyText } = useCopy(language);
   const repoUrl = siteData?.repository || fallbackRepoUrl;
@@ -3036,7 +3044,26 @@ function App() {
     [siteData, styleLibrary]
   );
 
-  const visibleCases = filteredCases.slice(0, 72);
+  const totalPages = Math.max(1, Math.ceil(filteredCases.length / CASES_PER_PAGE));
+  const pageStart = (currentPage - 1) * CASES_PER_PAGE;
+  const visibleCases = filteredCases.slice(pageStart, pageStart + CASES_PER_PAGE);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [query, category, style, scene]);
+
+  useEffect(() => {
+    if (currentPage > totalPages) setCurrentPage(totalPages);
+  }, [currentPage, totalPages]);
+
+  const goToPage = (page) => {
+    const nextPage = Math.min(Math.max(page, 1), totalPages);
+    if (nextPage === currentPage) return;
+    setCurrentPage(nextPage);
+    window.requestAnimationFrame(() => {
+      document.getElementById('case-results')?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    });
+  };
 
   const normalizedPath = window.location.pathname.replace(/\/+$/, '') || '/';
   const isLegacyCommunityRoute = normalizedPath === '/community' || normalizedPath === '/community/result';
@@ -3162,7 +3189,7 @@ function App() {
           </div>
         </div>
 
-        <div className="resultBar">
+        <div className="resultBar" id="case-results">
           <span>{language === 'zh' ? `${filteredCases.length} ${t.matching}` : `${filteredCases.length} ${t.matching}`}</span>
           <a href={repoUrl} target="_blank" rel="noreferrer">
             {t.openGithub}
@@ -3184,10 +3211,39 @@ function App() {
           ))}
         </div>
 
-        {filteredCases.length > visibleCases.length && (
-          <p className="limitNote">
-            {t.limit(visibleCases.length)}
-          </p>
+        {totalPages > 1 && (
+          <nav className="pagination" aria-label={t.pageStatus(currentPage, totalPages)}>
+            <button
+              type="button"
+              onClick={() => goToPage(currentPage - 1)}
+              disabled={currentPage === 1}
+            >
+              <ChevronLeft size={18} />
+              {t.previousPage}
+            </button>
+            <div className="pageNumbers">
+              {Array.from({ length: totalPages }, (_, index) => index + 1).map((page) => (
+                <button
+                  className={page === currentPage ? 'active' : ''}
+                  type="button"
+                  aria-current={page === currentPage ? 'page' : undefined}
+                  aria-label={t.pageStatus(page, totalPages)}
+                  onClick={() => goToPage(page)}
+                  key={page}
+                >
+                  {page}
+                </button>
+              ))}
+            </div>
+            <button
+              type="button"
+              onClick={() => goToPage(currentPage + 1)}
+              disabled={currentPage === totalPages}
+            >
+              {t.nextPage}
+              <ChevronRight size={18} />
+            </button>
+          </nav>
         )}
       </section>
 
