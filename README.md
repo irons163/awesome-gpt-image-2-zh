@@ -18,7 +18,7 @@ npm ci
 npm run dev
 ```
 
-開啟終端機顯示的本機網址，即可瀏覽、搜尋、篩選案例及複製提示詞。登入、圖片生成與付款功能需另外設定自己的後端服務，請參閱下方設定說明。
+開啟終端機顯示的本機網址，即可瀏覽、搜尋、篩選案例及複製提示詞。單純瀏覽案例不需要 API 金鑰；登入、圖片生成與付款功能需另外設定後端服務。
 
 ```bash
 npm run build              # 產生靜態網站至 dist/
@@ -57,7 +57,7 @@ npm test                   # 執行後端與自架服務測試
 
 ## 🌐 網站與本機預覽
 
-部署完成後開啟 [gpt-image2.zero2codex.dev](https://gpt-image2.zero2codex.dev/) 可以用產品化方式瀏覽本版本案例：檢視大圖、複製完整 Prompt、按風格或場景篩選、登入後測試生成，並快速回到 GitHub 原始案例。
+部署完成後開啟 [gpt-image2.zero2codex.dev](https://gpt-image2.zero2codex.dev/) 可以用產品化方式瀏覽本版本案例：檢視大圖、複製完整 Prompt、按風格或場景篩選，並快速回到 GitHub 原始案例。
 
 本版本正式部署在既有的 Hetzner 主機，使用 `gpt-image2.zero2codex.dev` 子網域；部署步驟請參閱[自架說明](docs/deploy/hetzner.md)。
 
@@ -275,64 +275,6 @@ npm run install:skill -- all
 安裝器會覆寫目標目錄中同名的 `gpt-image-2-style-library` 技能。若已有自行修改的版本，請先備份。安裝後重新開啟 Agent 工作階段。
 
 此處安裝的是本專案的繁中內容；上游 npm 套件與 GitHub 安裝指令對應原始版本。
-
-## 🔐 網站登入與生成測試
-
-視覺化網站已經接入登入後生成測試圖能力，底層使用 Supabase Auth、Supabase Postgres，以及自架 Node.js API 服務代理 GPT Image 2 API。
-
-下列為本版本正式部署的設定範例；若自行架設，請將網站網址替換為你的網域。單純瀏覽案例不需要 API 金鑰。完整欄位見 [`.env.example`](.env.example)。
-
-```bash
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-VITE_DISCORD_URL=https://discord.gg/XmXqnb9zu
-SUPABASE_SERVICE_ROLE_KEY=
-SUPER_ADMIN_EMAILS=
-CIYUAN_API_KEY=
-CIYUAN_BASE_URL=https://ciyuan.today
-# 正式部署網址；本機開發請改用 http://localhost:5173。
-APP_URL=https://gpt-image2.zero2codex.dev
-# Hetzner 上的 Docker Caddy 透過私有 bridge 連到 Node；一般自架可用 127.0.0.1。
-HOST=172.17.0.1
-PORT=4174
-STRIPE_SECRET_KEY=
-STRIPE_WEBHOOK_SECRET=
-
-WATCHA_CLIENT_ID=
-WATCHA_CLIENT_SECRET=
-WATCHA_PUBLIC_CLIENT=false
-WATCHA_REDIRECT_URI=
-WATCHA_SCOPE=read email
-VITE_GA_MEASUREMENT_ID=
-GA4_PROPERTY_ID=
-GOOGLE_ANALYTICS_CLIENT_ID=
-GOOGLE_ANALYTICS_CLIENT_SECRET=
-GOOGLE_ANALYTICS_REFRESH_TOKEN=
-```
-
-設定清單：
-
-- 依時間順序套用 `supabase/migrations/` 內的 migration；`20260902090000_zh_tw_catalog_copy.sql` 會將預設方案文案更新為台灣繁中。
-
-- 將 [`supabase/migrations/202605090001_user_credits.sql`](supabase/migrations/202605090001_user_credits.sql) 應用到 Supabase 專案。
-- 將 [`supabase/migrations/20260509090000_membership_billing.sql`](supabase/migrations/20260509090000_membership_billing.sql) 應用到 Supabase 專案，新增會員方案、點數包、Stripe 訂單記錄和點數調整 RPC。
-- 啟用支付寶網站支付前，應用 [`supabase/migrations/20260721090000_alipay_webpay.sql`](supabase/migrations/20260721090000_alipay_webpay.sql)，併為需要銷售的點數包設定經業務確認的人民幣價格。詳見[支付寶網站支付接入說明](docs/alipay-web-payment.md)。
-- 將 [`supabase/migrations/20260512090000_google_account_center.sql`](supabase/migrations/20260512090000_google_account_center.sql) 應用到 Supabase 專案，新增帳戶用量統計和超級管理員強制扣點數邏輯。
-- 將 [`supabase/migrations/20260512143000_pricing_admin_metrics.sql`](supabase/migrations/20260512143000_pricing_admin_metrics.sql) 應用到 Supabase 專案，更新 `$5 / 300 credits` 價格體系，並新增管理員資料看板指標。
-- 將 [`supabase/migrations/20260515090000_case_favorites.sql`](supabase/migrations/20260515090000_case_favorites.sql) 應用到 Supabase 專案，新增使用者案例收藏表。
-- 在 Supabase Auth Redirect URLs 中加入 `https://gpt-image2.zero2codex.dev`，以及 `http://127.0.0.1:5173` 等本機開發地址。
-- 在 Supabase Dashboard 填入 Google OAuth 憑據並啟用 Google Provider。
-- 如需強制只允許 Google 登入，可以在 Supabase Auth settings 裡關閉 Email Provider。
-- `SUPABASE_SERVICE_ROLE_KEY` 只放在 Hetzner 伺服器的環境檔或秘密管理器裡，不要寫入儲存庫。
-- 設定 Stripe Checkout Webhook：`https://gpt-image2.zero2codex.dev/api/billing/webhook`。
-- Stripe Webhook 訂閱 `checkout.session.completed`、`invoice.payment_succeeded`、`customer.subscription.updated`、`customer.subscription.deleted`。
-- `STRIPE_SECRET_KEY` 和 `STRIPE_WEBHOOK_SECRET` 只放在 Hetzner 伺服器的環境檔或秘密管理器裡，不要寫入儲存庫。
-- 為 `gpt-image2.zero2codex.dev` 建立 GA4 property，把 measurement ID 填到 `VITE_GA_MEASUREMENT_ID`，把數字版 property ID 填到 `GA4_PROPERTY_ID`。
-- 若啟用 Watcha 登入，將 `https://gpt-image2.zero2codex.dev/api/auth/watcha/callback` 加入 Watcha 應用程式的回呼網址白名單。
-- 建立 Google OAuth Web Client，Authorized redirect URI 填 `http://localhost:8080/oauth2callback`，然後把 `GOOGLE_ANALYTICS_CLIENT_ID` 和 `GOOGLE_ANALYTICS_CLIENT_SECRET` 寫入本機 `.env.local`。
-- 執行 `npm run ga4:oauth`，開啟指令碼生成的授權連結，同意 `analytics.readonly` 許可權，把重新導向 URL 貼上回終端，再把得到的 `GOOGLE_ANALYTICS_REFRESH_TOKEN` 以敏感環境變數放到 Hetzner 伺服器。
-
-Hetzner 部署與 Cloudflare DNS 設定請參閱[部署說明](docs/deploy/hetzner.md)。將 `gpt-image2.zero2codex.dev` 指向同一台主機即可；`zero2codex.dev` 根網域可保留現有網站。
 
 <a name="section-gallery"></a>
 
