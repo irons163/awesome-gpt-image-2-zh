@@ -22,7 +22,7 @@ npm run dev
 
 ```bash
 npm run build              # 產生靜態網站至 dist/
-npm run start              # 啟動 Hetzner 自架服務（需先完成 build）
+npm run start              # 啟動正式網站服務（需先完成 build）
 npm run check:localization # 檢查案例、來源、圖片與繁中內容
 npm test                   # 執行後端與自架服務測試
 ```
@@ -48,11 +48,9 @@ npm test                   # 執行後端與自架服務測試
   <strong>繁體中文（台灣）</strong> | <a href="./README.en.md">上游 English</a> | <a href="./README.zh-CN.md">上游简体中文</a> | <a href="./README.ja.md">上游日本語</a>
 </p>
 
-## 🌐 網站與本機預覽
+## 🌐 網站
 
-部署完成後開啟 [gpt-image2.zero2codex.dev](https://gpt-image2.zero2codex.dev/) 可以用產品化方式瀏覽本版本案例：檢視大圖、複製完整 Prompt、按風格或場景篩選，並快速回到 GitHub 原始案例。
-
-本版本正式部署在既有的 Hetzner 主機，使用 `gpt-image2.zero2codex.dev` 子網域；部署步驟請參閱[自架說明](docs/deploy/hetzner.md)。
+開啟 [gpt-image2.zero2codex.dev](https://gpt-image2.zero2codex.dev/) 即可瀏覽本版本案例：檢視大圖、複製完整提示詞、依風格或情境篩選，並快速回到 GitHub 原始案例。
 
 <p align="center">
   <a href="https://gpt-image2.zero2codex.dev/">
