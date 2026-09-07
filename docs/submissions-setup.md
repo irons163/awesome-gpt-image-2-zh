@@ -1,0 +1,47 @@
+# 投稿串接設定（維護者）
+
+網站訪客免登入投稿，後端使用 GitHub App 建立公開 Issue。
+Issue 不會自動上架到圖庫，維護者仍須審核。
+
+## GitHub App
+
+在 https://github.com/settings/apps/new 建立僅供自己安裝的 App：
+- 名稱：自行選擇尚未被使用的名稱，例如 phil-image-gallery-submissions。
+- Homepage URL：https://gpt-image2.zero2codex.dev/
+- 關閉 Webhook，不需要 OAuth callback。
+- Repository permissions：Issues — Read and write，其他維持預設。
+- 安裝時僅選 irons163/awesome-gpt-image-2-zh。
+- 記錄 App ID 和安裝頁網址中的 Installation ID，產生 PEM 私鑰。
+
+## Cloudflare Turnstile
+
+建立 Managed widget，允許 hostname：gpt-image2.zero2codex.dev。
+取得 Site key 與 Secret key。驗證由後端呼叫 Siteverify 完成。
+
+## Hetzner 設定
+
+將以下變數加入現有服務使用的環境檔；私鑰和 Secret 不要提交至 Git。
+私鑰放於主機受保護路徑，讓 gpt-image2 服務帳號可讀取即可。
+
+    GITHUB_APP_ID=
+    GITHUB_INSTALLATION_ID=
+    GITHUB_APP_PRIVATE_KEY_PATH=/etc/gpt-image2/submission-app.pem
+    TURNSTILE_SITE_KEY=
+    TURNSTILE_SECRET_KEY=
+    SUBMISSION_ORIGIN=https://gpt-image2.zero2codex.dev
+    SUBMISSION_UPLOAD_DIR=/var/lib/gpt-image2/submissions
+
+建立上傳資料夾並讓 gpt-image2 擁有讀寫權限，加入主機備份。
+若 systemd 設定了 ProtectSystem，需將此資料夾加入 ReadWritePaths。
+重啟服務後 /api/submissions 應回傳 enabled: true，網站表單才會啟用。
+啟用前需實際投稿一次，確認 bot 作者、圖片顯示與成功回條。
+
+## 審核與維護
+
+投稿只接受 PNG/JPEG、最多 3 MB；所有訪客每小時合計最多 20 次提交嘗試（服務重啟後重置）。
+GitHub App 權杖只在後端取得。圖片以隨機檔名透過圖片 API 公開，不能列出目錄。
+投稿者必須同意內容在 GitHub 公開；不收集電子郵件。
+
+若 GitHub 請求結果不確定，圖片與 pending JSON 回條會保留在上傳資料夾。
+先以回條的投稿編號搜尋 GitHub Issues，確認是否已建立再手動處理，避免重複建立。
+拒絕投稿若需刪圖，依回條編號移除对应圖片；關閉 Issue 不會自動刪除圖片。

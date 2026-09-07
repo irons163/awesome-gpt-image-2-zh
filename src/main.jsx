@@ -36,6 +36,7 @@ import {
   X
 } from 'lucide-react';
 import './styles.css';
+import SubmissionForm from './SubmissionForm';
 import { isSupabaseConfigured, supabase } from './supabaseClient';
 import skillExampleImage from '../plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/taiwan-railway-travel-map.png';
 
@@ -3121,6 +3122,7 @@ function App() {
             <a href="#gallery">{t.navCases}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
+            <a href="#submit">{language === 'zh' ? '投稿案例' : 'Submit a case'}</a>
             <a href={personalSiteUrl} target="_blank" rel="noreferrer">
               {t.navPersonal}
             </a>
@@ -3276,6 +3278,7 @@ function App() {
       />
 
       <SkillSection language={language} repoUrl={repoUrl} />
+      <SubmissionForm language={language} />
       <PreviewDialog
         preview={preview}
         language={language}

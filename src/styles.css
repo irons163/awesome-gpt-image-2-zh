@@ -3412,3 +3412,22 @@ button {
     width: 100%;
   }
 }
+
+.submissionSection {
+  width: min(760px, calc(100% - 32px));
+  margin: 40px auto 80px;
+  scroll-margin-top: 120px;
+}
+.submissionSection p { color: #b7c7df; line-height: 1.7; }
+.submissionSection a { color: #9eeeff; text-decoration: underline; }
+.submissionSection form, .submissionSection label { display: grid; gap: 10px; }
+.submissionSection form { gap: 20px; }
+.submissionSection input:not([type=checkbox]), .submissionSection textarea {
+  width: 100%; min-width: 0; padding: 12px; color: #eef5ff;
+  background: #0b1020; border: 1px solid #44516a; border-radius: 8px; font: inherit;
+}
+.submissionSection textarea { resize: vertical; }
+.submissionSection .submissionConsent { display: flex; align-items: flex-start; line-height: 1.6; }
+.submissionSection .submissionTrap { display: none; }
+.submissionSection button { min-height: 44px; padding: 10px 20px; border-radius: 8px; background: #9eeeff; color: #060914; border: 0; font: inherit; }
+.submissionSection button:disabled { opacity: .5; cursor: not-allowed; }
