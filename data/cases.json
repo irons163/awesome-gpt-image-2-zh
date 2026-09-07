@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/irons163/awesome-gpt-image-2-zh",
-  "totalCases": 541,
+  "totalCases": 542,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -24,6 +24,7 @@
     "Characters",
     "Charts",
     "Classical",
+    "Community",
     "Documents",
     "History",
     "Illustration",
@@ -50,6 +51,31 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 1000002,
+      "title": "Test",
+      "image": "/images/submissions/issue-2.png",
+      "imageAlt": "Test",
+      "sourceLabel": "Phil",
+      "sourceUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/issues/2",
+      "contributorUrl": "未提供",
+      "model": "gpt-image2",
+      "prompt": "漂亮的風景",
+      "promptZh": "漂亮的風景",
+      "promptPreview": "漂亮的風景",
+      "promptPreviewZh": "漂亮的風景",
+      "category": "Other Use Cases",
+      "styles": [
+        "Community"
+      ],
+      "scenes": [
+        "Creative"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/issues/2",
+      "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/issues/2",
+      "submissionIssue": 2
+    },
     {
       "id": 544,
       "title": "幼兒詞彙拆解學習卡",
