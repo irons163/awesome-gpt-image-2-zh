@@ -54,7 +54,7 @@ GitHub App 權杖只在後端取得。圖片以隨機檔名透過圖片 API 公�
 4. 合併 PR 至 main 後，等待 Validate Taiwan Traditional Chinese edition 通過。Hetzner 每兩分鐘檢查一次，建置成功後更新網站；訪客重新整理即可看到。
 
 投稿使用獨立資料檔，案例 ID 為 1000000 + Issue 編號；不改動上游來源快照。
-建立 PR 使用 GitHub Actions 的短效 GITHUB_TOKEN，並在建立前執行完整檢查。此權杖建立的 PR 不會再自動觸發另一輪 Actions，合併至 main 後仍會執行 push 檢查。
+建立 PR 使用 GitHub Actions 的短效 GITHUB_TOKEN，並在建立前執行完整檢查。GitHub 若將 bot 建立的 PR 檢查標為 Requires approval，維護者需在 Actions 核准執行；合併至 main 後仍會執行 push 檢查。
 若初次執行失敗，可在 Actions 手動執行 Prepare approved submission 並輸入 Issue 編號。已存在分支會保留修改；已關閉 PR 不會自動重開。
 
 伺服器使用 root 擁有的 `/usr/local/sbin/gpt-image2-auto-deploy` 與 `gpt-image2-deploy.timer`；建置以 gpt-image2 帳號執行。腳本來源為 scripts/auto-deploy.sh，修改後需由維護者重新安裝。建置失敗保留原靜態網站，部署結果可查 `journalctl -u gpt-image2-deploy.service`。
