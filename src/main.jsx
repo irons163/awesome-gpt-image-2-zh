@@ -2949,6 +2949,8 @@ function App() {
   useGaPageViews();
   const [siteData, setSiteData] = useState(null);
   const [styleLibrary, setStyleLibrary] = useState(null);
+  const [isHeaderHidden, setIsHeaderHidden] = useState(false);
+  const lastScrollY = useRef(0);
   const [language, setLanguage] = useState(() => (
     localStorage.getItem('language') === 'en' ? 'en' : 'zh'
   ));
@@ -2961,6 +2963,26 @@ function App() {
   const { copiedId, copyPrompt, copyText } = useCopy(language);
   const repoUrl = siteData?.repository || fallbackRepoUrl;
   const t = copy[language];
+
+  useEffect(() => {
+    lastScrollY.current = window.scrollY || 0;
+
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY || 0;
+      const scrollDelta = currentScrollY - lastScrollY.current;
+
+      if (currentScrollY <= 12 || scrollDelta < 0) {
+        setIsHeaderHidden(false);
+      } else if (scrollDelta > 0 && currentScrollY > 48) {
+        setIsHeaderHidden(true);
+      }
+
+      lastScrollY.current = currentScrollY;
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   useEffect(() => {
     let cancelled = false;
@@ -3089,7 +3111,7 @@ function App() {
 
   return (
     <main>
-      <header className="topbar">
+      <header className={cx('topbar', isHeaderHidden && 'topbarHidden')}>
         <a className="brand" href="#">
           <WandSparkles size={21} />
           {t.brand}

@@ -3122,15 +3122,39 @@ button {
     grid-template-columns: minmax(0, 1fr) auto;
     align-items: center;
     column-gap: 8px;
-    row-gap: 10px;
-    min-height: 64px;
+    row-gap: 8px;
+    height: auto;
+    min-height: 0;
+    padding: 8px 0 10px;
+    transition: transform 220ms ease, opacity 220ms ease;
+    will-change: transform;
+  }
+
+  .topbar.topbarHidden {
+    transform: translateY(calc(-100% - 12px));
+    opacity: 0;
+    pointer-events: none;
   }
 
   .brand {
     grid-column: 1;
     grid-row: 1;
     width: fit-content;
-    max-width: min(100%, 205px);
+    max-width: calc(100vw - 96px);
+    min-width: 0;
+    min-height: 40px;
+    gap: 7px;
+    padding: 0 11px;
+    font-size: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .brand svg {
+    flex: 0 0 auto;
+    width: 18px;
+    height: 18px;
   }
 
   .topbarControls {
@@ -3138,11 +3162,18 @@ button {
   }
 
   .topbar nav {
-    grid-column: 1;
+    grid-column: 1 / -1;
     grid-row: 2;
     width: 100%;
     max-width: 100%;
+    min-width: 0;
+    min-height: 40px;
+    gap: 0;
     overflow-x: auto;
+    overscroll-behavior-x: contain;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    padding: 3px 5px;
     scrollbar-width: none;
   }
 
@@ -3151,12 +3182,16 @@ button {
   }
 
   .topbar nav a {
-    padding: 0 8px;
+    flex: 0 0 auto;
+    min-height: 32px;
+    padding: 0 10px;
+    font-size: 14px;
+    white-space: nowrap;
   }
 
   .languageSwitch {
     grid-column: 2;
-    grid-row: 2;
+    grid-row: 1;
     justify-self: end;
   }
 
