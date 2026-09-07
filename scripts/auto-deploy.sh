@@ -6,8 +6,9 @@ flock -n 9 || exit 0
 cd /var/www/gpt-image2
 as_gallery() { sudo -u gpt-image2 "$@"; }
 as_gallery git fetch origin main --quiet
-next=$(git rev-parse origin/main)
-current=$(cat /var/lib/gpt-image2/deployed-revision 2>/dev/null || git rev-parse HEAD)
+next=$(as_gallery git rev-parse origin/main)
+current=$(cat /var/lib/gpt-image2/deployed-revision 2>/dev/null || as_gallery git rev-parse HEAD)
+[ -f /var/lib/gpt-image2/deployed-revision ] || printf '%s\n' "$current" > /var/lib/gpt-image2/deployed-revision
 [ "$next" != "$current" ] || exit 0
 # Only deploy a main commit that passed the repository's validation workflow.
 if ! python3 - "$next" <<'PY'
