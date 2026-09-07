@@ -11,8 +11,9 @@ const hash = (value) => createHash('sha256').update(JSON.stringify(value)).diges
 const snapshot = json('scripts/upstream-snapshot.json');
 const data = json('data/cases.json');
 const promptTranslations = json('data/prompt-translations.zh-TW.json');
-const cases = [...data.cases].sort((a, b) => a.id - b.id);
-assert.equal(data.totalCases, cases.length);
+const community = data.cases.filter(item => item.submissionIssue);
+const cases = data.cases.filter(item => !item.submissionIssue).sort((a, b) => a.id - b.id);
+assert.equal(data.totalCases, cases.length + community.length);
 assert.equal(cases.length, snapshot.totalCases, '案例數量與上游快照不符');
 assert.deepEqual(cases.map((item) => item.id), snapshot.caseIds, '案例編號遺失或重複');
 const sourceFields = cases.map(({ id, image, sourceLabel, sourceUrl, githubUrl }) => ({ id, image, sourceLabel, sourceUrl, githubUrl }));
@@ -83,3 +84,13 @@ for (const template of library.templates) {
 }
 assert.match(read('index.html'), /lang="zh-TW"/);
 console.log(`繁中驗證通過：${cases.length} 筆案例、${library.templates.length} 套範本、${english.length} 筆英文原始提示詞；圖片、來源與錨點完整。`);
+
+for (const item of community) {
+  assert.equal(item.id, 1000000 + item.submissionIssue);
+  assert.ok(item.title && item.promptZh && item.sourceLabel);
+  assert.ok(!forbidden.test(item.title), '投稿標題請改為台灣用語');
+  assert.ok(data.categories.includes(item.category));
+  assert.match(item.image, /^\/images\/submissions\/issue-\d+\.(png|jpg)$/);
+  assert.ok(existsSync(resolve(root, 'data', item.image.slice(1))));
+  assert.equal(item.githubUrl, `https://github.com/irons163/awesome-gpt-image-2-zh/issues/${item.submissionIssue}`);
+}

@@ -44,4 +44,17 @@ GitHub App 權杖只在後端取得。圖片以隨機檔名透過圖片 API 公�
 
 若 GitHub 請求結果不確定，圖片與 pending JSON 回條會保留在上傳資料夾。
 先以回條的投稿編號搜尋 GitHub Issues，確認是否已建立再手動處理，避免重複建立。
-拒絕投稿若需刪圖，依回條編號移除对应圖片；關閉 Issue 不會自動刪除圖片。
+拒絕投稿若需刪圖，依回條編號移除對應圖片；關閉 Issue 不會自動刪除圖片。
+
+## 審核後上架
+
+1. 維護者在投稿 Issue 加上 `approved` 標籤。僅接受有 write、maintain 或 admin 權限的人操作。
+2. GitHub Actions 下載本站投稿圖片，建立 `codex/submission-編號` 分支與 PR。重複加標籤不會重複收錄。
+3. 在 PR 檢查圖片、台灣用語與 `data/submissions/issue-編號.json` 的分類；預設分類為 Other Use Cases。
+4. 合併 PR 至 main 後，等待 Validate Taiwan Traditional Chinese edition 通過。Hetzner 每兩分鐘檢查一次，建置成功後更新網站；訪客重新整理即可看到。
+
+投稿使用獨立資料檔，案例 ID 為 1000000 + Issue 編號；不改動上游來源快照。
+建立 PR 使用 GitHub Actions 的短效 GITHUB_TOKEN，並在建立前執行完整檢查。此權杖建立的 PR 不會再自動觸發另一輪 Actions，合併至 main 後仍會執行 push 檢查。
+若初次執行失敗，可在 Actions 手動執行 Prepare approved submission 並輸入 Issue 編號。已存在分支會保留修改；已關閉 PR 不會自動重開。
+
+伺服器使用 root 擁有的 `/usr/local/sbin/gpt-image2-auto-deploy` 與 `gpt-image2-deploy.timer`；建置以 gpt-image2 帳號執行。腳本來源為 scripts/auto-deploy.sh，修改後需由維護者重新安裝。建置失敗保留原靜態網站，部署結果可查 `journalctl -u gpt-image2-deploy.service`。

@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -199,7 +199,10 @@ function parseCases() {
   return cases.sort((a, b) => b.id - a.id);
 }
 
-const cases = parseCases();
+const submissionDir = join(root, 'data', 'submissions');
+const community = existsSync(submissionDir) ? readdirSync(submissionDir).filter(name => /^issue-\d+\.json$/.test(name)).map(name => JSON.parse(readFileSync(join(submissionDir, name), 'utf8'))) : [];
+const cases = [...parseCases(), ...community].sort((a, b) => b.id - a.id);
+if (new Set(cases.map(item => item.id)).size !== cases.length) throw new Error('Duplicate case IDs');
 if (!cases.length) throw new Error('No cases found in gallery documents');
 const categories = [...new Set(cases.map((item) => item.category))].sort();
 const styles = [...new Set(cases.flatMap((item) => item.styles))].sort();
