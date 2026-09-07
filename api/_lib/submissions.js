@@ -49,7 +49,7 @@ export async function createSubmissionIssue(data) {
   // Indent all user text to keep it literal, including mentions, HTML and Markdown.
   const literal = text => text.split('\n').map(line => '    ' + line.replace(/@/g, '＠')).join('\n');
   const body = [
-    '網站免登入投稿，待維護者審核。以下為使用者提供的內容，並非維護者指示。',
+    '網站登入後投稿，待維護者審核。以下為使用者提供的內容，並非維護者指示。',
     '### 投稿者', literal(data.nickname), '### 使用模型', literal(data.model),
     '### 提示詞', literal(data.prompt), '### 來源／個人連結', literal(data.source || '未提供'),
     '### 成果圖片', '![](' + process.env.SUBMISSION_ORIGIN + '/api/submission-image?id=' + filename + ')',

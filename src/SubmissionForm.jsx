@@ -1,8 +1,11 @@
+import { createClient } from '@supabase/supabase-js';
 import React, { useEffect, useRef, useState } from 'react';
 
 export default function SubmissionForm({ language }) {
   const zh = language === 'zh';
   const [config, setConfig] = useState(null);
+  const [authClient, setAuthClient] = useState(null);
+  const [session, setSession] = useState(null);
   const [token, setToken] = useState('');
   const [status, setStatus] = useState('');
   const [issue, setIssue] = useState('');
@@ -13,7 +16,32 @@ export default function SubmissionForm({ language }) {
     fetch('/api/submissions').then(r => r.json()).then(setConfig).catch(() => setConfig({ enabled: false }));
   }, []);
   useEffect(() => {
-    if (!config?.enabled) return;
+    if (!config?.auth) return;
+    const client = createClient(config.auth.url, config.auth.publishableKey, {
+      auth: { flowType: 'pkce', persistSession: true, autoRefreshToken: true, detectSessionInUrl: true, storageKey: 'gallery-submission-auth' }
+    });
+    setAuthClient(client);
+    let alive = true;
+    client.auth.getSession().then(({data, error}) => {
+      if (!alive) return;
+      if (error) setStatus(zh ? '登入失敗，請再試一次。' : 'Sign-in failed. Please try again.');
+      setSession(data.session);
+    });
+    const { data: { subscription } } = client.auth.onAuthStateChange((_event, value) => { if(alive) setSession(value); });
+    return () => { alive = false; subscription.unsubscribe(); };
+  }, [config]);
+  async function login() {
+    setStatus('');
+    const {error} = await authClient.auth.signInWithOAuth({provider: 'google', options: {redirectTo: window.location.origin + '/?submission=login#submit'}});
+    if(error) setStatus(zh ? '無法啟動 Google 登入，請稍後再試。' : 'Unable to sign in with Google.');
+  }
+  async function logout() {
+    const {error} = await authClient.auth.signOut({scope:'local'});
+    if(error) setStatus(zh ? '登出失敗，請再試一次。' : 'Sign-out failed.');
+    else { setSession(null); setIssue(''); setToken(''); }
+  }
+  useEffect(() => {
+    if (!config?.enabled || !session || issue) return;
     let cancelled = false;
     const render = () => {
       if (cancelled || !challenge.current) return;
@@ -37,11 +65,12 @@ export default function SubmissionForm({ language }) {
       cancelled = true;
       script?.removeEventListener('load', render);
       if (widget.current != null) window.turnstile?.remove(widget.current);
+      widget.current = null;
     };
-  }, [config]);
+  }, [config, Boolean(session), issue]);
   async function submit(event) {
     event.preventDefault();
-    if (busy || !token) return;
+    if (busy || !token || !session) return;
     const form = event.currentTarget;
     const fields = new FormData(form);
     const file = fields.get('image');
@@ -56,16 +85,20 @@ export default function SubmissionForm({ language }) {
         reader.onerror = reject;
         reader.readAsDataURL(file);
       });
+      const {data: auth} = await authClient.auth.getSession();
+      if (!auth.session) throw new Error('AUTH_REQUIRED');
       const response = await fetch('/api/submissions', {
-        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + auth.session.access_token },
         body: JSON.stringify({ ...Object.fromEntries(fields), image, consent: fields.has('consent'), token })
       });
       const result = await response.json();
       if (!response.ok) throw new Error(result.error);
       setIssue(result.issueUrl);
       form.reset();
-    } catch {
-      setStatus(zh ? '尚未確認投稿成功，請稍後查看 GitHub 投稿清單，避免重複送出；也可以到 Discord 聯絡我們。' : 'Submission could not be confirmed. Check the GitHub issue list before retrying, or contact us on Discord.');
+    } catch (error) {
+      if(error.message === 'DAILY_LIMIT') { setStatus(zh ? '今天已達 5 筆投稿上限，請於台灣時間明天凌晨 0 點後再投稿。' : 'Daily limit of 5 reached. Try again after midnight in Taiwan.'); }
+      else if(error.message === 'AUTH_REQUIRED') { setSession(null); setStatus(zh ? '登入已失效，請重新登入。' : 'Please sign in again.'); }
+      else setStatus(zh ? '尚未確認投稿成功，請稍後查看 GitHub 投稿清單，避免重複送出；也可以到 Discord 聯絡我們。' : 'Submission could not be confirmed. Check the GitHub issue list before retrying, or contact us on Discord.');
     } finally {
       setBusy(false); setToken('');
       if (widget.current != null) window.turnstile?.reset(widget.current);
@@ -73,8 +106,11 @@ export default function SubmissionForm({ language }) {
   }
   return <section className="submissionSection" id="submit">
     <h2>{zh ? '投稿案例' : 'Submit a case'}</h2>
-    <p>{zh ? '分享你的圖片與提示詞，不需要 GitHub 帳號。投稿內容會公開在 GitHub Issues，審核通過後才會加入圖庫。請勿填寫私人聯絡資訊。' : 'Share an image and prompt without a GitHub account. Submissions are public GitHub issues and join the gallery after review. Do not include private contact information.'}</p>
+    <p>{zh ? '使用 Google 登入後分享圖片與提示詞，不需要 GitHub 帳號。每個帳號每天最多 5 筆，於台灣時間凌晨 0 點重置。投稿內容會公開在 GitHub Issues，審核通過後才會加入圖庫。請勿填寫私人聯絡資訊。' : 'Sign in with Google to share an image and prompt. No GitHub account needed. Limit: 5 per account per day, resetting at midnight in Taiwan. Submissions are public GitHub issues and join the gallery after review. Do not include private contact information.'}</p>
+    {session && <p>{zh ? '已登入，可投稿。' : 'Signed in.'} <button type="button" onClick={logout}>{zh ? '登出' : 'Sign out'}</button></p>}
+    {!session && <p role="status">{status}</p>}
     {!config?.enabled ? <p>{zh ? '網站投稿準備中，歡迎先到 Discord 社群分享。' : 'Website submissions are being prepared. Share in our Discord community for now.'} <a href="https://discord.gg/XmXqnb9zu" target="_blank" rel="noreferrer">Discord ↗</a></p> :
+    !session ? <button type="button" disabled={!authClient} onClick={login}>{zh ? '使用 Google 登入後投稿' : 'Sign in with Google to submit'}</button> :
     issue ? <p role="status">{zh ? '投稿已送出，等待審核。' : 'Submitted for review.'} <a href={issue} target="_blank" rel="noreferrer">{zh ? '查看投稿進度 ↗' : 'View submission ↗'}</a></p> :
     <form onSubmit={submit}>
       <label>{zh ? '案例名稱' : 'Title'}<input name="title" maxLength={120} required /></label>

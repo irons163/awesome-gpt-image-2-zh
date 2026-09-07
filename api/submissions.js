@@ -1,24 +1,24 @@
 import { ready, validateSubmission, createSubmissionIssue } from './_lib/submissions.js';
 
-let attempts = [];
+import { authReady, submissionAuthConfig, submissionUser, reserveSubmission } from './_lib/submission-auth.js';
 export default async function handler(req, res) {
-  if (req.method === 'GET') return res.json({ enabled: Boolean(ready()), siteKey: ready() ? process.env.TURNSTILE_SITE_KEY : null });
+  res.setHeader?.('Cache-Control', 'no-store');
+  const enabled = Boolean(ready() && authReady());
+  if (req.method === 'GET') return res.json({ enabled, siteKey: enabled ? process.env.TURNSTILE_SITE_KEY : null, auth: enabled ? submissionAuthConfig() : null });
   if (req.method !== 'POST') return res.status(405).json({ error: 'METHOD_NOT_ALLOWED' });
-  if (!ready()) return res.status(503).json({ error: 'NOT_CONFIGURED' });
+  if (!enabled) return res.status(503).json({ error: 'NOT_CONFIGURED' });
   if (req.headers.origin !== process.env.SUBMISSION_ORIGIN) return res.status(403).json({ error: 'FORBIDDEN' });
-  // Global ceiling bounds anonymous writes even behind a reverse proxy.
-  const now = Date.now();
-  attempts = attempts.filter(time => now - time < 3600000);
-  if (attempts.length >= 20) return res.status(429).json({ error: 'RATE_LIMITED' });
-  attempts.push(now);
+  let user;
+  try { user = await submissionUser(req); } catch { return res.status(503).json({ error: 'AUTH_UNAVAILABLE' }); }
+  if (!user) return res.status(401).json({ error: 'AUTH_REQUIRED' });
   let data;
   try {
-    let raw = '';
+    const chunks = []; let size = 0;
     for await (const chunk of req) {
-      raw += chunk;
-      if (Buffer.byteLength(raw) > 4400000) return res.status(413).json({ error: 'TOO_LARGE' });
+      size += chunk.length; chunks.push(Buffer.from(chunk));
+      if (size > 4400000) return res.status(413).json({ error: 'TOO_LARGE' });
     }
-    data = JSON.parse(raw);
+    data = JSON.parse(Buffer.concat(chunks).toString('utf8'));
     const validated = validateSubmission(data);
     const response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
       method: 'POST', signal: AbortSignal.timeout(10000),
@@ -29,6 +29,9 @@ export default async function handler(req, res) {
     if (!verification.success || verification.hostname !== new URL(process.env.SUBMISSION_ORIGIN).hostname || verification.action !== 'submission') {
       return res.status(400).json({ error: 'VERIFICATION_FAILED' });
     }
+    const quota = await reserveSubmission(user.id);
+    if (!quota.allowed) return res.status(429).json({ error: 'DAILY_LIMIT', resetAt: quota.resetAt });
+    // Keep the reservation on an ambiguous GitHub failure to prevent duplicate writes.
     const issueUrl = await createSubmissionIssue(validated);
     return res.status(201).json({ issueUrl });
   } catch (error) {

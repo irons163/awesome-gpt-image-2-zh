@@ -23,7 +23,7 @@ test('unconfigured submission endpoint fails closed and exposes no secrets', asy
   const res = { status(value) { code = value; return this; }, json(value) { body = value; return this; } };
   try {
     await handler({ method: 'GET' }, res);
-    assert.deepEqual(body, { enabled: false, siteKey: null });
+    assert.deepEqual(body, { enabled: false, siteKey: null, auth: null });
     await handler({ method: 'POST' }, res);
     assert.equal(code, 503);
   } finally {
