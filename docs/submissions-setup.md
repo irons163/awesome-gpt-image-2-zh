@@ -58,3 +58,5 @@ GitHub App 權杖只在後端取得。圖片以隨機檔名透過圖片 API 公�
 若初次執行失敗，可在 Actions 手動執行 Prepare approved submission 並輸入 Issue 編號。已存在分支會保留修改；已關閉 PR 不會自動重開。
 
 伺服器使用 root 擁有的 `/usr/local/sbin/gpt-image2-auto-deploy` 與 `gpt-image2-deploy.timer`；建置以 gpt-image2 帳號執行。腳本來源為 scripts/auto-deploy.sh，修改後需由維護者重新安裝。建置失敗保留原靜態網站，部署結果可查 `journalctl -u gpt-image2-deploy.service`。
+
+Caddy 的圖庫靜態頁面也須反向代理至 `172.17.0.1:4174`，並對非 API 回應設定 `Cache-Control: no-cache`。不要從 Docker 綁定的 `/srv/gpt-image2` 讀取靜態檔：部署切換 dist 資料夾時，既有 bind mount 仍會指向舊資料夾。2026-09-08 已在正式主機完成此設定並驗證投稿案例與圖片可讀取。
