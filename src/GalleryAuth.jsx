@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useEffect, useRef, useState } from 'react';
 import { createClient } from '@supabase/supabase-js';
 import EmailSignIn from './EmailSignIn';
-import { callbackFlow } from './auth-callback';
+import { callbackFlow, normalizeAuthCallback } from './auth-callback';
 const Auth = createContext(null);
 export const useGalleryAuth = () => useContext(Auth);
 export function GalleryAuthProvider({children}) {
@@ -22,6 +22,8 @@ export function GalleryAuthProvider({children}) {
   }, []);
   useEffect(() => {
     if (!config?.auth) {if(config) {setReady(true);setStatus(zh ? '登入服務暫時無法使用。' : 'Sign-in is temporarily unavailable.');} return;}
+    const callbackUrl = normalizeAuthCallback(window.location.href);
+    if (callbackUrl !== window.location.href) window.history.replaceState(window.history.state, '', callbackUrl);
     const client = createClient(config.auth.url, config.auth.publishableKey, {
       auth: { flowType: callbackFlow(window.location.href), persistSession: true, autoRefreshToken: true, detectSessionInUrl: true, storageKey: 'gallery-submission-auth' }
     });
@@ -65,7 +67,7 @@ export function GalleryAuthProvider({children}) {
     setStatus('');
     setBusy(true);
     rememberIntent();
-    const {error} = await authClient.auth.signInWithOAuth({provider: 'google', options: {redirectTo: window.location.origin + '/?submission=login#submit'}});
+    const {error} = await authClient.auth.signInWithOAuth({provider: 'google', options: {redirectTo: window.location.origin + '/?submission=login'}});
     if(error) { setBusy(false); setStatus(zh ? '無法啟動 Google 登入，請稍後再試。' : 'Unable to sign in with Google.'); }
   }
   async function logout() {

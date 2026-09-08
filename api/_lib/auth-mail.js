@@ -8,7 +8,7 @@ export function buildAuthMail(payload) {
   const {user,email_data:e}=payload;
   const titles={signup:'驗證你的圖庫帳號',magiclink:'登入你的圖庫帳號',recovery:'重設圖庫密碼',invite:'接受圖庫邀請',email_change:'確認信箱變更',reauthentication:'確認帳號操作'};
   if(!e || !Object.hasOwn(titles,e.email_action_type) || !user?.email) throw Error('Invalid mail payload');
-  const redirect='https://gpt-image2.zero2codex.dev/?submission=login#submit';
+  const redirect='https://gpt-image2.zero2codex.dev/?submission=login';
   const recipients=e.email_action_type==='email_change' ? (e.token_hash_new ? [[user.email,e.token,e.token_hash_new],[user.new_email,e.token_new,e.token_hash]] : [[user.new_email,e.token_new || e.token,e.token_hash]]) : [[user.email,e.token,e.token_hash]];
   return recipients.map(([to,token,hash])=>{
     if(typeof to !== 'string' || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(to) || !token || !hash) throw Error('Invalid mail payload');

@@ -27,7 +27,7 @@ export default function EmailSignIn({client, zh, ready, rememberIntent, recovery
     }
     lock.current = true;setBusy(true);setMessage('');
     const address = email.trim().toLowerCase();
-    const redirect = window.location.origin + '/?submission=login#submit';
+    const redirect = window.location.origin + '/?submission=login';
     try {
       rememberIntent();
       const result = await performEmailAuth(client.auth, {action, email:action === 'otp' ? sentEmail : address, password, token:String(fields.get('token') || '').trim(), redirect});
