@@ -3431,3 +3431,6 @@ button {
 .submissionSection .submissionTrap { display: none; }
 .submissionSection button { min-height: 44px; padding: 10px 20px; border-radius: 8px; background: #9eeeff; color: #060914; border: 0; font: inherit; }
 .submissionSection button:disabled { opacity: .5; cursor: not-allowed; }
+
+.caseActions { flex-wrap: wrap; }
+.caseActions .favoriteAction { flex-basis: 100%; }

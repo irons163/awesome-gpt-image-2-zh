@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { getAuthContext } from './_lib/supabase.js';
+import { createClient } from '@supabase/supabase-js';
+import { submissionUser, submissionAuthConfig } from './_lib/submission-auth.js';
 import { readJsonBody } from './_lib/billing.js';
 
 let validCaseIds;
@@ -30,7 +31,7 @@ async function getValidCaseIds() {
 
 async function isValidCase(caseId) {
   const ids = await getValidCaseIds();
-  return ids.size === 0 || ids.has(caseId);
+  return ids.has(caseId);
 }
 
 function formatFavorite(row) {
@@ -47,14 +48,11 @@ export default async function handler(req, res) {
     return json(res, 405, { ok: false, error: 'METHOD_NOT_ALLOWED' });
   }
 
-  const auth = await getAuthContext(req);
-  if (auth.error) {
-    return json(res, auth.status || 401, {
-      ok: false,
-      error: auth.error,
-      loginRequired: auth.error === 'AUTH_REQUIRED'
-    });
-  }
+  res.setHeader('Cache-Control', 'no-store');
+  let user;
+  try { user = await submissionUser(req); } catch { return json(res, 503, {error:'AUTH_UNAVAILABLE'}); }
+  if (!user) return json(res, 401, {error:'AUTH_REQUIRED'});
+  const auth = {user, client: createClient(submissionAuthConfig().url, process.env.SUBMISSION_SUPABASE_SERVICE_ROLE_KEY, {auth:{persistSession:false,autoRefreshToken:false}})};
 
   if (req.method === 'GET') {
     const { data, error } = await auth.client

@@ -1,3 +1,5 @@
+import { GalleryAuthProvider, useGalleryAuth } from './GalleryAuth';
+import { FavoritesProvider, FavoriteButton, useFavorites } from './Favorites';
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import {
@@ -2751,6 +2753,7 @@ function PromptCard({
           ))}
         </div>
         <div className="cardActions caseActions">
+          <FavoriteButton id={caseItem.id} language={language} />
           <button type="button" onClick={() => onCopy(caseItem)}>
             {copied ? <Check size={17} /> : <Copy size={17} />}
             {copied ? t.copied : t.copyPrompt}
@@ -2864,6 +2867,7 @@ function PreviewDialog({
             </div>
           ) : null}
           <div className="previewActions">
+            {!isTemplate && <FavoriteButton id={item.id} language={language} />}
             <button type="button" onClick={() => onCopyText(promptText, copyId)}>
               {isCopied ? <Check size={17} /> : <Copy size={17} />}
               {isCopied ? t.copied : isTemplate ? t.copyTemplatePrompt : t.copyPrompt}
@@ -2947,6 +2951,8 @@ function PreviewDialog({
 }
 
 function App() {
+  const {session, login} = useGalleryAuth();
+  const {ids: favoriteIds, onlyFavorites, setOnlyFavorites, error: favoriteError} = useFavorites();
   useGaPageViews();
   const [siteData, setSiteData] = useState(null);
   const [styleLibrary, setStyleLibrary] = useState(null);
@@ -3050,9 +3056,9 @@ function App() {
       const matchCategory = category === 'All' || item.category === category;
       const matchStyle = style === 'All' || item.styles.includes(style);
       const matchScene = scene === 'All' || item.scenes.includes(scene);
-      return matchQuery && matchCategory && matchStyle && matchScene;
+      return matchQuery && matchCategory && matchStyle && matchScene && (!onlyFavorites || favoriteIds.includes(item.id));
     });
-  }, [siteData, query, category, style, scene]);
+  }, [siteData, query, category, style, scene, onlyFavorites, favoriteIds]);
 
   const orderedCategories = useMemo(
     () => (siteData && styleLibrary ? orderByLibrary(siteData.categories, styleLibrary.categories) : []),
@@ -3119,7 +3125,8 @@ function App() {
         </a>
         <div className="topbarControls">
           <nav>
-            <a href="#gallery">{t.navCases}</a>
+            <a href="#gallery" onClick={()=>setOnlyFavorites(false)}>{t.navCases}</a>
+            <a href="#gallery" aria-current={onlyFavorites ? "page" : undefined} onClick={e=>{if(!session){e.preventDefault();login();return;} setQuery('');setCategory('All');setStyle('All');setScene('All');setCurrentPage(1);setOnlyFavorites(true);}}>{language==='zh'?'我的最愛':'My Favorites'}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
             <a href="#submit">{language === 'zh' ? '投稿案例' : 'Submit a case'}</a>
@@ -3214,13 +3221,14 @@ function App() {
         </div>
 
         <div className="resultBar" id="case-results">
-          <span>{language === 'zh' ? `${filteredCases.length} ${t.matching}` : `${filteredCases.length} ${t.matching}`}</span>
+          <span>{onlyFavorites && (language === 'zh' ? '我的最愛 · ' : 'My Favorites · ')}{language === 'zh' ? `${filteredCases.length} ${t.matching}` : `${filteredCases.length} ${t.matching}`}</span>
           <a href={repoUrl} target="_blank" rel="noreferrer">
             {t.openGithub}
             <ArrowUpRight size={16} />
           </a>
         </div>
 
+        {favoriteError && <p role="alert">{language==='zh'?'無法同步我的最愛，請重新整理後再試。':'Unable to sync favorites. Please refresh and retry.'}</p>}
         <div className="caseGrid">
           {visibleCases.map((caseItem) => (
             <PromptCard
@@ -3291,4 +3299,4 @@ function App() {
   );
 }
 
-createRoot(document.getElementById('root')).render(<App />);
+createRoot(document.getElementById('root')).render(<GalleryAuthProvider><FavoritesProvider><App /></FavoritesProvider></GalleryAuthProvider>);
