@@ -3126,7 +3126,7 @@ function App() {
         <div className="topbarControls">
           <nav>
             <a href="#gallery" onClick={()=>setOnlyFavorites(false)}>{t.navCases}</a>
-            <a href="#gallery" aria-current={onlyFavorites ? "page" : undefined} onClick={e=>{if(!session){e.preventDefault();login();return;} setQuery('');setCategory('All');setStyle('All');setScene('All');setCurrentPage(1);setOnlyFavorites(true);}}>{language==='zh'?'我的最愛':'My Favorites'}</a>
+            <a href="#gallery" aria-current={onlyFavorites ? "page" : undefined} onClick={e=>{if(!session){e.preventDefault();login({type:'favorites'});return;} setQuery('');setCategory('All');setStyle('All');setScene('All');setCurrentPage(1);setOnlyFavorites(true);}}>{language==='zh'?'我的最愛':'My Favorites'}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
             <a href="#submit">{language === 'zh' ? '投稿案例' : 'Submit a case'}</a>

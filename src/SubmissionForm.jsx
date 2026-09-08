@@ -80,7 +80,7 @@ export default function SubmissionForm({ language }) {
     {session && <p>{zh ? '已登入，可投稿。' : 'Signed in.'} <button type="button" onClick={logout}>{zh ? '登出' : 'Sign out'}</button></p>}
     {!session && <p role="status">{status}</p>}
     {!config?.enabled ? <p>{zh ? '網站投稿準備中，歡迎先到 Discord 社群分享。' : 'Website submissions are being prepared. Share in our Discord community for now.'} <a href="https://discord.gg/XmXqnb9zu" target="_blank" rel="noreferrer">Discord ↗</a></p> :
-    !session ? <button type="button" disabled={!authClient} onClick={login}>{zh ? '使用 Google 登入後投稿' : 'Sign in with Google to submit'}</button> :
+    !session ? <button type="button" disabled={!authClient} onClick={() => login({type:'submit'})}>{zh ? '登入後投稿' : 'Sign in to submit'}</button> :
     issue ? <p role="status">{zh ? '投稿已送出，等待審核。' : 'Submitted for review.'} <a href={issue} target="_blank" rel="noreferrer">{zh ? '查看投稿進度 ↗' : 'View submission ↗'}</a></p> :
     <form onSubmit={submit}>
       <label>{zh ? '案例名稱' : 'Title'}<input name="title" maxLength={120} required /></label>

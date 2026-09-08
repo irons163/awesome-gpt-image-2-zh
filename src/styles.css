@@ -3434,3 +3434,8 @@ button {
 
 .caseActions { flex-wrap: wrap; }
 .caseActions .favoriteAction { flex-basis: 100%; }
+
+.galleryLogin { position: fixed; margin: auto; width: min(520px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); overflow: auto; color: #eef5ff; background: #0c1424; border: 1px solid #394458; }
+.galleryLogin::backdrop { background: rgb(0 0 0 / 65%); }
+.galleryLogin .googleButton { width: 100%; }
+.galleryLogin small { color: #b6c2d4; }
