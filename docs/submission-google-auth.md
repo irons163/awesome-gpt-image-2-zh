@@ -35,3 +35,12 @@
 5. 實測一般訪客信箱可收到信後，在伺服器設定 `SUBMISSION_EMAIL_AUTH_ENABLED=true` 並重啟服務。預設不顯示 Email 入口，避免寄信未設定就讓訪客嘗試。
 
 密碼直接透過 Supabase SDK 送至此專案 Auth，不會寫入圖庫伺服器日誌。登入狀態沿用 PKCE、持久保存與自動更新 token；重設密碼透過 PASSWORD_RECOVERY 事件開啟專用表單。寄信重送介面倒數 60 秒，實際驗證及頻率限制由 Supabase Auth 執行。從郵件以不同瀏覽器開啟 PKCE 連結可能無法完成，請回原瀏覽器使用驗證碼。
+
+### ForwardHello Send Email Hook
+
+圖庫專用端點：`https://gpt-image2.zero2codex.dev/api/auth/send-email`。
+伺服器須設定 `FORWARD_API_KEY`、`AUTH_EMAIL_FROM=GPT-Image2 圖庫 <noreply@auth.zero2codex.dev>` 與圖庫獨立的 `SUPABASE_SEND_EMAIL_HOOK_SECRET`。請勿將秘密放進 Git 或前端。
+
+端點驗證 Standard Webhooks 簽章及時間戳，將工作以 0600 權限保存於 `AUTH_MAIL_QUEUE_DIR`（預設 `/var/lib/gpt-image2/auth-mail`，須可由服務帳號寫入）後才回應成功。正式服務每 15 秒重試待寄信件；使用固定冪等鍵，成功後只保留無驗證碼的收據，一小時後清除。系統不記錄收件人或驗證碼至日誌。
+
+Supabase 啟用此 Hook 後由它取代 SMTP；寄件網域須先在 ForwardHello 驗證，再以真實收件測試確認登入連結、驗證碼、註冊與重設密碼。最後才設定 `SUBMISSION_EMAIL_AUTH_ENABLED=true`。

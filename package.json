@@ -27,6 +27,7 @@
     "lucide-react": "^0.561.0",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
+    "standardwebhooks": "^1.1.1",
     "stripe": "^22.1.1",
     "vite": "^7.2.7"
   },

@@ -1,3 +1,4 @@
+import {startMailWorker} from '../api/_lib/auth-mail.js';
 import { createReadStream } from 'node:fs';
 import { readdir, realpath, stat } from 'node:fs/promises';
 import http from 'node:http';
@@ -272,6 +273,7 @@ const isMain = process.argv[1]
   && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href;
 
 if (isMain) {
+  startMailWorker();
   const server = await startProductionServer();
   const address = server.address();
   const host = typeof address === 'object' && address ? address.address : DEFAULT_HOST;
