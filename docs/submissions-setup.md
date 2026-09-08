@@ -1,6 +1,7 @@
 # 投稿串接設定（維護者）
 
-網站訪客免登入投稿，後端使用 GitHub App 建立公開 Issue。
+網站使用者須先以 Google 登入才能投稿，後端使用 GitHub App 建立公開 Issue。
+登入使用圖庫獨立的 Supabase 專案，設定步驟見 [Google 登入設定](submission-google-auth.md)。
 Issue 不會自動上架到圖庫，維護者仍須審核。
 
 ## GitHub App
@@ -30,6 +31,9 @@ Issue 不會自動上架到圖庫，維護者仍須審核。
     TURNSTILE_SECRET_KEY=
     SUBMISSION_ORIGIN=https://gpt-image2.zero2codex.dev
     SUBMISSION_UPLOAD_DIR=/var/lib/gpt-image2/submissions
+    SUBMISSION_SUPABASE_URL=
+    SUBMISSION_SUPABASE_PUBLISHABLE_KEY=
+    SUBMISSION_SUPABASE_SERVICE_ROLE_KEY=
 
 建立上傳資料夾並讓 gpt-image2 擁有讀寫權限，加入主機備份。
 若 systemd 設定了 ProtectSystem，需將此資料夾加入 ReadWritePaths。
@@ -38,9 +42,11 @@ Issue 不會自動上架到圖庫，維護者仍須審核。
 
 ## 審核與維護
 
-投稿只接受 PNG/JPEG、最多 3 MB；所有訪客每小時合計最多 20 次提交嘗試（服務重啟後重置）。
+投稿只接受 PNG/JPEG、最多 3 MB；每個帳號每天最多 5 筆通過驗證的送件，於台灣時間午夜重置。
+額度儲存在獨立 Supabase 資料庫，服務重啟不會重置，也不與其他帳號共用。
+欄位或 Turnstile 驗證失敗不扣額度；開始 GitHub 送件後若結果不確定，仍保留扣額度以避免重複 Issue。
 GitHub App 權杖只在後端取得。圖片以隨機檔名透過圖片 API 公開，不能列出目錄。
-投稿者必須同意內容在 GitHub 公開；不收集電子郵件。
+投稿者必須同意內容在 GitHub 公開；Google 帳號信箱僅用於登入驗證，不寫入公開 Issue。
 
 若 GitHub 請求結果不確定，圖片與 pending JSON 回條會保留在上傳資料夾。
 先以回條的投稿編號搜尋 GitHub Issues，確認是否已建立再手動處理，避免重複建立。

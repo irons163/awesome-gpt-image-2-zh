@@ -12,7 +12,7 @@
    SUBMISSION_SUPABASE_SERVICE_ROLE_KEY=
 
 5. 重啟服務。GET /api/submissions 僅回傳公開網址與 publishable key，不回傳 service role key。
-6. 實测 Google 登入／登出、過期登入、未登入 POST、Turnstile 及並行提交 6 次。每帳號每天最多 5 次通過驗證後的送件，按 Asia/Taipei 日期計算。資料庫 atomic upsert 防止併發超額，服務重啟不重置。
+6. 實測 Google 登入／登出、過期登入、未登入 POST、Turnstile 及並行提交 6 次。每帳號每天最多 5 次通過驗證後的送件，按 Asia/Taipei 日期計算。資料庫 atomic upsert 防止併發超額，服務重啟不重置。
 
 欄位或 Turnstile 驗證失敗不扣額度。開始 GitHub 送件後若結果不確定，保留扣額度，避免網路逾時造成重複 Issue。會員信箱只用於認證，不寫入公開 Issue；Issue 使用投稿者填寫的公開暱稱。
 
