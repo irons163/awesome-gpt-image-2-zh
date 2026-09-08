@@ -1,6 +1,7 @@
 import React, { createContext, useContext, useEffect, useRef, useState } from 'react';
 import { createClient } from '@supabase/supabase-js';
 import EmailSignIn from './EmailSignIn';
+import { callbackFlow } from './auth-callback';
 const Auth = createContext(null);
 export const useGalleryAuth = () => useContext(Auth);
 export function GalleryAuthProvider({children}) {
@@ -22,11 +23,12 @@ export function GalleryAuthProvider({children}) {
   useEffect(() => {
     if (!config?.auth) {if(config) {setReady(true);setStatus(zh ? '登入服務暫時無法使用。' : 'Sign-in is temporarily unavailable.');} return;}
     const client = createClient(config.auth.url, config.auth.publishableKey, {
-      auth: { flowType: 'pkce', persistSession: true, autoRefreshToken: true, detectSessionInUrl: true, storageKey: 'gallery-submission-auth' }
+      auth: { flowType: callbackFlow(window.location.href), persistSession: true, autoRefreshToken: true, detectSessionInUrl: true, storageKey: 'gallery-submission-auth' }
     });
     setAuthClient(client);
     let alive = true;
-    client.auth.getSession().then(({data, error}) => {
+    Promise.all([client.auth.initialize(), client.auth.getSession()]).then(([initial, {data, error}]) => {
+      error ||= initial.error;
       if (!alive) return;
       if (error) {setStatus(zh ? '登入連結無效或已過期，請重新取得連結或輸入驗證碼。' : 'Invalid or expired sign-in link. Request a new link or enter your code.');setIntent({type:'submit'});}
       setSession(data.session);
