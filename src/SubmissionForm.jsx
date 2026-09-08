@@ -76,7 +76,7 @@ export default function SubmissionForm({ language }) {
   }
   return <section className="submissionSection" id="submit">
     <h2>{zh ? '投稿案例' : 'Submit a case'}</h2>
-    <p>{zh ? '使用 Google 登入後分享圖片與提示詞，不需要 GitHub 帳號。每個帳號每天最多 5 筆，於台灣時間凌晨 0 點重置。投稿內容會公開在 GitHub Issues，審核通過後才會加入圖庫。請勿填寫私人聯絡資訊。' : 'Sign in with Google to share an image and prompt. No GitHub account needed. Limit: 5 per account per day, resetting at midnight in Taiwan. Submissions are public GitHub issues and join the gallery after review. Do not include private contact information.'}</p>
+    <p>{zh ? '登入後分享圖片與提示詞，不需要 GitHub 帳號。每個帳號每天最多 5 筆，於台灣時間凌晨 0 點重置。投稿內容會公開在 GitHub Issues，審核通過後才會加入圖庫。請勿填寫私人聯絡資訊。' : 'Sign in to share an image and prompt. No GitHub account needed. Limit: 5 per account per day, resetting at midnight in Taiwan. Submissions are public GitHub issues and join the gallery after review. Do not include private contact information.'}</p>
     {session && <p>{zh ? '已登入，可投稿。' : 'Signed in.'} <button type="button" onClick={logout}>{zh ? '登出' : 'Sign out'}</button></p>}
     {!session && <p role="status">{status}</p>}
     {!config?.enabled ? <p>{zh ? '網站投稿準備中，歡迎先到 Discord 社群分享。' : 'Website submissions are being prepared. Share in our Discord community for now.'} <a href="https://discord.gg/XmXqnb9zu" target="_blank" rel="noreferrer">Discord ↗</a></p> :

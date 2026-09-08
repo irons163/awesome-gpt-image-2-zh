@@ -3,19 +3,21 @@ import assert from 'node:assert/strict';
 import { submissionUser, reserveSubmission } from './submission-auth.js';
 import handler from '../submissions.js';
 
-test('submission auth rejects anonymous and unverified or non-Google accounts', async () => {
+test('submission auth rejects anonymous and unverified or anonymous accounts', async () => {
   const env = {...process.env}; const originalFetch=globalThis.fetch;
   Object.assign(process.env,{SUBMISSION_SUPABASE_URL:'https://example.supabase.co',SUBMISSION_SUPABASE_PUBLISHABLE_KEY:'public-test',SUBMISSION_SUPABASE_SERVICE_ROLE_KEY:'server-test'});
   try {
     globalThis.fetch=async()=>{throw new Error('anonymous must not call auth');};
     assert.equal(await submissionUser({headers:{}}),null);
-    for(const user of [{id:'a',app_metadata:{providers:['google']}},{id:'a',email_confirmed_at:'2026-09-08',app_metadata:{providers:['email']}}]) {
+    for(const user of [{id:'a',app_metadata:{providers:['google']}},{id:'a',email_confirmed_at:'2026-09-08',is_anonymous:true,app_metadata:{providers:['email']}}]) {
       globalThis.fetch=async()=>new Response(JSON.stringify(user),{status:200,headers:{'Content-Type':'application/json'}});
       assert.equal(await submissionUser({headers:{authorization:'Bearer test'}}),null);
     }
-    const user={id:'verified-account',email_confirmed_at:'2026-09-08',app_metadata:{providers:['google']}};
+    for (const provider of ['google','email']) {
+    const user={id:'verified-account',email_confirmed_at:'2026-09-08',app_metadata:{providers:[provider]}};
     globalThis.fetch=async()=>new Response(JSON.stringify(user),{status:200,headers:{'Content-Type':'application/json'}});
     assert.equal((await submissionUser({headers:{authorization:'Bearer test'}})).id,'verified-account');
+    }
   } finally {globalThis.fetch=originalFetch; for(const k of Object.keys(process.env)) if(!(k in env)) delete process.env[k]; Object.assign(process.env,env);}
 });
 

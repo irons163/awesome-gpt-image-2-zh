@@ -3439,3 +3439,11 @@ button {
 .galleryLogin::backdrop { background: rgb(0 0 0 / 65%); }
 .galleryLogin .googleButton { width: 100%; }
 .galleryLogin small { color: #b6c2d4; }
+.emailSignIn { border-top: 1px solid #394458; margin-top: 20px; padding-top: 16px; }
+.emailSignIn form, .emailSignIn label { display: grid; gap: 8px; }
+.emailSignIn form { margin: 12px 0; }
+.emailSignIn input { width: 100%; box-sizing: border-box; border: 1px solid #536078; background: #080f20; color: #fff; border-radius: 8px; padding: 12px; font-size: 16px; }
+.emailSignIn button { border: 1px solid #536078; background: #19283b; color: #eef5ff; border-radius: 8px; padding: 10px; cursor: pointer; }
+.emailSignIn button:disabled { opacity: .55; cursor: wait; }
+.emailModes { display: flex; flex-wrap: wrap; gap: 8px; }
+.emailModes [aria-pressed=true] { border-color: #79d9e8; color: #79d9e8; }
