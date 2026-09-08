@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { validateSubmission } from './submissions.js';
 import handler from '../submissions.js';
 const valid = {
+  category:'Architecture & Spaces', styles:['Illustration'], scenes:['Travel'],
   title: '台灣鐵道', nickname: '旅人', source: '',
   prompt: '以繁體中文繪製台灣鐵道地圖', consent: true,
   image: 'data:image/png;base64,' + Buffer.from([137,80,78,71,13,10,26,10,...Array(24).fill(0)]).toString('base64')

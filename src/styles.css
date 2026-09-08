@@ -3447,3 +3447,8 @@ button {
 .emailSignIn button:disabled { opacity: .55; cursor: wait; }
 .emailModes { display: flex; flex-wrap: wrap; gap: 8px; }
 .emailModes [aria-pressed=true] { border-color: #79d9e8; color: #79d9e8; }
+.submissionSection select { width: 100%; padding: 12px; border: 1px solid #536078; border-radius: 8px; background: #080f20; color: #eef5ff; font-size: 16px; }
+.submissionTags { min-width: 0; border: 1px solid #394458; border-radius: 8px; padding: 12px; }
+.submissionTags > div { display: flex; flex-wrap: wrap; gap: 10px 18px; }
+.submissionTags label { display: flex !important; align-items: center; gap: 6px; }
+.submissionTags input[type=checkbox] { width: auto; margin: 0; }

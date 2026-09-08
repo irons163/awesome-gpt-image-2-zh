@@ -59,6 +59,6 @@ jobs:
           branch="codex/submission-$ISSUE_NUMBER"
           existing=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$branch" --state all --json number --jq length)
           if [ "$existing" = 0 ]; then
-            printf '收錄網站投稿 #%s。請確認圖片、提示詞、台灣用語及分類；分類預設為 Other Use Cases，可在 data/submissions 的 JSON 調整。\n\n已執行建置、在地化檢查與測試。合併至 main 且 CI 通過後，Hetzner 將自動部署。\n\nCloses #%s\n' "$ISSUE_NUMBER" "$ISSUE_NUMBER" > /tmp/pr-body.md
+            printf '收錄網站投稿 #%s。請確認圖片、提示詞、台灣用語及分類；分類、風格及場景沿用投稿者的選擇，可在 data/submissions 的 JSON 調整；舊投稿保留預設分類。\n\n已執行建置、在地化檢查與測試。合併至 main 且 CI 通過後，Hetzner 將自動部署。\n\nCloses #%s\n' "$ISSUE_NUMBER" "$ISSUE_NUMBER" > /tmp/pr-body.md
             gh pr create --repo "$GITHUB_REPOSITORY" --head "$branch" --base main --title "收錄投稿 #$ISSUE_NUMBER" --body-file /tmp/pr-body.md
           fi

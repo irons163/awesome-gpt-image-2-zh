@@ -1,3 +1,4 @@
+import {parseTags} from '../api/_lib/submission-tags.js';
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 const repo = 'irons163/awesome-gpt-image-2-zh';
@@ -29,7 +30,7 @@ if (existsSync(filename)) throw new Error('Submission already imported');
 const prompt=field('提示詞','來源／個人連結');
 const title=issue.title.replace(/^\[投稿\]\s*/, '');
 const imagePath=`/images/submissions/issue-${number}.${image[2].split('.').pop()}`;
-const item={id,title,image:imagePath,imageAlt:title,sourceLabel:field('投稿者','使用模型'),sourceUrl:issue.html_url,contributorUrl:field('來源／個人連結','成果圖片'),model:field('使用模型','提示詞'),prompt,promptZh:prompt,promptPreview:prompt.replace(/\n+/g,' ').slice(0,220),promptPreviewZh:prompt.replace(/\n+/g,' ').slice(0,220),category:'Other Use Cases',styles:['Community'],scenes:['Creative'],featured:false,githubUrl:issue.html_url,localGithubUrl:issue.html_url,submissionIssue:Number(number)};
+const item={id,title,image:imagePath,imageAlt:title,sourceLabel:field('投稿者','使用模型'),sourceUrl:issue.html_url,contributorUrl:field('來源／個人連結','成果圖片'),model:field('使用模型','提示詞'),prompt,promptZh:prompt,promptPreview:prompt.replace(/\n+/g,' ').slice(0,220),promptPreviewZh:prompt.replace(/\n+/g,' ').slice(0,220),...parseTags(issue.body),featured:false,githubUrl:issue.html_url,localGithubUrl:issue.html_url,submissionIssue:Number(number)};
 mkdirSync('data/images/submissions',{recursive:true}); mkdirSync('data/submissions',{recursive:true});
 writeFileSync('data'+imagePath,bytes);
 writeFileSync(filename,JSON.stringify(item,null,2)+'\n');

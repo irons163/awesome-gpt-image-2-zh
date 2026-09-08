@@ -1,3 +1,4 @@
+import {validateTags, formatTags} from './submission-tags.js';
 import { sign, randomUUID } from 'node:crypto';
 import { readFile, mkdir, writeFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -8,7 +9,7 @@ export const ready = () => ['GITHUB_APP_ID', 'GITHUB_INSTALLATION_ID', 'GITHUB_A
 export function validateSubmission(data) {
   if (!data || data.consent !== true || data.website) throw new Error('INVALID');
   const limits = { title: 120, prompt: 12000, nickname: 80, source: 500 };
-  const result = { model: 'gpt-image-2' };
+  const result = { model: 'gpt-image-2', ...validateTags(data) };
   for (const [key, max] of Object.entries(limits)) {
     if (typeof data[key] !== 'string' || data[key].length > max) throw new Error('INVALID');
     result[key] = data[key].trim();
@@ -53,6 +54,7 @@ export async function createSubmissionIssue(data) {
     '### 投稿者', literal(data.nickname), '### 使用模型', literal(data.model),
     '### 提示詞', literal(data.prompt), '### 來源／個人連結', literal(data.source || '未提供'),
     '### 成果圖片', '![](' + process.env.SUBMISSION_ORIGIN + '/api/submission-image?id=' + filename + ')',
+    formatTags(data),
     '投稿者已確認有權分享，並同意將填寫內容與圖片公開於 GitHub，供審核及圖庫刊登。',
     '投稿編號：' + id
   ].join('\n\n');

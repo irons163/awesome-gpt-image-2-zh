@@ -3286,7 +3286,7 @@ function App() {
       />
 
       <SkillSection language={language} repoUrl={repoUrl} />
-      <SubmissionForm language={language} />
+      <SubmissionForm language={language} categories={orderedCategories} styles={orderedStyles} scenes={orderedScenes} label={value => localizeLabel(value, language, styleLibrary)} />
       <PreviewDialog
         preview={preview}
         language={language}

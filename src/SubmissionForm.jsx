@@ -1,7 +1,7 @@
 import { useGalleryAuth } from './GalleryAuth';
 import React, { useEffect, useRef, useState } from 'react';
 
-export default function SubmissionForm({ language }) {
+export default function SubmissionForm({ language, categories, styles, scenes, label }) {
   const zh = language === 'zh';
   const {config, authClient, session, setSession, status, setStatus, login, logout} = useGalleryAuth();
   const [token, setToken] = useState('');
@@ -43,6 +43,9 @@ export default function SubmissionForm({ language }) {
     if (busy || !token || !session) return;
     const form = event.currentTarget;
     const fields = new FormData(form);
+    const selectedStyles = fields.getAll('styles');
+    const selectedScenes = fields.getAll('scenes');
+    if (!selectedStyles.length || !selectedScenes.length) {setStatus(zh ? '請至少選擇一種風格與一個場景。' : 'Choose at least one style and scene.');return;}
     const file = fields.get('image');
     if (!file?.size || file.size > 3 * 1024 * 1024 || !['image/png', 'image/jpeg'].includes(file.type)) {
       setStatus(zh ? '請選擇 3 MB 以內的 PNG 或 JPEG 圖片。' : 'Choose a PNG or JPEG image under 3 MB.'); return;
@@ -59,7 +62,7 @@ export default function SubmissionForm({ language }) {
       if (!auth.session) throw new Error('AUTH_REQUIRED');
       const response = await fetch('/api/submissions', {
         method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + auth.session.access_token },
-        body: JSON.stringify({ ...Object.fromEntries(fields), image, consent: fields.has('consent'), token })
+        body: JSON.stringify({ ...Object.fromEntries(fields), styles:selectedStyles, scenes:selectedScenes, image, consent: fields.has('consent'), token })
       });
       const result = await response.json();
       if (!response.ok) throw new Error(result.error);
@@ -68,6 +71,7 @@ export default function SubmissionForm({ language }) {
     } catch (error) {
       if(error.message === 'DAILY_LIMIT') { setStatus(zh ? '今天已達 5 筆投稿上限，請於台灣時間明天凌晨 0 點後再投稿。' : 'Daily limit of 5 reached. Try again after midnight in Taiwan.'); }
       else if(error.message === 'AUTH_REQUIRED') { setSession(null); setStatus(zh ? '登入已失效，請重新登入。' : 'Please sign in again.'); }
+      else if(error.message === 'INVALID') setStatus(zh ? '投稿資料或標籤無效，請重新確認選項後送出。' : 'Invalid submission or tags. Review your selections.');
       else setStatus(zh ? '尚未確認投稿成功，請稍後查看 GitHub 投稿清單，避免重複送出；也可以到 Discord 聯絡我們。' : 'Submission could not be confirmed. Check the GitHub issue list before retrying, or contact us on Discord.');
     } finally {
       setBusy(false); setToken('');
@@ -86,6 +90,9 @@ export default function SubmissionForm({ language }) {
       <label>{zh ? '案例名稱' : 'Title'}<input name="title" maxLength={120} required /></label>
       <label>{zh ? '投稿者暱稱' : 'Display name'}<input name="nickname" maxLength={80} required /></label>
       <label>{zh ? '來源／個人連結（選填，HTTPS）' : 'Source / profile link (optional, HTTPS)'}<input name="source" type="url" pattern="https://.*" maxLength={500} /></label>
+      <label>{zh ? '分類' : 'Category'}<select name="category" required defaultValue=""><option value="" disabled>{zh ? '請選擇分類' : 'Choose a category'}</option>{categories.map(value=><option key={value} value={value}>{label(value)}</option>)}</select></label>
+      {[["styles",styles,zh ? '風格' : 'Styles'],["scenes",scenes,zh ? '場景' : 'Scenes']].map(([name,options,title])=><fieldset className="submissionTags" key={name}><legend>{title}{zh ? '（可複選，至少選一項）' : ' (select one or more)'}</legend><div>{options.map(value=><label key={value}><input type="checkbox" name={name} value={value}/>{label(value)}</label>)}</div></fieldset>)}
+      <small>{zh ? '請選擇最符合作品的標籤，維護者審核時可能調整。' : 'Choose tags that fit your work. Reviewers may adjust them.'}</small>
       <label>{zh ? '完整提示詞（請使用繁體中文與台灣用語）' : 'Full prompt'}<textarea name="prompt" maxLength={12000} rows={8} required /></label>
       <label>{zh ? '成果圖片（PNG／JPEG，最多 3 MB）' : 'Result image (PNG / JPEG, max 3 MB)'}<input name="image" type="file" accept="image/png,image/jpeg" required /></label>
       <label className="submissionTrap" aria-hidden="true">Website<input name="website" tabIndex={-1} autoComplete="off" /></label>
