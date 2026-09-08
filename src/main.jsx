@@ -3287,6 +3287,10 @@ function App() {
 
       <SkillSection language={language} repoUrl={repoUrl} />
       <SubmissionForm language={language} categories={orderedCategories} styles={orderedStyles} scenes={orderedScenes} label={value => localizeLabel(value, language, styleLibrary)} />
+      <footer style={{padding:'32px 0',display:'flex',gap:'24px',justifyContent:'center',flexWrap:'wrap'}}>
+        <a href="/legal/privacy.html">{language === 'zh' ? '隱私權政策' : 'Privacy Policy'}</a>
+        <a href="/legal/terms.html">{language === 'zh' ? '使用條款' : 'Terms of Use'}</a>
+      </footer>
       <PreviewDialog
         preview={preview}
         language={language}
