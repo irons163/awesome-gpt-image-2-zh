@@ -115,7 +115,6 @@ export default function SubmissionForm({ language }) {
     <form onSubmit={submit}>
       <label>{zh ? '案例名稱' : 'Title'}<input name="title" maxLength={120} required /></label>
       <label>{zh ? '投稿者暱稱' : 'Display name'}<input name="nickname" maxLength={80} required /></label>
-      <label>{zh ? '使用模型' : 'Image model'}<input name="model" maxLength={100} placeholder="gpt-image-2" required /></label>
       <label>{zh ? '來源／個人連結（選填，HTTPS）' : 'Source / profile link (optional, HTTPS)'}<input name="source" type="url" pattern="https://.*" maxLength={500} /></label>
       <label>{zh ? '完整提示詞（請使用繁體中文與台灣用語）' : 'Full prompt'}<textarea name="prompt" maxLength={12000} rows={8} required /></label>
       <label>{zh ? '成果圖片（PNG／JPEG，最多 3 MB）' : 'Result image (PNG / JPEG, max 3 MB)'}<input name="image" type="file" accept="image/png,image/jpeg" required /></label>

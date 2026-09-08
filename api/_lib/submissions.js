@@ -7,8 +7,8 @@ export const ready = () => ['GITHUB_APP_ID', 'GITHUB_INSTALLATION_ID', 'GITHUB_A
 
 export function validateSubmission(data) {
   if (!data || data.consent !== true || data.website) throw new Error('INVALID');
-  const limits = { title: 120, prompt: 12000, model: 100, nickname: 80, source: 500 };
-  const result = {};
+  const limits = { title: 120, prompt: 12000, nickname: 80, source: 500 };
+  const result = { model: 'gpt-image-2' };
   for (const [key, max] of Object.entries(limits)) {
     if (typeof data[key] !== 'string' || data[key].length > max) throw new Error('INVALID');
     result[key] = data[key].trim();
