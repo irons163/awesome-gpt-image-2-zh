@@ -1,6 +1,46 @@
 {
   "target": 541,
   "cases": {
+    "181": {
+      "status": "missing-reference",
+      "note": "需要原始商品廣告。"
+    },
+    "187": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "198": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "199": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "200": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "201": {
+      "status": "needs-prompt-revision",
+      "note": "處方含診斷、劑量及醫師簽章，需改為明確標示無效的虛構樣張。"
+    },
+    "202": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "212": {
+      "status": "missing-reference",
+      "note": "需要原始角色或附圖圖案。"
+    },
+    "215": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "216": {
+      "status": "missing-reference",
+      "note": "需要原始角色或附圖圖案。"
+    },
     "226": {
       "status": "missing-reference",
       "note": "需要原始上傳圖片。"
