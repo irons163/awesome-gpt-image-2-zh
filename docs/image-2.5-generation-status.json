@@ -1,6 +1,98 @@
 {
   "target": 541,
   "cases": {
+    "283": {
+      "status": "missing-reference",
+      "note": "需要原始圖片或角色參考。"
+    },
+    "285": {
+      "status": "missing-reference",
+      "note": "需要原始圖片或角色參考。"
+    },
+    "292": {
+      "status": "needs-source-research",
+      "note": "提示詞要求先查閱指定 X 帳號及貼文。"
+    },
+    "297": {
+      "status": "missing-reference",
+      "note": "需要原始手寫食譜或連結。"
+    },
+    "303": {
+      "status": "needs-prompt-revision",
+      "note": "需改為原創課本風格範例，不能重製指定出版社課本內頁。"
+    },
+    "305": {
+      "status": "needs-prompt-revision",
+      "note": "原提示詞以性挑逗及誘惑姿態為重點，需改為一般時尚攝影。"
+    },
+    "306": {
+      "status": "missing-reference",
+      "note": "需要原始角色及背景。"
+    },
+    "317": {
+      "status": "missing-reference",
+      "note": "需要原始模特照片。"
+    },
+    "318": {
+      "status": "missing-reference",
+      "note": "需要原始模特照片。"
+    },
+    "321": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "322": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品或姿勢參考圖。"
+    },
+    "323": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品或姿勢參考圖。"
+    },
+    "328": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品或姿勢參考圖。"
+    },
+    "329": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品或姿勢參考圖。"
+    },
+    "332": {
+      "status": "missing-reference",
+      "note": "需要原始產品圖。"
+    },
+    "335": {
+      "status": "missing-prompt",
+      "note": "原作者未公開提示詞，案例說明不是原始產圖指令。"
+    },
+    "336": {
+      "status": "missing-prompt",
+      "note": "原作者未公開提示詞，案例說明不是原始產圖指令。"
+    },
+    "347": {
+      "status": "missing-reference",
+      "note": "需要原始人像或角色參考圖。"
+    },
+    "348": {
+      "status": "missing-reference",
+      "note": "需要原始人像或角色參考圖。"
+    },
+    "350": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：other。"
+    },
+    "351": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "353": {
+      "status": "missing-reference",
+      "note": "需要原始人像或角色參考圖。"
+    },
+    "357": {
+      "status": "missing-reference",
+      "note": "需要原始人像或角色參考圖。"
+    },
     "363": {
       "status": "missing-reference",
       "note": "需要原始菜單、人像或標誌圖。"
