@@ -3453,23 +3453,6 @@ button {
 .submissionTags label { display: flex !important; align-items: center; gap: 6px; }
 .submissionTags input[type=checkbox] { width: auto; margin: 0; }
 
-/* Public same-prompt comparisons */
-.comparisonShowcase { width: min(100% - 48px, 1180px); margin: 0 auto 72px; padding: 28px; display: grid; grid-template-columns: 1fr 1.2fr; gap: 28px; border: 1px solid rgba(103,232,249,.25); border-radius: 12px; background: linear-gradient(120deg,rgba(28,77,91,.3),rgba(21,25,48,.8)); scroll-margin-top: 100px; }
-.comparisonIntro h2 { margin: 12px 0; font-size: clamp(22px,2.4vw,30px); }
-.comparisonIntro p, .comparisonContext p { color: #b9c8da; line-height: 1.7; }
-.comparisonIntro small { display: block; color: #a5b5cb; margin-top: 16px; line-height: 1.6; }
-.comparisonCta, .comparisonCardLink { display: inline-flex; align-items: center; gap: 6px; color: #9eeeff; font-weight: 700; }
-.comparisonCta { padding: 10px 14px; background: rgba(103,232,249,.1); border: 1px solid rgba(103,232,249,.3); border-radius: 6px; }
-.comparisonCardLink { margin-top: 12px; font-size: 13px; }
-.comparisonSamples { display: grid; gap: 12px; grid-template-columns: repeat(3,minmax(0,1fr)); align-items: center; }
-.comparisonSamples a { min-width: 0; }
-.comparisonSamplePair { display: grid; gap: 3px; grid-template-columns: 1fr 1fr; }
-.comparisonSamplePair img { width: 100%; aspect-ratio: 3/5; object-fit: contain; background: #101829; border-radius: 5px; }
-.comparisonSamples span { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 10px; font-size: 12px; color: #c8e7f1; }
-.comparisonContext { padding: 16px; margin: 16px 0; border: 1px solid rgba(103,232,249,.25); border-radius: 8px; font-size: 13px; }
-.comparisonContext a { color: #9eeeff; }
-@media(max-width: 850px) { .comparisonShowcase { grid-template-columns: 1fr; } }
-@media(max-width: 600px) { .comparisonShowcase { width: calc(100% - 24px); padding: 18px; } .comparisonSamples { grid-template-columns: 1fr; } .comparisonSamplePair img { aspect-ratio: 4/3; } }
 @media(min-width: 901px) {
   .topbar { gap: 10px; }
   .topbar .brand { flex-shrink: 0; white-space: nowrap; }
@@ -3479,3 +3462,6 @@ button {
   .topbar .languageSwitch { flex-shrink: 0; }
 }
 @media(min-width: 901px) { .previewDialog { grid-template-rows: minmax(0, 1fr); } }
+
+.modelEmptyState { padding: 36px 24px; text-align: center; border: 1px solid rgba(255,255,255,.12); border-radius: 8px; background: rgba(9,15,32,.68); }
+.modelEmptyState p { color: #b7c7df; }

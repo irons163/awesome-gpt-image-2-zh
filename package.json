@@ -15,7 +15,7 @@
     "prebuild": "npm run generate:site-data && npm run generate:style-skill",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "node --test api/_lib/*.test.js scripts/production-server.test.mjs",
+    "test": "node --test api/_lib/*.test.js scripts/production-server.test.mjs src/image-models.test.js",
     "check:localization": "node scripts/check-localization.mjs"
   },
   "dependencies": {

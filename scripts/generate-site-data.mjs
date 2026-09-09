@@ -8,6 +8,16 @@ const docsDir = join(root, 'docs');
 const outFile = join(root, 'data', 'cases.json');
 const styleLibraryFile = join(root, 'data', 'style-library.json');
 const promptTranslationsFile = join(root, 'data', 'prompt-translations.zh-TW.json');
+const imageVariants = JSON.parse(readFileSync(join(root, 'data', 'image-variants.json'), 'utf8')).cases;
+function variantsFor(id) {
+  return (imageVariants[id] || []).filter(item => item.status === 'published').map(item => {
+    if (!/^gpt-image-2\.5-(sunburst|flare)(?:-\d{4}-\d{2}-\d{2})?$/.test(item.model) || !item.generatedDate || !item.promptSha256 || !item.outputSha256) throw new Error(`Missing generation provenance for case ${id}`);
+    if (!/^\/images\/[a-zA-Z0-9_./-]+$/.test(item.image) || item.image.includes('..')) throw new Error(`Invalid variant image for case ${id}`);
+    const imagePath = join(root, 'data', item.image.slice(1));
+    if (!existsSync(imagePath) || createHash('sha256').update(readFileSync(imagePath)).digest('hex') !== item.outputSha256) throw new Error(`Missing or changed variant image for case ${id}`);
+    return item;
+  });
+}
 const upstreamRepositoryUrl = 'https://github.com/freestylefly/awesome-gpt-image-2';
 const repositoryUrl = 'https://github.com/irons163/awesome-gpt-image-2-zh';
 const styleLibrary = JSON.parse(readFileSync(styleLibraryFile, 'utf8'));
@@ -177,6 +187,7 @@ function parseCases() {
 
       cases.push({
         model: 'gpt-image-2',
+        ...(variantsFor(id).length ? { imageVariants: variantsFor(id) } : {}),
         id,
         title,
         image,
