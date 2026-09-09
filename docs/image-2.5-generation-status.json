@@ -1,0 +1,137 @@
+{
+  "target": 541,
+  "cases": {
+    "445": {
+      "status": "missing-reference",
+      "note": "需要原始旅行照片。"
+    },
+    "452": {
+      "status": "missing-reference",
+      "note": "需要前一版總覽、角色設定或原始照片。"
+    },
+    "457": {
+      "status": "generation-rejected",
+      "note": "產圖服務拒絕輸出。"
+    },
+    "462": {
+      "status": "missing-reference",
+      "note": "需要前一版總覽、角色設定或原始照片。"
+    },
+    "463": {
+      "status": "missing-reference",
+      "note": "需要前一版總覽、角色設定或原始照片。"
+    },
+    "465": {
+      "status": "generation-rejected",
+      "note": "產圖服務拒絕輸出。"
+    },
+    "466": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "467": {
+      "status": "generation-rejected",
+      "note": "產圖服務拒絕輸出（sexual）。"
+    },
+    "468": {
+      "status": "needs-prompt-revision",
+      "note": "原提示詞以手繪線條取代真實服裝並強調若隱若現，需改為實際服裝的非裸露版本。"
+    },
+    "475": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "479": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "480": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "485": {
+      "status": "batch-interrupted",
+      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+    },
+    "486": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "487": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "488": {
+      "status": "batch-interrupted",
+      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+    },
+    "490": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "491": {
+      "status": "batch-interrupted",
+      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+    },
+    "492": {
+      "status": "batch-interrupted",
+      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+    },
+    "495": {
+      "status": "batch-interrupted",
+      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+    },
+    "498": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "499": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "502": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "504": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "505": {
+      "status": "batch-interrupted",
+      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+    },
+    "506": {
+      "status": "batch-interrupted",
+      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+    },
+    "512": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "519": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "521": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "522": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "524": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "525": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "533": {
+      "status": "missing-reference",
+      "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    }
+  }
+}
