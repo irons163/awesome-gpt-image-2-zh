@@ -51,6 +51,7 @@
   ],
   "cases": [
     {
+      "model": "gpt-image-2",
       "id": 544,
       "title": "幼兒詞彙拆解學習卡",
       "image": "/images/case544.jpg",
@@ -77,6 +78,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-544"
     },
     {
+      "model": "gpt-image-2",
       "id": 543,
       "title": "旅行紀念琺琅徽章",
       "image": "/images/case543.jpg",
@@ -103,6 +105,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-543"
     },
     {
+      "model": "gpt-image-2",
       "id": 542,
       "title": "黑白排版側臉肖像海報",
       "image": "/images/case542.jpg",
@@ -129,6 +132,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-542"
     },
     {
+      "model": "gpt-image-2",
       "id": 541,
       "title": "50/50 混合媒介回憶卡",
       "image": "/images/case541.jpg",
@@ -153,6 +157,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-541"
     },
     {
+      "model": "gpt-image-2",
       "id": 540,
       "title": "夢幻未來城市編輯藝術海報",
       "image": "/images/case540.jpg",
@@ -179,6 +184,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-540"
     },
     {
+      "model": "gpt-image-2",
       "id": 539,
       "title": "粗糲手繪搭檔肖像海報",
       "image": "/images/case539.jpg",
@@ -204,6 +210,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-539"
     },
     {
+      "model": "gpt-image-2",
       "id": 538,
       "title": "橡皮章旅行田野筆記海報",
       "image": "/images/case538.jpg",
@@ -230,6 +237,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-538"
     },
     {
+      "model": "gpt-image-2",
       "id": 537,
       "title": "地下檔案館暗黑概念海報",
       "image": "/images/case537.jpg",
@@ -256,6 +264,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-537"
     },
     {
+      "model": "gpt-image-2",
       "id": 536,
       "title": "春日櫻花回眸電影人像",
       "image": "/images/case536.jpg",
@@ -281,6 +290,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-536"
     },
     {
+      "model": "gpt-image-2",
       "id": 535,
       "title": "同一人臉十二款髮型 Lookbook",
       "image": "/images/case535.jpg",
@@ -307,6 +317,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-535"
     },
     {
+      "model": "gpt-image-2",
       "id": 534,
       "title": "紅光干擾實驗編輯人像海報",
       "image": "/images/case534.jpg",
@@ -333,6 +344,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-534"
     },
     {
+      "model": "gpt-image-2",
       "id": 533,
       "title": "手繪塗鴉時尚人物插畫",
       "image": "/images/case533.jpg",
@@ -359,6 +371,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-533"
     },
     {
+      "model": "gpt-image-2",
       "id": 532,
       "title": "六宮格檸檬飲料微縮廣告",
       "image": "/images/case532.jpg",
@@ -385,6 +398,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-532"
     },
     {
+      "model": "gpt-image-2",
       "id": 531,
       "title": "水晶框國家旅行廣告海報",
       "image": "/images/case531.jpg",
@@ -411,6 +425,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-531"
     },
     {
+      "model": "gpt-image-2",
       "id": 530,
       "title": "實拍背景塗鴉人物替換",
       "image": "/images/case530.jpg",
@@ -437,6 +452,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-530"
     },
     {
+      "model": "gpt-image-2",
       "id": 529,
       "title": "雲朵氣球山脊旅行人像",
       "image": "/images/case529.jpg",
@@ -463,6 +479,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-529"
     },
     {
+      "model": "gpt-image-2",
       "id": 528,
       "title": "聖誕街景 Chibi 真實背景人像",
       "image": "/images/case528.jpg",
@@ -489,6 +506,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-528"
     },
     {
+      "model": "gpt-image-2",
       "id": 527,
       "title": "Rio 旅行票據紙雕立體海報",
       "image": "/images/case527.jpg",
@@ -515,6 +533,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-527"
     },
     {
+      "model": "gpt-image-2",
       "id": 526,
       "title": "體積鐳射黑場海報",
       "image": "/images/case526.jpg",
@@ -538,6 +557,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-526"
     },
     {
+      "model": "gpt-image-2",
       "id": 525,
       "title": "酒紅棚拍男士時尚肖像",
       "image": "/images/case525.jpg",
@@ -563,6 +583,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-525"
     },
     {
+      "model": "gpt-image-2",
       "id": 524,
       "title": "紙雕拼貼鄉野人像",
       "image": "/images/case524.jpg",
@@ -589,6 +610,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-524"
     },
     {
+      "model": "gpt-image-2",
       "id": 523,
       "title": "曼哈頓公園水彩旅行插畫",
       "image": "/images/case523.jpg",
@@ -615,6 +637,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-523"
     },
     {
+      "model": "gpt-image-2",
       "id": 522,
       "title": "兒童故事書手繪頭像",
       "image": "/images/case522.jpg",
@@ -641,6 +664,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-522"
     },
     {
+      "model": "gpt-image-2",
       "id": 521,
       "title": "青花敦煌刺繡四拼風格海報",
       "image": "/images/case521.jpg",
@@ -666,6 +690,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-521"
     },
     {
+      "model": "gpt-image-2",
       "id": 520,
       "title": "月面宇航員 T 恤圖形",
       "image": "/images/case520.jpg",
@@ -692,6 +717,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-520"
     },
     {
+      "model": "gpt-image-2",
       "id": 519,
       "title": "薄荷玫瑰香水電商圖",
       "image": "/images/case519.jpg",
@@ -714,6 +740,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-519"
     },
     {
+      "model": "gpt-image-2",
       "id": 518,
       "title": "花田風動夏日人像",
       "image": "/images/case518.jpg",
@@ -737,6 +764,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-518"
     },
     {
+      "model": "gpt-image-2",
       "id": 517,
       "title": "杯內魚眼夏日冰飲廣告",
       "image": "/images/case517.jpg",
@@ -761,6 +789,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-517"
     },
     {
+      "model": "gpt-image-2",
       "id": 516,
       "title": "工業橡膠管品牌造型渲染",
       "image": "/images/case516.jpg",
@@ -786,6 +815,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-516"
     },
     {
+      "model": "gpt-image-2",
       "id": 515,
       "title": "Guadalajara 復古電影旅行海報",
       "image": "/images/case515.jpg",
@@ -812,6 +842,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-515"
     },
     {
+      "model": "gpt-image-2",
       "id": 514,
       "title": "硬邊現代藝術人像",
       "image": "/images/case514.jpg",
@@ -835,6 +866,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-514"
     },
     {
+      "model": "gpt-image-2",
       "id": 513,
       "title": "單色點綴旅行手賬插畫",
       "image": "/images/case513.jpg",
@@ -861,6 +893,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-513"
     },
     {
+      "model": "gpt-image-2",
       "id": 512,
       "title": "Brutalist Freestyle 角色設定表",
       "image": "/images/case512.jpg",
@@ -887,6 +920,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-512"
     },
     {
+      "model": "gpt-image-2",
       "id": 511,
       "title": "城市名地標排版旅行海報",
       "image": "/images/case511.jpg",
@@ -913,6 +947,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-511"
     },
     {
+      "model": "gpt-image-2",
       "id": 510,
       "title": "Bichon Shop 擬物 App 圖示",
       "image": "/images/case510.jpg",
@@ -935,6 +970,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-510"
     },
     {
+      "model": "gpt-image-2",
       "id": 509,
       "title": "塗鴉拉衣奔跑棚拍",
       "image": "/images/case509.jpg",
@@ -961,6 +997,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-509"
     },
     {
+      "model": "gpt-image-2",
       "id": 508,
       "title": "木漏日庭院俯拍貓咪人像",
       "image": "/images/case508.jpg",
@@ -983,6 +1020,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-508"
     },
     {
+      "model": "gpt-image-2",
       "id": 507,
       "title": "暖調鉤織角色玩偶",
       "image": "/images/case507.jpg",
@@ -1006,6 +1044,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-507"
     },
     {
+      "model": "gpt-image-2",
       "id": 506,
       "title": "可愛髮卡圖文人像海報",
       "image": "/images/case506.jpg",
@@ -1030,6 +1069,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-506"
     },
     {
+      "model": "gpt-image-2",
       "id": 505,
       "title": "夜間手機光沙發肖像",
       "image": "/images/case505.jpg",
@@ -1054,6 +1094,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-505"
     },
     {
+      "model": "gpt-image-2",
       "id": 504,
       "title": "粗糙塗鴉人像改圖",
       "image": "/images/case504.jpg",
@@ -1080,6 +1121,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-504"
     },
     {
+      "model": "gpt-image-2",
       "id": 503,
       "title": "霓虹設計師 3D 海報",
       "image": "/images/case503.jpg",
@@ -1106,6 +1148,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-503"
     },
     {
+      "model": "gpt-image-2",
       "id": 502,
       "title": "黑桃國王遞迴撲克牌",
       "image": "/images/case502.jpg",
@@ -1132,6 +1175,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-502"
     },
     {
+      "model": "gpt-image-2",
       "id": 501,
       "title": "夏日牽手回眸電影肖像",
       "image": "/images/case501.jpg",
@@ -1158,6 +1202,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-501"
     },
     {
+      "model": "gpt-image-2",
       "id": 500,
       "title": "夢幻花冠仙境肖像",
       "image": "/images/case500.jpg",
@@ -1182,6 +1227,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-500"
     },
     {
+      "model": "gpt-image-2",
       "id": 499,
       "title": "極簡精品店全身時尚寫真",
       "image": "/images/case499.jpg",
@@ -1207,6 +1253,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-499"
     },
     {
+      "model": "gpt-image-2",
       "id": 498,
       "title": "鉛筆畫背景 3D 分身",
       "image": "/images/case498.jpg",
@@ -1230,6 +1277,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-498"
     },
     {
+      "model": "gpt-image-2",
       "id": 497,
       "title": "單色水彩城市旅行海報",
       "image": "/images/case497.jpg",
@@ -1256,6 +1304,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-497"
     },
     {
+      "model": "gpt-image-2",
       "id": 496,
       "title": "水雕品牌 Logo 六宮格",
       "image": "/images/case496.jpg",
@@ -1281,6 +1330,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-496"
     },
     {
+      "model": "gpt-image-2",
       "id": 495,
       "title": "巴黎街頭故事書插畫",
       "image": "/images/case495.jpg",
@@ -1305,6 +1355,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-495"
     },
     {
+      "model": "gpt-image-2",
       "id": 494,
       "title": "電動巴士工程資訊圖表",
       "image": "/images/case494.jpg",
@@ -1331,6 +1382,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-494"
     },
     {
+      "model": "gpt-image-2",
       "id": 493,
       "title": "東京旅行 13 格影片封面",
       "image": "/images/case493.jpg",
@@ -1357,6 +1409,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-493"
     },
     {
+      "model": "gpt-image-2",
       "id": 492,
       "title": "黑色高定酒店套房寫真",
       "image": "/images/case492.jpg",
@@ -1382,6 +1435,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-492"
     },
     {
+      "model": "gpt-image-2",
       "id": 491,
       "title": "Y2K 高樓浴室鏡面自拍",
       "image": "/images/case491.jpg",
@@ -1408,6 +1462,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-491"
     },
     {
+      "model": "gpt-image-2",
       "id": 490,
       "title": "雙重曝光時尚肖像",
       "image": "/images/case490.jpg",
@@ -1433,6 +1488,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-490"
     },
     {
+      "model": "gpt-image-2",
       "id": 489,
       "title": "城市地圖微縮旅行海報",
       "image": "/images/case489.jpg",
@@ -1458,6 +1514,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-489"
     },
     {
+      "model": "gpt-image-2",
       "id": 488,
       "title": "屋頂球場日落人像",
       "image": "/images/case488.jpg",
@@ -1481,6 +1538,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-488"
     },
     {
+      "model": "gpt-image-2",
       "id": 487,
       "title": "法式藥妝商業分鏡封面",
       "image": "/images/case487.jpg",
@@ -1507,6 +1565,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-487"
     },
     {
+      "model": "gpt-image-2",
       "id": 486,
       "title": "RCB 冠軍混合媒介海報",
       "image": "/images/case486.jpg",
@@ -1533,6 +1592,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-486"
     },
     {
+      "model": "gpt-image-2",
       "id": 485,
       "title": "時尚目錄電商拼貼",
       "image": "/images/case485.jpg",
@@ -1559,6 +1619,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-485"
     },
     {
+      "model": "gpt-image-2",
       "id": 484,
       "title": "霓虹塗鴉黑白人像",
       "image": "/images/case484.jpg",
@@ -1583,6 +1644,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-484"
     },
     {
+      "model": "gpt-image-2",
       "id": 483,
       "title": "都市飛鳥街頭肖像",
       "image": "/images/case483.jpg",
@@ -1607,6 +1669,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-483"
     },
     {
+      "model": "gpt-image-2",
       "id": 482,
       "title": "自我凝視超現實 Campaign",
       "image": "/images/case482.jpg",
@@ -1633,6 +1696,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-482"
     },
     {
+      "model": "gpt-image-2",
       "id": 481,
       "title": "韓系春日 scrapbook 海報",
       "image": "/images/case481.jpg",
@@ -1658,6 +1722,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-481"
     },
     {
+      "model": "gpt-image-2",
       "id": 480,
       "title": "粉絲速寫本角色頁",
       "image": "/images/case480.jpg",
@@ -1680,6 +1745,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-480"
     },
     {
+      "model": "gpt-image-2",
       "id": 479,
       "title": "雜誌紙藝拼貼重繪",
       "image": "/images/case479.jpg",
@@ -1706,6 +1772,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-479"
     },
     {
+      "model": "gpt-image-2",
       "id": 478,
       "title": "夾層式品牌編輯海報",
       "image": "/images/case478.jpg",
@@ -1732,6 +1799,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-478"
     },
     {
+      "model": "gpt-image-2",
       "id": 477,
       "title": "Instagram 餐桌俯拍創意",
       "image": "/images/case477.jpg",
@@ -1758,6 +1826,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-477"
     },
     {
+      "model": "gpt-image-2",
       "id": 476,
       "title": "早安拿鐵微縮女孩",
       "image": "/images/case476.jpg",
@@ -1782,6 +1851,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-476"
     },
     {
+      "model": "gpt-image-2",
       "id": 475,
       "title": "企鵝造型包裝結構板",
       "image": "/images/case475.jpg",
@@ -1807,6 +1877,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-475"
     },
     {
+      "model": "gpt-image-2",
       "id": 474,
       "title": "四城極簡旅行海報系列",
       "image": "/images/case474.jpg",
@@ -1832,6 +1903,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-474"
     },
     {
+      "model": "gpt-image-2",
       "id": 473,
       "title": "ROGUE VIPER 遊戲概念設定板",
       "image": "/images/case473.jpg",
@@ -1858,6 +1930,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-473"
     },
     {
+      "model": "gpt-image-2",
       "id": 472,
       "title": "上海地鐵站臺晨光",
       "image": "/images/case472.jpg",
@@ -1883,6 +1956,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-472"
     },
     {
+      "model": "gpt-image-2",
       "id": 471,
       "title": "花簪和服動漫肖像",
       "image": "/images/case471.jpg",
@@ -1907,6 +1981,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-471"
     },
     {
+      "model": "gpt-image-2",
       "id": 470,
       "title": "本地生活小店異形展架",
       "image": "/images/case470.jpg",
@@ -1933,6 +2008,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-470"
     },
     {
+      "model": "gpt-image-2",
       "id": 469,
       "title": "導覽式科普繪本",
       "image": "/images/case469.jpg",
@@ -1959,6 +2035,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-469"
     },
     {
+      "model": "gpt-image-2",
       "id": 468,
       "title": "霓虹塗鴉展會自拍",
       "image": "/images/case468.jpg",
@@ -1983,6 +2060,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-468"
     },
     {
+      "model": "gpt-image-2",
       "id": 467,
       "title": "泳裝雜誌九宮格廣告頁",
       "image": "/images/case467.jpg",
@@ -2005,6 +2083,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-467"
     },
     {
+      "model": "gpt-image-2",
       "id": 466,
       "title": "魚市追貓 CCD 街拍",
       "image": "/images/case466.jpg",
@@ -2031,6 +2110,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-466"
     },
     {
+      "model": "gpt-image-2",
       "id": 465,
       "title": "逆光美背女性情緒寫真",
       "image": "/images/case465.jpg",
@@ -2057,6 +2137,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-465"
     },
     {
+      "model": "gpt-image-2",
       "id": 464,
       "title": "高雄水彩拼貼旅行海報",
       "image": "/images/case464.jpg",
@@ -2083,6 +2164,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-464"
     },
     {
+      "model": "gpt-image-2",
       "id": 463,
       "title": "黑色吊帶襪單款圖鑑展示",
       "image": "/images/case463.jpg",
@@ -2108,6 +2190,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-463"
     },
     {
+      "model": "gpt-image-2",
       "id": 462,
       "title": "復古日系迷你橡皮商品包裝",
       "image": "/images/case462.jpg",
@@ -2132,6 +2215,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-462"
     },
     {
+      "model": "gpt-image-2",
       "id": 461,
       "title": "家庭旅行紙雕拼貼",
       "image": "/images/case461.jpg",
@@ -2158,6 +2242,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-461"
     },
     {
+      "model": "gpt-image-2",
       "id": 460,
       "title": "棋盤低角度奢華男裝 Campaign",
       "image": "/images/case460.jpg",
@@ -2184,6 +2269,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-460"
     },
     {
+      "model": "gpt-image-2",
       "id": 459,
       "title": "品牌奶茶 KV 概念海報",
       "image": "/images/case459.jpg",
@@ -2210,6 +2296,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-459"
     },
     {
+      "model": "gpt-image-2",
       "id": 458,
       "title": "巴黎秋季時裝插畫",
       "image": "/images/case458.jpg",
@@ -2236,6 +2323,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-458"
     },
     {
+      "model": "gpt-image-2",
       "id": 457,
       "title": "運動軌跡舞者光繪海報",
       "image": "/images/case457.jpg",
@@ -2261,6 +2349,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-457"
     },
     {
+      "model": "gpt-image-2",
       "id": 456,
       "title": "歷史事件 2x2 視覺化地圖",
       "image": "/images/case456.jpg",
@@ -2287,6 +2376,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-456"
     },
     {
+      "model": "gpt-image-2",
       "id": 455,
       "title": "巨型舒適洞洞鞋 Campaign",
       "image": "/images/case455.jpg",
@@ -2313,6 +2403,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-455"
     },
     {
+      "model": "gpt-image-2",
       "id": 454,
       "title": "旅行美食薯片廣告海報",
       "image": "/images/case454.jpg",
@@ -2338,6 +2429,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-454"
     },
     {
+      "model": "gpt-image-2",
       "id": 453,
       "title": "企業級商用畫冊視覺系統",
       "image": "/images/case453.jpg",
@@ -2363,6 +2455,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-453"
     },
     {
+      "model": "gpt-image-2",
       "id": 452,
       "title": "極簡童話手繪兒童插畫",
       "image": "/images/case452.jpg",
@@ -2389,6 +2482,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-452"
     },
     {
+      "model": "gpt-image-2",
       "id": 451,
       "title": "韓國海灘日落時尚人像",
       "image": "/images/case451.jpg",
@@ -2411,6 +2505,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-451"
     },
     {
+      "model": "gpt-image-2",
       "id": 450,
       "title": "燭光側室寫實攝影",
       "image": "/images/case450.jpg",
@@ -2436,6 +2531,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-450"
     },
     {
+      "model": "gpt-image-2",
       "id": 449,
       "title": "奢華機械腕錶技術圖鑑",
       "image": "/images/case449.jpg",
@@ -2462,6 +2558,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-449"
     },
     {
+      "model": "gpt-image-2",
       "id": 448,
       "title": "1942 空戰街機電影城",
       "image": "/images/case448.jpg",
@@ -2487,6 +2584,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-448"
     },
     {
+      "model": "gpt-image-2",
       "id": 447,
       "title": "現代地鐵工程資訊圖表",
       "image": "/images/case447.jpg",
@@ -2513,6 +2611,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-447"
     },
     {
+      "model": "gpt-image-2",
       "id": 446,
       "title": "低多邊形紙藝男士肖像",
       "image": "/images/case446.jpg",
@@ -2538,6 +2637,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-446"
     },
     {
+      "model": "gpt-image-2",
       "id": 445,
       "title": "旅遊照水墨明信片",
       "image": "/images/case445.jpg",
@@ -2563,6 +2663,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-445"
     },
     {
+      "model": "gpt-image-2",
       "id": 444,
       "title": "迪斯科鏡面 3D App 圖示",
       "image": "/images/case444.jpg",
@@ -2588,6 +2689,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-444"
     },
     {
+      "model": "gpt-image-2",
       "id": 443,
       "title": "塔可爆炸拆解資訊圖表",
       "image": "/images/case443.jpg",
@@ -2614,6 +2716,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-443"
     },
     {
+      "model": "gpt-image-2",
       "id": 442,
       "title": "舒適髮廊插畫",
       "image": "/images/case442.jpg",
@@ -2639,6 +2742,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-442"
     },
     {
+      "model": "gpt-image-2",
       "id": 441,
       "title": "WILDCAMP 巨型帳篷廣告海報",
       "image": "/images/case441.jpg",
@@ -2665,6 +2769,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-441"
     },
     {
+      "model": "gpt-image-2",
       "id": 440,
       "title": "手機拍攝 FaceTime 工作螢幕",
       "image": "/images/case440.jpg",
@@ -2690,6 +2795,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-440"
     },
     {
+      "model": "gpt-image-2",
       "id": 439,
       "title": "賽博駭客角色設定表",
       "image": "/images/case439.jpg",
@@ -2716,6 +2822,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-439"
     },
     {
+      "model": "gpt-image-2",
       "id": 438,
       "title": "珠寶微縮城市廣告海報",
       "image": "/images/case438.jpg",
@@ -2742,6 +2849,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-438"
     },
     {
+      "model": "gpt-image-2",
       "id": 437,
       "title": "面部美學分析報告",
       "image": "/images/case437.jpg",
@@ -2768,6 +2876,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-437"
     },
     {
+      "model": "gpt-image-2",
       "id": 436,
       "title": "數位相機螢幕懷舊人像",
       "image": "/images/case436.jpg",
@@ -2793,6 +2902,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-436"
     },
     {
+      "model": "gpt-image-2",
       "id": 435,
       "title": "層疊紙雕情侶插畫",
       "image": "/images/case435.jpg",
@@ -2819,6 +2929,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-435"
     },
     {
+      "model": "gpt-image-2",
       "id": 434,
       "title": "東京街頭膠片人像",
       "image": "/images/case434.jpg",
@@ -2845,6 +2956,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-434"
     },
     {
+      "model": "gpt-image-2",
       "id": 433,
       "title": "韓國城市水彩旅行插畫",
       "image": "/images/case433.jpg",
@@ -2871,6 +2983,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-433"
     },
     {
+      "model": "gpt-image-2",
       "id": 432,
       "title": "大堡礁復古旅行海報",
       "image": "/images/case432.jpg",
@@ -2896,6 +3009,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-432"
     },
     {
+      "model": "gpt-image-2",
       "id": 431,
       "title": "城市文字旅行海報",
       "image": "/images/case431.jpg",
@@ -2922,6 +3036,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-431"
     },
     {
+      "model": "gpt-image-2",
       "id": 430,
       "title": "鉛筆素描時尚編輯插畫",
       "image": "/images/case430.jpg",
@@ -2946,6 +3061,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-430"
     },
     {
+      "model": "gpt-image-2",
       "id": 429,
       "title": "韓國便利店粉色 Hoodie 人像",
       "image": "/images/case429.jpg",
@@ -2971,6 +3087,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-429"
     },
     {
+      "model": "gpt-image-2",
       "id": 428,
       "title": "F1 直播轉播圍場截圖",
       "image": "/images/case428.jpg",
@@ -2997,6 +3114,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-428"
     },
     {
+      "model": "gpt-image-2",
       "id": 427,
       "title": "9-frame 時尚人像拼貼",
       "image": "/images/case427.jpg",
@@ -3022,6 +3140,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-427"
     },
     {
+      "model": "gpt-image-2",
       "id": 426,
       "title": "日韓咖啡館情侶寫真",
       "image": "/images/case426.jpg",
@@ -3048,6 +3167,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-426"
     },
     {
+      "model": "gpt-image-2",
       "id": 425,
       "title": "黑白時尚人像拼貼海報",
       "image": "/images/case425.jpg",
@@ -3074,6 +3194,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-425"
     },
     {
+      "model": "gpt-image-2",
       "id": 424,
       "title": "FMCG 棒棒糖霓虹廣告",
       "image": "/images/case424.jpg",
@@ -3100,6 +3221,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-424"
     },
     {
+      "model": "gpt-image-2",
       "id": 423,
       "title": "日系手繪塗鴉半身插畫",
       "image": "/images/case423.jpg",
@@ -3125,6 +3247,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-423"
     },
     {
+      "model": "gpt-image-2",
       "id": 422,
       "title": "冬季生存驚悚 Storyboard",
       "image": "/images/case422.jpg",
@@ -3151,6 +3274,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-422"
     },
     {
+      "model": "gpt-image-2",
       "id": 421,
       "title": "iPhone 螢幕遮臉創意人像",
       "image": "/images/case421.jpg",
@@ -3176,6 +3300,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-421"
     },
     {
+      "model": "gpt-image-2",
       "id": 420,
       "title": "紅跑道低角度夏日人像",
       "image": "/images/case420.jpg",
@@ -3202,6 +3327,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-420"
     },
     {
+      "model": "gpt-image-2",
       "id": 419,
       "title": "可頌烘焙流程 Storyboard",
       "image": "/images/case419.jpg",
@@ -3228,6 +3354,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-419"
     },
     {
+      "model": "gpt-image-2",
       "id": 418,
       "title": "中世紀城市旅行海報",
       "image": "/images/case418.jpg",
@@ -3252,6 +3379,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-418"
     },
     {
+      "model": "gpt-image-2",
       "id": 417,
       "title": "復古印尼貓薄荷廣告",
       "image": "/images/case417.jpg",
@@ -3277,6 +3405,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-417"
     },
     {
+      "model": "gpt-image-2",
       "id": 416,
       "title": "Earth Signs 角色 Scrapbook",
       "image": "/images/case416.jpg",
@@ -3303,6 +3432,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-416"
     },
     {
+      "model": "gpt-image-2",
       "id": 415,
       "title": "東方神話人物誌百科海報",
       "image": "/images/case415.jpg",
@@ -3329,6 +3459,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-415"
     },
     {
+      "model": "gpt-image-2",
       "id": 414,
       "title": "室內晨間寫實攝影",
       "image": "/images/case414.jpg",
@@ -3354,6 +3485,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-414"
     },
     {
+      "model": "gpt-image-2",
       "id": 413,
       "title": "當代舞現場 Storyboard",
       "image": "/images/case413.jpg",
@@ -3380,6 +3512,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-413"
     },
     {
+      "model": "gpt-image-2",
       "id": 412,
       "title": "彩色按鈕時尚 Campaign",
       "image": "/images/case412.jpg",
@@ -3406,6 +3539,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-412"
     },
     {
+      "model": "gpt-image-2",
       "id": 411,
       "title": "極簡建築地標海報",
       "image": "/images/case411.jpg",
@@ -3431,6 +3565,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-411"
     },
     {
+      "model": "gpt-image-2",
       "id": 410,
       "title": "誇張動漫風主體重繪",
       "image": "/images/case410.jpg",
@@ -3455,6 +3590,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-410"
     },
     {
+      "model": "gpt-image-2",
       "id": 409,
       "title": "拙劣 MS Paint 風重繪",
       "image": "/images/case409.jpg",
@@ -3478,6 +3614,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-409"
     },
     {
+      "model": "gpt-image-2",
       "id": 408,
       "title": "Cozy Academia 學習手記",
       "image": "/images/case408.jpg",
@@ -3503,6 +3640,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-408"
     },
     {
+      "model": "gpt-image-2",
       "id": 407,
       "title": "Neuro-AI 混合系統資訊圖表",
       "image": "/images/case407.jpg",
@@ -3529,6 +3667,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-407"
     },
     {
+      "model": "gpt-image-2",
       "id": 406,
       "title": "巨型遊戲手柄街頭 Campaign",
       "image": "/images/case406.jpg",
@@ -3555,6 +3694,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-406"
     },
     {
+      "model": "gpt-image-2",
       "id": 405,
       "title": "可愛紙藝風照片重繪",
       "image": "/images/case405.jpg",
@@ -3578,6 +3718,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-405"
     },
     {
+      "model": "gpt-image-2",
       "id": 404,
       "title": "豪華社群媒體破屏商業廣告",
       "image": "/images/case404.jpg",
@@ -3603,6 +3744,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-404"
     },
     {
+      "model": "gpt-image-2",
       "id": 403,
       "title": "小红书數字破屏 3D 女孩",
       "image": "/images/case403.jpg",
@@ -3626,6 +3768,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-403"
     },
     {
+      "model": "gpt-image-2",
       "id": 402,
       "title": "3D 小红书個人資料卡",
       "image": "/images/case402.jpg",
@@ -3649,6 +3792,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-402"
     },
     {
+      "model": "gpt-image-2",
       "id": 401,
       "title": "Lost in 國家旅行海報拼貼",
       "image": "/images/case401.jpg",
@@ -3675,6 +3819,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-401"
     },
     {
+      "model": "gpt-image-2",
       "id": 400,
       "title": "多風格簽名選擇海報",
       "image": "/images/case400.png",
@@ -3699,6 +3844,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-400"
     },
     {
+      "model": "gpt-image-2",
       "id": 399,
       "title": "唱片公司樓梯間寫真人像",
       "image": "/images/case399.jpg",
@@ -3725,6 +3871,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-399"
     },
     {
+      "model": "gpt-image-2",
       "id": 398,
       "title": "8 套日常穿搭編輯拼貼",
       "image": "/images/case398.jpg",
@@ -3748,6 +3895,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-398"
     },
     {
+      "model": "gpt-image-2",
       "id": 397,
       "title": "街舞角色設定參考圖",
       "image": "/images/case397.jpg",
@@ -3771,6 +3919,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-397"
     },
     {
+      "model": "gpt-image-2",
       "id": 396,
       "title": "龍類物種復古百科海報",
       "image": "/images/case396.jpg",
@@ -3797,6 +3946,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-396"
     },
     {
+      "model": "gpt-image-2",
       "id": 395,
       "title": "騎士法師大戰石像魔像",
       "image": "/images/case395.jpg",
@@ -3822,6 +3972,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-395"
     },
     {
+      "model": "gpt-image-2",
       "id": 394,
       "title": "中世紀村莊雙精靈冒險者",
       "image": "/images/case394.jpg",
@@ -3848,6 +3999,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-394"
     },
     {
+      "model": "gpt-image-2",
       "id": 393,
       "title": "Y2K 金色時刻人像",
       "image": "/images/case393.jpg",
@@ -3872,6 +4024,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-393"
     },
     {
+      "model": "gpt-image-2",
       "id": 392,
       "title": "頭髮裡的微型城市",
       "image": "/images/case392.jpg",
@@ -3898,6 +4051,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-392"
     },
     {
+      "model": "gpt-image-2",
       "id": 391,
       "title": "四國文化錨點服裝設計宮格",
       "image": "/images/case391.jpg",
@@ -3921,6 +4075,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-391"
     },
     {
+      "model": "gpt-image-2",
       "id": 390,
       "title": "羊毛氈國家微縮世界",
       "image": "/images/case390.jpg",
@@ -3947,6 +4102,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-390"
     },
     {
+      "model": "gpt-image-2",
       "id": 389,
       "title": "Transparent Labs Hydrate 健身補劑 Campaign",
       "image": "/images/case389.jpg",
@@ -3973,6 +4129,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-389"
     },
     {
+      "model": "gpt-image-2",
       "id": 388,
       "title": "1980s Claude 復古雜誌廣告",
       "image": "/images/case388.jpg",
@@ -3999,6 +4156,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-388"
     },
     {
+      "model": "gpt-image-2",
       "id": 387,
       "title": "Netflix 首頁主視覺 UI",
       "image": "/images/case387.jpg",
@@ -4023,6 +4181,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-387"
     },
     {
+      "model": "gpt-image-2",
       "id": 386,
       "title": "品牌包絡產品廣告",
       "image": "/images/case386.jpg",
@@ -4049,6 +4208,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-386"
     },
     {
+      "model": "gpt-image-2",
       "id": 385,
       "title": "青島啤酒靈感女裝系列",
       "image": "/images/case385.jpg",
@@ -4072,6 +4232,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-385"
     },
     {
+      "model": "gpt-image-2",
       "id": 384,
       "title": "十國傳統服飾時尚拼貼",
       "image": "/images/case384.jpg",
@@ -4097,6 +4258,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-384"
     },
     {
+      "model": "gpt-image-2",
       "id": 383,
       "title": "AI 日常生活 iPhone 抓拍",
       "image": "/images/case383.jpg",
@@ -4119,6 +4281,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-383"
     },
     {
+      "model": "gpt-image-2",
       "id": 382,
       "title": "春日花田三聯豎版寫真拼貼",
       "image": "/images/case382.jpg",
@@ -4144,6 +4307,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-382"
     },
     {
+      "model": "gpt-image-2",
       "id": 381,
       "title": "90 年代公寓場景參考板",
       "image": "/images/case381.jpg",
@@ -4170,6 +4334,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-381"
     },
     {
+      "model": "gpt-image-2",
       "id": 380,
       "title": "冠狀病毒尺度縮放科學資訊圖表",
       "image": "/images/case380.jpg",
@@ -4195,6 +4360,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-380"
     },
     {
+      "model": "gpt-image-2",
       "id": 379,
       "title": "品牌人格漫畫資訊圖表",
       "image": "/images/case379.jpg",
@@ -4221,6 +4387,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-379"
     },
     {
+      "model": "gpt-image-2",
       "id": 378,
       "title": "高階 3D 收藏玩具頭像",
       "image": "/images/case378.jpg",
@@ -4246,6 +4413,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-378"
     },
     {
+      "model": "gpt-image-2",
       "id": 377,
       "title": "櫻花咖啡戶外人像",
       "image": "/images/case377.jpg",
@@ -4272,6 +4440,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-377"
     },
     {
+      "model": "gpt-image-2",
       "id": 376,
       "title": "潑灑抹茶街頭手機照片",
       "image": "/images/case376.jpg",
@@ -4298,6 +4467,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-376"
     },
     {
+      "model": "gpt-image-2",
       "id": 375,
       "title": "古希臘三哲時間軸城市圖",
       "image": "/images/case375.jpg",
@@ -4321,6 +4491,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-375"
     },
     {
+      "model": "gpt-image-2",
       "id": 374,
       "title": "彩色潦草小狗線條風格重繪",
       "image": "/images/case374.jpg",
@@ -4343,6 +4514,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-374"
     },
     {
+      "model": "gpt-image-2",
       "id": 373,
       "title": "高階肉類海鮮品牌英雄圖",
       "image": "/images/case373.jpg",
@@ -4366,6 +4538,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-373"
     },
     {
+      "model": "gpt-image-2",
       "id": 372,
       "title": "可愛角色設定表",
       "image": "/images/case372.jpg",
@@ -4392,6 +4565,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-372"
     },
     {
+      "model": "gpt-image-2",
       "id": 371,
       "title": "Scrapbook 真人圖與迷你分身",
       "image": "/images/case371.jpg",
@@ -4418,6 +4592,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-371"
     },
     {
+      "model": "gpt-image-2",
       "id": 370,
       "title": "Crumple Chair 概念沙發研發板",
       "image": "/images/case370.jpg",
@@ -4444,6 +4619,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-370"
     },
     {
+      "model": "gpt-image-2",
       "id": 369,
       "title": "明洞旅遊區域地圖",
       "image": "/images/case369.jpg",
@@ -4466,6 +4642,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-369"
     },
     {
+      "model": "gpt-image-2",
       "id": 368,
       "title": "印度餐廳選單改造宣傳圖",
       "image": "/images/case368.jpg",
@@ -4488,6 +4665,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-368"
     },
     {
+      "model": "gpt-image-2",
       "id": 367,
       "title": "VELORA 奢華香水廣告海報",
       "image": "/images/case367.jpg",
@@ -4514,6 +4692,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-367"
     },
     {
+      "model": "gpt-image-2",
       "id": 366,
       "title": "咖啡館寫實照片與 2D 塗鴉疊加",
       "image": "/images/case366.jpg",
@@ -4539,6 +4718,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-366"
     },
     {
+      "model": "gpt-image-2",
       "id": 365,
       "title": "科學家收藏級玩具發布板",
       "image": "/images/case365.jpg",
@@ -4565,6 +4745,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-365"
     },
     {
+      "model": "gpt-image-2",
       "id": 364,
       "title": "奢華個人色彩檔案資訊圖表",
       "image": "/images/case364.jpg",
@@ -4591,6 +4772,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-364"
     },
     {
+      "model": "gpt-image-2",
       "id": 363,
       "title": "磁場鐵粉 Logo 物理成像",
       "image": "/images/case363.jpg",
@@ -4617,6 +4799,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-363"
     },
     {
+      "model": "gpt-image-2",
       "id": 362,
       "title": "抹茶品牌觸點系統視覺板",
       "image": "/images/case362.jpg",
@@ -4643,6 +4826,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-362"
     },
     {
+      "model": "gpt-image-2",
       "id": 361,
       "title": "手機爆炸拆解圖",
       "image": "/images/case361.jpg",
@@ -4665,6 +4849,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-361"
     },
     {
+      "model": "gpt-image-2",
       "id": 360,
       "title": "長髮造型分析資訊圖表",
       "image": "/images/case360.jpg",
@@ -4691,6 +4876,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-360"
     },
     {
+      "model": "gpt-image-2",
       "id": 359,
       "title": "水墨雙重曝光人物海報",
       "image": "/images/case359.jpg",
@@ -4717,6 +4903,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-359"
     },
     {
+      "model": "gpt-image-2",
       "id": 358,
       "title": "草莓能量飲料商業廣告",
       "image": "/images/case358.jpg",
@@ -4743,6 +4930,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-358"
     },
     {
+      "model": "gpt-image-2",
       "id": 357,
       "title": "魚眼鏡面復古咖啡館人像",
       "image": "/images/case357.jpg",
@@ -4765,6 +4953,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-357"
     },
     {
+      "model": "gpt-image-2",
       "id": 356,
       "title": "過度思考超現實街頭 Campaign",
       "image": "/images/case356.jpg",
@@ -4791,6 +4980,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-356"
     },
     {
+      "model": "gpt-image-2",
       "id": 355,
       "title": "概念字型海報 Prompt",
       "image": "/images/case355.jpg",
@@ -4817,6 +5007,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-355"
     },
     {
+      "model": "gpt-image-2",
       "id": 354,
       "title": "Logo 與品牌身份系統提示詞合集",
       "image": "/images/case354.jpg",
@@ -4842,6 +5033,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-354"
     },
     {
+      "model": "gpt-image-2",
       "id": 353,
       "title": "品牌口紅推薦報告資訊圖表",
       "image": "/images/case353.jpg",
@@ -4868,6 +5060,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-353"
     },
     {
+      "model": "gpt-image-2",
       "id": 352,
       "title": "西楚霸王國風暗黑海報",
       "image": "/images/case352.jpg",
@@ -4890,6 +5083,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-352"
     },
     {
+      "model": "gpt-image-2",
       "id": 351,
       "title": "健身品牌力量 Campaign",
       "image": "/images/case351.jpg",
@@ -4914,6 +5108,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-351"
     },
     {
+      "model": "gpt-image-2",
       "id": 350,
       "title": "足球球員資料塗鴉海報",
       "image": "/images/case350.jpg",
@@ -4940,6 +5135,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-350"
     },
     {
+      "model": "gpt-image-2",
       "id": 349,
       "title": "運動時尚三聯 Campaign",
       "image": "/images/case349.jpg",
@@ -4966,6 +5162,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-349"
     },
     {
+      "model": "gpt-image-2",
       "id": 348,
       "title": "鬍鬚風格分析海報",
       "image": "/images/case348.jpg",
@@ -4991,6 +5188,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-348"
     },
     {
+      "model": "gpt-image-2",
       "id": 347,
       "title": "4×4 動作分解參考表",
       "image": "/images/case347.jpg",
@@ -5017,6 +5215,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-347"
     },
     {
+      "model": "gpt-image-2",
       "id": 346,
       "title": "立體刺繡小鳥花枝",
       "image": "/images/case346.jpg",
@@ -5039,6 +5238,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-346"
     },
     {
+      "model": "gpt-image-2",
       "id": 345,
       "title": "法新浪潮撕紙電影海報",
       "image": "/images/case345.jpg",
@@ -5065,6 +5265,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-345"
     },
     {
+      "model": "gpt-image-2",
       "id": 344,
       "title": "NOIR 街頭服飾 Campaign",
       "image": "/images/case344.jpg",
@@ -5091,6 +5292,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-344"
     },
     {
+      "model": "gpt-image-2",
       "id": 343,
       "title": "高定時尚雜誌封面",
       "image": "/images/case343.jpg",
@@ -5117,6 +5319,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-343"
     },
     {
+      "model": "gpt-image-2",
       "id": 342,
       "title": "四季包裝 Campaign 宮格",
       "image": "/images/case342.jpg",
@@ -5142,6 +5345,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-342"
     },
     {
+      "model": "gpt-image-2",
       "id": 341,
       "title": "AP Calculus 學習表資訊圖表",
       "image": "/images/case341.jpg",
@@ -5168,6 +5372,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-341"
     },
     {
+      "model": "gpt-image-2",
       "id": 340,
       "title": "彼岸花叢中的紅妝女子",
       "image": "/images/case340.png",
@@ -5190,6 +5395,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-340"
     },
     {
+      "model": "gpt-image-2",
       "id": 339,
       "title": "Apple 風格自然科普海報",
       "image": "/images/case339.jpg",
@@ -5214,6 +5420,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-339"
     },
     {
+      "model": "gpt-image-2",
       "id": 338,
       "title": "《赤壁懷古》長卷圖",
       "image": "/images/case338.png",
@@ -5236,6 +5443,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-338"
     },
     {
+      "model": "gpt-image-2",
       "id": 337,
       "title": "《短歌行》詩詞意境圖",
       "image": "/images/case337.png",
@@ -5258,6 +5466,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-337"
     },
     {
+      "model": "gpt-image-2",
       "id": 336,
       "title": "個人網頁視覺設計",
       "image": "/images/case336.png",
@@ -5280,6 +5489,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-336"
     },
     {
+      "model": "gpt-image-2",
       "id": 335,
       "title": "朋友圈截圖生成",
       "image": "/images/case335.png",
@@ -5303,6 +5513,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-335"
     },
     {
+      "model": "gpt-image-2",
       "id": 334,
       "title": "RAG 技術詳解圖",
       "image": "/images/case334.png",
@@ -5325,6 +5536,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-334"
     },
     {
+      "model": "gpt-image-2",
       "id": 333,
       "title": "AI 眼鏡爆炸拆解圖",
       "image": "/images/case333.png",
@@ -5347,6 +5559,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-333"
     },
     {
+      "model": "gpt-image-2",
       "id": 332,
       "title": "茶π產品宣傳海報",
       "image": "/images/case332.png",
@@ -5369,6 +5582,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-332"
     },
     {
+      "model": "gpt-image-2",
       "id": 331,
       "title": "西安手繪水彩城市地圖",
       "image": "/images/case331.png",
@@ -5391,6 +5605,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-331"
     },
     {
+      "model": "gpt-image-2",
       "id": 330,
       "title": "月下美女直播畫面",
       "image": "/images/case330.png",
@@ -5413,6 +5628,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-330"
     },
     {
+      "model": "gpt-image-2",
       "id": 329,
       "title": "燼甲獵鷹者與燃翼神禽",
       "image": "/images/case329.jpg",
@@ -5437,6 +5653,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-329"
     },
     {
+      "model": "gpt-image-2",
       "id": 328,
       "title": "俯拍巨女城景自拍",
       "image": "/images/case328.jpg",
@@ -5463,6 +5680,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-328"
     },
     {
+      "model": "gpt-image-2",
       "id": 327,
       "title": "沉香玫瑰懸浮幻景",
       "image": "/images/case327.jpg",
@@ -5489,6 +5707,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-327"
     },
     {
+      "model": "gpt-image-2",
       "id": 326,
       "title": "紅藍撞色高跟誘惑",
       "image": "/images/case326.jpg",
@@ -5515,6 +5734,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-326"
     },
     {
+      "model": "gpt-image-2",
       "id": 325,
       "title": "皮克斯風陽光少年",
       "image": "/images/case325.jpg",
@@ -5540,6 +5760,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-325"
     },
     {
+      "model": "gpt-image-2",
       "id": 324,
       "title": "復古巴士上的紅風衣女郎",
       "image": "/images/case324.jpg",
@@ -5565,6 +5786,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-324"
     },
     {
+      "model": "gpt-image-2",
       "id": 323,
       "title": "應用介面樣機圖",
       "image": "/images/case323.jpg",
@@ -5591,6 +5813,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-323"
     },
     {
+      "model": "gpt-image-2",
       "id": 322,
       "title": "街頭炫瓶男模",
       "image": "/images/case322.jpg",
@@ -5615,6 +5838,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-322"
     },
     {
+      "model": "gpt-image-2",
       "id": 321,
       "title": "都市落日時尚大片",
       "image": "/images/case321.jpg",
@@ -5640,6 +5864,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-321"
     },
     {
+      "model": "gpt-image-2",
       "id": 320,
       "title": "冰火雙雄背靠背史詩電影海報",
       "image": "/images/case320.jpg",
@@ -5666,6 +5891,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-320"
     },
     {
+      "model": "gpt-image-2",
       "id": 319,
       "title": "鳥群織就的夢幻高定時裝秀",
       "image": "/images/case319.jpg",
@@ -5690,6 +5916,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-319"
     },
     {
+      "model": "gpt-image-2",
       "id": 318,
       "title": "珊瑚色極簡影棚時尚商業大片",
       "image": "/images/case318.jpg",
@@ -5716,6 +5943,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-318"
     },
     {
+      "model": "gpt-image-2",
       "id": 317,
       "title": "震撼視覺的深紅影棚廣角美妝大片",
       "image": "/images/case317.jpg",
@@ -5742,6 +5970,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-317"
     },
     {
+      "model": "gpt-image-2",
       "id": 316,
       "title": "衝破次元壁的寫實漫畫跑者",
       "image": "/images/case316.jpg",
@@ -5768,6 +5997,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-316"
     },
     {
+      "model": "gpt-image-2",
       "id": 315,
       "title": "棘龍巨口中的酷颯少女與史前奇觀",
       "image": "/images/case315.jpg",
@@ -5794,6 +6024,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-315"
     },
     {
+      "model": "gpt-image-2",
       "id": 314,
       "title": "紅藍光影下的未來都市雙重曝光青年",
       "image": "/images/case314.jpg",
@@ -5820,6 +6051,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-314"
     },
     {
+      "model": "gpt-image-2",
       "id": 313,
       "title": "電商商品展示設計",
       "image": "/images/case313.jpg",
@@ -5845,6 +6077,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-313"
     },
     {
+      "model": "gpt-image-2",
       "id": 312,
       "title": "鮮豔霓虹光影下的動感蘇打水飛濺商業海報",
       "image": "/images/case312.jpg",
@@ -5870,6 +6103,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-312"
     },
     {
+      "model": "gpt-image-2",
       "id": 311,
       "title": "晨曦薰衣草田夢幻少女三聯畫",
       "image": "/images/case311.jpg",
@@ -5892,6 +6126,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-311"
     },
     {
+      "model": "gpt-image-2",
       "id": 310,
       "title": "零食品牌技術分解圖",
       "image": "/images/case310.jpg",
@@ -5918,6 +6153,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-310"
     },
     {
+      "model": "gpt-image-2",
       "id": 309,
       "title": "創意樹葉拼貼構成的角色畫像",
       "image": "/images/case309.jpg",
@@ -5942,6 +6178,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-309"
     },
     {
+      "model": "gpt-image-2",
       "id": 308,
       "title": "抖音直播截圖畫面",
       "image": "/images/case308.jpg",
@@ -5964,6 +6201,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-308"
     },
     {
+      "model": "gpt-image-2",
       "id": 307,
       "title": "紅綢舞動千年商都廣州",
       "image": "/images/case307.jpg",
@@ -5990,6 +6228,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-307"
     },
     {
+      "model": "gpt-image-2",
       "id": 306,
       "title": "官方角色設定資料卡",
       "image": "/images/case306.jpg",
@@ -6016,6 +6255,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-306"
     },
     {
+      "model": "gpt-image-2",
       "id": 305,
       "title": "深夜便利店裡的性感霓虹少女",
       "image": "/images/case305.jpg",
@@ -6042,6 +6282,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-305"
     },
     {
+      "model": "gpt-image-2",
       "id": 304,
       "title": "熒光藍窮奇新中式山水畫",
       "image": "/images/case304.jpg",
@@ -6068,6 +6309,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-304"
     },
     {
+      "model": "gpt-image-2",
       "id": 303,
       "title": "人教版三年級語文課本內頁",
       "image": "/images/case303.jpg",
@@ -6090,6 +6332,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-303"
     },
     {
+      "model": "gpt-image-2",
       "id": 302,
       "title": "九位大師的機械鍵盤設計圖鑑",
       "image": "/images/case302.jpg",
@@ -6112,6 +6355,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-302"
     },
     {
+      "model": "gpt-image-2",
       "id": 301,
       "title": "終結者機器人淘寶詳情頁",
       "image": "/images/case301.jpg",
@@ -6136,6 +6380,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-301"
     },
     {
+      "model": "gpt-image-2",
       "id": 300,
       "title": "黑板上的出師表全文",
       "image": "/images/case300.jpg",
@@ -6158,6 +6403,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-300"
     },
     {
+      "model": "gpt-image-2",
       "id": 299,
       "title": "極簡留白塗鴉手繪草圖",
       "image": "/images/case299.jpg",
@@ -6184,6 +6430,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-299"
     },
     {
+      "model": "gpt-image-2",
       "id": 298,
       "title": "夢幻波士頓春季城市海報",
       "image": "/images/case298.jpg",
@@ -6210,6 +6457,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-298"
     },
     {
+      "model": "gpt-image-2",
       "id": 297,
       "title": "手寫食譜變身雜誌級跨頁",
       "image": "/images/case297.jpg",
@@ -6232,6 +6480,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-297"
     },
     {
+      "model": "gpt-image-2",
       "id": 296,
       "title": "博物館級中文拆解資訊圖表鑑",
       "image": "/images/case296.jpg",
@@ -6258,6 +6507,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-296"
     },
     {
+      "model": "gpt-image-2",
       "id": 295,
       "title": "復古傳統老黃曆二零二六年四月十八",
       "image": "/images/case295.jpg",
@@ -6280,6 +6530,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-295"
     },
     {
+      "model": "gpt-image-2",
       "id": 294,
       "title": "精美潮汕菜館選單圖",
       "image": "/images/case294.jpg",
@@ -6302,6 +6553,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-294"
     },
     {
+      "model": "gpt-image-2",
       "id": 293,
       "title": "聚焦人工智慧的校園日報",
       "image": "/images/case293.jpg",
@@ -6324,6 +6576,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-293"
     },
     {
+      "model": "gpt-image-2",
       "id": 292,
       "title": "明朝登基寶玉的推文頁面",
       "image": "/images/case292.jpg",
@@ -6347,6 +6600,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-292"
     },
     {
+      "model": "gpt-image-2",
       "id": 291,
       "title": "極致奢華的彈珠店夢幻宣傳單",
       "image": "/images/case291.jpg",
@@ -6370,6 +6624,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-291"
     },
     {
+      "model": "gpt-image-2",
       "id": 290,
       "title": "古風詩人鐳射典藏卡牌",
       "image": "/images/case290.jpg",
@@ -6396,6 +6651,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-290"
     },
     {
+      "model": "gpt-image-2",
       "id": 289,
       "title": "直播介面設計圖",
       "image": "/images/case289.jpg",
@@ -6418,6 +6674,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-289"
     },
     {
+      "model": "gpt-image-2",
       "id": 288,
       "title": "抖音美女直播間介面設計",
       "image": "/images/case288.jpg",
@@ -6440,6 +6697,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-288"
     },
     {
+      "model": "gpt-image-2",
       "id": 287,
       "title": "不知火舞的小红书主頁",
       "image": "/images/case287.jpg",
@@ -6462,6 +6720,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-287"
     },
     {
+      "model": "gpt-image-2",
       "id": 286,
       "title": "珠江新城剪紙璀璨夜景",
       "image": "/images/case286.jpg",
@@ -6487,6 +6746,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-286"
     },
     {
+      "model": "gpt-image-2",
       "id": 285,
       "title": "真實動漫畫面快照",
       "image": "/images/case285.jpg",
@@ -6509,6 +6769,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-285"
     },
     {
+      "model": "gpt-image-2",
       "id": 284,
       "title": "溫馨臥室裡的少女自拍",
       "image": "/images/case284.jpg",
@@ -6531,6 +6792,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-284"
     },
     {
+      "model": "gpt-image-2",
       "id": 283,
       "title": "小惡魔莉莉香超任遊戲海報",
       "image": "/images/case283.jpg",
@@ -6553,6 +6815,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-283"
     },
     {
+      "model": "gpt-image-2",
       "id": 282,
       "title": "溫柔治癒系二次元手機截圖",
       "image": "/images/case282.jpg",
@@ -6579,6 +6842,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-282"
     },
     {
+      "model": "gpt-image-2",
       "id": 281,
       "title": "賽博朋克科幻曼荼羅",
       "image": "/images/case281.jpg",
@@ -6602,6 +6866,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-281"
     },
     {
+      "model": "gpt-image-2",
       "id": 280,
       "title": "封面排版設計圖",
       "image": "/images/case280.jpg",
@@ -6628,6 +6893,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-280"
     },
     {
+      "model": "gpt-image-2",
       "id": 279,
       "title": "裂痕裡的水墨東方山水畫卷",
       "image": "/images/case279.jpg",
@@ -6654,6 +6920,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-279"
     },
     {
+      "model": "gpt-image-2",
       "id": 278,
       "title": "阿馬爾菲海岸復古旅行海報",
       "image": "/images/case278.jpg",
@@ -6679,6 +6946,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-278"
     },
     {
+      "model": "gpt-image-2",
       "id": 277,
       "title": "奢華魅力黑人女性海濱攝影",
       "image": "/images/case277.jpg",
@@ -6702,6 +6970,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-277"
     },
     {
+      "model": "gpt-image-2",
       "id": 276,
       "title": "紅綢幻化壯闊國潮羊城",
       "image": "/images/case276.jpg",
@@ -6728,6 +6997,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-276"
     },
     {
+      "model": "gpt-image-2",
       "id": 275,
       "title": "一張採用分層蒙太奇構圖的電影海報",
       "image": "/images/case275.jpg",
@@ -6754,6 +7024,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-275"
     },
     {
+      "model": "gpt-image-2",
       "id": 274,
       "title": "成都吃貨暴走手繪美食地圖",
       "image": "/images/case274.jpg",
@@ -6779,6 +7050,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-274"
     },
     {
+      "model": "gpt-image-2",
       "id": 273,
       "title": "橙紅漸變中的孤獨剪影",
       "image": "/images/case273.jpg",
@@ -6803,6 +7075,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-273"
     },
     {
+      "model": "gpt-image-2",
       "id": 272,
       "title": "日式溫泉旅館人像",
       "image": "/images/case272.jpg",
@@ -6829,6 +7102,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-272"
     },
     {
+      "model": "gpt-image-2",
       "id": 271,
       "title": "人物角色設定圖",
       "image": "/images/case271.jpg",
@@ -6851,6 +7125,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-271"
     },
     {
+      "model": "gpt-image-2",
       "id": 270,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case270.jpg",
@@ -6877,6 +7152,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-270"
     },
     {
+      "model": "gpt-image-2",
       "id": 269,
       "title": "拒絕盲目催婚的暖心影片號截圖",
       "image": "/images/case269.jpg",
@@ -6899,6 +7175,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-269"
     },
     {
+      "model": "gpt-image-2",
       "id": 268,
       "title": "威化島回軍前夕李成桂動態",
       "image": "/images/case268.jpg",
@@ -6922,6 +7199,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-268"
     },
     {
+      "model": "gpt-image-2",
       "id": 267,
       "title": "宋朝文人的賽博朋友圈",
       "image": "/images/case267.jpg",
@@ -6948,6 +7226,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-267"
     },
     {
+      "model": "gpt-image-2",
       "id": 266,
       "title": "桌面上的黑色圓珠筆手寫筆記",
       "image": "/images/case266.jpg",
@@ -6970,6 +7249,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-266"
     },
     {
+      "model": "gpt-image-2",
       "id": 265,
       "title": "日式潮流廣告四聯畫",
       "image": "/images/case265.jpg",
@@ -6992,6 +7272,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-265"
     },
     {
+      "model": "gpt-image-2",
       "id": 264,
       "title": "美妝產品廣告圖",
       "image": "/images/case264.jpg",
@@ -7014,6 +7295,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-264"
     },
     {
+      "model": "gpt-image-2",
       "id": 263,
       "title": "唯美二次元角色介紹網頁",
       "image": "/images/case263.jpg",
@@ -7037,6 +7319,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-263"
     },
     {
+      "model": "gpt-image-2",
       "id": 262,
       "title": "蘋果園遠觀庫克發布新機",
       "image": "/images/case262.jpg",
@@ -7059,6 +7342,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-262"
     },
     {
+      "model": "gpt-image-2",
       "id": 261,
       "title": "智慧影片生成器暗黑介面設計",
       "image": "/images/case261.jpg",
@@ -7082,6 +7366,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-261"
     },
     {
+      "model": "gpt-image-2",
       "id": 260,
       "title": "社群媒體介面截圖",
       "image": "/images/case260.jpg",
@@ -7105,6 +7390,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-260"
     },
     {
+      "model": "gpt-image-2",
       "id": 259,
       "title": "精緻女孩背後的網貸真相",
       "image": "/images/case259.jpg",
@@ -7127,6 +7413,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-259"
     },
     {
+      "model": "gpt-image-2",
       "id": 258,
       "title": "快手直播離婚預告手機截圖",
       "image": "/images/case258.jpg",
@@ -7149,6 +7436,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-258"
     },
     {
+      "model": "gpt-image-2",
       "id": 257,
       "title": "抖音漢服美女直播帶貨截圖",
       "image": "/images/case257.jpg",
@@ -7172,6 +7460,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-257"
     },
     {
+      "model": "gpt-image-2",
       "id": 256,
       "title": "抖音直播間的絕美女主播",
       "image": "/images/case256.jpg",
@@ -7194,6 +7483,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-256"
     },
     {
+      "model": "gpt-image-2",
       "id": 255,
       "title": "瑜伽褲女主播展示身材曲線",
       "image": "/images/case255.jpg",
@@ -7216,6 +7506,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-255"
     },
     {
+      "model": "gpt-image-2",
       "id": 254,
       "title": "奔赴山海膠片感海報",
       "image": "/images/case254.jpg",
@@ -7239,6 +7530,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-254"
     },
     {
+      "model": "gpt-image-2",
       "id": 253,
       "title": "2026穀雨節氣唯美海報設計",
       "image": "/images/case253.jpg",
@@ -7261,6 +7553,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-253"
     },
     {
+      "model": "gpt-image-2",
       "id": 252,
       "title": "五一勞動節手舉牌創意設計集",
       "image": "/images/case252.jpg",
@@ -7283,6 +7576,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-252"
     },
     {
+      "model": "gpt-image-2",
       "id": 251,
       "title": "言葉之庭春雨綠意單日曆",
       "image": "/images/case251.jpg",
@@ -7305,6 +7599,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-251"
     },
     {
+      "model": "gpt-image-2",
       "id": 250,
       "title": "小王子與星艦的浪漫聯名",
       "image": "/images/case250.jpg",
@@ -7327,6 +7622,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-250"
     },
     {
+      "model": "gpt-image-2",
       "id": 249,
       "title": "美女舉牌感謝大哥打賞大火箭",
       "image": "/images/case249.jpg",
@@ -7349,6 +7645,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-249"
     },
     {
+      "model": "gpt-image-2",
       "id": 248,
       "title": "景德鎮青花瓷全景解說圖譜",
       "image": "/images/case248.jpg",
@@ -7371,6 +7668,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-248"
     },
     {
+      "model": "gpt-image-2",
       "id": 247,
       "title": "運動健身圖示字型設計",
       "image": "/images/case247.jpg",
@@ -7393,6 +7691,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-247"
     },
     {
+      "model": "gpt-image-2",
       "id": 246,
       "title": "黑白線稿勾勒的上海風情",
       "image": "/images/case246.jpg",
@@ -7415,6 +7714,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-246"
     },
     {
+      "model": "gpt-image-2",
       "id": 245,
       "title": "馬斯克專屬篆刻印章設計",
       "image": "/images/case245.jpg",
@@ -7437,6 +7737,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-245"
     },
     {
+      "model": "gpt-image-2",
       "id": 244,
       "title": "杜蕾斯茶顏悅色聯名海報設計",
       "image": "/images/case244.jpg",
@@ -7462,6 +7763,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-244"
     },
     {
+      "model": "gpt-image-2",
       "id": 243,
       "title": "定製專屬風格介面設計系統",
       "image": "/images/case243.jpg",
@@ -7484,6 +7786,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-243"
     },
     {
+      "model": "gpt-image-2",
       "id": 242,
       "title": "絕美國風工筆畫書籤設計",
       "image": "/images/case242.jpg",
@@ -7506,6 +7809,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-242"
     },
     {
+      "model": "gpt-image-2",
       "id": 241,
       "title": "關鍵人物關係圖譜",
       "image": "/images/case241.jpg",
@@ -7529,6 +7833,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-241"
     },
     {
+      "model": "gpt-image-2",
       "id": 240,
       "title": "膠片閃光燈下的球場少女",
       "image": "/images/case240.jpg",
@@ -7555,6 +7860,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-240"
     },
     {
+      "model": "gpt-image-2",
       "id": 239,
       "title": "劉亦菲抖音直播暢聊中",
       "image": "/images/case239.jpg",
@@ -7577,6 +7883,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-239"
     },
     {
+      "model": "gpt-image-2",
       "id": 238,
       "title": "星雲巨鯉與小人的奇幻對話",
       "image": "/images/case238.jpg",
@@ -7600,6 +7907,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-238"
     },
     {
+      "model": "gpt-image-2",
       "id": 237,
       "title": "夏日柑橘蘇打高轉化廣告圖",
       "image": "/images/case237.jpg",
@@ -7625,6 +7933,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-237"
     },
     {
+      "model": "gpt-image-2",
       "id": 236,
       "title": "粵超聯賽國潮風邀請函海報",
       "image": "/images/case236.jpg",
@@ -7651,6 +7960,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-236"
     },
     {
+      "model": "gpt-image-2",
       "id": 235,
       "title": "治癒系助眠指南九宮格",
       "image": "/images/case235.jpg",
@@ -7677,6 +7987,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-235"
     },
     {
+      "model": "gpt-image-2",
       "id": 234,
       "title": "朱元璋登基後的推特主頁",
       "image": "/images/case234.jpg",
@@ -7700,6 +8011,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-234"
     },
     {
+      "model": "gpt-image-2",
       "id": 233,
       "title": "蒙娜麗莎暢飲可樂的趣味油畫",
       "image": "/images/case233.jpg",
@@ -7723,6 +8035,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-233"
     },
     {
+      "model": "gpt-image-2",
       "id": 232,
       "title": "蘭亭集序書法帖意境圖",
       "image": "/images/case232.jpg",
@@ -7745,6 +8058,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-232"
     },
     {
+      "model": "gpt-image-2",
       "id": 231,
       "title": "疾風起狂草藝術字型設計",
       "image": "/images/case231.jpg",
@@ -7768,6 +8082,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-231"
     },
     {
+      "model": "gpt-image-2",
       "id": 230,
       "title": "極簡國潮鎏金廣州塔海報",
       "image": "/images/case230.jpg",
@@ -7794,6 +8109,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-230"
     },
     {
+      "model": "gpt-image-2",
       "id": 229,
       "title": "琉璃透明畫眉鳥飛舞羊城墨卷",
       "image": "/images/case229.jpg",
@@ -7820,6 +8136,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-229"
     },
     {
+      "model": "gpt-image-2",
       "id": 228,
       "title": "完美匹配的海報廣告圖",
       "image": "/images/case228.jpg",
@@ -7842,6 +8159,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-228"
     },
     {
+      "model": "gpt-image-2",
       "id": 227,
       "title": "哔哩哔哩戶晨風直播截圖",
       "image": "/images/case227.jpg",
@@ -7864,6 +8182,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-227"
     },
     {
+      "model": "gpt-image-2",
       "id": 226,
       "title": "古風明朝帝王群像長卷",
       "image": "/images/case226.jpg",
@@ -7888,6 +8207,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-226"
     },
     {
+      "model": "gpt-image-2",
       "id": 225,
       "title": "大師級真跡復刻",
       "image": "/images/case225.jpg",
@@ -7910,6 +8230,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-225"
     },
     {
+      "model": "gpt-image-2",
       "id": 224,
       "title": "機甲少女立於廢棄海城",
       "image": "/images/case224.jpg",
@@ -7936,6 +8257,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-224"
     },
     {
+      "model": "gpt-image-2",
       "id": 223,
       "title": "春日禪意水墨群山海報",
       "image": "/images/case223.jpg",
@@ -7962,6 +8284,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-223"
     },
     {
+      "model": "gpt-image-2",
       "id": 222,
       "title": "精緻模組化科普百科圖鑑",
       "image": "/images/case222.jpg",
@@ -7988,6 +8311,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-222"
     },
     {
+      "model": "gpt-image-2",
       "id": 221,
       "title": "窗邊日系膠片女孩",
       "image": "/images/case221.jpg",
@@ -8012,6 +8336,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-221"
     },
     {
+      "model": "gpt-image-2",
       "id": 220,
       "title": "鎏金廣州塔的東方奇幻海報",
       "image": "/images/case220.jpg",
@@ -8038,6 +8363,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-220"
     },
     {
+      "model": "gpt-image-2",
       "id": 219,
       "title": "韓系偶像九宮格寫真集",
       "image": "/images/case219.jpg",
@@ -8063,6 +8389,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-219"
     },
     {
+      "model": "gpt-image-2",
       "id": 218,
       "title": "繪製科學百科知識圖譜",
       "image": "/images/case218.jpg",
@@ -8089,6 +8416,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-218"
     },
     {
+      "model": "gpt-image-2",
       "id": 217,
       "title": "昏暗室內純真少女的意外回眸",
       "image": "/images/case217.jpg",
@@ -8114,6 +8442,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-217"
     },
     {
+      "model": "gpt-image-2",
       "id": 216,
       "title": "雅緻圖案四款時尚單品設計",
       "image": "/images/case216.png",
@@ -8136,6 +8465,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-216"
     },
     {
+      "model": "gpt-image-2",
       "id": 215,
       "title": "西方藝術演進畫素博物館",
       "image": "/images/case215.jpg",
@@ -8162,6 +8492,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-215"
     },
     {
+      "model": "gpt-image-2",
       "id": 214,
       "title": "繪製金瓶梅知識圖譜",
       "image": "/images/case214.jpg",
@@ -8188,6 +8519,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-214"
     },
     {
+      "model": "gpt-image-2",
       "id": 213,
       "title": "金瓶梅古風開放世界遊戲截圖",
       "image": "/images/case213.jpg",
@@ -8212,6 +8544,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-213"
     },
     {
+      "model": "gpt-image-2",
       "id": 212,
       "title": "專業設計師打造角色寫真集",
       "image": "/images/case212.jpg",
@@ -8237,6 +8570,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-212"
     },
     {
+      "model": "gpt-image-2",
       "id": 211,
       "title": "天壇古建拆解全圖",
       "image": "/images/case211.jpg",
@@ -8259,6 +8593,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-211"
     },
     {
+      "model": "gpt-image-2",
       "id": 210,
       "title": "萌系大模型訓練圖解",
       "image": "/images/case210.jpg",
@@ -8281,6 +8616,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-210"
     },
     {
+      "model": "gpt-image-2",
       "id": 209,
       "title": "神話三國槍戰世界",
       "image": "/images/case209.jpg",
@@ -8303,6 +8639,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-209"
     },
     {
+      "model": "gpt-image-2",
       "id": 208,
       "title": "櫻花樹下害羞雙馬尾少女",
       "image": "/images/case208.jpg",
@@ -8328,6 +8665,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-208"
     },
     {
+      "model": "gpt-image-2",
       "id": 207,
       "title": "黑神話潘金蓮絕美遊戲封面",
       "image": "/images/case207.jpg",
@@ -8351,6 +8689,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-207"
     },
     {
+      "model": "gpt-image-2",
       "id": 206,
       "title": "國風工筆八仙長卷插畫",
       "image": "/images/case206.jpg",
@@ -8377,6 +8716,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-206"
     },
     {
+      "model": "gpt-image-2",
       "id": 205,
       "title": "皇宮深處的御用快遞驛站",
       "image": "/images/case205.jpg",
@@ -8399,6 +8739,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-205"
     },
     {
+      "model": "gpt-image-2",
       "id": 204,
       "title": "智慧動畫分鏡生成器",
       "image": "/images/case204.jpg",
@@ -8421,6 +8762,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-204"
     },
     {
+      "model": "gpt-image-2",
       "id": 203,
       "title": "槓精視角的獨特文案創意",
       "image": "/images/case203.jpg",
@@ -8443,6 +8785,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-203"
     },
     {
+      "model": "gpt-image-2",
       "id": 202,
       "title": "宅男必看絕美二次元少女",
       "image": "/images/case202.jpg",
@@ -8465,6 +8808,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-202"
     },
     {
+      "model": "gpt-image-2",
       "id": 201,
       "title": "三甲醫院真實門診處方箋",
       "image": "/images/case201.jpg",
@@ -8488,6 +8832,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-201"
     },
     {
+      "model": "gpt-image-2",
       "id": 200,
       "title": "熱度爆表的美女內衣直播間",
       "image": "/images/case200.jpg",
@@ -8510,6 +8855,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-200"
     },
     {
+      "model": "gpt-image-2",
       "id": 199,
       "title": "超寫實海灘高角度手機自拍",
       "image": "/images/case199.jpg",
@@ -8536,6 +8882,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-199"
     },
     {
+      "model": "gpt-image-2",
       "id": 198,
       "title": "蒼白陶瓷娃娃沙灘仰視",
       "image": "/images/case198.jpg",
@@ -8560,6 +8907,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-198"
     },
     {
+      "model": "gpt-image-2",
       "id": 197,
       "title": "英雄聯盟特朗普中路對決哈梅內伊",
       "image": "/images/case197.jpg",
@@ -8582,6 +8930,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-197"
     },
     {
+      "model": "gpt-image-2",
       "id": 196,
       "title": "試卷上的塗鴉巨龍",
       "image": "/images/case196.jpg",
@@ -8605,6 +8954,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-196"
     },
     {
+      "model": "gpt-image-2",
       "id": 195,
       "title": "超寫實與水墨的夢幻融合",
       "image": "/images/case195.jpg",
@@ -8631,6 +8981,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-195"
     },
     {
+      "model": "gpt-image-2",
       "id": 194,
       "title": "健身蛋白粉電商詳情頁",
       "image": "/images/case194.jpg",
@@ -8653,6 +9004,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-194"
     },
     {
+      "model": "gpt-image-2",
       "id": 193,
       "title": "千手觀音化身打工人",
       "image": "/images/case193.jpg",
@@ -8677,6 +9029,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-193"
     },
     {
+      "model": "gpt-image-2",
       "id": 192,
       "title": "電商商品展示圖",
       "image": "/images/case192.jpg",
@@ -8700,6 +9053,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-192"
     },
     {
+      "model": "gpt-image-2",
       "id": 191,
       "title": "史詩級科幻電影海報設計",
       "image": "/images/case191.jpg",
@@ -8722,6 +9076,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-191"
     },
     {
+      "model": "gpt-image-2",
       "id": 190,
       "title": "全自動咖啡機產品展示",
       "image": "/images/case190.jpg",
@@ -8745,6 +9100,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-190"
     },
     {
+      "model": "gpt-image-2",
       "id": 189,
       "title": "清新夏日女裝連衣裙電商展示",
       "image": "/images/case189.jpg",
@@ -8767,6 +9123,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-189"
     },
     {
+      "model": "gpt-image-2",
       "id": 188,
       "title": "暗黑極簡頭像網站視覺設計",
       "image": "/images/case188.jpg",
@@ -8791,6 +9148,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-188"
     },
     {
+      "model": "gpt-image-2",
       "id": 187,
       "title": "韓系極簡氛圍感少女寫真",
       "image": "/images/case187.jpg",
@@ -8817,6 +9175,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-187"
     },
     {
+      "model": "gpt-image-2",
       "id": 186,
       "title": "品牌視覺識別圖",
       "image": "/images/case186.jpg",
@@ -8841,6 +9200,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-186"
     },
     {
+      "model": "gpt-image-2",
       "id": 185,
       "title": "武則天發微博自拍太魔性了",
       "image": "/images/case185.jpg",
@@ -8863,6 +9223,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-185"
     },
     {
+      "model": "gpt-image-2",
       "id": 184,
       "title": "杜甫朋友圈吐槽茅屋被掀翻",
       "image": "/images/case184.jpg",
@@ -8886,6 +9247,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-184"
     },
     {
+      "model": "gpt-image-2",
       "id": 183,
       "title": "一張中文健身資訊圖表",
       "image": "/images/case183.jpg",
@@ -8909,6 +9271,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-183"
     },
     {
+      "model": "gpt-image-2",
       "id": 182,
       "title": "千禧年日系校園喜劇場景",
       "image": "/images/case182.jpg",
@@ -8932,6 +9295,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-182"
     },
     {
+      "model": "gpt-image-2",
       "id": 181,
       "title": "潮流視角重塑精緻商品廣告",
       "image": "/images/case181.jpg",
@@ -8956,6 +9320,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-181"
     },
     {
+      "model": "gpt-image-2",
       "id": 180,
       "title": "荒誕超現實女裝大叔海報",
       "image": "/images/case180.jpg",
@@ -8980,6 +9345,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-180"
     },
     {
+      "model": "gpt-image-2",
       "id": 179,
       "title": "蒸汽朋克射手座解剖圖譜",
       "image": "/images/case179.jpg",
@@ -9006,6 +9372,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-179"
     },
     {
+      "model": "gpt-image-2",
       "id": 178,
       "title": "亞馬遜詳情圖設計",
       "image": "/images/case178.jpg",
@@ -9028,6 +9395,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-178"
     },
     {
+      "model": "gpt-image-2",
       "id": 177,
       "title": "吉利銀河暗黑中控介面",
       "image": "/images/case177.jpg",
@@ -9050,6 +9418,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-177"
     },
     {
+      "model": "gpt-image-2",
       "id": 176,
       "title": "蘇軾被貶首日朋友圈曝光",
       "image": "/images/case176.jpg",
@@ -9072,6 +9441,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-176"
     },
     {
+      "model": "gpt-image-2",
       "id": 175,
       "title": "封面排版設計圖",
       "image": "/images/case175.jpg",
@@ -9098,6 +9468,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-175"
     },
     {
+      "model": "gpt-image-2",
       "id": 174,
       "title": "唐朝貴婦遛粉色馬甲異形工筆畫",
       "image": "/images/case174.jpg",
@@ -9123,6 +9494,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-174"
     },
     {
+      "model": "gpt-image-2",
       "id": 173,
       "title": "銀河繁星點綴的冰藍襦裙",
       "image": "/images/case173.jpg",
@@ -9148,6 +9520,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-173"
     },
     {
+      "model": "gpt-image-2",
       "id": 172,
       "title": "賽博科幻桃太郎主視覺圖",
       "image": "/images/case172.jpg",
@@ -9172,6 +9545,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-172"
     },
     {
+      "model": "gpt-image-2",
       "id": 171,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case171.jpg",
@@ -9194,6 +9568,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-171"
     },
     {
+      "model": "gpt-image-2",
       "id": 168,
       "title": "手寫中西藥方圖片",
       "image": "/images/case168.jpg",
@@ -9216,6 +9591,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-168"
     },
     {
+      "model": "gpt-image-2",
       "id": 167,
       "title": "大唐玄武門之變的朋友圈",
       "image": "/images/case167.jpg",
@@ -9239,6 +9615,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-167"
     },
     {
+      "model": "gpt-image-2",
       "id": 166,
       "title": "十二黃金聖鬥士卡牌合集",
       "image": "/images/case166.jpg",
@@ -9261,6 +9638,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-2.md#case-166"
     },
     {
+      "model": "gpt-image-2",
       "id": 165,
       "title": "清冷佳人夜市燒烤三刀流",
       "image": "/images/case165.jpg",
@@ -9285,6 +9663,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-165"
     },
     {
+      "model": "gpt-image-2",
       "id": 164,
       "title": "特朗普太空直播間破千萬",
       "image": "/images/case164.jpg",
@@ -9308,6 +9687,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-164"
     },
     {
+      "model": "gpt-image-2",
       "id": 163,
       "title": "詩仙李白月下直播起舞",
       "image": "/images/case163.jpg",
@@ -9330,6 +9710,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-163"
     },
     {
+      "model": "gpt-image-2",
       "id": 162,
       "title": "人物角色設定圖",
       "image": "/images/case162.jpg",
@@ -9352,6 +9733,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-162"
     },
     {
+      "model": "gpt-image-2",
       "id": 161,
       "title": "應用介面樣機圖",
       "image": "/images/case161.jpg",
@@ -9377,6 +9759,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-161"
     },
     {
+      "model": "gpt-image-2",
       "id": 160,
       "title": "品牌吉祥物設定圖",
       "image": "/images/case160.jpg",
@@ -9400,6 +9783,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-160"
     },
     {
+      "model": "gpt-image-2",
       "id": 159,
       "title": "介面互動設計圖",
       "image": "/images/case159.jpg",
@@ -9426,6 +9810,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-159"
     },
     {
+      "model": "gpt-image-2",
       "id": 158,
       "title": "介面互動設計圖",
       "image": "/images/case158.jpg",
@@ -9452,6 +9837,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-158"
     },
     {
+      "model": "gpt-image-2",
       "id": 157,
       "title": "電商商品展示設計",
       "image": "/images/case157.jpg",
@@ -9478,6 +9864,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-157"
     },
     {
+      "model": "gpt-image-2",
       "id": 156,
       "title": "應用介面樣機圖",
       "image": "/images/case156.jpg",
@@ -9504,6 +9891,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-156"
     },
     {
+      "model": "gpt-image-2",
       "id": 155,
       "title": "人物角色設定圖",
       "image": "/images/case155.jpg",
@@ -9526,6 +9914,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-155"
     },
     {
+      "model": "gpt-image-2",
       "id": 154,
       "title": "寫實攝影風格創作",
       "image": "/images/case154.jpg",
@@ -9550,6 +9939,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-154"
     },
     {
+      "model": "gpt-image-2",
       "id": 153,
       "title": "主題海報版式設計",
       "image": "/images/case153.jpg",
@@ -9575,6 +9965,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-153"
     },
     {
+      "model": "gpt-image-2",
       "id": 152,
       "title": "直播介面設計圖",
       "image": "/images/case152.jpg",
@@ -9601,6 +9992,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-152"
     },
     {
+      "model": "gpt-image-2",
       "id": 151,
       "title": "介面互動設計圖",
       "image": "/images/case151.jpg",
@@ -9626,6 +10018,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-151"
     },
     {
+      "model": "gpt-image-2",
       "id": 150,
       "title": "品牌徽標設計圖",
       "image": "/images/case150.jpg",
@@ -9652,6 +10045,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-150"
     },
     {
+      "model": "gpt-image-2",
       "id": 149,
       "title": "直播介面設計圖",
       "image": "/images/case149.jpg",
@@ -9678,6 +10072,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-149"
     },
     {
+      "model": "gpt-image-2",
       "id": 148,
       "title": "綜合應用場景圖",
       "image": "/images/case148.jpg",
@@ -9702,6 +10097,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-148"
     },
     {
+      "model": "gpt-image-2",
       "id": 147,
       "title": "綜合應用場景圖",
       "image": "/images/case147.jpg",
@@ -9726,6 +10122,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-147"
     },
     {
+      "model": "gpt-image-2",
       "id": 146,
       "title": "綜合應用場景圖",
       "image": "/images/case146.jpg",
@@ -9750,6 +10147,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-146"
     },
     {
+      "model": "gpt-image-2",
       "id": 145,
       "title": "綜合應用場景圖",
       "image": "/images/case145.jpg",
@@ -9774,6 +10172,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-145"
     },
     {
+      "model": "gpt-image-2",
       "id": 144,
       "title": "主題海報版式設計",
       "image": "/images/case144.jpg",
@@ -9799,6 +10198,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-144"
     },
     {
+      "model": "gpt-image-2",
       "id": 143,
       "title": "品牌徽標設計圖",
       "image": "/images/case143.jpg",
@@ -9825,6 +10225,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-143"
     },
     {
+      "model": "gpt-image-2",
       "id": 142,
       "title": "寫實攝影風格創作",
       "image": "/images/case142.jpg",
@@ -9851,6 +10252,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-142"
     },
     {
+      "model": "gpt-image-2",
       "id": 141,
       "title": "電商商品展示設計",
       "image": "/images/case141.jpg",
@@ -9876,6 +10278,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-141"
     },
     {
+      "model": "gpt-image-2",
       "id": 140,
       "title": "主題海報版式設計",
       "image": "/images/case140.jpg",
@@ -9901,6 +10304,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-140"
     },
     {
+      "model": "gpt-image-2",
       "id": 139,
       "title": "主題海報版式設計",
       "image": "/images/case139.jpg",
@@ -9925,6 +10329,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-139"
     },
     {
+      "model": "gpt-image-2",
       "id": 138,
       "title": "封面排版設計圖",
       "image": "/images/case138.jpg",
@@ -9950,6 +10355,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-138"
     },
     {
+      "model": "gpt-image-2",
       "id": 137,
       "title": "介面互動設計圖",
       "image": "/images/case137.jpg",
@@ -9975,6 +10381,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-137"
     },
     {
+      "model": "gpt-image-2",
       "id": 136,
       "title": "品牌視覺識別圖",
       "image": "/images/case136.jpg",
@@ -10000,6 +10407,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-136"
     },
     {
+      "model": "gpt-image-2",
       "id": 135,
       "title": "應用介面樣機圖",
       "image": "/images/case135.jpg",
@@ -10026,6 +10434,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-135"
     },
     {
+      "model": "gpt-image-2",
       "id": 134,
       "title": "介面互動設計圖",
       "image": "/images/case134.jpg",
@@ -10051,6 +10460,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-134"
     },
     {
+      "model": "gpt-image-2",
       "id": 133,
       "title": "介面互動設計圖",
       "image": "/images/case133.jpg",
@@ -10077,6 +10487,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-133"
     },
     {
+      "model": "gpt-image-2",
       "id": 132,
       "title": "介面互動設計圖",
       "image": "/images/case132.jpg",
@@ -10103,6 +10514,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-132"
     },
     {
+      "model": "gpt-image-2",
       "id": 131,
       "title": "介面互動設計圖",
       "image": "/images/case131.jpg",
@@ -10129,6 +10541,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-131"
     },
     {
+      "model": "gpt-image-2",
       "id": 130,
       "title": "介面互動設計圖",
       "image": "/images/case130.jpg",
@@ -10155,6 +10568,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-130"
     },
     {
+      "model": "gpt-image-2",
       "id": 129,
       "title": "繪畫藝術風格圖",
       "image": "/images/case129.png",
@@ -10180,6 +10594,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-129"
     },
     {
+      "model": "gpt-image-2",
       "id": 128,
       "title": "建築空間場景渲染",
       "image": "/images/case128.jpg",
@@ -10205,6 +10620,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-128"
     },
     {
+      "model": "gpt-image-2",
       "id": 127,
       "title": "建築空間場景圖",
       "image": "/images/case127.jpg",
@@ -10230,6 +10646,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-127"
     },
     {
+      "model": "gpt-image-2",
       "id": 126,
       "title": "插畫藝術風格創作",
       "image": "/images/case126.jpg",
@@ -10256,6 +10673,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-126"
     },
     {
+      "model": "gpt-image-2",
       "id": 125,
       "title": "電商商品展示設計",
       "image": "/images/case125.jpg",
@@ -10281,6 +10699,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-125"
     },
     {
+      "model": "gpt-image-2",
       "id": 124,
       "title": "主題海報版式設計",
       "image": "/images/case124.jpg",
@@ -10307,6 +10726,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-124"
     },
     {
+      "model": "gpt-image-2",
       "id": 123,
       "title": "插畫藝術創作圖",
       "image": "/images/case123.jpg",
@@ -10332,6 +10752,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-123"
     },
     {
+      "model": "gpt-image-2",
       "id": 122,
       "title": "主題海報版式設計",
       "image": "/images/case122.jpg",
@@ -10357,6 +10778,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-122"
     },
     {
+      "model": "gpt-image-2",
       "id": 121,
       "title": "建築空間場景圖",
       "image": "/images/case121.jpg",
@@ -10382,6 +10804,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-121"
     },
     {
+      "model": "gpt-image-2",
       "id": 120,
       "title": "建築空間場景圖",
       "image": "/images/case120.jpg",
@@ -10407,6 +10830,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-120"
     },
     {
+      "model": "gpt-image-2",
       "id": 119,
       "title": "主題海報版式設計",
       "image": "/images/case119.jpg",
@@ -10433,6 +10857,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-119"
     },
     {
+      "model": "gpt-image-2",
       "id": 118,
       "title": "漫畫分鏡敘事設計",
       "image": "/images/case118.jpg",
@@ -10458,6 +10883,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-118"
     },
     {
+      "model": "gpt-image-2",
       "id": 117,
       "title": "主題海報版式設計",
       "image": "/images/case117.jpg",
@@ -10484,6 +10910,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-117"
     },
     {
+      "model": "gpt-image-2",
       "id": 116,
       "title": "主題海報版式設計",
       "image": "/images/case116.jpg",
@@ -10509,6 +10936,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-116"
     },
     {
+      "model": "gpt-image-2",
       "id": 115,
       "title": "品牌視覺識別圖",
       "image": "/images/case115.jpg",
@@ -10535,6 +10963,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-115"
     },
     {
+      "model": "gpt-image-2",
       "id": 114,
       "title": "插畫藝術創作圖",
       "image": "/images/case114.jpg",
@@ -10561,6 +10990,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-114"
     },
     {
+      "model": "gpt-image-2",
       "id": 113,
       "title": "動漫插畫創作圖",
       "image": "/images/case113.jpg",
@@ -10586,6 +11016,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-113"
     },
     {
+      "model": "gpt-image-2",
       "id": 112,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case112.jpg",
@@ -10608,6 +11039,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-112"
     },
     {
+      "model": "gpt-image-2",
       "id": 111,
       "title": "影片封面介面圖",
       "image": "/images/case111.jpg",
@@ -10634,6 +11066,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-111"
     },
     {
+      "model": "gpt-image-2",
       "id": 110,
       "title": "影片封面介面圖",
       "image": "/images/case110.jpg",
@@ -10657,6 +11090,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-110"
     },
     {
+      "model": "gpt-image-2",
       "id": 109,
       "title": "綜合應用場景圖",
       "image": "/images/case109.jpg",
@@ -10679,6 +11113,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-109"
     },
     {
+      "model": "gpt-image-2",
       "id": 108,
       "title": "綜合應用場景圖",
       "image": "/images/case108.jpg",
@@ -10701,6 +11136,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-108"
     },
     {
+      "model": "gpt-image-2",
       "id": 107,
       "title": "應用介面樣機圖",
       "image": "/images/case107.jpg",
@@ -10727,6 +11163,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-107"
     },
     {
+      "model": "gpt-image-2",
       "id": 106,
       "title": "應用介面樣機圖",
       "image": "/images/case106.jpg",
@@ -10753,6 +11190,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-106"
     },
     {
+      "model": "gpt-image-2",
       "id": 105,
       "title": "動漫插畫創作圖",
       "image": "/images/case105.jpg",
@@ -10778,6 +11216,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-105"
     },
     {
+      "model": "gpt-image-2",
       "id": 104,
       "title": "介面互動設計圖",
       "image": "/images/case104.jpg",
@@ -10801,6 +11240,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-104"
     },
     {
+      "model": "gpt-image-2",
       "id": 103,
       "title": "影片封面介面圖",
       "image": "/images/case103.jpg",
@@ -10824,6 +11264,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-103"
     },
     {
+      "model": "gpt-image-2",
       "id": 102,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case102.jpg",
@@ -10846,6 +11287,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-102"
     },
     {
+      "model": "gpt-image-2",
       "id": 101,
       "title": "介面互動設計圖",
       "image": "/images/case101.jpg",
@@ -10870,6 +11312,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-101"
     },
     {
+      "model": "gpt-image-2",
       "id": 100,
       "title": "主題海報版式設計",
       "image": "/images/case100.jpg",
@@ -10896,6 +11339,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-100"
     },
     {
+      "model": "gpt-image-2",
       "id": 99,
       "title": "介面互動設計圖",
       "image": "/images/case99.jpg",
@@ -10921,6 +11365,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-99"
     },
     {
+      "model": "gpt-image-2",
       "id": 98,
       "title": "主題海報版式設計",
       "image": "/images/case98.jpg",
@@ -10945,6 +11390,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-98"
     },
     {
+      "model": "gpt-image-2",
       "id": 97,
       "title": "綜合應用場景圖",
       "image": "/images/case97.jpg",
@@ -10968,6 +11414,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-97"
     },
     {
+      "model": "gpt-image-2",
       "id": 96,
       "title": "主題海報版式設計",
       "image": "/images/case96.jpg",
@@ -10993,6 +11440,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-96"
     },
     {
+      "model": "gpt-image-2",
       "id": 95,
       "title": "品牌視覺識別圖",
       "image": "/images/case95.jpg",
@@ -11018,6 +11466,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-95"
     },
     {
+      "model": "gpt-image-2",
       "id": 94,
       "title": "繪畫藝術風格圖",
       "image": "/images/case94.jpg",
@@ -11042,6 +11491,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-94"
     },
     {
+      "model": "gpt-image-2",
       "id": 93,
       "title": "插畫藝術風格創作",
       "image": "/images/case93.jpg",
@@ -11066,6 +11516,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-93"
     },
     {
+      "model": "gpt-image-2",
       "id": 92,
       "title": "影片封面介面圖",
       "image": "/images/case92.jpg",
@@ -11090,6 +11541,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-92"
     },
     {
+      "model": "gpt-image-2",
       "id": 91,
       "title": "遊戲介面截圖",
       "image": "/images/case91.jpg",
@@ -11116,6 +11568,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-91"
     },
     {
+      "model": "gpt-image-2",
       "id": 90,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case90.jpg",
@@ -11142,6 +11595,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-90"
     },
     {
+      "model": "gpt-image-2",
       "id": 89,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case89.jpg",
@@ -11168,6 +11622,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-89"
     },
     {
+      "model": "gpt-image-2",
       "id": 88,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case88.jpg",
@@ -11194,6 +11649,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-88"
     },
     {
+      "model": "gpt-image-2",
       "id": 87,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case87.jpg",
@@ -11220,6 +11676,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-87"
     },
     {
+      "model": "gpt-image-2",
       "id": 86,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case86.jpg",
@@ -11246,6 +11703,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-86"
     },
     {
+      "model": "gpt-image-2",
       "id": 85,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case85.jpg",
@@ -11272,6 +11730,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-85"
     },
     {
+      "model": "gpt-image-2",
       "id": 84,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case84.jpg",
@@ -11298,6 +11757,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-84"
     },
     {
+      "model": "gpt-image-2",
       "id": 83,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case83.jpg",
@@ -11324,6 +11784,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-83"
     },
     {
+      "model": "gpt-image-2",
       "id": 82,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case82.jpg",
@@ -11349,6 +11810,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-82"
     },
     {
+      "model": "gpt-image-2",
       "id": 81,
       "title": "寫實攝影風格圖",
       "image": "/images/case81.jpg",
@@ -11374,6 +11836,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-81"
     },
     {
+      "model": "gpt-image-2",
       "id": 80,
       "title": "影象生成案例圖",
       "image": "/images/case80.jpg",
@@ -11400,6 +11863,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-80"
     },
     {
+      "model": "gpt-image-2",
       "id": 79,
       "title": "影象生成案例圖",
       "image": "/images/case79.jpg",
@@ -11426,6 +11890,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-79"
     },
     {
+      "model": "gpt-image-2",
       "id": 78,
       "title": "影象生成案例圖",
       "image": "/images/case78.jpg",
@@ -11452,6 +11917,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-78"
     },
     {
+      "model": "gpt-image-2",
       "id": 77,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case77.jpg",
@@ -11478,6 +11944,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-77"
     },
     {
+      "model": "gpt-image-2",
       "id": 76,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case76.jpg",
@@ -11504,6 +11971,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-76"
     },
     {
+      "model": "gpt-image-2",
       "id": 75,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case75.jpg",
@@ -11530,6 +11998,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-75"
     },
     {
+      "model": "gpt-image-2",
       "id": 74,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case74.jpg",
@@ -11556,6 +12025,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-74"
     },
     {
+      "model": "gpt-image-2",
       "id": 73,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case73.jpg",
@@ -11582,6 +12052,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-73"
     },
     {
+      "model": "gpt-image-2",
       "id": 72,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case72.jpg",
@@ -11608,6 +12079,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-72"
     },
     {
+      "model": "gpt-image-2",
       "id": 71,
       "title": "關係圖譜資訊圖表",
       "image": "/images/case71.jpg",
@@ -11634,6 +12106,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-71"
     },
     {
+      "model": "gpt-image-2",
       "id": 70,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case70.jpg",
@@ -11660,6 +12133,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-70"
     },
     {
+      "model": "gpt-image-2",
       "id": 69,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case69.jpg",
@@ -11686,6 +12160,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-69"
     },
     {
+      "model": "gpt-image-2",
       "id": 68,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case68.jpg",
@@ -11712,6 +12187,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-68"
     },
     {
+      "model": "gpt-image-2",
       "id": 67,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case67.jpg",
@@ -11737,6 +12213,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-67"
     },
     {
+      "model": "gpt-image-2",
       "id": 66,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case66.jpg",
@@ -11762,6 +12239,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-66"
     },
     {
+      "model": "gpt-image-2",
       "id": 65,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case65.jpg",
@@ -11788,6 +12266,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-65"
     },
     {
+      "model": "gpt-image-2",
       "id": 64,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case64.jpg",
@@ -11813,6 +12292,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-64"
     },
     {
+      "model": "gpt-image-2",
       "id": 63,
       "title": "主題海報版式設計",
       "image": "/images/case63.jpg",
@@ -11837,6 +12317,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-63"
     },
     {
+      "model": "gpt-image-2",
       "id": 62,
       "title": "插畫藝術風格創作",
       "image": "/images/case62.jpg",
@@ -11862,6 +12343,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-62"
     },
     {
+      "model": "gpt-image-2",
       "id": 61,
       "title": "主題海報版式設計",
       "image": "/images/case61.jpg",
@@ -11887,6 +12369,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-61"
     },
     {
+      "model": "gpt-image-2",
       "id": 60,
       "title": "漫畫分鏡敘事設計",
       "image": "/images/case60.jpg",
@@ -11913,6 +12396,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-60"
     },
     {
+      "model": "gpt-image-2",
       "id": 59,
       "title": "主題海報版式設計",
       "image": "/images/case59.jpg",
@@ -11939,6 +12423,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-59"
     },
     {
+      "model": "gpt-image-2",
       "id": 58,
       "title": "主題海報版式設計",
       "image": "/images/case58.jpg",
@@ -11965,6 +12450,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-58"
     },
     {
+      "model": "gpt-image-2",
       "id": 57,
       "title": "介面互動設計圖",
       "image": "/images/case57.jpg",
@@ -11991,6 +12477,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-57"
     },
     {
+      "model": "gpt-image-2",
       "id": 56,
       "title": "寫實攝影風格創作",
       "image": "/images/case56.jpg",
@@ -12014,6 +12501,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-56"
     },
     {
+      "model": "gpt-image-2",
       "id": 55,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case55.jpg",
@@ -12039,6 +12527,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-55"
     },
     {
+      "model": "gpt-image-2",
       "id": 54,
       "title": "人物角色設定圖",
       "image": "/images/case54.jpg",
@@ -12062,6 +12551,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-54"
     },
     {
+      "model": "gpt-image-2",
       "id": 53,
       "title": "室內空間渲染圖",
       "image": "/images/case53.jpg",
@@ -12088,6 +12578,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-53"
     },
     {
+      "model": "gpt-image-2",
       "id": 52,
       "title": "寫實攝影風格圖",
       "image": "/images/case52.jpg",
@@ -12112,6 +12603,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-52"
     },
     {
+      "model": "gpt-image-2",
       "id": 51,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case51.jpg",
@@ -12137,6 +12629,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-51"
     },
     {
+      "model": "gpt-image-2",
       "id": 50,
       "title": "建築空間場景圖",
       "image": "/images/case50.jpg",
@@ -12161,6 +12654,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-50"
     },
     {
+      "model": "gpt-image-2",
       "id": 49,
       "title": "直播介面設計圖",
       "image": "/images/case49.jpg",
@@ -12183,6 +12677,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-49"
     },
     {
+      "model": "gpt-image-2",
       "id": 48,
       "title": "直播介面設計圖",
       "image": "/images/case48.jpg",
@@ -12205,6 +12700,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-48"
     },
     {
+      "model": "gpt-image-2",
       "id": 47,
       "title": "建築空間場景圖",
       "image": "/images/case47.jpg",
@@ -12230,6 +12726,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-47"
     },
     {
+      "model": "gpt-image-2",
       "id": 46,
       "title": "建築空間場景圖",
       "image": "/images/case46.jpg",
@@ -12255,6 +12752,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-46"
     },
     {
+      "model": "gpt-image-2",
       "id": 45,
       "title": "人像寫實攝影圖",
       "image": "/images/case45.jpg",
@@ -12280,6 +12778,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-45"
     },
     {
+      "model": "gpt-image-2",
       "id": 44,
       "title": "古風歷史題材圖",
       "image": "/images/case44.jpg",
@@ -12304,6 +12803,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-44"
     },
     {
+      "model": "gpt-image-2",
       "id": 43,
       "title": "插畫藝術創作圖",
       "image": "/images/case43.jpg",
@@ -12328,6 +12828,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-43"
     },
     {
+      "model": "gpt-image-2",
       "id": 42,
       "title": "寫實攝影風格圖",
       "image": "/images/case42.jpg",
@@ -12354,6 +12855,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-42"
     },
     {
+      "model": "gpt-image-2",
       "id": 41,
       "title": "插畫藝術風格創作",
       "image": "/images/case41.jpg",
@@ -12380,6 +12882,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-41"
     },
     {
+      "model": "gpt-image-2",
       "id": 40,
       "title": "綜合應用場景圖",
       "image": "/images/case40.jpg",
@@ -12404,6 +12907,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-40"
     },
     {
+      "model": "gpt-image-2",
       "id": 39,
       "title": "綜合應用場景圖",
       "image": "/images/case39.jpg",
@@ -12428,6 +12932,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-39"
     },
     {
+      "model": "gpt-image-2",
       "id": 38,
       "title": "綜合應用場景圖",
       "image": "/images/case38.jpg",
@@ -12452,6 +12957,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-38"
     },
     {
+      "model": "gpt-image-2",
       "id": 37,
       "title": "綜合應用場景圖",
       "image": "/images/case37.jpg",
@@ -12476,6 +12982,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-37"
     },
     {
+      "model": "gpt-image-2",
       "id": 36,
       "title": "品牌徽標設計圖",
       "image": "/images/case36.jpg",
@@ -12501,6 +13008,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-36"
     },
     {
+      "model": "gpt-image-2",
       "id": 35,
       "title": "人像寫實攝影圖",
       "image": "/images/case35.jpg",
@@ -12525,6 +13033,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-35"
     },
     {
+      "model": "gpt-image-2",
       "id": 34,
       "title": "插畫藝術創作圖",
       "image": "/images/case34.jpg",
@@ -12550,6 +13059,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-34"
     },
     {
+      "model": "gpt-image-2",
       "id": 33,
       "title": "電商商品展示設計",
       "image": "/images/case33.jpg",
@@ -12575,6 +13085,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-33"
     },
     {
+      "model": "gpt-image-2",
       "id": 32,
       "title": "插畫藝術創作圖",
       "image": "/images/case32.jpg",
@@ -12601,6 +13112,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-32"
     },
     {
+      "model": "gpt-image-2",
       "id": 31,
       "title": "人像寫實攝影圖",
       "image": "/images/case31.jpg",
@@ -12625,6 +13137,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-31"
     },
     {
+      "model": "gpt-image-2",
       "id": 30,
       "title": "寫實攝影風格圖",
       "image": "/images/case30.jpg",
@@ -12651,6 +13164,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-30"
     },
     {
+      "model": "gpt-image-2",
       "id": 29,
       "title": "電影感敘事場景圖",
       "image": "/images/case29.jpg",
@@ -12675,6 +13189,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-29"
     },
     {
+      "model": "gpt-image-2",
       "id": 28,
       "title": "寫實攝影風格創作",
       "image": "/images/case28.jpg",
@@ -12701,6 +13216,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-28"
     },
     {
+      "model": "gpt-image-2",
       "id": 27,
       "title": "人物角色設定圖",
       "image": "/images/case27.jpg",
@@ -12725,6 +13241,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-27"
     },
     {
+      "model": "gpt-image-2",
       "id": 26,
       "title": "建築空間場景圖",
       "image": "/images/case26.jpg",
@@ -12749,6 +13266,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-26"
     },
     {
+      "model": "gpt-image-2",
       "id": 25,
       "title": "綜合應用場景圖",
       "image": "/images/case25.jpg",
@@ -12771,6 +13289,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-25"
     },
     {
+      "model": "gpt-image-2",
       "id": 24,
       "title": "漫畫分鏡敘事設計",
       "image": "/images/case24.jpg",
@@ -12793,6 +13312,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-24"
     },
     {
+      "model": "gpt-image-2",
       "id": 23,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case23.jpg",
@@ -12818,6 +13338,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-23"
     },
     {
+      "model": "gpt-image-2",
       "id": 22,
       "title": "插畫藝術風格創作",
       "image": "/images/case22.jpg",
@@ -12843,6 +13364,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-22"
     },
     {
+      "model": "gpt-image-2",
       "id": 21,
       "title": "直播介面設計圖",
       "image": "/images/case21.jpg",
@@ -12869,6 +13391,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-21"
     },
     {
+      "model": "gpt-image-2",
       "id": 20,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case20.jpg",
@@ -12892,6 +13415,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-20"
     },
     {
+      "model": "gpt-image-2",
       "id": 19,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case19.jpg",
@@ -12915,6 +13439,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-19"
     },
     {
+      "model": "gpt-image-2",
       "id": 18,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case18.jpg",
@@ -12941,6 +13466,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-18"
     },
     {
+      "model": "gpt-image-2",
       "id": 17,
       "title": "介面互動設計圖",
       "image": "/images/case17.jpg",
@@ -12966,6 +13492,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-17"
     },
     {
+      "model": "gpt-image-2",
       "id": 16,
       "title": "主題海報版式設計",
       "image": "/images/case16.jpg",
@@ -12988,6 +13515,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-16"
     },
     {
+      "model": "gpt-image-2",
       "id": 15,
       "title": "主題海報版式設計",
       "image": "/images/case15.jpg",
@@ -13011,6 +13539,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-15"
     },
     {
+      "model": "gpt-image-2",
       "id": 14,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case14.jpg",
@@ -13033,6 +13562,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-14"
     },
     {
+      "model": "gpt-image-2",
       "id": 13,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case13.jpg",
@@ -13058,6 +13588,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-13"
     },
     {
+      "model": "gpt-image-2",
       "id": 11,
       "title": "一張手繪風格的城市美食地圖，以台州為主題",
       "image": "/images/case11.jpg",
@@ -13080,6 +13611,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-11"
     },
     {
+      "model": "gpt-image-2",
       "id": 10,
       "title": "主題海報版式設計",
       "image": "/images/case10.jpg",
@@ -13103,6 +13635,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-10"
     },
     {
+      "model": "gpt-image-2",
       "id": 9,
       "title": "主題海報版式設計",
       "image": "/images/case9.jpg",
@@ -13126,6 +13659,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-9"
     },
     {
+      "model": "gpt-image-2",
       "id": 8,
       "title": "科普百科圖",
       "image": "/images/case8.jpg",
@@ -13152,6 +13686,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-8"
     },
     {
+      "model": "gpt-image-2",
       "id": 7,
       "title": "應用介面樣機圖",
       "image": "/images/case7.jpg",
@@ -13178,6 +13713,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-7"
     },
     {
+      "model": "gpt-image-2",
       "id": 6,
       "title": "插畫藝術創作圖",
       "image": "/images/case6.jpg",
@@ -13201,6 +13737,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-6"
     },
     {
+      "model": "gpt-image-2",
       "id": 5,
       "title": "主題海報版式設計",
       "image": "/images/case5.jpg",
@@ -13225,6 +13762,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-5"
     },
     {
+      "model": "gpt-image-2",
       "id": 4,
       "title": "老干妈風味",
       "image": "/images/case4.jpg",
@@ -13247,6 +13785,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-4"
     },
     {
+      "model": "gpt-image-2",
       "id": 3,
       "title": "足球主題電影海報",
       "image": "/images/case3.jpg",
@@ -13271,6 +13810,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-3"
     },
     {
+      "model": "gpt-image-2",
       "id": 2,
       "title": "社群媒體介面截圖",
       "image": "/images/case2.jpg",
@@ -13295,6 +13835,7 @@
       "localGithubUrl": "https://github.com/irons163/awesome-gpt-image-2-zh/blob/main/docs/gallery-part-1.md#case-2"
     },
     {
+      "model": "gpt-image-2",
       "id": 1,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case1.jpg",

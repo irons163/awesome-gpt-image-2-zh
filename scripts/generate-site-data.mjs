@@ -176,6 +176,7 @@ function parseCases() {
       }
 
       cases.push({
+        model: 'gpt-image-2',
         id,
         title,
         image,

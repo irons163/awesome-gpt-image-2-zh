@@ -31,3 +31,9 @@ test('unconfigured submission endpoint fails closed and exposes no secrets', asy
     if (saved !== undefined) process.env.GITHUB_APP_ID = saved;
   }
 });
+
+test('submission preserves supported image model and rejects invalid versions', () => {
+  for (const model of ['gpt-image-2', 'gpt-image-2.5', 'gpt-image-2.5-flare', 'gpt-image-2.5-sunburst']) assert.equal(validateSubmission({...valid, model}).model, model);
+  assert.equal(validateSubmission(valid).model, 'gpt-image-2');
+  for (const model of ['', 'unknown', {}, 25]) assert.throws(() => validateSubmission({...valid, model}));
+});

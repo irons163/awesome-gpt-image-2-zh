@@ -1,3 +1,4 @@
+import { IMAGE_MODELS, imageModel, imageModelLabel } from './image-models.js';
 import { GalleryAuthProvider, useGalleryAuth } from './GalleryAuth';
 import { FavoritesProvider, FavoriteButton, useFavorites } from './Favorites';
 import React, { useEffect, useMemo, useRef, useState } from 'react';
@@ -2746,6 +2747,7 @@ function PromptCard({
           )}
         </div>
         <h3>{caseItem.title}</h3>
+        <div className="tagRow"><span>{imageModelLabel(caseItem)}</span></div>
         <p>{promptPreviewFor(caseItem, language)}</p>
         <div className="tagRow">
           {tags.map((tag) => (
@@ -2964,6 +2966,7 @@ function App() {
   const [query, setQuery] = useState('');
   const [category, setCategory] = useState('All');
   const [style, setStyle] = useState('All');
+  const [model, setModel] = useState('All');
   const [scene, setScene] = useState('All');
   const [currentPage, setCurrentPage] = useState(1);
   const [preview, setPreview] = useState(null);
@@ -3056,9 +3059,9 @@ function App() {
       const matchCategory = category === 'All' || item.category === category;
       const matchStyle = style === 'All' || item.styles.includes(style);
       const matchScene = scene === 'All' || item.scenes.includes(scene);
-      return matchQuery && matchCategory && matchStyle && matchScene && (!onlyFavorites || favoriteIds.includes(item.id));
+      return (model === 'All' || imageModel(item) === model) && matchQuery && matchCategory && matchStyle && matchScene && (!onlyFavorites || favoriteIds.includes(item.id));
     });
-  }, [siteData, query, category, style, scene, onlyFavorites, favoriteIds]);
+  }, [siteData, query, category, style, scene, model, onlyFavorites, favoriteIds]);
 
   const orderedCategories = useMemo(
     () => (siteData && styleLibrary ? orderByLibrary(siteData.categories, styleLibrary.categories) : []),
@@ -3079,7 +3082,7 @@ function App() {
 
   useEffect(() => {
     setCurrentPage(1);
-  }, [query, category, style, scene]);
+  }, [query, category, style, scene, model]);
 
   useEffect(() => {
     if (currentPage > totalPages) setCurrentPage(totalPages);
@@ -3126,7 +3129,7 @@ function App() {
         <div className="topbarControls">
           <nav>
             <a href="#gallery" onClick={()=>setOnlyFavorites(false)}>{t.navCases}</a>
-            <a href="#gallery" aria-current={onlyFavorites ? "page" : undefined} onClick={e=>{if(!session){e.preventDefault();login({type:'favorites'});return;} setQuery('');setCategory('All');setStyle('All');setScene('All');setCurrentPage(1);setOnlyFavorites(true);}}>{language==='zh'?'我的最愛':'My Favorites'}</a>
+            <a href="#gallery" aria-current={onlyFavorites ? "page" : undefined} onClick={e=>{if(!session){e.preventDefault();login({type:'favorites'});return;} setQuery('');setModel('All');setCategory('All');setStyle('All');setScene('All');setCurrentPage(1);setOnlyFavorites(true);}}>{language==='zh'?'我的最愛':'My Favorites'}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
             <a href="#submit">{language === 'zh' ? '投稿案例' : 'Submit a case'}</a>
@@ -3185,6 +3188,7 @@ function App() {
         </div>
 
         <div className="filterPanel">
+          <div><strong>{language === 'zh' ? '產圖模型' : 'Image model'}</strong><div className="filterRow"><FilterPill active={model === 'All'} onClick={() => setModel('All')}>{t.all}</FilterPill>{IMAGE_MODELS.filter(option => siteData.cases.some(item => imageModel(item) === option.id)).map(option => <FilterPill key={option.id} active={model === option.id} onClick={() => setModel(option.id)}>{option.label}</FilterPill>)}</div></div>
           <div>
             <strong>{t.category}</strong>
             <div className="filterRow">

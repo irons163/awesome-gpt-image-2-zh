@@ -1,3 +1,4 @@
+import { IMAGE_MODELS } from './image-models.js';
 import { useGalleryAuth } from './GalleryAuth';
 import React, { useEffect, useRef, useState } from 'react';
 
@@ -87,6 +88,7 @@ export default function SubmissionForm({ language, categories, styles, scenes, l
     !session ? <button type="button" disabled={!authClient} onClick={() => login({type:'submit'})}>{zh ? '登入後投稿' : 'Sign in to submit'}</button> :
     issue ? <p role="status">{zh ? '投稿已送出，等待審核。' : 'Submitted for review.'} <a href={issue} target="_blank" rel="noreferrer">{zh ? '查看投稿進度 ↗' : 'View submission ↗'}</a></p> :
     <form onSubmit={submit}>
+      <label>{zh ? '使用模型' : 'Image model'}<select name="model" required defaultValue=""><option value="" disabled>{zh ? '請選擇實際產圖使用的模型' : 'Select the model used'}</option>{IMAGE_MODELS.map(model => <option key={model.id} value={model.id}>{model.label}</option>)}</select></label>
       <label>{zh ? '案例名稱' : 'Title'}<input name="title" maxLength={120} required /></label>
       <label>{zh ? '投稿者暱稱' : 'Display name'}<input name="nickname" maxLength={80} required /></label>
       <label>{zh ? '來源／個人連結（選填，HTTPS）' : 'Source / profile link (optional, HTTPS)'}<input name="source" type="url" pattern="https://.*" maxLength={500} /></label>
