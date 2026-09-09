@@ -11,8 +11,9 @@ const promptTranslationsFile = join(root, 'data', 'prompt-translations.zh-TW.jso
 const imageVariants = JSON.parse(readFileSync(join(root, 'data', 'image-variants.json'), 'utf8')).cases;
 function variantsFor(id) {
   return (imageVariants[id] || []).filter(item => item.status === 'published').map(item => {
-    if (!/^gpt-image-2\.5-(sunburst|flare)(?:-\d{4}-\d{2}-\d{2})?$/.test(item.model) || !item.generatedDate || !item.promptSha256 || !item.outputSha256) throw new Error(`Missing generation provenance for case ${id}`);
-    if (!/^\/images\/[a-zA-Z0-9_./-]+$/.test(item.image) || item.image.includes('..')) throw new Error(`Invalid variant image for case ${id}`);
+    if (!/^gpt-image-2\.5(?:-(sunburst|flare)(?:-\d{4}-\d{2}-\d{2})?)?$/.test(item.model) || !item.generatedDate || !item.promptSha256 || !item.outputSha256) throw new Error(`Missing generation provenance for case ${id}`);
+    if (!/^\/(?:images|comparisons)\/[a-zA-Z0-9_./-]+$/.test(item.image) || item.image.includes('..')) throw new Error(`Invalid variant image for case ${id}`);
+    if (item.model === 'gpt-image-2.5' && (item.generationTool !== 'codex-built-in' || item.modelBasis !== 'official-release-and-user-confirmation' || !item.modelSource)) throw new Error(`Missing built-in generation provenance for case ${id}`);
     const imagePath = join(root, 'data', item.image.slice(1));
     if (!existsSync(imagePath) || createHash('sha256').update(readFileSync(imagePath)).digest('hex') !== item.outputSha256) throw new Error(`Missing or changed variant image for case ${id}`);
     return item;

@@ -1,0 +1,16 @@
+import { readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+import { resolve, dirname } from 'node:path';
+const [idText, source, note = ''] = process.argv.slice(2);
+const id = Number(idText);
+const item = JSON.parse(readFileSync('data/cases.json', 'utf8')).cases.find(c => c.id === id);
+if (!item || !source || !existsSync(source)) throw new Error('Usage: node scripts/register-builtin-image.mjs CASE_ID GENERATED_PNG [REVIEW_NOTE]');
+const dest = `data/images/gpt-image-2.5/case-${id}.png`;
+if (existsSync(dest) && resolve(source) !== resolve(dest)) throw new Error('Output already exists: ' + dest);
+mkdirSync(dirname(dest), { recursive: true });
+if (resolve(source) !== resolve(dest)) copyFileSync(source, dest);
+const data = JSON.parse(readFileSync('data/image-variants.json', 'utf8'));
+const hash = value => createHash('sha256').update(value).digest('hex');
+data.cases[id] = [{ model: 'gpt-image-2.5', actualModel: null, generationTool: 'codex-built-in', modelBasis: 'official-release-and-user-confirmation', modelSource: 'https://openai.com/index/introducing-chatgpt-images-2-5/', image: '/' + dest.slice(5), generatedDate: new Date().toISOString().slice(0, 10), promptSha256: hash(item.promptZh || item.prompt), outputSha256: hash(readFileSync(dest)), status: 'published', reviewNotes: note }];
+writeFileSync('data/image-variants.json', JSON.stringify(data, null, 2) + '\n');
+console.log(`Registered #${id}; ${Object.keys(data.cases).length} published images`);

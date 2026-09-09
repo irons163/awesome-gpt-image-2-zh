@@ -1,13 +1,11 @@
 # GPT-Image-2.5 圖庫重產
 
-網站的產圖模型切換使用「全部／GPT-Image-2／GPT-Image-2.5」。每個案例保留原 ID、提示詞與收藏關係；有已上架 2.5 圖片時，「全部」優先顯示新圖。選擇 2.5 不會退回舊圖。先前版本不明的 Codex 實測圖片不納入 2.5。
+使用者已指定直接使用 Codex 內建產圖。2026/9/8 官方公告 Images 2.5 已供應於 Codex，網站依公告與使用者確認歸類為 GPT-Image-2.5。內建工具不回傳子型號；actualModel 保留 null，不宣稱指定 Flare 或 Sunburst。此流程不需要 API 金鑰。
 
-執行 `node scripts/prepare-image-25-batch.mjs`，會從目前圖庫準備所有提示詞及盤點清單，存於 `tmp/imagegen/gpt-image-2.5/`。目前 541 筆。這個指令不呼叫 API。
+網站使用「全部／GPT-Image-2／GPT-Image-2.5」。每個案例保留原 ID、提示詞與收藏關係；有已上架 2.5 圖片時，「全部」優先顯示新圖。選擇 2.5 不會退回舊圖。
 
-重產指定 `gpt-image-2.5-sunburst`，需要執行環境有可用的 `OPENAI_API_KEY`。不要將金鑰提交到 Git。先逐筆確認 inventory 的輸入需求；possibleReferenceRequired 只是文字初篩，沒有命中也必須確認。需要參考照片的案例必須取得原始輸入，不使用既有生成結果假冒參考圖。
+完整目標為目前 541 個案例。`node scripts/prepare-image-25-batch.mjs` 可整理提示詞；其中 API 模型欄位僅供另行明確指定 API 時使用，當前產圖一律使用內建工具。需要參考照片的案例先記錄缺少的輸入，不把舊結果當成原始照片。
 
-確認純文字生成的案例後，另存為 reviewed-prompts.jsonl，透過 ImageGen skill 的 scripts/image_gen.py generate-batch 執行，使用 --model gpt-image-2.5-sunburst --no-augment --input reviewed-prompts.jsonl --out-dir output/imagegen/gpt-image-2.5。需要參考圖的案例使用該 CLI 的 edit 子命令，逐筆指定已確認的輸入圖。不要直接執行未審閱的 all-prompts.jsonl。
+逐張以完整提示詞呼叫內建產圖，檢視輸出後執行 `node scripts/register-builtin-image.mjs 案例ID 生成圖片絕對路徑 '觀察註記'`。圖片會複製到 data/images/gpt-image-2.5，並登記 data/image-variants.json。已完成的同日內建產圖可沿用既有檔案，避免不必要的重複生成。生成器驗證檔案與輸出雜湊，published 圖片才會出現在前台。
 
-檢查結果後將圖片放入 data/images/gpt-image-2.5/，並在 data/image-variants.json 的 cases[案例ID] 陣列登記 image、model、generatedDate、promptSha256、outputSha256 和 status: published。記錄實際 API 請求的模型；保留請求及結果記錄。生成器會驗證檔案與輸出雜湊；只有 published 圖片會出現在前台。所有批次產圖尚未開始，不能將盤點清單視為已生成結果。
-
-官方模型文件：https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst
+官方公告：https://openai.com/index/introducing-chatgpt-images-2-5/

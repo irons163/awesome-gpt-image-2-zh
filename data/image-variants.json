@@ -1,3 +1,259 @@
 {
-  "cases": {}
+  "cases": {
+    "338": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-338.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "b4eba29d06e0c0eadfee8b2cbd827cbe24c26edea49470e15691fae1a080344d",
+        "outputSha256": "17c94931f3bb4db36eb263abc569a2ee69b89825f6d36f7bdbf57e7cab99b421",
+        "status": "published",
+        "reviewNotes": "長卷構圖已產生，但內文仍有錯字、缺漏與混入其他作品的情況，不可視為已完整校對的《赤壁賦》。"
+      }
+    ],
+    "453": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-453.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "6d515659ac254e87f179742ea9cd8b046e3505cf04d6082fbb06d27f13c2adae",
+        "outputSha256": "08868ddb0bf72ca814e66f5e15b47d9e62b025644428b896e3d8f9561df52572",
+        "status": "published",
+        "reviewNotes": "畫冊系統已呈現，但出現簡體字與未提供的品牌、客戶、數據，保留作為失敗項目，不適合直接商用。"
+      }
+    ],
+    "489": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-489.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "fe42e7b0d1710070ce7da665877896b1594632c7873661f9f5ace0415e1ca65e",
+        "outputSha256": "4d654b7b4fe967983f6b2062c79c73c467c167d7097b5b4ad41bfc6070366e13",
+        "status": "published",
+        "reviewNotes": "模型自行選擇舊金山與廂型車；城市與車型未在提示詞中固定。"
+      }
+    ],
+    "494": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-494.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "73c12c69e0dfc8f889b278860f3399cc10abba8d3711b529f0125032eea47d1e",
+        "outputSha256": "188bfa840a18e79ff31f8bccb25f450f7b2066ffdebeda2a97faf235d8d8edd6",
+        "status": "published",
+        "reviewNotes": "資訊卡與公車細節已呈現；小字及數據需校對，圖中工程與環保數字不能作為事實引用。"
+      }
+    ],
+    "496": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-496.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "eb4824e59361948187dbe46bb8589938309148438a3884e34248c97b765aa1ad",
+        "outputSha256": "74bf72b04aab232cbfa7434164ac39b46c1019702c64745f49effb0bc2b6dc19",
+        "status": "published",
+        "reviewNotes": "六個水雕標誌已呈現，品牌形狀與字樣仍需逐一檢視。"
+      }
+    ],
+    "523": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-523.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "c249eb640f087163ce81a8914259dc74e7796f8f8ee7ca89b8c37f69313cac38",
+        "outputSha256": "6b1ade11f3c46ad2f07870c154a6884d2ce08530749214ee2321a55fff3faa1e",
+        "status": "published",
+        "reviewNotes": "公園、水彩與無文字要求已呈現。"
+      }
+    ],
+    "526": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-526.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "c54c2a4b0bbbbe1f96a1ced2268ca693ec713ca8217deccc0d638cd97fdfca85",
+        "outputSha256": "41f638b5eae103d449ffe82616746208f4cc34923855f9eb2c437c73c2794086",
+        "status": "published",
+        "reviewNotes": "模型將光面呈現為帶有自然影像的透明面板。"
+      }
+    ],
+    "527": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-527.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "470b0ad7e99dde220fac66a87f04d9fcdbfe1039efa3bca3e599d3fbce9975ef",
+        "outputSha256": "b40bc903497b211bada8c2e84e6823dca2a3045a626d2dbcd87ea2ae94a0e340",
+        "status": "published",
+        "reviewNotes": ""
+      }
+    ],
+    "531": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-531.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "339316f333e47e815cce9bb1110c108b270dbeef953fbc6b6de79200322964af",
+        "outputSha256": "0cf5658f621b68bedcfbae39de904b29ea35e079359ccaa616bdec1057b47f6b",
+        "status": "published",
+        "reviewNotes": "未填入的國家變數由模型解讀為義大利。"
+      }
+    ],
+    "532": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-532.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "c9fb01ff12b688bfb9830065d402f5a6ad65fdf5d0ac0c72695f08e8deb5274d",
+        "outputSha256": "bd22a5255a92f6c824ac0bba3c0abf844260caeaccb05e257629e82ae4681a7e",
+        "status": "published",
+        "reviewNotes": "六格敘事與品牌杯已呈現；需進一步檢查跨格人物與物理細節。"
+      }
+    ],
+    "534": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-534.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "2947ee50724c7f2c4bd54dfcdf4c1d054bbe3cfe33f153563b57c94db4df10da",
+        "outputSha256": "8b85e89d43995fc6bdf30f5521b9d7f7b4608680c5d03c88306fe6b301d3b316",
+        "status": "published",
+        "reviewNotes": ""
+      }
+    ],
+    "536": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-536.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "6de1a58e0ffb77b7b4d3f3d5857ee00445f042d8a9bf902935c90feffbd34832",
+        "outputSha256": "30b500366507fda5b95a21ba2cfd2319ba8e2cefcbdd01d2d0592aa58c66be15",
+        "status": "published",
+        "reviewNotes": "櫻花、回眸與淺景深已呈現，尚未對原始參數做受控比較。"
+      }
+    ],
+    "537": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-537.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "52bd814fe57b49096530b2e687b96227add5c19e48b2a6369b5bbffc3ad8b24f",
+        "outputSha256": "c99bc77130a523668a7cecc74d1f252168c90a5f6589907e262873f1cf518aa0",
+        "status": "published",
+        "reviewNotes": ""
+      }
+    ],
+    "539": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-539.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "5610c25b8c573e8bc0cc875ec9dedf534831b5975290b1a322cc89641a855d91",
+        "outputSha256": "37218a7332b449b7e005a39c8c412d759d52feb8eb85ed463abae832216c2bf5",
+        "status": "published",
+        "reviewNotes": ""
+      }
+    ],
+    "540": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-540.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "e7997aadb41ef8106fbdc9429bbe7e7bb694db1f00cdec8dcc3e2dc8ae560e07",
+        "outputSha256": "d991346ea0a4cb700ad2a4bce1228f90971662e37f5d3387046e4762c892a223",
+        "status": "published",
+        "reviewNotes": "夢幻建築已呈現，模型額外加入標題與廣告文字。"
+      }
+    ],
+    "542": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-542.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "6469c9459c2ec00d452a31cc4f9e02a70e843a983667eec03bc426116db265c4",
+        "outputSha256": "e30e85522213126d4917b164def2ae24950b725cbdebe9a352af5cd8ca35f6da",
+        "status": "published",
+        "reviewNotes": "側臉與黑白排版已呈現，模型自行填入人物、文字與品牌變數。"
+      }
+    ],
+    "544": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/comparisons/codex-2026-09-09/case-544.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "d0e8e0d55e1400cb502ce6f97963a5b70e9424cefa25928d4d014f65e2ea0266",
+        "outputSha256": "16d29f5908cc7929e74c9c6a1c34374547721570eecf8a29e14615cd9ce11510",
+        "status": "published",
+        "reviewNotes": "模型自行將變數解讀為 APPLE / SLICE，未額外填入提示詞參數。"
+      }
+    ]
+  }
 }

@@ -2853,6 +2853,7 @@ function PreviewDialog({
           </div>
           <h2 id="preview-title">{title}</h2>
           <p>{description}</p>
+          {!isTemplate && item.generatedDate && <p className="generationNote">{imageModelLabel(item)} · {item.generatedDate}{item.reviewNotes ? ` · ${item.reviewNotes}` : ''}</p>}
           <div className="tagRow previewTags">
             {tags.map((tag) => (
               <span key={`${type}-${item.id}-${tag}`}>
