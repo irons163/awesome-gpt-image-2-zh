@@ -2728,7 +2728,7 @@ function PromptCard({
   return (
     <article className="caseCard">
       <button className="caseImage imageButton" type="button" onClick={() => onOpen(caseItem)}>
-        <img src={caseItem.image} alt={caseItem.imageAlt} loading="lazy" />
+        <img src={caseItem.thumbnailImage || caseItem.image} alt={caseItem.imageAlt} loading="lazy" />
         <span className="caseBadge">{language === 'zh' ? '案例' : 'Case'} {caseItem.id}</span>
         <span className="imageHint">
           <Eye size={15} />
