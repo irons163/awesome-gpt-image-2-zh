@@ -1,6 +1,6 @@
 # awesome-gpt-image-2-zh
 
-**GPT-Image2 提示詞與範本庫・繁體中文（台灣用語）**
+**GPT Image 提示詞與範本庫・繁體中文（台灣用語）**
 
 本專案是 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 的繁中在地化版本，保留原始授權、作者署名與來源連結；案例圖片已依台灣繁中提示詞重新生成。網站預設為台灣繁體中文，並保留英文介面。
 
@@ -11,9 +11,9 @@
 
 ---
 
-<p align="center"><img src="./data/images/banner.svg" alt="GPT-Image2 Prompt System" width="800" /></p>
+<p align="center"><img src="./data/images/banner.svg" alt="GPT Image Prompt System" width="800" /></p>
 
-<h3 align="center">Prompt as Code | GPT-Image2 實務級提示詞引擎與範本庫，500+ 個案例逆向工程，20+ 套實務級範本</h3>
+<h3 align="center">Prompt as Code | GPT Image 實務級提示詞引擎與範本庫，500+ 個案例逆向工程，20+ 套實務級範本</h3>
 
 <p align="center">
   <a href="https://github.com/irons163/awesome-gpt-image-2-zh"><img src="https://img.shields.io/github/stars/irons163/awesome-gpt-image-2-zh?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
@@ -28,11 +28,11 @@
 
 ## 🌐 網站
 
-開啟 [gpt-image2.zero2codex.dev](https://gpt-image2.zero2codex.dev/) 即可瀏覽本版本案例：檢視大圖、複製完整提示詞、依風格或情境篩選，並快速回到 GitHub 原始案例。
+開啟 [gpt-image.zero2codex.dev](https://gpt-image.zero2codex.dev/) 即可瀏覽本版本案例：檢視大圖、複製完整提示詞、依風格或情境篩選，並快速回到 GitHub 原始案例。
 
 <p align="center">
-  <a href="https://gpt-image2.zero2codex.dev/">
-    <img src="data/images/site-preview.png" alt="GPT-Image2 Gallery 網站預覽" width="900">
+  <a href="https://gpt-image.zero2codex.dev/">
+    <img src="data/images/site-preview.png" alt="GPT Image Gallery 網站預覽" width="900">
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 ## ⚡️ 專案願景
 
-GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不能穩定、可控、可重複使用地出圖”。這個專案關注的是把零散案例逆向整理成一套更適合 Agent 和自動化工作流程呼叫的 Prompt-as-Code 資產，而非單純堆提示詞。
+GPT Image 全量開放後，AI 畫圖從“能不能出圖”變成了“能不能穩定、可控、可重複使用地出圖”。這個專案關注的是把零散案例逆向整理成一套更適合 Agent 和自動化工作流程呼叫的 Prompt-as-Code 資產，而非單純堆提示詞。
 
 核心目標只有一個：把“散文式提示詞”壓縮成“結構化協議”。當你需要批次出圖、做範本系統、接進生產流程時，這種整理方式比單純堆案例更有價值。
 
@@ -58,7 +58,7 @@ GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不
 - [案例畫廊 Part 1：例 1-165](docs/gallery-part-1.md)
 - [案例畫廊 Part 2：例 166-544](docs/gallery-part-2.md)
 - [實務級提示詞範本與常見問題指南](docs/templates.md#section-templates)
-- [Agent Plugin：GPT-Image2 台灣繁中風格庫](plugins/awesome-gpt-image-2-zh/plugin.json)
+- [Agent Plugin：GPT Image 台灣繁中風格庫](plugins/awesome-gpt-image-2-zh/plugin.json)
 - [MIT License](LICENSE)
 - [完整宣告頁](docs/disclaimer.md#section-disclaimer)
 
@@ -220,12 +220,12 @@ GPT-Image2 全量開放後，AI 畫圖從“能不能出圖”變成了“能不
 
 ## 🤖 Agent Plugin
 
-本專案已改用 [Agent Plugins 1.0](https://agent-plugins.org/) 開放標準封裝。外掛內含台灣繁中技能與共用風格庫，可讓相容的 AI 代理程式辨識 GPT-Image2 範本、分類、風格和情境標籤。
+本專案已改用 [Agent Plugins 1.0](https://agent-plugins.org/) 開放標準封裝。外掛內含台灣繁中技能與共用風格庫，可讓相容的 AI 代理程式辨識 GPT Image 範本、分類、風格和情境標籤。
 
 外掛同時提供標準根目錄 `plugin.json` 與 Codex 相容資訊，來源位於 [`plugins/awesome-gpt-image-2-zh`](plugins/awesome-gpt-image-2-zh)。
 
 <p align="center">
-  <img src="plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/taiwan-railway-travel-map.png" alt="使用 GPT-Image2 台灣繁中 Agent Plugin 產生的台灣環島鐵道旅行圖範例" width="760">
+  <img src="plugins/awesome-gpt-image-2-zh/skills/gpt-image-2-style-library/assets/taiwan-railway-travel-map.png" alt="使用 GPT Image 台灣繁中 Agent Plugin 產生的台灣環島鐵道旅行圖範例" width="760">
 </p>
 
 <p align="center"><sub>範例：用 gpt-image-2-style-library 建立「台灣環島鐵道旅行圖」。</sub></p>
@@ -239,7 +239,7 @@ codex plugin marketplace add irons163/awesome-gpt-image-2-zh
 codex plugin add awesome-gpt-image-2-zh@awesome-gpt-image-2-zh
 ```
 
-安裝後請開啟新的工作階段，再提出例如「使用 GPT-Image2 風格庫，以台灣繁體中文建立資訊圖表提示詞」的要求。
+安裝後請開啟新的工作階段，再提出例如「使用 GPT Image 風格庫，以台灣繁體中文建立資訊圖表提示詞」的要求。
 
 其他相容用戶端可直接讀取外掛根目錄的 `plugin.json` 與 `skills/`；實際安裝方式依各用戶端而定。
 

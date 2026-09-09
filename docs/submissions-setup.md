@@ -8,7 +8,7 @@ Issue 不會自動上架到圖庫，維護者仍須審核。
 
 在 https://github.com/settings/apps/new 建立僅供自己安裝的 App：
 - 名稱：自行選擇尚未被使用的名稱，例如 phil-image-gallery-submissions。
-- Homepage URL：https://gpt-image2.zero2codex.dev/
+- Homepage URL：https://gpt-image.zero2codex.dev/
 - 關閉 Webhook，不需要 OAuth callback。
 - Repository permissions：Issues — Read and write，其他維持預設。
 - 安裝時僅選 irons163/awesome-gpt-image-2-zh。
@@ -16,7 +16,7 @@ Issue 不會自動上架到圖庫，維護者仍須審核。
 
 ## Cloudflare Turnstile
 
-建立 Managed widget，允許 hostname：gpt-image2.zero2codex.dev。
+建立 Managed widget，允許 hostname：gpt-image.zero2codex.dev。
 取得 Site key 與 Secret key。驗證由後端呼叫 Siteverify 完成。
 
 ## Hetzner 設定
@@ -29,7 +29,7 @@ Issue 不會自動上架到圖庫，維護者仍須審核。
     GITHUB_APP_PRIVATE_KEY_PATH=/etc/gpt-image2/submission-app.pem
     TURNSTILE_SITE_KEY=
     TURNSTILE_SECRET_KEY=
-    SUBMISSION_ORIGIN=https://gpt-image2.zero2codex.dev
+    SUBMISSION_ORIGIN=https://gpt-image.zero2codex.dev
     SUBMISSION_UPLOAD_DIR=/var/lib/gpt-image2/submissions
     SUBMISSION_SUPABASE_URL=
     SUBMISSION_SUPABASE_PUBLISHABLE_KEY=

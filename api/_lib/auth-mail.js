@@ -8,13 +8,13 @@ export function buildAuthMail(payload) {
   const {user,email_data:e}=payload;
   const titles={signup:'驗證你的圖庫帳號',magiclink:'登入你的圖庫帳號',recovery:'重設圖庫密碼',invite:'接受圖庫邀請',email_change:'確認信箱變更',reauthentication:'確認帳號操作'};
   if(!e || !Object.hasOwn(titles,e.email_action_type) || !user?.email) throw Error('Invalid mail payload');
-  const redirect='https://gpt-image2.zero2codex.dev/?submission=login';
+  const redirect='https://gpt-image.zero2codex.dev/?submission=login';
   const recipients=e.email_action_type==='email_change' ? (e.token_hash_new ? [[user.email,e.token,e.token_hash_new],[user.new_email,e.token_new,e.token_hash]] : [[user.new_email,e.token_new || e.token,e.token_hash]]) : [[user.email,e.token,e.token_hash]];
   return recipients.map(([to,token,hash])=>{
     if(typeof to !== 'string' || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(to) || !token || !hash) throw Error('Invalid mail payload');
     const link=new URL('/auth/v1/verify',process.env.SUBMISSION_SUPABASE_URL);
     link.searchParams.set('token',hash);link.searchParams.set('type',e.email_action_type);link.searchParams.set('redirect_to',redirect);
-    const subject='GPT-Image2 圖庫｜'+titles[e.email_action_type];
+    const subject='GPT Image 圖庫｜'+titles[e.email_action_type];
     const text=`${subject}\n\n${link}\n\n一次性驗證碼：${token}\n若不是你提出的要求，請忽略此信。`;
     return {from:process.env.AUTH_EMAIL_FROM,to,subject,text,html:`<h2>${escape(subject)}</h2><p><a href="${escape(link)}">${escape(titles[e.email_action_type])}</a></p><p>一次性驗證碼：</p><p style="font-size:28px;letter-spacing:4px">${escape(token)}</p><p>若不是你提出的要求，請忽略此信。</p>`};
   });

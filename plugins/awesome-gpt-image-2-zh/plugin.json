@@ -2,12 +2,12 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "awesome-gpt-image-2-zh",
   "version": "1.0.0",
-  "description": "以台灣繁體中文提供 GPT-Image2 視覺風格、提示詞範本與案例索引。",
+  "description": "以台灣繁體中文提供 GPT Image 視覺風格、提示詞範本與案例索引。",
   "author": {
     "name": "Phil",
     "url": "https://philforge.com/"
   },
-  "homepage": "https://gpt-image2.zero2codex.dev/",
+  "homepage": "https://gpt-image.zero2codex.dev/",
   "repository": "https://github.com/irons163/awesome-gpt-image-2-zh",
   "license": "MIT",
   "keywords": [

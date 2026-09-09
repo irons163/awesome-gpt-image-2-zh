@@ -3,7 +3,7 @@
 沿用 tcf-canada-web 的 Supabase OAuth 模式，但使用本圖庫專用的 Supabase 專案與 Google OAuth 應用程式。不複製 TCF 金鑰、資料表或使用者資料。
 
 1. 建立獨立 Supabase 專案，啟用 Google provider。Google OAuth callback 使用新專案 Authentication 設定顯示的 `/auth/v1/callback`。
-2. Supabase Site URL 設為 `https://gpt-image2.zero2codex.dev`；允許 redirect URL `https://gpt-image2.zero2codex.dev/?submission=login` 及 `https://gpt-image2.zero2codex.dev/?submission=login#submit`。
+2. Supabase Site URL 設為 `https://gpt-image.zero2codex.dev`；允許 redirect URL `https://gpt-image.zero2codex.dev/?submission=login` 及 `https://gpt-image.zero2codex.dev/?submission=login#submit`。遷移期間可暫時保留舊網址的 redirect URL。
 3. 在新專案執行 `supabase/submission-quota.sql`。額度資料不開放 anon 或 authenticated 讀寫，只允許後端透過 service_role 呼叫函式。
 4. 在 Hetzner `/etc/gpt-image2/gpt-image2.env` 設定：
 
@@ -31,15 +31,15 @@
 1. Supabase Authentication 的 Email provider 保持啟用，Confirm email 開啟。
 2. 設定正式 SMTP 寄信服務（預設寄信服務不適合一般訪客）。若採 TCF 的 ForwardHello Send Email Hook，須另設圖庫專用的 Hook 與寄件身分，不能直接指向 TCF 的端點。
 3. 將 `supabase/email-templates/` 三份範本分別貼至 Magic link、Confirm sign up、Reset password；登入與確認信都包含連結及 `{{ .Token }}`。
-4. 允許返回 `https://gpt-image2.zero2codex.dev/?submission=login#submit`，保留既有 Google redirect。
+4. 允許返回 `https://gpt-image.zero2codex.dev/?submission=login#submit`，保留既有 Google redirect。
 5. 實測一般訪客信箱可收到信後，在伺服器設定 `SUBMISSION_EMAIL_AUTH_ENABLED=true` 並重啟服務。預設不顯示 Email 入口，避免寄信未設定就讓訪客嘗試。
 
 密碼直接透過 Supabase SDK 送至此專案 Auth，不會寫入圖庫伺服器日誌。登入狀態沿用 PKCE、持久保存與自動更新 token；重設密碼透過 PASSWORD_RECOVERY 事件開啟專用表單。寄信重送介面倒數 60 秒，實際驗證及頻率限制由 Supabase Auth 執行。從郵件以不同瀏覽器開啟 PKCE 連結可能無法完成，請回原瀏覽器使用驗證碼。
 
 ### ForwardHello Send Email Hook
 
-圖庫專用端點：`https://gpt-image2.zero2codex.dev/api/auth/send-email`。
-伺服器須設定 `FORWARD_API_KEY`、`AUTH_EMAIL_FROM=GPT-Image2 圖庫 <noreply@auth.zero2codex.dev>` 與圖庫獨立的 `SUPABASE_SEND_EMAIL_HOOK_SECRET`。請勿將秘密放進 Git 或前端。
+圖庫專用端點：`https://gpt-image.zero2codex.dev/api/auth/send-email`。
+伺服器須設定 `FORWARD_API_KEY`、`AUTH_EMAIL_FROM=GPT Image 圖庫 <noreply@auth.zero2codex.dev>` 與圖庫獨立的 `SUPABASE_SEND_EMAIL_HOOK_SECRET`。請勿將秘密放進 Git 或前端。
 
 端點驗證 Standard Webhooks 簽章及時間戳，將工作以 0600 權限保存於 `AUTH_MAIL_QUEUE_DIR`（預設 `/var/lib/gpt-image2/auth-mail`，須可由服務帳號寫入）後才回應成功。正式服務每 15 秒重試待寄信件；使用固定冪等鍵，成功後只保留無驗證碼的收據，一小時後清除。系統不記錄收件人或驗證碼至日誌。
 

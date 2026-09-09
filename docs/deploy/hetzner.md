@@ -4,8 +4,10 @@ This guide runs the site on the existing Hetzner VPS at `178.105.194.250` and
 keeps the existing site in `/var/www/zero2codex` untouched. The example site
 path for this repository is `/var/www/gpt-image2`.
 
-The public hostname is `gpt-image2.zero2codex.dev`. Cloudflare publishes the
-hostname with an A record named `gpt-image2` pointing to `178.105.194.250`.
+The public hostname is `gpt-image.zero2codex.dev`. The previous
+`gpt-image2.zero2codex.dev` hostname remains as a redirect so existing links
+continue to work. Cloudflare publishes both hostnames with A records pointing
+to `178.105.194.250`.
 This VPS already runs Caddy in Docker Compose from `/opt/caddy`. Caddy
 terminates HTTPS, serves the Vite build from a read-only bind mount, and
 forwards `/api` requests to the Node API through the host Docker bridge at
@@ -43,6 +45,7 @@ In the `zero2codex.dev` Cloudflare zone, create or update only this record:
 
 | Type | Name | Value | TTL |
 | --- | --- | --- | --- |
+| A | `gpt-image` | `178.105.194.250` | Auto |
 | A | `gpt-image2` | `178.105.194.250` | Auto |
 
 Leave the apex record and any records used by the existing root site as they
@@ -128,7 +131,7 @@ file. Add the server-side Supabase, image API, Stripe, Alipay, Watcha and GA4
 variables only when those features are enabled:
 
 ```dotenv
-APP_URL=https://gpt-image2.zero2codex.dev
+APP_URL=https://gpt-image.zero2codex.dev
 HOST=172.17.0.1
 PORT=4174
 NODE_ENV=production
@@ -223,15 +226,16 @@ sudo docker exec caddy-caddy-1 caddy validate \
 sudo docker compose -f /opt/caddy/compose.yaml up -d caddy
 ```
 
-The site block obtains and renews the certificate for
-`gpt-image2.zero2codex.dev` automatically. Once DNS resolves and ports 80/443
-reach the VPS, verify the public routes:
+The site blocks obtain and renew certificates for both hostnames
+automatically. The old hostname redirects to the new canonical hostname.
+Once DNS resolves and ports 80/443 reach the VPS, verify the public routes:
 
 ```bash
-curl --fail --head https://gpt-image2.zero2codex.dev/
-curl --fail --head https://gpt-image2.zero2codex.dev/community
-curl --fail --head https://gpt-image2.zero2codex.dev/community/result
-curl --fail --include https://gpt-image2.zero2codex.dev/api/community/config
+curl --fail --head https://gpt-image.zero2codex.dev/
+curl --fail --head https://gpt-image.zero2codex.dev/community
+curl --fail --head https://gpt-image.zero2codex.dev/community/result
+curl --fail --include https://gpt-image.zero2codex.dev/api/community/config
+curl --fail --head --location https://gpt-image2.zero2codex.dev/
 ```
 
 The two community URLs must return the SPA entry point through the Caddy
@@ -244,12 +248,13 @@ large requests.
 
 After HTTPS works, update external providers to use the public hostname:
 
-- add `https://gpt-image2.zero2codex.dev` to the Supabase Auth redirect URLs;
+- add `https://gpt-image.zero2codex.dev` to the Supabase Auth redirect URLs;
 - set the Stripe webhook endpoint to
-  `https://gpt-image2.zero2codex.dev/api/billing/webhook` when Stripe is
+  `https://gpt-image.zero2codex.dev/api/billing/webhook` when Stripe is
   enabled; and
-- set the Alipay notification endpoint to the matching HTTPS `/api/.../notify`
-  route when Alipay is enabled.
+- set the Alipay notification endpoint to
+  `https://gpt-image.zero2codex.dev/api/billing/alipay/notify` (and the
+  community endpoint when enabled).
 
 Keep webhook routes on the `/api/` path so Caddy applies the raw request
 forwarding, body limit and no-cache policy.

@@ -16,7 +16,7 @@ const field = (heading, next) => {
     return l.slice(4);
   }).join('\n');
 };
-const image = issue.body.match(/!\[\]\((https:\/\/gpt-image2\.zero2codex\.dev\/api\/submission-image\?id=([a-f0-9-]{36}\.(?:png|jpg)))\)/);
+const image = issue.body.match(/!\[\]\((https:\/\/(?:gpt-image|gpt-image2)\.zero2codex\.dev\/api\/submission-image\?id=([a-f0-9-]{36}\.(?:png|jpg)))\)/);
 if (!image) throw new Error('Invalid image URL');
 const response = await fetch(image[1], {redirect:'error', signal:AbortSignal.timeout(20000)});
 if (!response.ok) throw new Error('Image unavailable');

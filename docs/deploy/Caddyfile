@@ -1,4 +1,8 @@
 gpt-image2.zero2codex.dev {
+	redir https://gpt-image.zero2codex.dev{uri} permanent
+}
+
+gpt-image.zero2codex.dev {
 	encode gzip zstd
 
 	header {

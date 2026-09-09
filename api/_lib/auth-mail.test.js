@@ -16,7 +16,7 @@ test('signed auth mail is durable, idempotent and strips secrets after delivery'
   const messages=buildAuthMail(payload);
   assert.match(messages[0].html,/123456/);assert.ok(!messages[0].html.includes('evil.example'));
   const verifyUrl=new URL(messages[0].text.split('\n')[2]);
-  assert.equal(verifyUrl.searchParams.get('redirect_to'),'https://gpt-image2.zero2codex.dev/?submission=login');
+  assert.equal(verifyUrl.searchParams.get('redirect_to'),'https://gpt-image.zero2codex.dev/?submission=login');
   await Promise.all([enqueueMail('same',messages),enqueueMail('same',messages)]);
   assert.equal((await readdir(dir)).length,1);
   let sent=0;globalThis.fetch=async(url,options)=>{sent++;assert.equal(url,'https://app.forwardhello.com/api/v1/emails');assert.match(options.headers['Idempotency-Key'],/^gallery-auth-/);return new Response('{}',{status:202});};

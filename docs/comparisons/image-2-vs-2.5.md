@@ -3,7 +3,7 @@
 首批選定 15 個案例，保留既有圖片，不覆蓋、不將既有案例重新標為 2.5。
 已完成 11 張 Codex 內建產圖實測，另 4 個案例（538、519、535、437）缺少原始參考照片，尚未產生。精確模型版本未由工具回傳，不標示為已核實 Sunburst。
 
-[開啟並排比較頁](https://gpt-image2.zero2codex.dev/comparisons/codex-2026-09-09/index.html)
+[開啟並排比較頁](https://gpt-image.zero2codex.dev/comparisons/codex-2026-09-09/index.html)
 
 ## 比較方法
 

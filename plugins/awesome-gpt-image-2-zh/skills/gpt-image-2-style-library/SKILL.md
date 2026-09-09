@@ -1,9 +1,9 @@
 ---
 name: gpt-image-2-style-library
-description: 使用 awesome-gpt-image-2-zh 的風格庫，為 GPT-Image2 選擇視覺風格與提示詞範本。適用於建立、改寫、分類或改善圖片生成提示詞，並參考範本、分類、風格標籤、情境標籤、常見問題與案例。
+description: 使用 awesome-gpt-image-2-zh 的風格庫，為 GPT Image 選擇視覺風格與提示詞範本。適用於建立、改寫、分類或改善圖片生成提示詞，並參考範本、分類、風格標籤、情境標籤、常見問題與案例。
 ---
 
-# GPT-Image2 風格庫（台灣繁體中文）
+# GPT Image 風格庫（台灣繁體中文）
 
 根據使用者的圖片創作需求，運用本專案的風格庫產生可直接使用的提示詞。
 

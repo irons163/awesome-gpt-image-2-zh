@@ -1,4 +1,4 @@
-# GPT-Image2 風格庫參考（台灣繁體中文）
+# GPT Image 風格庫參考（台灣繁體中文）
 
 由 `data/style-library.json` 產生，提供提示詞範本、視覺風格、分類與情境標籤索引。中文欄位使用台灣繁體中文。
 
@@ -8,7 +8,7 @@
 - Match visual words to style tags next, such as realistic, 3D, illustration, classical, brand, poster, or UI.
 - Match context words to scene tags next, such as commerce, education, social, food, travel, story, history, tech, or creative.
 - If a request is vague, offer 2-3 strong template directions and ask the user to choose before writing the final prompt.
-- Final output should include the selected template name, a copyable GPT-Image2 prompt, and concise constraints for text, aspect ratio, layout, and negative details.
+- Final output should include the selected template name, a copyable GPT Image prompt, and concise constraints for text, aspect ratio, layout, and negative details.
 
 ## 範本索引
 

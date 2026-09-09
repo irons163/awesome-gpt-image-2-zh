@@ -53,8 +53,8 @@ const watchaLogoUrl =
 
 const copy = {
   en: {
-    loading: 'Loading GPT-Image2 cases...',
-    brand: 'GPT-Image2 Gallery',
+    loading: 'Loading GPT Image cases...',
+    brand: 'GPT Image Gallery',
     navCases: 'Cases',
     navSkill: 'Plugin',
     navTemplates: 'Templates',
@@ -63,11 +63,11 @@ const copy = {
     navCodexLearning: 'Learn Codex',
     navMembership: 'Membership',
     navUpstream: 'GitHub',
-    latestCases: 'Latest GPT-Image2 cases',
-    eyebrow: 'Live GPT-Image2 prompt gallery',
+    latestCases: 'Latest GPT Image cases',
+    eyebrow: 'Live GPT Image prompt gallery',
     title: 'From viral images to reusable prompts.',
     subtitle:
-      'A visual workspace for GPT-Image2 creation: browse real cases, copy prompts, explore industrial templates, and join the creator community.',
+      'A visual workspace for GPT Image creation: browse real cases, copy prompts, explore industrial templates, and join the creator community.',
     explore: 'Explore cases',
     githubProject: 'GitHub project',
     cases: 'cases',
@@ -78,11 +78,11 @@ const copy = {
     templateEyebrow: '20+ industrial prompt templates',
     templateTitle: 'Start from a proven template, then remix the case library.',
     templateSubtitle:
-      'Each template is distilled from real GPT-Image2 examples and includes structure, constraints, and pitfalls for production use.',
+      'Each template is distilled from real GPT Image examples and includes structure, constraints, and pitfalls for production use.',
     templateKind: 'Prompt Template',
     openTemplate: 'View Template',
     skillEyebrow: 'Agent Plugin 1.0',
-    skillTitle: 'Use the Taiwan-localized GPT-Image2 library as a portable Agent Plugin.',
+    skillTitle: 'Use the Taiwan-localized GPT Image library as a portable Agent Plugin.',
     skillSubtitle:
       'Built with the open Agent Plugins standard, this package bundles the style workflow and shared template library for compatible AI agents.',
     skillCommandLabel: 'Install from GitHub in Codex',
@@ -92,7 +92,7 @@ const copy = {
     skillOpenDocs: 'View Agent Plugin source',
     skillOpenStandard: 'Agent Plugins standard',
     skillCopied: 'Command copied',
-    skillExampleAlt: 'Taiwan round-island railway travel map generated with the GPT-Image2 style library skill',
+    skillExampleAlt: 'Taiwan round-island railway travel map generated with the GPT Image style library skill',
     skillExampleCaption: 'Example: create a Taiwan round-island railway travel map with gpt-image-2-style-library.',
     skillStats: ['Agent Plugins 1.0', 'Portable package', '20+ templates'],
     search: 'Search cases, sources, prompts...',
@@ -162,7 +162,7 @@ const copy = {
     account: 'Account',
     accountSettings: 'Account settings',
     accountTitle: 'Account settings',
-    accountSubtitle: 'Manage your public display name, membership status, and GPT-Image2 credit usage.',
+    accountSubtitle: 'Manage your public display name, membership status, and GPT Image credit usage.',
     displayName: 'Display name',
     saveProfile: 'Save profile',
     profileSaved: 'Profile saved.',
@@ -190,7 +190,7 @@ const copy = {
     monthlyCredits: (count) => `${count} credits / month`,
     packCredits: (count) => `${count} credits`,
     billingTitle: 'Membership & credits',
-    billingSubtitle: 'Members get monthly credits. Credit packs can be added anytime for more GPT-Image2 tests.',
+    billingSubtitle: 'Members get monthly credits. Credit packs can be added anytime for more GPT Image tests.',
     balanceTitle: 'Current balance',
     transactionHistory: 'Credit history',
     noTransactions: 'No credit history yet.',
@@ -275,8 +275,8 @@ const copy = {
     openOnGithub: 'View case on GitHub'
   },
   zh: {
-    loading: '正在載入 GPT-Image2 案例…',
-    brand: 'GPT-Image2 圖庫',
+    loading: '正在載入 GPT Image 案例…',
+    brand: 'GPT Image 圖庫',
     navCases: '案例',
     navSkill: '外掛',
     navTemplates: '範本',
@@ -285,11 +285,11 @@ const copy = {
     navCodexLearning: '從零開始學習 Codex',
     navMembership: '會員',
     navUpstream: 'GitHub',
-    latestCases: '最新 GPT-Image2 案例',
-    eyebrow: '持續更新的 GPT-Image2 提示詞圖庫',
+    latestCases: '最新 GPT Image 案例',
+    eyebrow: '持續更新的 GPT Image 提示詞圖庫',
     title: '從熱門影像，到可重複使用的提示詞。',
     subtitle:
-      '專為 GPT-Image2 創作打造的視覺化工作區：瀏覽真實案例、複製提示詞、查看產業級範本，並加入創作者社群。',
+      '專為 GPT Image 創作打造的視覺化工作區：瀏覽真實案例、複製提示詞、查看產業級範本，並加入創作者社群。',
     explore: '瀏覽案例',
     githubProject: 'GitHub 專案',
     cases: '則案例',
@@ -300,11 +300,11 @@ const copy = {
     templateEyebrow: '20+ 個產業級提示詞範本',
     templateTitle: '從成熟範本開始，再結合案例庫進一步調整。',
     templateSubtitle:
-      '每個範本均由真實 GPT-Image2 案例萃取，包含結構、限制與常見陷阱，適合直接納入工作流程。',
+      '每個範本均由真實 GPT Image 案例萃取，包含結構、限制與常見陷阱，適合直接納入工作流程。',
     templateKind: '提示詞範本',
     openTemplate: '查看範本',
     skillEyebrow: 'Agent Plugin 1.0',
-    skillTitle: '用可攜式 Agent Plugin 安裝台灣繁中 GPT-Image2 風格庫。',
+    skillTitle: '用可攜式 Agent Plugin 安裝台灣繁中 GPT Image 風格庫。',
     skillSubtitle:
       '採用開放的 Agent Plugins 標準，將風格工作流程與共用範本庫包成一份外掛，可供相容的 AI 代理程式載入。',
     skillCommandLabel: '從 GitHub 安裝到 Codex',
@@ -314,7 +314,7 @@ const copy = {
     skillOpenDocs: '查看 Agent Plugin 原始碼',
     skillOpenStandard: 'Agent Plugins 標準',
     skillCopied: '命令已複製',
-    skillExampleAlt: '由 GPT-Image2 風格庫技能產生的台灣環島鐵道旅行圖',
+    skillExampleAlt: '由 GPT Image 風格庫技能產生的台灣環島鐵道旅行圖',
     skillExampleCaption: '範例：透過 gpt-image-2-style-library 建立「台灣環島鐵道旅行圖」。',
     skillStats: ['Agent Plugins 1.0', '可攜式套件', '20+ 個範本'],
     search: '搜尋案例、來源、提示詞…',
@@ -384,7 +384,7 @@ const copy = {
     account: '帳號',
     accountSettings: '帳號設定',
     accountTitle: '帳號設定',
-    accountSubtitle: '管理你的公開顯示名稱、會員狀態與 GPT-Image2 點數使用情形。',
+    accountSubtitle: '管理你的公開顯示名稱、會員狀態與 GPT Image 點數使用情形。',
     displayName: '顯示名稱',
     saveProfile: '儲存資料',
     profileSaved: '資料已儲存。',
@@ -412,7 +412,7 @@ const copy = {
     monthlyCredits: (count) => `每月 ${count} 點數`,
     packCredits: (count) => `${count} 點數`,
     billingTitle: '會員與點數',
-    billingSubtitle: '會員每月可獲得點數，也能隨時購買點數包，測試更多 GPT-Image2 案例。',
+    billingSubtitle: '會員每月可獲得點數，也能隨時購買點數包，測試更多 GPT Image 案例。',
     balanceTitle: '目前餘額',
     transactionHistory: '點數紀錄',
     noTransactions: '尚無點數紀錄。',
@@ -3016,8 +3016,8 @@ function App() {
     localStorage.setItem('language', language);
     document.documentElement.lang = language === 'zh' ? 'zh-TW' : 'en';
     document.title = language === 'zh'
-      ? 'GPT-Image2 提示詞圖庫｜繁體中文（台灣）'
-      : 'GPT-Image2 Prompt Gallery';
+      ? 'GPT Image 提示詞圖庫｜繁體中文（台灣）'
+      : 'GPT Image Prompt Gallery';
   }, [language]);
 
   useEffect(() => {

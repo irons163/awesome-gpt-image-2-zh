@@ -1,7 +1,7 @@
 {
   "name": "awesome-gpt-image-2-zh",
   "interface": {
-    "displayName": "Awesome GPT-Image-2 繁中外掛"
+    "displayName": "Awesome GPT Image 繁中外掛"
   },
   "plugins": [
     {

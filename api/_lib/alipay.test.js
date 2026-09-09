@@ -125,11 +125,11 @@ test('omits local notify URLs and requires HTTPS for explicit callbacks', () => 
   try {
     assert.equal(getAlipayNotifyUrl('http://127.0.0.1:3000'), '');
     assert.equal(
-      getAlipayNotifyUrl('https://gpt-image2.zero2codex.dev'),
-      'https://gpt-image2.zero2codex.dev/api/billing/alipay/notify'
+      getAlipayNotifyUrl('https://gpt-image.zero2codex.dev'),
+      'https://gpt-image.zero2codex.dev/api/billing/alipay/notify'
     );
     process.env.ALIPAY_NOTIFY_URL = 'http://127.0.0.1:3000/notify';
-    assert.throws(() => getAlipayNotifyUrl('https://gpt-image2.zero2codex.dev'), /INVALID_NOTIFY_URL/);
+    assert.throws(() => getAlipayNotifyUrl('https://gpt-image.zero2codex.dev'), /INVALID_NOTIFY_URL/);
   } finally {
     if (previousUrl === undefined) delete process.env.ALIPAY_NOTIFY_URL;
     else process.env.ALIPAY_NOTIFY_URL = previousUrl;
@@ -144,12 +144,12 @@ test('uses a separate HTTPS callback for paid-community orders', () => {
   try {
     assert.equal(getCommunityAlipayNotifyUrl('http://localhost:5173'), '');
     assert.equal(
-      getCommunityAlipayNotifyUrl('https://gpt-image2.zero2codex.dev'),
-      'https://gpt-image2.zero2codex.dev/api/community/alipay/notify'
+      getCommunityAlipayNotifyUrl('https://gpt-image.zero2codex.dev'),
+      'https://gpt-image.zero2codex.dev/api/community/alipay/notify'
     );
     process.env.COMMUNITY_ALIPAY_NOTIFY_URL = 'http://localhost:5173/notify';
     assert.throws(
-      () => getCommunityAlipayNotifyUrl('https://gpt-image2.zero2codex.dev'),
+      () => getCommunityAlipayNotifyUrl('https://gpt-image.zero2codex.dev'),
       /INVALID_COMMUNITY_NOTIFY_URL/
     );
   } finally {

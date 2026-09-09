@@ -26,7 +26,7 @@ const TERMS_VERSION = '2026-07-22';
 
 const communityCopy = {
   zh: {
-    brand: 'GPT-Image2 付費交流社群',
+    brand: 'GPT Image 付費交流社群',
     back: '返回案例圖庫',
     admin: '管理後台',
     signIn: '登入',
@@ -36,7 +36,7 @@ const communityCopy = {
     subtitle: '透過支付寶一次性付款 ¥9.90。資格綁定目前登入的帳號，換裝置登入後仍可再次查看入群 QR Code。',
     priceSuffix: '一次',
     benefitsTitle: '社群主要交流什麼',
-    benefits: ['GPT-Image2 提示詞與案例拆解', '影像生成工具、模型表現與實用工作流程', '創作者之間的實作問題與經驗交流'],
+    benefits: ['GPT Image 提示詞與案例拆解', '影像生成工具、模型表現與實用工作流程', '創作者之間的實作問題與經驗交流'],
     audienceTitle: '適合這些人',
     audience: ['正在使用 AI 創作影像或內容', '希望將零散提示詞整理成穩定流程', '願意分享真實嘗試，也尊重其他成員'],
     boundaryTitle: '服務範圍',
@@ -73,14 +73,14 @@ const communityCopy = {
     resultEyebrow: '支付寶付款結果',
     resultTitle: '伺服器正在確認這筆訂單。',
     resultText: '本頁不會以網址參數判定付款成功，只會顯示伺服器查詢或驗簽通知確認後的狀態。',
-    qrAlt: 'GPT-Image2 付費交流社群 QR Code',
+    qrAlt: 'GPT Image 付費交流社群 QR Code',
     noOrder: '目前帳號沒有可查詢的付費社群訂單。',
     statusLabels: {
       PENDING: '待付款', PAID: '已付款', CLOSED: '已關閉', REFUNDED: '已退款', REVOKED: '已撤銷'
     }
   },
   en: {
-    brand: 'GPT-Image2 Paid Community',
+    brand: 'GPT Image Paid Community',
     back: 'Back to gallery',
     admin: 'Admin',
     signIn: 'Sign in',
@@ -90,7 +90,7 @@ const communityCopy = {
     subtitle: 'A one-time Alipay payment of ¥9.90. Access is tied to your account and can be restored on another device.',
     priceSuffix: 'one time',
     benefitsTitle: 'What the group covers',
-    benefits: ['GPT-Image2 prompt and case breakdowns', 'Image tools, model behavior, and practical workflows', 'Peer discussion grounded in real attempts'],
+    benefits: ['GPT Image prompt and case breakdowns', 'Image tools, model behavior, and practical workflows', 'Peer discussion grounded in real attempts'],
     audienceTitle: 'A good fit for',
     audience: ['People using AI for images or content production', 'People turning scattered prompts into stable workflows', 'People willing to share and respect the community'],
     boundaryTitle: 'Service boundaries',
@@ -127,7 +127,7 @@ const communityCopy = {
     resultEyebrow: 'Alipay result',
     resultTitle: 'The server is confirming this order.',
     resultText: 'URL parameters are never treated as proof of payment. This page only shows server-verified status.',
-    qrAlt: 'GPT-Image2 paid community QR code',
+    qrAlt: 'GPT Image paid community QR code',
     noOrder: 'This account has no paid-community order to query.',
     statusLabels: {
       PENDING: 'Pending', PAID: 'Paid', CLOSED: 'Closed', REFUNDED: 'Refunded', REVOKED: 'Revoked'
@@ -193,8 +193,8 @@ export function CommunityPage({
   useEffect(() => {
     const previousTitle = document.title;
     document.title = language === 'zh'
-      ? 'GPT-Image2 付費交流社群'
-      : 'GPT-Image2 Paid Community';
+      ? 'GPT Image 付費交流社群'
+      : 'GPT Image Paid Community';
     return () => { document.title = previousTitle; };
   }, [language]);
 
