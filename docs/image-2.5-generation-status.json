@@ -1,9 +1,121 @@
 {
   "target": 541,
   "cases": {
+    "363": {
+      "status": "missing-reference",
+      "note": "需要原始菜單、人像或標誌圖。"
+    },
+    "364": {
+      "status": "missing-reference",
+      "note": "需要原始菜單、人像或標誌圖。"
+    },
+    "368": {
+      "status": "missing-reference",
+      "note": "需要原始菜單、人像或標誌圖。"
+    },
+    "371": {
+      "status": "missing-reference",
+      "note": "需要原始人像、標誌或參考圖。"
+    },
+    "372": {
+      "status": "missing-reference",
+      "note": "需要原始人像、標誌或參考圖。"
+    },
+    "374": {
+      "status": "missing-reference",
+      "note": "需要原始人像、標誌或參考圖。"
+    },
+    "377": {
+      "status": "missing-reference",
+      "note": "需要原始人像、標誌或參考圖。"
+    },
+    "378": {
+      "status": "missing-reference",
+      "note": "需要原始人像、標誌或參考圖。"
+    },
+    "379": {
+      "status": "missing-reference",
+      "note": "需要原始人像、標誌或參考圖。"
+    },
+    "381": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品照片或參考圖。"
+    },
+    "382": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品照片或參考圖。"
+    },
+    "384": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品照片或參考圖。"
+    },
+    "386": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品照片或參考圖。"
+    },
+    "387": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品照片或參考圖。"
+    },
+    "389": {
+      "status": "missing-reference",
+      "note": "需要原始人像、產品照片或參考圖。"
+    },
+    "398": {
+      "status": "missing-reference",
+      "note": "需要原始人像以維持臉部一致。"
+    },
+    "404": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片。"
+    },
+    "405": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片。"
+    },
+    "409": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片。"
+    },
+    "410": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片。"
+    },
+    "412": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片或風格參考圖。"
+    },
+    "413": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片或風格參考圖。"
+    },
+    "416": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片或風格參考圖。"
+    },
+    "420": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片或風格參考圖。"
+    },
+    "421": {
+      "status": "missing-reference",
+      "note": "需要原始輸入人像照片。"
+    },
+    "427": {
+      "status": "missing-reference",
+      "note": "需要原始輸入人像照片。"
+    },
+    "437": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片。"
+    },
     "445": {
       "status": "missing-reference",
       "note": "需要原始旅行照片。"
+    },
+    "451": {
+      "status": "generation-rejected",
+      "note": "產圖服務拒絕輸出（sexual）。"
     },
     "452": {
       "status": "missing-reference",
@@ -132,6 +244,14 @@
     "533": {
       "status": "missing-reference",
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
+    },
+    "535": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片。"
+    },
+    "538": {
+      "status": "missing-reference",
+      "note": "需要原始輸入照片。"
     }
   }
 }
