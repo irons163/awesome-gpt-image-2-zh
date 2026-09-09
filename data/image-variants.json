@@ -1,5 +1,872 @@
 {
   "cases": {
+    "244": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-244.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "011dfe9805deace9ebc99c047de4bc10b5a88355ff784943d038997020e8941b",
+        "outputSha256": "b2c1f382e58dd7ed04338e51d950e18387515593bbe9d7931a4106446beda295",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-244-thumb.jpg",
+        "thumbnailSha256": "1caf0fe2affd73a5579f9a5dda04cd1cf7a0db10ae7857baa4225f4984b88163"
+      }
+    ],
+    "245": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-245.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "7b3a945680b15275e34b61e413aeb40b3042a1a8a5087bfe590ca4dfa93b7f5d",
+        "outputSha256": "45b429177ac0cbf010de2c7c55bd548a3ae54cd4d53ef142abd7c10a8f8b75fa",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-245-thumb.jpg",
+        "thumbnailSha256": "2656304af734c54917e53f14d132f076c0e7bb0252beaa47c4a6a492ee6c2ece"
+      }
+    ],
+    "246": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-246.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "2a297e5eb2f6d0657842f106bff8f5ca01d9598b41ff51d59a3c98aecc71cff9",
+        "outputSha256": "20195d84ab02b40841a8e2ba1ccc7b1b6e7f5c8b7abe36eaa2034d3c9b1571ca",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-246-thumb.jpg",
+        "thumbnailSha256": "0b97d30b35fe5a92a4fe59af5cbdc0f58dd23e29e1eb33fcb38a0d10922c3320"
+      }
+    ],
+    "247": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-247.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "e2f106bb2c5c5c906cf0bfae33980cbf9518efb8dbabb4dac24fbf461428fa60",
+        "outputSha256": "96b973c2ceceaf053b5d8d615ac06747e3048f814309adad65d1acf42fdf7126",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-247-thumb.jpg",
+        "thumbnailSha256": "dd4db918ca664a6dd44d7800a7e0cdaf4c281c7f96907d71f897e5a2b31ff794"
+      }
+    ],
+    "248": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-248.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "a8dc09bebdad60991d5fd305e7a06a02d7a8ee7f520bf69ed0265b161874cc27",
+        "outputSha256": "557a212070019e8c7c0f5ce1f52fd0dd36a7a27ddd7f305bbe5639f250d1e11d",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-248-thumb.jpg",
+        "thumbnailSha256": "6de082402838d530aad361d235d819ba028ffacdb86f17bd13e0f8b0b61634d6"
+      }
+    ],
+    "249": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-249.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "ca8a615a9b292fa1f8d27ce4617ba62325e8180a33642ec0ec0817b66f822e28",
+        "outputSha256": "e6ab9e9bc59a3689f08c623511b9fe8587fc7d415dd14c2d5bd0abca1b59e008",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-249-thumb.jpg",
+        "thumbnailSha256": "e1711e65004307dbd07f330257d841b029834fd2177a1afe304f56c91275f9eb"
+      }
+    ],
+    "250": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-250.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "3d569c5f801f247265717b7da82ec15bc137c554e4ef60c126e3d0ec15f7f52f",
+        "outputSha256": "bacb718a4992491fc00fc3d0f774df9affbe19008cd885af335e91edd4c10604",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-250-thumb.jpg",
+        "thumbnailSha256": "5f68880c5ca875029b2563140e00b49582b46f9e9e1501935242ee82161105f0"
+      }
+    ],
+    "251": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-251.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "b7e4ae24873d5073fd7c22c955057d6b6a7fbe68fe24591da5a623d2e9e44a99",
+        "outputSha256": "4aa531236e208943b3352416237910f94acd378d782c6fa68a03d46bdbbc4332",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-251-thumb.jpg",
+        "thumbnailSha256": "552e881043a33fca5151f6e01a60a68677c161401e29db3403781b0241dc07d2"
+      }
+    ],
+    "252": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-252.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "f61e8d948787e639aafb0da685e2c42636a70613cc080a6ccab1a9fb5de204ac",
+        "outputSha256": "a86c65bd0ed3dc11444a8c7c46fe3e9e3f2f47b6ca34ef5881af27a20d51638f",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-252-thumb.jpg",
+        "thumbnailSha256": "ed1fb1c07066110382a8b82fd81aa2d258a8e86b2e0fbba4f43519e42167047d"
+      }
+    ],
+    "253": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-253.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "72b8a2ffd3006f8d91bfa1b2a2d1797b29d6319575a04b7ce9ed16db3e940806",
+        "outputSha256": "deb70b74754139f2488c74b607527ec472d54cfda2e1de74d352ea103d8a9dd4",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-253-thumb.jpg",
+        "thumbnailSha256": "8c398b1c1fbd01b9df6268ba97eee9f858d0f0cf69b3b450a0fbb5d2aac65b75"
+      }
+    ],
+    "254": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-254.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "6d14d87df4ccf6cdd2075377f15b1d72599bf965a7c6ed88a362b2c65af166bb",
+        "outputSha256": "428b84ef7a4cc558eaf0dd2f0935f8a087524d0764157134c8dff5d75f76879a",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-254-thumb.jpg",
+        "thumbnailSha256": "e90bf6d37af9219d2c3a9468861bc67ffcf539961664c934b3f6a965acc40fd0"
+      }
+    ],
+    "257": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-257.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "797fe574e0d6b3dc30f99a85f9db5bf223670d7a7ec30350830d3348adb17fc4",
+        "outputSha256": "a2f6beda0d9821f8591b43ae371caa42cfba1aae8798ab0166599874a0933ee5",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-257-thumb.jpg",
+        "thumbnailSha256": "cf2f8e64ef7f00847aa6360db1d91a023a034a00de4d84358d5e5554b12fbd0e"
+      }
+    ],
+    "258": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-258.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "388d872e9eca5fee85f10f498034614c50203b71eba35c23c5c01daae2e06afa",
+        "outputSha256": "30fb7257e0cc07f4fc77a1a62e446308e93976c1b3459b6fbda137b1c555d4e8",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-258-thumb.jpg",
+        "thumbnailSha256": "c812ac50e1c9c2ec07ecda8d6afe11d88f8ad2973c23d611d71b5442a98c0cf2"
+      }
+    ],
+    "259": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-259.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "7bb6dedf2a38b81c459c43d91745886594f81fbfa3055e5f6296d172cddb5450",
+        "outputSha256": "336941625ba305be0814bb172bbd522fb6ef3eb950f06539fcafa1e435bbd6a7",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-259-thumb.jpg",
+        "thumbnailSha256": "e2ddae87e5a89f8981dbfdf1aae7f581e693e098cb07d3fc50b3c58432aebd3a"
+      }
+    ],
+    "260": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-260.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "151ac248e8c2e576ad435ba448317d183baa38df2bb33475b0f7ff8a24d70c75",
+        "outputSha256": "33fc5d891fa6a25a261c39c6462b716776563324494226ac95a1897d108ee028",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-260-thumb.jpg",
+        "thumbnailSha256": "eefe4e9f80c6932d73337497f58c4ee69b4acc7d35a67a6db50e2db864418d17"
+      }
+    ],
+    "261": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-261.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "0930aa133b4ff310ccfabc0e8784101d35ae890826be6253f0652377cef0ee1e",
+        "outputSha256": "be54382657304cec4cc17e821dbe13e6d01daa47ff87196e5f51882d25ecbf72",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-261-thumb.jpg",
+        "thumbnailSha256": "5bbd2d797ff0a1943d9fabce358a4f8f7014c5f7fbef632c8caf542990e887c2"
+      }
+    ],
+    "262": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-262.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "db723f5882da9743294ba2561b8ea3ed5aa0d42a6f155c3d434720751fb5f130",
+        "outputSha256": "f4bef54331281f6743e4fef87f5c1652982323d31477eb71619c7831ac965fcf",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-262-thumb.jpg",
+        "thumbnailSha256": "7d2bb7b325de1fa6cea751845ca4becd80914d0b2085307af7086751834d3bd7"
+      }
+    ],
+    "264": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-264.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "3d32c0a76ba33fa914cf99dda8940f6a8c10d519d649bb8b9768848b025a9583",
+        "outputSha256": "eec2c10a71d296d66aa9db9d03325378a7793bbbb756827380c39c6cfa2fdd19",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-264-thumb.jpg",
+        "thumbnailSha256": "8f6f69cf56dd2c5c9b14f7cc50f29a603607fa3339475408be0b40d89e35d539"
+      }
+    ],
+    "265": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-265.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "fdea8f5014bf3326b28b531b160ca48743d0f772765c10ca06bd00b58ee7a793",
+        "outputSha256": "6e2d240ed3f00393be333e1d6a17a274d0b6851e58a7119636083dceea8c2729",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-265-thumb.jpg",
+        "thumbnailSha256": "d47d1043e04cc31e115481792908ed8e7be8a3076aa1e0fcab5024d1d6216528"
+      }
+    ],
+    "266": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-266.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "6aa287fac9bf1ddea4faa044a7cbd92f35b5d767782eb9d8cb8aaad74f31ce44",
+        "outputSha256": "c493a2c99e131efc3c7c43d72405dfa13345ac10eb592198a3cb5c0034e98fe0",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-266-thumb.jpg",
+        "thumbnailSha256": "5ffb1936dd57857f356927e6d603bcde8d34db2c8efb2124f634475aa050fa17"
+      }
+    ],
+    "267": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-267.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "03cb9aecbe396457bfc0400c7ca2d919364651e8d339dc428e7aec35d805c7e9",
+        "outputSha256": "09374b7ecae0d95773e2e0600e9f3bd62ac1a7f3cb596fbbddd980a3a98e5c50",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-267-thumb.jpg",
+        "thumbnailSha256": "a7241250b3af51cc63de1b430bc6fbf2fe79d4866a5d98bf6f997cdac63bf338"
+      }
+    ],
+    "268": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-268.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "aba55e7dd3f104e0fabcf73190c6cc07b0376e3bbc2b4f42b1167fc142d572e5",
+        "outputSha256": "641f40958a2dcc9dbf774345f4429dc11b6c1271b74feee85717bc8e927f5819",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-268-thumb.jpg",
+        "thumbnailSha256": "e401a23d3f784048b4fa9b8a23da163226e1db7e195534ed25ddea6dc369037a"
+      }
+    ],
+    "269": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-269.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "828a8ab1d4e3fd90d9eab2d7e2db50f684e196752c908098bc5a3de2ff972f1a",
+        "outputSha256": "df02f31000aa3424525c14a3968def342724b6564a460daebf0fc51491c967e0",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-269-thumb.jpg",
+        "thumbnailSha256": "6d54b4d45c0d94117865572f0104add341b84913825d992dce5aaf30fc18f959"
+      }
+    ],
+    "273": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-273.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "87d2db7515bf4a396ad4ed0dd114f798d4fc825c80b45abb03d43c72e5e4ac90",
+        "outputSha256": "d9db2ce24c4c8941e86d806ef5d951771cd558237a3c4717444e7b456afa4dd9",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-273-thumb.jpg",
+        "thumbnailSha256": "ad9e4ddf6f44668d8b41bb9729655a4aea0fcae32804953f2a1209a6b0d1a5b5"
+      }
+    ],
+    "274": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-274.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "77352fa00c4efc3d717c3082cb97f8b71eccf51e95aeae165c94f054d8770f13",
+        "outputSha256": "45b67ea2e2a02f0eb5edbcf774b809068b8ed3ffa3a62df383fac0fcdafae3e4",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-274-thumb.jpg",
+        "thumbnailSha256": "01646f65fb919b75322d61886b4f526a68a114a5bc70b0aa0df66b553e2d35d0"
+      }
+    ],
+    "275": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-275.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "e883b880e922025893f2749a538bc05581e940acb9e7093bf9fe8f7d06c16077",
+        "outputSha256": "cc73cf1ebb0b60f20833677c01f93af1a5fa82b3f9478198edf29a282feeb344",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-275-thumb.jpg",
+        "thumbnailSha256": "1a10aaf1ced3074a6fd07c9020b32968c67c0f7376c3cba3fd898c466767c8f1"
+      }
+    ],
+    "276": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-276.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "527adb60ef9d50377b2667ba92973f2d021d4dc62327df8abd8c881998381aec",
+        "outputSha256": "8ea5ad99f7d7629a5f4655b4490aa4c51c3125225ee15e23d70fef56914fba43",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-276-thumb.jpg",
+        "thumbnailSha256": "1f21fc3f4e218427a98e8ce00f360d268e93fa90332bf36fabc9589c179df707"
+      }
+    ],
+    "277": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-277.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "1fe5bc3c27a8803c4046a64279746def407ac4061bb2a001896f34030f605ea8",
+        "outputSha256": "77579893f9c25a09eaeef84fe4378e8a42bf946dfc769157aa5cc0e9219af1be",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-277-thumb.jpg",
+        "thumbnailSha256": "8c8f5db276751532bf9e2802cbcaf2c7ce859b4cf8cbdc6f58af8debac6dd0b2"
+      }
+    ],
+    "278": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-278.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "a450733fd1354ee75adf43ca77b659142b207abb48eccbc2338b2e16f502effe",
+        "outputSha256": "29a5aab8dcca86f11b73f57de7e4ee2ea6911b07c3865003d7c44bfb382a478f",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-278-thumb.jpg",
+        "thumbnailSha256": "1525c545215c269c9a165aa121eec35cc92feb438239f9d20d0a3a2271e271ac"
+      }
+    ],
+    "279": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-279.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "0d34f462e607c015ee28fc4a1258124172194cd40bbc05929b78a2acf338f00b",
+        "outputSha256": "9a2c17b029bfbae3cdf8ffeeae79fe4fd650ddf111fa096473b687e57b14f64b",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-279-thumb.jpg",
+        "thumbnailSha256": "18fde77d9c90375b7b4c0a4d7c53871e9593b69109c3c61499864ba321d1bc8e"
+      }
+    ],
+    "280": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-280.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "af655a617046e9d97426019b301715246a769b11a67f5578a2f8cd8e97b44e0b",
+        "outputSha256": "395bfa3a7175a9ca3278382f2b301ede15d4b6538e71d3278140a56f9fdeed8d",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-280-thumb.jpg",
+        "thumbnailSha256": "324ab7211ccbbe2d95987868753fa4b856c848cc69a6d46216ab487ce44f278c"
+      }
+    ],
+    "281": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-281.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "5ed225236b79c82c790e86ecf10a6dfe9be17e25dee373020b704e299a4f3264",
+        "outputSha256": "29e576da532fb6310dfdd1148eb9838dc29c9c4c8f8be0e11302b377756a6d02",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-281-thumb.jpg",
+        "thumbnailSha256": "c18c3cd09e3de7d09b914ad1acd59a1f1339f21bfbf32f6f5874f9ccd53e23db"
+      }
+    ],
+    "286": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-286.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "fc86cb752370f0a5c28621130367bddf3eb06478b6911942554b1c5102884d76",
+        "outputSha256": "44b564d93dd0382d9a7047aeb783028f8dcb3193ee9bc771dae033e63323247e",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-286-thumb.jpg",
+        "thumbnailSha256": "1db2776f2cf06755cec35ceb5802317f7c6ea564fa81b67c3096302541efdc0f"
+      }
+    ],
+    "287": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-287.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "0025ec8f9dbbbd89ccdbe764775f7f12a2820ee8ce1a0d6b799062ee462a8b6d",
+        "outputSha256": "47233e46b1062b1f5c3ffdf8c00080be619267c3315167bcc81bfff086d18654",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-287-thumb.jpg",
+        "thumbnailSha256": "70dfc7a637cf13a64a5e233fd6b94a23c1ad4b0533f9fca96006b95cabd1dab1"
+      }
+    ],
+    "288": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-288.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "898fbf844b0e58a1f86c6f27cf909adab1bb75130409345f3b31b19c82442cd6",
+        "outputSha256": "fb54564e2cf6869f8c89000bf3543bc9c7879dc216da631fe642e2f675b0a81a",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-288-thumb.jpg",
+        "thumbnailSha256": "8587d2c320aec5d889a409fa66f29618ccefaaf03f22fd523d8f101842034f0f"
+      }
+    ],
+    "289": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-289.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "867db658d10cd7be30efda98af12b636a9ddd6d0c2b8fee36916686210e8ed99",
+        "outputSha256": "ed48fbc70a015e6a0982a56aff6889b631a0060443206e0d82dc3e948f11f3ea",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-289-thumb.jpg",
+        "thumbnailSha256": "2043cbf289e08fb585d5c25657a168790bf1e08d646e9d13aa63f2ce388b9fce"
+      }
+    ],
+    "290": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-290.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "17d11479c4d1b0f058ae032b5009e681911537bceeeeb9c33bd73e9aec4a0263",
+        "outputSha256": "c700dabb33426f44fc65709350a4513b432893c03ad2e269ebaa0c89d9bd460b",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-290-thumb.jpg",
+        "thumbnailSha256": "af60cec98876ffe1087642ce40b63f0e30bf22f323450ab8fc710d63bf199151"
+      }
+    ],
+    "293": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-293.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "e6ef45663cfe5d12dae267f01b8f77b99027acd6e187f39021a68caf25087c14",
+        "outputSha256": "10e746faa0f039d06fdcc8fe8e90657f9da81370d34bd1c1c5139d55142b8eac",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-293-thumb.jpg",
+        "thumbnailSha256": "876ca274a3fd1052f4fd94db05edd0be980aba544aa03effc37f7ae08c49557d"
+      }
+    ],
+    "294": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-294.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "607bfb7345b0e360c89f68312a2ad17179319bb03319dd0bef2869299dfb47e4",
+        "outputSha256": "adf5c468b9e85360ac8847f4f55018a7143eaf219b0391abb607b9609eef38a6",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-294-thumb.jpg",
+        "thumbnailSha256": "8023b675d0a725096d37c5cc2279fe94ce5df6d16a0dbf5a94dff11487d8922e"
+      }
+    ],
+    "295": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-295.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "a6a9d18acf2f0f8d402ac47df84dbd8bc3a3c818702c1ac2e59404058c74bb88",
+        "outputSha256": "00f4265e076f88bffe4b04c23048d9c28f22402a7721fcd12fe164e70c0574a3",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-295-thumb.jpg",
+        "thumbnailSha256": "00bf9c59002961d5e9cd7f95af7a05dc321128536668bdd4edc5060a69f8db8e"
+      }
+    ],
+    "296": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-296.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "4e2a1017316352ef945c51c70d6573da78c6c16269e258ec7280303ce8641e70",
+        "outputSha256": "98286d9d8c0952b0379c7be6bd9d7d055244d4f31cc7bae7d1392a5c14e7c099",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-296-thumb.jpg",
+        "thumbnailSha256": "351cb8b4b453a1c983a988273e02405f3867af8d6a0aff9ea218bdbe6fa70cd8"
+      }
+    ],
+    "298": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-298.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "74966b538741fcb99113d480818460c96e8391c83cf70a9b664d9412a68739c3",
+        "outputSha256": "1b347c1e8bb24daa5ae60eaaaed37cef882db664393593dbd51934f1cdf3f60c",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-298-thumb.jpg",
+        "thumbnailSha256": "295ab0556c5b26e9da8cc7ddcf4143f6b4b2ea66f285270215646c4d970d742d"
+      }
+    ],
+    "299": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-299.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "89ae5e9b929426baf9fee1dcded0c08ebfd0b7b6c8f472a200251a0eb9aa1ae3",
+        "outputSha256": "6f11f7b9f1f0dc4af8b72f8ce2f0db01c3820bccd185d5fb33397af656add24e",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-299-thumb.jpg",
+        "thumbnailSha256": "ba46795bb418c7d9c53e079027325ccdefe7eab349f77e2848efd66cb75f7ba3"
+      }
+    ],
+    "300": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-300.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "f15714e29f4a455906da8e40fea2855918faaddd76c332081b88e62167cf70cb",
+        "outputSha256": "bbf38e2aef6d2c2bbf8f06b79f12b43129fe0b7c241050fc998d9d38a0014660",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-300-thumb.jpg",
+        "thumbnailSha256": "6b6e182afb50602df541b9c9181340aa7cfde232f221a3404e4e91ec5ca9685f"
+      }
+    ],
+    "301": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-301.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "de69b9b36ccd7b65f456c5f04f8a5f2f71a4b43fa9e71dddfe8e4f91f5ad6794",
+        "outputSha256": "6881cc3ee909fd6da516bb48bc8dfd77d33e74d7c16507db090ef5314ee9c432",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-301-thumb.jpg",
+        "thumbnailSha256": "dce3d8c14b4f6711337c84dcc8c6af9c298d9622f32cf857917904e2631c4665"
+      }
+    ],
+    "302": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-302.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "2c964c24a921660d7d55210726acb268cba9e7c30b82d83ee580aa005555ce84",
+        "outputSha256": "4a6c74ae26836d1c8fecda7a901a9f3b7d8d0de0dff86baf710c2683779df644",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-302-thumb.jpg",
+        "thumbnailSha256": "941792b0fbac884e2bdd7255e1e49a72c216418ccb4721d3c05b7506f9499cd0"
+      }
+    ],
+    "304": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-304.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "a1a753af0dd9588201786431b5be83d5ee2cbe621faafdce0ed15afa4920bde2",
+        "outputSha256": "1bc1ccc9db0ec0c3adef80832e351a87049b72ee49c4e732f04661c6089e75f8",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-304-thumb.jpg",
+        "thumbnailSha256": "89e9c9d78847bfe33865dd21be4f7200fb12072c2377e2a839c63e2314fb3f3f"
+      }
+    ],
+    "307": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-307.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "b6908cb924282278726ecdc6806b0aed00f009ab8fa71985c804cf5dd9448476",
+        "outputSha256": "ca19a016b74025f04e74164f3eb5911c24a1bc8f95c8876eaccc5835a5ef253e",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-307-thumb.jpg",
+        "thumbnailSha256": "1331ff9c502c6b56f3886c92836459a7838f0322e0785e6d4393024271058e1a"
+      }
+    ],
+    "308": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-308.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "4e9aa143ae5636ca71ade66929bfb25249156bf52d9aede385382eeffe46f393",
+        "outputSha256": "7207776538b3423d342ffe52067b15f68f0ea1b54cfecc153f38aa2c65873521",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-308-thumb.jpg",
+        "thumbnailSha256": "2b68143d4fadabd18c6c4c82a782102fad0abff59bd55c0f83bd8c7f41157173"
+      }
+    ],
+    "309": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-309.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "30a339be2e41bd9bd879bf8f09133ec5decf7a030f165a5bec36e253db125a74",
+        "outputSha256": "06f23deea4dc4c7cb0085c9d7bb01328b9f671cea460acbe8670d9e72988da38",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-309-thumb.jpg",
+        "thumbnailSha256": "f544bab9bb59c443474752ea3589191e5d2138b6f49861c5849b5c3a99342fe3"
+      }
+    ],
+    "310": [
+      {
+        "model": "gpt-image-2.5",
+        "actualModel": null,
+        "generationTool": "codex-built-in",
+        "modelBasis": "official-release-and-user-confirmation",
+        "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "image": "/images/gpt-image-2.5/case-310.png",
+        "generatedDate": "2026-09-09",
+        "promptSha256": "b0d5efe4e53ba4069962d7349ef2f66569ea35aa5a0799533e36a80a403aa507",
+        "outputSha256": "3a38ef0f9524d22f914773942f9bc325970565ff2ef1b2824302fd098b535d59",
+        "status": "published",
+        "reviewNotes": "",
+        "thumbnailImage": "/images/gpt-image-2.5/case-310-thumb.jpg",
+        "thumbnailSha256": "8afe17fa5af55e11c566fc31565c03e844c0aaf8adcb95e12637974a9e214c2d"
+      }
+    ],
     "311": [
       {
         "model": "gpt-image-2.5",

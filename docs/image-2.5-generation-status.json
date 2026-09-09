@@ -1,13 +1,65 @@
 {
   "target": 541,
   "cases": {
+    "226": {
+      "status": "missing-reference",
+      "note": "需要原始上傳圖片。"
+    },
+    "228": {
+      "status": "missing-reference",
+      "note": "需要原始上傳圖片。"
+    },
+    "237": {
+      "status": "needs-source-research",
+      "note": "提示詞要求先研究2025年飲料廣告設計。"
+    },
+    "240": {
+      "status": "needs-prompt-revision",
+      "note": "原提示詞以性挑逗、臀部和誘惑姿態為重點，需改為一般運動攝影。"
+    },
+    "255": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "256": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "263": {
+      "status": "missing-reference",
+      "note": "需要原始角色插畫與立繪。"
+    },
+    "270": {
+      "status": "missing-reference",
+      "note": "需要原始角色及背景參考。"
+    },
+    "271": {
+      "status": "missing-reference",
+      "note": "需要原始角色及背景參考。"
+    },
+    "272": {
+      "status": "needs-prompt-revision",
+      "note": "原提示詞以性挑逗及誘惑姿態為重點，需改為一般時尚攝影。"
+    },
+    "282": {
+      "status": "generation-rejected",
+      "note": "產圖服務檢查拒絕：output: sexual。"
+    },
     "283": {
       "status": "missing-reference",
       "note": "需要原始圖片或角色參考。"
     },
+    "284": {
+      "status": "generation-rejected",
+      "note": "產圖服務檢查拒絕：input: other。"
+    },
     "285": {
       "status": "missing-reference",
       "note": "需要原始圖片或角色參考。"
+    },
+    "291": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
     },
     "292": {
       "status": "needs-source-research",
