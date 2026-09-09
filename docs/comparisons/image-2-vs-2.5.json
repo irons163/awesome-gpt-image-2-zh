@@ -1,6 +1,6 @@
 {
-  "status": "prepared-not-generated",
-  "note": "Target model is a display name, not a verified API model ID. Verify runtime model and source reference images before generating.",
+  "status": "partial-generated",
+  "note": "2026/9/9 Codex built-in image generation. Exact model variant is not returned. Historical baseline settings are unknown; this is a visual comparison, not a controlled benchmark.",
   "cases": [
     {
       "caseId": 544,
@@ -10,11 +10,15 @@
       "baselineImage": "/images/case544.jpg",
       "promptZh": "受簡單的視覺學習卡的啟發，為學齡前/幼兒園兒童製作一張乾淨、適合兒童的教育詞彙海報。\n\n將 [FRUIT] 作為左側的主要大型現實物件，並在右側顯示相同水果的 [PART / SLICE / SEGMENT]。用一個俏皮的虛線彎曲箭頭和一個指向較小部分的簡單的小簡筆畫孩子將兩者連線起來。\n\n在頂部新增粗體大寫字母“[FRUIT NAME]”，在較小影像下方新增粗體大寫字母“[PART NAME]”。使用柔和的白色和非常淺的淡藍色背景、圓形影像面板、乾淨的間距、逼真的水果攝影、簡單的藍色版式和最小的有趣插圖。\n\n整體設計應該給人明亮、有教育意義、現代、整潔、易於幼兒理解的感覺，就像一張優質的學前詞彙學習卡。垂直4:5構圖，解析度高，光線柔和，標籤清晰，無多餘裝飾。",
       "promptSha256": "d0e8e0d55e1400cb502ce6f97963a5b70e9424cefa25928d4d014f65e2ea0266",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-544.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "16d29f5908cc7929e74c9c6a1c34374547721570eecf8a29e14615cd9ce11510",
+      "reviewNotes": "模型自行將變數解讀為 APPLE / SLICE，未額外填入提示詞參數。"
     },
     {
       "caseId": 494,
@@ -24,11 +28,15 @@
       "baselineImage": "/images/case494.jpg",
       "promptZh": "建立一個優質方形“參考式永續交通資訊圖表”，以名為 {E_BUS_NAME} 的未來電動城市公車為中心，設計為精心策劃的城市交通手冊頁面，而不是商用車廣告。\n\n該構圖應該感覺像是一本現代視覺百科全書，混合了精英公共交通工程指南和高階編輯資訊圖表系統。\n\n視覺方向\n\n• 1:1 方形構圖\n• 高階智慧城市背景，包含微妙的交通藍圖、受電路啟發的疊加層和城市基礎設施示意圖\n• 優雅的調色盤，採用深海軍藍、石墨黑、電綠色、鋼灰色和柔和的青色色調\n• 精緻的編輯版式層次結構\n• 圓形模組化資訊卡，間距乾淨\n• 柔和逼真的反射和優質的交通系統分隔線\n• 最少的交通工程影像\n• 極其詳細的中央電動巴士渲染以戲劇性的四分之三視角呈現，行駛在未來智慧城市大道上\n• 細細的精確註釋線指向關鍵系統和技術\n• 乾淨、有組織的「知識優先」佈局，資訊密度高，但間距透氣\n\n主題演講\n\n位於中心的 {E_BUS_NAME} 的令人驚嘆的超詳細真實渲染，具有：\n\n• 時尚的空氣力學機身設計\n• 全景擋風玻璃\n• 發光目的地顯示屏\n• 低樓層無障礙佈局\n• 未來主義 LED 照明系統\n• 優質電動傳動系統細節\n• 真實的城市倒影\n• 智慧城市交通現實主義\n\n在匯流排周圍貼上工程標註，解釋：\n\n• 電池組技術\n• 電動機系統\n• 再生煞車系統\n• 充電基礎設施相容性\n• 智慧車隊管理系統\n• 乘客無障礙功能\n• 熱電池管理\n• 能源效率技術\n• 安全監控系統\n• 智慧駕駛輔助功能\n\n包括模組化部分\n\n• 電動巴士概述\n• 技術規格\n• 車輛尺寸和容量\n• 動力系統與能源系統\n• 電池技術細分\n• 充電解決方案\n• 乘客舒適度特點\n• 安全可靠性系統\n• 車隊管理技術\n• 環境影響分析\n• 營運成本比較\n• 建築與材料工程\n• 永續性生命週期評估\n• 智慧城市一體化\n• 全球採用趨勢\n• 「你知道嗎？」事實部分\n• 電動大眾運輸的未來\n\n新增高階視覺化模組\n\n• 電池架構圖\n• 充電工作流程圖形\n• 能源消耗圖表\n• 乘客容量視覺化\n• 智慧城市一體化地圖\n• 傳動系統剖面圖\n• 環境影響比較\n• 車隊管理儀錶板\n• 車輛圖紙尺寸\n• 生命週期可持續性圖表\n\n風格關鍵字\n\n“優質交通百科全書”\n“編輯電動車手冊”\n“高階公共交通資訊圖”\n《科學交通海報》\n“博物館品質的電動巴士參考頁”\n“模組化智慧城市知識體系”\n《清潔工程編輯設計》\n“超詳細的移動視覺化”\n“未來交通展示”\n“永續城市交通設計”\n\n避免\n\n• 通用車輛廣告\n• 商業宣傳冊佈置混亂\n• 卡通交通造型\n• 不切實際的飛行巴士概念\n• 賽博朋克霓虹燈過多\n• 低細節庫存車輛渲染\n\n最終目標\n\n最終結果應該類似於為城市規劃者、交通工程師、永續發展研究人員、建築師、公共交通當局和智慧城市愛好者建立的專業出版的交通工程參考書頁，結合了技術準確性、永續性見解和優質的編輯設計。",
       "promptSha256": "73c12c69e0dfc8f889b278860f3399cc10abba8d3711b529f0125032eea47d1e",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-494.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "188bfa840a18e79ff31f8bccb25f450f7b2066ffdebeda2a97faf235d8d8edd6",
+      "reviewNotes": "資訊卡與公車細節已呈現；小字及數據需校對，圖中工程與環保數字不能作為事實引用。"
     },
     {
       "caseId": 338,
@@ -38,11 +46,15 @@
       "baselineImage": "/images/case338.png",
       "promptZh": "幫我生成一張《赤壁懷古》的長卷圖，帶整篇《赤壁賦》文字",
       "promptSha256": "b4eba29d06e0c0eadfee8b2cbd827cbe24c26edea49470e15691fae1a080344d",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-338.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "17c94931f3bb4db36eb263abc569a2ee69b89825f6d36f7bdbf57e7cab99b421",
+      "reviewNotes": "長卷構圖已產生，但內文仍有錯字、缺漏與混入其他作品的情況，不可視為已完整校對的《赤壁賦》。"
     },
     {
       "caseId": 542,
@@ -52,11 +64,15 @@
       "baselineImage": "/images/case542.jpg",
       "promptZh": "[HUMAN] 的高對比黑白印刷肖像海報，以側面輪廓顯示 [FEATURE]。使用大膽的黑色輪廓塊、銳利的負空間、粗糙的墨水邊緣、支離破碎的範本形狀、微小的編輯縮微文本、垂直印刷口音和富有表現力的手繪書法標記來構建肖像。將一個大的可讀文字區塊整合為 2 到 4 行堆疊的“[TEXT]”，僅放置在頸部和身體區域內，使用感覺融入輪廓的超大潦草字型。在頁尾附近新增圖形設計標誌「[LOGO]」。最小的灰白色紙張背景，不對稱佈局，裁剪垂直構圖，實驗性編輯海報設計，原始墨水列印紋理，長寬比 4:5。",
       "promptSha256": "6469c9459c2ec00d452a31cc4f9e02a70e843a983667eec03bc426116db265c4",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-542.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "e30e85522213126d4917b164def2ae24950b725cbdebe9a352af5cd8ca35f6da",
+      "reviewNotes": "側臉與黑白排版已呈現，模型自行填入人物、文字與品牌變數。"
     },
     {
       "caseId": 538,
@@ -66,11 +82,12 @@
       "baselineImage": "/images/case538.jpg",
       "promptZh": "橡皮戳旅行田野筆記海報 — 自然寫實版\n\n為我上傳的每張照片建立一個單獨的「橡皮圖章旅行田野筆記海報」。單獨輸出每張照片。切勿創作拼貼畫或組合多張照片。\n\n使用 4:3 風景構圖，在左側的原始照片和右側的舊紙田野筆記區域之間實現自然的視覺過渡。不要新增明顯的分割線。\n\n左 — 原始照片\n\n左側應佔據畫面的約 58%。\n\n保持上傳的照片視覺上真實且可識別。保留原始主題、視角、地形、建築、植物、人物、空間關係、自然光、陰影、紋理和整體氛圍。\n\n請勿重新設計或重新解釋照片。\n\n僅應用非常微妙的編輯照片處理：溫和的色調平衡、剋制的色彩分級、稍微柔化的高光以及極其精細的自然膠片顆粒。它看起來仍然應該像現場拍攝的真實照片，而不是人工智慧產生的影像。\n\n如果需要適合 4:3 佈局，則允許自然裁剪，但不要拉伸、扭曲、移動、替換或重畫主要主題。\n\n避免過度銳利化、HDR 效果、人工清晰度、影片色彩分級或過於完美的細節。\n\n右 — 老化的紙本筆記\n\n右側應大約佔據畫面的 42%。\n\n使用溫暖的灰白色、稍微老化的紙張，具有可信的物理紋理。包括非常微妙的紙張纖維、細粒、微弱的處理痕跡和霧面。\n\n保持大面積區域完全不列印。\n\n這張紙應該感覺像是建築師旅行筆記本或實地日記中的真實紙張，而不是設計的海報背景。\n\n避免過於強烈的汙漬、裝飾紋理、復古濾鏡或人造垃圾。\n\n小橡皮章\n\n研究上傳的照片並僅識別少數可以立即識別該位置的視覺特徵。\n\n將它們簡化為緊湊的、不完美的多色橡皮圖章印象。\n\n請勿逐個元素地複製照片。\n\n積極簡化並僅保留最有意義的視覺關係：\n\n- 獨特的建築和輪廓\n- 重要的屋頂、塔樓、圓頂、拱門或結構形狀\n- 山脈或地形輪廓\n- 海岸線或道路方向\n- 一些可辨識的樹木或植被形式\n- 簡化的沉降層\n- 視覺相關時一兩個重要的前景形狀\n\n移除人群、汽車、密集的窗戶、重複的建築物、微小的植被、裝飾物和無關緊要的背景細節。\n\n結果應該看起來像旅行者實際上可以刻在一個小橡皮圖章上的東西，而不是整個照片的微型插圖。\n\n將印章放在右側紙張區域的中下部分，大約佔據右側部分高度的 30-38%。\n\n在其周圍保留大量空白紙。\n\n不要將其放大為大插圖。\n\n印章顏色和印刷字元\n\n從原始照片中自然提取大約 2-4 個柔和的專色。\n\n可能的顏色包括：\n\n- 炭黑\n- 深綠色\n- 磚紅色或柔和的紅色\n- 赭色\n- 石板藍\n- 灰褐色或土棕色\n\n如果照片暗示了不同的剋制調色盤，請不要強迫使用這些顏色。\n\n每種顏色應顯示為單獨的實體墨水層。\n\n讓印刷品有真正手工製作的感覺：\n\n- 壓力略為不均勻\n- 墨水中的微小間隙\n- 乾燥地區\n- 紙張透過\n- 粗糙的雕刻邊緣\n- 不規則的線條粗細\n- 小輪廓斷裂\n- 顆粒狀墨水紋理\n- 微弱的重影\n- 輕微的自然色彩層重疊失調\n- 微妙的邊緣變化\n\n瑕疵應該小而可信，就像郵票是用手壓在紙上一樣。\n\n避免完美對齊的數點陣圖層、平滑的向量邊緣、乾淨的漸層或人為誇大的痛苦。\n\n郵票應該看起來是實體列印的，而不是數位插圖的。\n\n田野註釋版式\n\n僅根據照片中的實際位置和影像產生少量文字：\n\n地點——英文名\n編號 — 數量\n三個簡短的英文關鍵字\n公曆年份\n\n將文字放置在圖章下方或旁邊的可用空白區域內。\n使用小型、低調的打字機或檔案田野筆記風格。\n\n排版應該有非常輕微的機械不規則性，就像在舊的野外筆記本上打字或列印一樣。\n\n保持安靜，並將其置於照片的次要位置。\n\n正確拼字位置和所有單字。\n\n請勿加上口號、品牌、旅遊短語、裝飾性引言或不必要的文字。\n\n整體真實感\n\n完成的影像應該感覺像是一張真實的旅行照片，安裝在建築師個人筆記本頁面上的小型手工製作的現場印章旁邊。\n\n優先考慮微妙的物理真實性而不是視覺完美。\n\n照片應該仍然是最強烈的視覺元素。\n\n郵票應該感覺像是從照片中提取的一小段記憶，而不是第二張插圖。\n\n使用剋制的對比度、自然的瑕疵、可信的紙張紋理和稍微不完美的印刷。\n\n最終的結果應該感覺安靜、有觸感、記錄性、收藏性和真正的手工製作。\n\n避免\n\n明顯的分界線、圓形密封、郵票邊框、穿孔、蠟封、貼紙佈局、紀念卡設計、通用旅行範本、平滑向量徽標、拋光數字插圖、卡通造型、3D 渲染、塑膠紋理、光澤漸變、過度飽和度、HDR 效果、過多文本、裝飾雜亂、過於乾淨的幾何形狀、完美對齊的墨水層、對墨水的微型建築或原始照片。",
       "promptSha256": "b4c07bde3e0b38b019c9f2dc1d93bcc42d757e29cf815154d69db7f24f8f2d23",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "blocked-missing-reference",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "missing-original-image",
+      "outputImage": null,
+      "actualModel": null
     },
     {
       "caseId": 532,
@@ -80,11 +97,15 @@
       "baselineImage": "/images/case532.jpg",
       "promptZh": "為名為“LIMORA”的虛構檸檬飲料品牌建立戛納級別的優質夏季飲料宣傳海報，使用嚴格的 2 列 x 3 行網格佈局和六個完美對齊的面板。保留構圖的精確結構邏輯：每個面板都展示了在明亮的沙灘上與超大檸檬、檸檬片、檸檬汁或最終品牌飲料互動的同一個超現實的微小年輕女子，而選定的面板包括一隻從上面進入的巨大的現實人手。完整的海報必須感覺像是一個統一的高階廣告故事板，視線不斷從新鮮的柑橘類水果轉向精製飲料的慾望。檸檬產品世界必須仍然是所有六個面板中絕對的視覺英雄。\n\n整體構成：\n使用乾淨的六面板網格，具有薄的白色分隔線、相等的面板比例、一致的地平線、一致的海灘海洋背景和統一的照明。每個面板都應該感覺獨立但有節奏地連線，就好像同一個豪華夏季廣告中的六個連續場景被凍結在其最具標誌性的時刻。將微型女人和超大的檸檬相關物體保持在每個畫面的中心，背景中的大海柔和模糊，前景中的沙子清晰地呈現。整頁必須從遠處立即閱讀，具有強大的商業清晰度和精美的編輯控制。\n\n軌道視覺流：\n圍繞著從面板 1 到面板 6 的一個強烈的運動迴圈來設計整個場景。動作應該在視覺上升級：觸控、傾斜、擠壓、移動、擁抱、品嚐。在頭髮運動、手臂姿勢、腿部角度、果汁滴、勺子角度、檸檬片放置、吸管傾斜以及進入手的位置中使用重複的方向節奏，使眼睛自然地以流動的波浪掃過海報。在每個面板內建構微妙的對角能量，使柑橘世界感覺生氣勃勃、微風徐徐、閃閃發光、動感十足。整套套裝應該感覺像是夏天的能量圍繞著該品牌的檸檬飲料運轉。\n\n敘述面板順序：\n第 1 幅：小個子女人在沙上擁抱著一整顆巨大的檸檬，而一隻巨大的成年手從上方下降，小心翼翼地放置檸檬。她的姿勢活潑又略顯失衡，彷彿場景才剛開始。\n第2幅：她優雅地斜靠在半個檸檬裡，彷彿這是一張豪華的沙灘躺椅，戴著墨鏡，拿著一把小陽傘飲料鎬，而漂浮的檸檬片像光芒四射的柑橘太陽一樣從上方垂下。\n第三幅：一隻巨手從上方擠壓垂直切開的檸檬，半透明的果汁流和水滴以閃閃發光的弧線向下噴射。女人在它下面做出動態反應，雙臂舉起，身體傾斜，陷入柑橘的動作。\n第 4 幅：她乘坐一輛裝滿檸檬的精緻小木車，由一個異想天開的優質檸檬形狀生物或滾動的檸檬背帶拉著。手推車必須給人一種踏實、手工、時尚的感覺，而不是卡通化的。\n面板5：英雄高潮面板。一個高大的 LIMORA 品牌檸檬水杯佔據了整個框架，裡面裝滿了冰塊、檸檬片、淺色起泡液體、冷凝水、一根新鮮的綠色吸管和一把精緻的雞尾酒傘。小女人高興地擁抱著冰冷的玻璃，這個面板一定是整個構圖中產品銷售最強勁的時刻。\n第 6 幅：她坐在半個檸檬裡，而一把拋光的大勺子從上面降下，上面盛著光滑的檸檬冰沙或碎檸檬冰，帶著俏皮的期待創造出最後美味的服務節拍。\n\n英雄產品重點：\n真正的英雄是檸檬飲料系統：整個柑橘類水果、切片水果、榨汁、冰塊、起泡飲料、冰沙和優質的服務細節。每個檸檬都必須感覺超真實、芳香、陽光照射、多汁和觸感，具有細緻的皮膚毛孔、微妙的蠟狀油光澤、半透明的膜、濕切表面和明亮的天然柑橘果肉。圖 5 中的品牌玻璃必須是該系列中視覺上最具主導性的產品物件，具有晶瑩剔透的玻璃、精緻的原創英文品牌“LIMORA”、優雅的冷凝、優質的冰折射和發光的淡黃色飲料透明度。\n\n人物設計：\n在所有六個面板中都描繪了一位反覆出現的超現實微型年輕女子，穿著同樣合身的綠色花卉迷你連身裙和白色涼鞋，留著長長的深色波浪發和自然富有表現力的特徵。她看起來一定像一個真實的縮小版人類，被放置在一個超現實的超大柑橘世界。在每一幀中保持解剖結構連貫且可信：正確的頭部與身體比例，逼真的肩膀、鎖骨、手臂、腰部、臀部、大腿、膝蓋、小腿、腳踝和腳，形狀完美的手和五個手指清晰可見。她的表情應該逐一變化：驚訝的喜悅、放鬆的自信、俏皮的警報、興奮、快樂的清爽、有趣的期待。皮膚必須保持逼真的毛孔、自然的色調變化、淡淡的膝蓋和肘部紋理、逼真的皮膚彈性以及無塑膠的 AI 美妝效果。\n\n照明：\n使用明亮的優質海濱日光，柔和的左上方太陽方向和柔和的大氣擴散。在所有六個場景中保持明亮、清新的夏季照明，並具有短而柔和的邊緣陰影和清晰的立體高光。果汁滴、檸檬果肉、冰塊、湯匙邊緣、太陽眼鏡、玻璃杯邊緣和冷凝物都應該捕捉到乾淨閃亮的亮點。各個面板之間的照明必須感覺豪華、清爽且物理一致。\n\n材料：\n檸檬：超細緻的果皮毛孔、微妙的凹痕、自然的果皮厚度、閃閃發光的濕果肉、可信的切面半透明度、逼真的果汁行為。\n飲料杯：高畫質晰度優質玻璃，準確的折射，厚重的底座，凝結珠，清晰的標誌印刷，冰的透明度，閃閃發光的碳酸液體感覺。\n冰糕和果汁：有光澤、半透明、冷、濕、開胃、物理準確。\n洋裝：輕質夏季棉質布料，帶有綠色小花卉印花、自然皺紋、布料張力和防風邊緣。\n頭髮和皮膚：逼真的髮絲、精細的飄逸、自然的光澤、可信的皮膚紋理。\n大手：逼真的成人手指，柔軟的皮膚壓縮，自然的指甲，連貫的尺度視角。\n推車和道具：精緻溫暖的木紋、拋光的輪子、可信的接頭和安全帶元件。\n海灘環境：陽光照射下的細沙，帶有微型腳印和壓痕，柔和的海岸線模糊，乾淨的碧綠海水，帶有淺色泡沫。\n\n色彩系統：\n圍繞著檸檬黃、清新的柑橘綠、綠松石海、淺天藍、溫暖的海灘米色、清爽的白色高光和內斂的自然膚色構建調色盤。黃色必須仍然是主要的英雄顏色，並輔以綠色和綠松石色。保持影像明亮、開胃、充滿夏日氣息、乾淨且國際商業化。避免隨機的強調色。\n\n版式與品牌：\n不要複製範例中的任何文字。保持版式最小化和原創。僅在英雄玻璃上放置精緻的英文品牌，並可選擇在整個網格下方放置一條小廣告線，例如：「LIMORA — Bright in Motion」。排版必須給人一種優質、現代、簡約的感覺，並且相對於視覺敘事來說是次要的。\n\n藝術指導：\n超真實的優質超現實廣告攝影、奢華的快消品行銷活動、故事板能量、優雅的幽默、電影般的微觀世界幻覺、高階飲料造型、全球夏季發布海報、精美的雜誌級效果、鮮明的產品現實主義、強烈的敘事節奏、優質的品牌連貫性。\n\n負面提示：\n複製文字、中文文字、現有品牌名稱、卡通風格、玩具般的人物、怪誕的超大頭部、變形的解剖結構、額外的手指、缺失的手指、融合的手指、扭曲的手腕、骨折的四肢、扭曲的腳、人工智慧塑膠皮膚、過度平滑的皮膚、假柑橘紋理、不切實際的果汁物理、渾濁的檸檬果肉、渾濁的玻璃、弱的產品焦點、不一致的照明、不一致的地平線、凌亂的網格、雜亂的道具、模因美學、廉價幽默、幼稚的插圖、低解析度細節、過飽和的顏色、死黑斑、扭曲的巨手視角",
       "promptSha256": "c9fb01ff12b688bfb9830065d402f5a6ad65fdf5d0ac0c72695f08e8deb5274d",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-532.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "bd22a5255a92f6c824ac0bba3c0abf844260caeaccb05e257629e82ae4681a7e",
+      "reviewNotes": "六格敘事與品牌杯已呈現；需進一步檢查跨格人物與物理細節。"
     },
     {
       "caseId": 519,
@@ -94,11 +115,12 @@
       "baselineImage": "/images/case519.jpg",
       "promptZh": "100%完整保留上傳的原圖香水瓶的全部原始外觀細節，瓶身造型、薄荷綠玻璃質感、木紋球形瓶蓋、原有標籤文字完全不做任何修改；瓶身環繞米色織帶，周圍簇擁薄荷綠玫瑰和淺綠色植物，冷調漸變淺留白背景，冷調逆光柔焦光影，低飽和度冷清高階色調，景深虛化突出香水主體，超寫實C4D質感，輕奢高階ins風，適配豎版電商詳情頁，2K高畫質",
       "promptSha256": "3c97bf1d101e78cc87e469556dfe5a3686451e5c19b30403251edab509ec063d",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "blocked-missing-reference",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "missing-original-image",
+      "outputImage": null,
+      "actualModel": null
     },
     {
       "caseId": 540,
@@ -108,11 +130,15 @@
       "baselineImage": "/images/case540.jpg",
       "promptZh": "創作一張視覺上令人難忘的編輯藝術海報，描繪一個夢幻般的未來世界，熟悉的日常生活與超現實的建築相遇。宏偉的雕塑建築、蜿蜒的道路、超大的植物、微小的人物、意想不到的漂浮元素、戲劇性的視角、電影般的氛圍和一個標誌性的焦點。將復古旅行海報設計與現代奢華編輯美學融為一體，精緻的柔和色彩，柔和的自然光，微妙的膠片顆粒，觸感紙張紋理，乾淨的幾何形狀，簡約的構圖，懷舊而未來，異想天開但優質，高度詳細，立即可識別的輪廓，Pinterest值得，Instagram病毒美學，收藏藝術印刷品，無雜亂，無照片寫實，垂直可識別的照片。",
       "promptSha256": "e7997aadb41ef8106fbdc9429bbe7e7bb694db1f00cdec8dcc3e2dc8ae560e07",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-540.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "d991346ea0a4cb700ad2a4bce1228f90971662e37f5d3387046e4762c892a223",
+      "reviewNotes": "夢幻建築已呈現，模型額外加入標題與廣告文字。"
     },
     {
       "caseId": 523,
@@ -122,11 +148,15 @@
       "baselineImage": "/images/case523.jpg",
       "promptZh": "受復古歐洲旅行海報的啟發，創作垂直的編輯旅行插畫，以宏偉的城市公園中寧靜的夏日午後為背景，以可識別的曼哈頓風格天際線為背景。在溫暖的紋理奶油色紙上使用精緻的手繪墨水輪廓與柔軟、略帶瑕疵的水彩畫相結合。展現出一片寬闊的綠色草坪，人們正在放鬆、閱讀、散步、慢跑、騎腳踏車和野餐。在前景中，一對穿著休閒的年輕夫婦坐在野餐毯上，旁邊是一個編織籃。包括優雅的黑色復古公園燈、蜿蜒的小路、構成構圖的茂密綠葉樹木，以及公園後面拔地而起的細緻的歷史和現代摩天大樓。在藝術品底部附近平靜的池塘上新增一座風景如畫的小石拱橋。使用柔和的鼠尾草綠、橄欖色、溫暖的米色、柔和的藍色、淺灰色和微妙的金色陽光，搭配自然的水彩滲色、紙紋、精細的鋼筆陰影線和通風精緻的旅行日記美學。沒有文字，沒有字母，沒有徽標，沒有排版，沒有標題，沒有標誌。垂直4:5構圖，細緻、優雅、懷舊、手工水彩和水墨插圖。",
       "promptSha256": "c249eb640f087163ce81a8914259dc74e7796f8f8ee7ca89b8c37f69313cac38",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-523.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "6b1ade11f3c46ad2f07870c154a6884d2ce08530749214ee2321a55fff3faa1e",
+      "reviewNotes": "公園、水彩與無文字要求已呈現。"
     },
     {
       "caseId": 536,
@@ -136,11 +166,15 @@
       "baselineImage": "/images/case536.jpg",
       "promptZh": "{\n  \"title\": \"春天的低語\",\n  \"scene\": \"溫暖的春天午後，盛開的櫻花樹下方有一條寧靜的小路。頭頂的樹冠上開滿了粉紅色的花朵，精緻的花瓣在空中優雅地飄舞。柔和的陽光透過樹枝照射進來，營造出夢幻迷人的氛圍。\",\n  \"subject\": \"一位年輕女子從鏡頭前走開，然後輕輕地將頭轉過肩，臉上帶著柔和而神秘的微笑。她身穿飄逸的天然亞麻連身裙，隨微風飄逸，凸顯出她精緻的五官和不經意的優雅。\",\n  \"detail\": \"風吹過無數粉紅色的櫻花花瓣穿過畫面，而溫暖的陽光則在整個場景中營造出閃亮的亮點。每根髮絲在微風中自然飄動，超逼真的皮膚紋理、栩栩如生的織物褶皺、柔和的花卉環境和微妙的大氣霧霾增強了電影般的真實感。\",\n  \"atmosphere\": \"優雅、平和、浪漫、夢幻、永恆、電影般、優雅、迷人。\",\n  \"lighting\": \"溫暖的春天陽光透過櫻花樹枝，柔和的自然照明，發光的高光，體積光線，柔和的環境陰影和微妙的大氣霧霾。\",\n  \"composition\": \"使用 85 毫米鏡頭拍攝的影片編輯肖像，拍攝物件採用四分之三過肩姿勢。淺景深、奶油般的散景、開花樹木的平衡取景、柔和的引導線以及身臨其境的視覺敘事。\",\n  \"style\": \"真實感、傑作、編輯時尚攝影、模擬電影美學、夢幻柔和的調色盤、超現實的皮膚紋理、高度細節、淺景深、奶油色散景、大氣霧霾、HDR、電影現實主義、8K。\"\n}",
       "promptSha256": "6de1a58e0ffb77b7b4d3f3d5857ee00445f042d8a9bf902935c90feffbd34832",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-536.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "30b500366507fda5b95a21ba2cfd2319ba8e2cefcbdd01d2d0592aa58c66be15",
+      "reviewNotes": "櫻花、回眸與淺景深已呈現，尚未對原始參數做受控比較。"
     },
     {
       "caseId": 535,
@@ -150,11 +184,12 @@
       "baselineImage": "/images/case535.jpg",
       "promptZh": "建立一個 12 面板網格（3 列 × 4 行，編號 1 到 12），顯示參考照片中的同一個人具有 12 種不同的髮型。這是一本髮型手冊。最終影像長寬比：4:5（垂直/縱向）。\n面板之間唯一改變的是頭上的頭髮（僅形狀、樣式和長度）。其他一切都與參考照片中的完全相同。\n身份錨（關鍵）\n臉部必須與每個面板中的參考照片相同。準確保留：臉部骨骼結構、下顎線、顴骨、鼻子形狀、嘴唇、眼睛形狀和間距、眉毛、膚色、皮膚紋理（毛孔、自然瑕疵）以及整體臉部比例。這 12 幀中都是同一個人。請勿美化、瘦身或改變臉部。與參考文獻中的年齡相同，表情相同。\n強制性規則（請勿違反）\n- 禁止配戴太陽眼鏡。眼睛在所有 12 個面板中必須完全可見。\n- 無環境背景。每個面板必須有一個樸素、統一、純淺灰色工作室背景，零物件、零紋理、零漸層。只是平的中性灰色。\n- 髮色在所有 12 個面板中均與參考照片中顯示的顏色完全相同。只是形狀、長度和款式變化，顏色卻沒有變化。\n每個面板保持相同（不要更改）\n- 化妝和皮膚：如果參考照片中的人化妝，請在每個面板中進行相同的複製。一樣的唇色，一樣的眼妝，一樣的眉毛。如果他們沒有化妝，請保持所有面板不化妝。請勿新增、移除或變更面板之間的裝飾。\n- 服裝：與參考照片中可見的相同服裝，完全複製。\n- 配件：保留參考照片中所有可見的配件（耳環、項鍊、戒指、手鍊、穿孔、手錶、眼鏡等）。請勿遺漏、調整任何配件的大小、重新著色或重新設計任何配件。如果此人配戴處方眼鏡（不是太陽眼鏡），請將其放在每個面板中。\n- 背景：每個面板中都有純色淺灰色工作室背景。沒有房間，沒有傢俱，沒有環境。\n12種髮型\n1.精靈剪裁：非常短，有紋理，頂部略微凌亂，兩側和頸背呈錐形\n2. 經典鮑伯：長度到下巴，直，末端鈍，中間部分乾淨\n3. 長層次波浪：過肩、柔軟、豐盈的波浪，具有修飾臉型的層次感\n4. 光滑的低髮髻：頭髮在後頸處平滑地向後拉成一個緊緻的低髮髻，沒有飛揚的現象\n5. 中長髮的簾式瀏海：柔軟的分岔瀏海勾勒出臉部輪廓，頭髮剛過肩\n6.高馬尾：將頭髮綁成光滑的高馬尾辮，頭頂光滑，長度落在後面\n7. 法式鮑伯：短鮑伯在下巴結束，前額有柔軟的鈍微瀏海\n8. 中分長直髮：非常長，光滑，直，垂過肩膀\n9. 毛茸茸的狼形切割：中等長度，厚重的層次，波濤洶湧的流蘇，質感豐盈，略顯野性\n10. 優雅的高髻：將頭髮盤成光滑的髮髻，帶有柔軟的臉型捲鬚\n11. 短捲髮：全身短捲髮，自然紋理，兩側逐漸變細\n12.好萊塢側掃波浪：迷人的深側長髮，雕刻般的復古波浪層疊在肩上\n攝影規格\n使用佳能 EOS R5 拍攝，配備 85mm f/1.4 鏡頭，工作室人像照明（柔和的主光，微妙的填充），淺景深，臉部銳利對焦。每個面板上都有純色淺灰色工作室背景。自然的皮膚渲染，具有可見的毛孔和逼真的髮絲（無塑膠或 CGI 外觀）。所有 12 個面板的照明、色彩分級和曝光一致。逼真、高細節、超寫實、8K。沒有插圖，沒有繪畫效果，沒有過度平滑。沒有太陽眼鏡。\n每個面板的左上角都清楚地標有 1 到 12 的編號。整體輸出長寬比4:5。",
       "promptSha256": "1d6d3f542a7e097320bab257d10da97983c847d7c3fd2bc183e6fa17cf55ddf2",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "blocked-missing-reference",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "missing-original-image",
+      "outputImage": null,
+      "actualModel": null
     },
     {
       "caseId": 496,
@@ -164,11 +199,15 @@
       "baselineImage": "/images/case496.jpg",
       "promptZh": "建立一個由標誌性全球品牌標誌組成的優質 3x2 網格拼貼畫，完全根據動態水層進行重建，漂浮在充滿活力的藍天下水晶般清澈的海洋之上。每個面板都有一個由逼真的透明水雕刻而成的不同徽標，具有詳細的飛濺、水滴、反射、折射和流動的液體紋理。水的形態應該看起來物理上準確、優雅，並且可以立即識別，同時仍然完全由水組成。",
       "promptSha256": "eb4824e59361948187dbe46bb8589938309148438a3884e34248c97b765aa1ad",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-496.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "74bf72b04aab232cbfa7434164ac39b46c1019702c64745f49effb0bc2b6dc19",
+      "reviewNotes": "六個水雕標誌已呈現，品牌形狀與字樣仍需逐一檢視。"
     },
     {
       "caseId": 489,
@@ -178,11 +217,15 @@
       "baselineImage": "/images/case489.jpg",
       "promptZh": "建立 [CITY NAME] 的高度詳細的電影微型移軸旅行場景，其中包含逼真的 [VEHICLE NAME] 沿著蜿蜒的高架道路行駛，該道路從印刷的復古風格城市地圖中自然出現。道路應向背景天際線和 [CITY NAME] 的地標急劇彎曲，而車輛仍然是前景中的清晰焦點。\n\n將真實城市與插圖地圖表面無縫融合，使道路看起來與地圖本身融為一體。包括與 [CITY NAME] 相關的可識別的當地地標、水道、建築、植被和氛圍，但保持構圖乾淨整潔。\n\n顯示直接印在前景地圖上的大粗體字樣「[CITY NAME]」。使用溫暖的黃金時段照明、淺景深、逼真的紋理、電影陰影、空中透視和逼真的細節。整體美感應該像是一張高階 Instagram 旅行海報與微型立體模型的混合體。\n\n長寬比 1:1。",
       "promptSha256": "fe42e7b0d1710070ce7da665877896b1594632c7873661f9f5ace0415e1ca65e",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-489.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "4d654b7b4fe967983f6b2062c79c73c467c167d7097b5b4ad41bfc6070366e13",
+      "reviewNotes": "模型自行選擇舊金山與廂型車；城市與車型未在提示詞中固定。"
     },
     {
       "caseId": 437,
@@ -192,11 +235,12 @@
       "baselineImage": "/images/case437.jpg",
       "promptZh": "根據上傳的人像照片，製作出乾淨、極簡、奢華風格的臉部美學分析報告。\n設計風格：\n超現代的黑白介面，優質的編輯美學，纖細優雅的分隔線，柔和的圓形卡片，微妙的陰影，寬敞的佈局，奢華的護膚品/時尚雜誌氛圍，單色調色盤，蘋果風格的使用者介面精緻。\n包括：\n– 根據主題繪製簡單的臉部輪廓線藝術圖\n– 臉部對稱性分析\n– 人臉形狀識別\n– 比例分析（眼睛、鼻子、下巴、嘴唇、額頭）\n– 皮膚紋理觀察\n– 髮型相容性建議\n– 修飾和時尚建議\n– 誠實的吸引力評估和平衡的批評\n– 客觀地解釋臉部的強項和弱項\n– 可行的發光建議\n– 以優雅的圖表或儀表顯示信心分數和臉部和諧分數\n風格備註：\n保持報告以資料為導向，視覺上精緻，真實，但不要過於奉承。\n避免誇大的讚美。\n使用乾淨的排版、優質的間距、現代的資訊圖表、微妙的幾何裝飾和專業的美容諮詢美學。\n視覺構成：\n雜誌品質的示範、奢華的美容報告儀錶板、高度組織的佈局、電影般的單色感覺、簡約的資訊圖表設計、逼真的臉部結構解釋、現代男性美容分析。\n渲染：\n超細緻、銳利的 UI 設計、逼真的肖像適應、精緻的編輯呈現、高階的品牌美學、4K 畫質。",
       "promptSha256": "aee3704649f5db1a87f92245a82cdd9d9b2dd58bf2faf831a3ffc48a498cb6b1",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "blocked-missing-reference",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "missing-original-image",
+      "outputImage": null,
+      "actualModel": null
     },
     {
       "caseId": 453,
@@ -206,11 +250,15 @@
       "baselineImage": "/images/case453.jpg",
       "promptZh": "請生成一套企業級商用畫冊視覺方案，主題為【品牌名稱】的【行業 / 產品 / 解決方案】宣傳畫冊。\n\n整體風格：高階、專業、具有強視覺衝擊力；避免傳統 Word 排版感和普通 PPT 感。採用【深色科技美學 / 白色極簡商務 / 高階工業風 / 藝術化品牌畫冊】風格。\n\n畫冊內容包括：\n1、封面與封底\n2、企業介紹與品牌理念\n3、核心產品與技術優勢\n4、應用場景與解決方案\n5、客戶案例與合作方式\n6、全冊系統預覽圖\n\n要求：\n版式要有設計感，圖片、標題、資料、圖示、留白和層級關係清晰；保持整套畫冊統一的品牌視覺系統；重點體現真實商業物料的完成度，避免簡單文字排版。\n\n結構規劃：\n1、封面 / 封底：建立品牌門面、行業氣質和整體視覺調性。\n2、企業介紹頁：說明公司定位、能力邊界和服務物件。\n3、產品技術頁：展示核心產品、技術優勢和解決方案。\n4、應用場景頁：讓使用者看到產品能用在哪些行業。\n5、案例 / 合作頁：補充可信度和商業轉化資訊。\n6、全冊系統預覽：驗證風格統一性和整本畫冊的系統感。\n\n如果已有企業資料，可以上傳舊版企業畫冊、公司介紹檔案、產品說明書、官網內容、PPT 提案、產品圖片或案例圖片，讓 ChatGPT 完成三件事：\n1、重新梳理內容結構，判斷哪些內容適合做封面、企業介紹、產品頁、案例頁和合作頁。\n2、提煉畫冊主線，避免只堆資料，需要形成清晰的商業敘事。\n3、統一視覺方向，讓整本畫冊看起來像同一個品牌系統，避免不同頁面拼貼感。\n\n避坑：\n1、避免一上來只說“生成一本畫冊”，否則容易變成範本圖。\n2、避免只堆文字，畫冊一定要有產品視覺、場景圖、資料模組和設計層級。\n3、避免只生成單頁，最好補一張全冊預覽圖，才能體現完整系統感。",
       "promptSha256": "6d515659ac254e87f179742ea9cd8b046e3505cf04d6082fbb06d27f13c2adae",
-      "status": "pending",
-      "targetModel": "GPT-Image-2.5 Flare",
+      "status": "generated",
+      "targetModel": "Codex built-in image generation",
       "referenceImages": [],
-      "referenceStatus": "needs-review",
-      "outputImage": null
+      "referenceStatus": "not-required",
+      "outputImage": "/comparisons/codex-2026-09-09/case-453.png",
+      "actualModel": null,
+      "generatedDate": "2026-09-09",
+      "outputSha256": "08868ddb0bf72ca814e66f5e15b47d9e62b025644428b896e3d8f9561df52572",
+      "reviewNotes": "畫冊系統已呈現，但出現簡體字與未提供的品牌、客戶、數據，保留作為失敗項目，不適合直接商用。"
     }
   ]
 }
