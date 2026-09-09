@@ -1,3 +1,4 @@
+import comparisonData from '../docs/comparisons/image-2-vs-2.5.json';
 import { IMAGE_MODELS, imageModel, imageModelLabel } from './image-models.js';
 import { GalleryAuthProvider, useGalleryAuth } from './GalleryAuth';
 import { FavoritesProvider, FavoriteButton, useFavorites } from './Favorites';
@@ -2690,6 +2691,7 @@ function TemplateSection({ language, styleLibrary, onOpenTemplate }) {
                 </div>
                 <h3>{title}</h3>
                 <p>{description}</p>
+
                 <div className="tagRow">
                   {(item.tags || []).map((tag) => (
                     <span key={`${item.id}-${tag}`}>{localizeTemplateTag(tag, language, styleLibrary)}</span>
@@ -2708,6 +2710,37 @@ function TemplateSection({ language, styleLibrary, onOpenTemplate }) {
               </div>
             </article>
           );
+        })}
+      </div>
+    </section>
+  );
+}
+
+const comparisonUrl = '/comparisons/codex-2026-09-09/index.html';
+const generatedComparisons = comparisonData.cases.filter(item => item.status === 'generated' && item.outputImage);
+const comparisonsById = new Map(generatedComparisons.map(item => [item.caseId, item]));
+
+function ComparisonShowcase({ language }) {
+  const zh = language === 'zh';
+  return (
+    <section className="comparisonShowcase" id="comparisons" aria-labelledby="comparison-heading">
+      <div className="comparisonIntro">
+        <span className="eyebrow">{zh ? '同提示詞實測 · 2026/9/9' : 'Same-prompt trials · Sep 9, 2026'}</span>
+        <h2 id="comparison-heading">{zh ? '同一句提示詞，會畫出什麼不同？' : 'Same prompt. What changes?'}</h2>
+        <p>{zh ? `查看 ${generatedComparisons.length} 組原圖與重新生成的結果，觀察構圖、文字與細節差異。` : `Explore ${generatedComparisons.length} original and regenerated pairs, from composition to text and detail.`}</p>
+        <a className="comparisonCta" href={comparisonUrl}>{zh ? '查看全部實測' : 'View all comparisons'} <ArrowUpRight size={18} /></a>
+        <small>{zh ? '使用 Codex 內建產圖；確切模型版本未確認。' : 'Generated with Codex; exact model version unconfirmed.'}</small>
+      </div>
+      <div className="comparisonSamples">
+        {[544, 542, 523].map(id => {
+          const item = comparisonsById.get(id);
+          return <a key={id} href={`${comparisonUrl}#case-${id}`} aria-label={`${zh ? '比較案例' : 'Compare case'} ${id}: ${item.title}`}>
+            <div className="comparisonSamplePair">
+              <img src={item.baselineImage} alt={zh ? '圖庫原圖' : 'Gallery original'} loading="lazy" />
+              <img src={item.outputImage.replace('.png', '-thumb.jpg')} alt={zh ? '重新生成結果' : 'Regenerated result'} loading="lazy" />
+            </div>
+            <span>#{id} · {zh ? '原圖 / 實測' : 'Original / Trial'} <ArrowUpRight size={14} /></span>
+          </a>;
         })}
       </div>
     </section>
@@ -2748,6 +2781,7 @@ function PromptCard({
         </div>
         <h3>{caseItem.title}</h3>
         <div className="tagRow"><span>{imageModelLabel(caseItem)}</span></div>
+        {comparisonsById.has(caseItem.id) && <a className="comparisonCardLink" href={`${comparisonUrl}#case-${caseItem.id}`}>{language === 'zh' ? '看同提示詞實測比較' : 'Compare same-prompt results'} <ArrowUpRight size={14} /></a>}
         <p>{promptPreviewFor(caseItem, language)}</p>
         <div className="tagRow">
           {tags.map((tag) => (
@@ -2809,6 +2843,7 @@ function PreviewDialog({
 
   const { type, item } = preview;
   const isTemplate = type === 'template';
+  const comparison = !isTemplate && comparisonsById.get(item.id);
   const title = isTemplate ? textFor(item.title, language) : item.title;
   const description = isTemplate ? textFor(item.description, language) : compactText(promptPreviewFor(item, language));
   const image = isTemplate ? item.cover : item.image;
@@ -2842,8 +2877,13 @@ function PreviewDialog({
         <button className="previewClose" type="button" onClick={onClose} aria-label={t.closePreview}>
           <X size={20} />
         </button>
-        <div className="previewMedia">
-          <img src={image} alt={imageAlt} />
+        <div className={cx('previewMedia', comparison && 'hasComparison')}>
+          {comparison ? <div className="comparisonGrid">
+            {[[image, language === 'zh' ? '圖庫原圖' : 'Gallery original'], [comparison.outputImage, language === 'zh' ? '同提示詞實測' : 'Same-prompt trial']].map(([src, label]) => <figure className="comparisonFigure" key={src}>
+              <figcaption className="comparisonLabel">{label}</figcaption>
+              <a href={src} target="_blank" rel="noreferrer" aria-label={language === 'zh' ? `${label}：查看原尺寸` : `${label}: open full size`}><img src={src} alt={label} /></a>
+            </figure>)}
+          </div> : <img src={image} alt={imageAlt} />}
         </div>
         <div className="previewContent">
           <div className="previewMeta">
@@ -2853,6 +2893,12 @@ function PreviewDialog({
           </div>
           <h2 id="preview-title">{title}</h2>
           <p>{description}</p>
+          {comparison && <div className="comparisonContext">
+            <strong>{language === 'zh' ? '同提示詞實測 · 2026/9/9' : 'Same-prompt trial · Sep 9, 2026'}</strong>
+            <p>{language === 'zh' ? '右圖使用 Codex 內建產圖，確切模型版本未確認；舊圖設定不完整，請以視覺差異作為參考。下方修改提示詞不會改變這組實測。' : 'The right image was generated with Codex; its exact model version is unconfirmed. Original settings are incomplete. Editing the prompt below does not change this saved trial.'}</p>
+            {comparison.reviewNotes && <p lang="zh-Hant">{comparison.reviewNotes}</p>}
+            <a href={`${comparisonUrl}#case-${item.id}`}>{language === 'zh' ? '查看實測提示詞與完整比較' : 'View trial prompt and full comparison'} ↗</a>
+          </div>}
           <div className="tagRow previewTags">
             {tags.map((tag) => (
               <span key={`${type}-${item.id}-${tag}`}>
@@ -3130,6 +3176,7 @@ function App() {
           <nav>
             <a href="#gallery" onClick={()=>setOnlyFavorites(false)}>{t.navCases}</a>
             <a href="#gallery" aria-current={onlyFavorites ? "page" : undefined} onClick={e=>{if(!session){e.preventDefault();login({type:'favorites'});return;} setQuery('');setModel('All');setCategory('All');setStyle('All');setScene('All');setCurrentPage(1);setOnlyFavorites(true);}}>{language==='zh'?'我的最愛':'My Favorites'}</a>
+            <a href="#comparisons">{language === 'zh' ? '實測比較' : 'Comparisons'}</a>
             <a href="#templates">{t.navTemplates}</a>
             <a href="#agent-skill">{t.navSkill}</a>
             <a href="#submit">{language === 'zh' ? '投稿案例' : 'Submit a case'}</a>
@@ -3170,6 +3217,8 @@ function App() {
           </button>
         ))}
       </section>
+
+      <ComparisonShowcase language={language} />
 
       <section className="gallerySection" id="gallery">
         <div className="sectionHead">
