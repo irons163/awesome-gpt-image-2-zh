@@ -1453,6 +1453,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-506.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "dfd56d5e013926382de4f2bea3c114af13656b6741d1d9643f6cd338f9612979",
+          "outputSha256": "06a2908592935957ad2bedee8500b9a91682aa8caab2bb1ad17a2c9c45aee858",
+          "status": "published",
+          "reviewNotes": "人物主題創作，並非本人代言或官方宣傳。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-506-thumb.jpg",
+          "thumbnailSha256": "03f937d207453419495578c3969a12c7b2b1f7cc969b98891cc5215a6bf8eccb"
+        }
+      ],
       "id": 506,
       "title": "可愛髮卡圖文人像海報",
       "image": "/images/case506.jpg",
@@ -1824,6 +1841,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-495.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "e3a327a2ce1ba3c24264080aa9fc9425a5c932f7b97f66f8a5b9fc99572351a1",
+          "outputSha256": "8d6eb6170da5456f51268cff1cd61c7b158251fac21e71b72a0da8a8afa800ed",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-495-thumb.jpg",
+          "thumbnailSha256": "a4d3a5c2a411bd8878a4bb796d2086cfef51685669e82e3a31698f9c046fdc44"
+        }
+      ],
       "id": 495,
       "title": "巴黎街頭故事書插畫",
       "image": "/images/case495.jpg",
@@ -2137,6 +2171,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-485.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "c4606eaf061f60bf7a9c8bb3414ad78daee50c332563fb6496f411341a16c9b1",
+          "outputSha256": "0c5eb1d4d7f8a40f6be865b672cc14467157211c8b424190a63df14e98623e15",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-485-thumb.jpg",
+          "thumbnailSha256": "a4608faef39fdae5b3a9f33aa12b4cf5ab2d580d6319dfd9f2188ad57cf810cb"
+        }
+      ],
       "id": 485,
       "title": "時尚目錄電商拼貼",
       "image": "/images/case485.jpg",
@@ -9365,6 +9416,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-292.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "5d6e02334d7959d1acad1d9da96e202d13e43e137d9f270e09a9b1b0892e05da",
+          "outputSha256": "708f8d4a30369ed1f734480093023d4f9decd32e3b3b931b7bc38bbfb80d5ee6",
+          "status": "published",
+          "reviewNotes": "虛構穿越貼文；模型將寶玉誤解為紅樓夢人物，未呈現所指定 AI 創作者的業務特徵。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-292-thumb.jpg",
+          "thumbnailSha256": "e828bc844d158e1e0c0530161e4159dfc765540a80ff7138471757e3ab8d9cd2"
+        }
+      ],
       "id": 292,
       "title": "明朝登基寶玉的推文頁面",
       "image": "/images/case292.jpg",
@@ -11410,6 +11478,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-237.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "afa34ce72b8deabe6c1427283c241272699bf91d4d7b4a153f82f6a2de4525c2",
+          "outputSha256": "3ebe2930d5cd7d130d3f2d9921311cbc26343c91cd7aef51c40d705f96d7a2a9",
+          "status": "published",
+          "reviewNotes": "虛構飲料廣告，未進行轉換率測試；產品宣稱為示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-237-thumb.jpg",
+          "thumbnailSha256": "c2cf877fea3abe8e32eddc099a313444fdde791c3c707f41643a4144fc7ec565"
+        }
+      ],
       "id": 237,
       "title": "夏日柑橘蘇打高轉化廣告圖",
       "image": "/images/case237.jpg",
@@ -18103,6 +18188,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-69.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "571d337dbfb42d78433acdfe19bee833688567e0497b46103f369349758bc391",
+          "outputSha256": "8344c075faebbb20c8c62cb5913d78135c07e6b03fd7e0d380dca00ecf38745f",
+          "status": "published",
+          "reviewNotes": "醫療圖解含解剖或標示錯誤，不能作為診療依據。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-69-thumb.jpg",
+          "thumbnailSha256": "58b04d3c66e935e795c2c93efcf375dfe3c2cefe00bd9bef6f4cd01888bae3b4"
+        }
+      ],
       "id": 69,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case69.jpg",
@@ -18130,6 +18232,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-68.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "571d337dbfb42d78433acdfe19bee833688567e0497b46103f369349758bc391",
+          "outputSha256": "71953d8617fd90f5fb1a31cc1b4f53fe01a00e69166eb893889631de004c59e6",
+          "status": "published",
+          "reviewNotes": "醫療圖解含解剖或標示錯誤，不能作為診療依據。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-68-thumb.jpg",
+          "thumbnailSha256": "f4302882e6b9dc788f7658a88975db87a4f0d233e56f514200a9ed146bfec1f0"
+        }
+      ],
       "id": 68,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case68.jpg",
@@ -18157,6 +18276,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-67.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "e67b2d98b726589ab30ea5878f1fa743cc8b137b8b372adb525e0c36dfa1dafb",
+          "outputSha256": "db481a89d58b33ce05f8cd43c310a5f6057a79820486c86a2e019669ee44c475",
+          "status": "published",
+          "reviewNotes": "醫療圖解數值與標示需專業核實，不能作為診療依據。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-67-thumb.jpg",
+          "thumbnailSha256": "6ad39264efd3a7972b4c09ea091bf2249993dea32bf5d5546b927f771e246d5f"
+        }
+      ],
       "id": 67,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case67.jpg",
@@ -18183,6 +18319,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-66.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "7035af6a6e80926982feb7f36e7b9e8821300a028426d0b16e11d084bd7bcc52",
+          "outputSha256": "a5170b9de948ada3140acb5b73d95fb7a791dd11738f20798c650dbfefd4983b",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-66-thumb.jpg",
+          "thumbnailSha256": "2f935e32b526f906253857cefa1af38e2ee8d8cba1d6e43f1064450923626459"
+        }
+      ],
       "id": 66,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case66.jpg",
@@ -18209,6 +18362,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-65.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "f91d26ba239647b5b5e17bc1b6fbe0944c75255cc66ae68947344ece90191040",
+          "outputSha256": "5dfbddf87c7866b4dcd36292a00f99bc9e9e879182c7902c5c21f2a88f6502ab",
+          "status": "published",
+          "reviewNotes": "宗教比較及年齡分段為模型概括，並非客觀定論。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-65-thumb.jpg",
+          "thumbnailSha256": "932f4170bb59d8feabe58c858ad691d3709077b1499cd8ca9b2c353c401d9410"
+        }
+      ],
       "id": 65,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case65.jpg",
@@ -18236,6 +18406,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-64.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "b178183ac03d8275bcae4c0ac114ef7c5a74ea8b26513c4e275f853f6167d3b9",
+          "outputSha256": "49cdbae8d39219dc3092c3b6896c035a011d2570c72c89e2f3caa8d879728924",
+          "status": "published",
+          "reviewNotes": "情緒照護示意，瞬間改善的標題並非效果保證。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-64-thumb.jpg",
+          "thumbnailSha256": "a2a87d7b0fce4aee049ff785bfe62d1fc846b4f61a5859727ba0844415d3dc6c"
+        }
+      ],
       "id": 64,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case64.jpg",
@@ -18262,6 +18449,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-63.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "572e7fa6c4b458fa4239a1b51be065a99433a9e4b43dece4b8cdc5ec6ff8b1a8",
+          "outputSha256": "4cf746d59b845e19c73f4fb3aeece5eb00da70b116203a13c3ccd128baa05d64",
+          "status": "published",
+          "reviewNotes": "虛構課程廣告，招生與成效敘述為設計示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-63-thumb.jpg",
+          "thumbnailSha256": "58623d8e854c7c8288668db599548dd48f9308e9233114d9b6608e3ee679e833"
+        }
+      ],
       "id": 63,
       "title": "主題海報版式設計",
       "image": "/images/case63.jpg",
@@ -18287,6 +18491,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-62.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "dc285074538b26f43afd4b5ccd4d61bda29606a98a8fd405d0e2a75cee5e1bf9",
+          "outputSha256": "6bd92ee7e946cd3e1b9b495582bb95ec6741c33914804d36d22ac68e727f4f9b",
+          "status": "published",
+          "reviewNotes": "虛構課程廣告，收入與成效敘述為設計示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-62-thumb.jpg",
+          "thumbnailSha256": "24fbe9b3a5ecde0246837d14938797087ebd7b9de8e27ba3d170440bf764d700"
+        }
+      ],
       "id": 62,
       "title": "插畫藝術風格創作",
       "image": "/images/case62.jpg",
@@ -18313,6 +18534,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-61.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "218e316d8f453dc9fdabc0f2cecd905fb0ffa25a39a39b320647fdde9f2fe872",
+          "outputSha256": "1d63c74a54ed6965b3518e1e1dccae79d60efd0e6c7e290e93d21c0100e80578",
+          "status": "published",
+          "reviewNotes": "虛構課程廣告，數據與成效敘述為設計示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-61-thumb.jpg",
+          "thumbnailSha256": "2b3af73c8755a6f0e960d88290af2d0acb3a8d7d6a8a24d166bc8dac3ec07ce7"
+        }
+      ],
       "id": 61,
       "title": "主題海報版式設計",
       "image": "/images/case61.jpg",
@@ -18339,6 +18577,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-60.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "7e50fad6e8df4d1021811b7b61cfad74bf1c81af08c50e9c15cd6383bbcad7b2",
+          "outputSha256": "9bc2f32791f3dec034add720d47f4e50c8c0839abba975fdffbdbce15a47ce07",
+          "status": "published",
+          "reviewNotes": "時鐘、牌面、棋子與骰子細節可能未符合指定數量或規則。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-60-thumb.jpg",
+          "thumbnailSha256": "4dfab4c4fcd75497c3b55ce16c412fa22b561e263555b572778efe067b5fa3ae"
+        }
+      ],
       "id": 60,
       "title": "漫畫分鏡敘事設計",
       "image": "/images/case60.jpg",
@@ -18366,6 +18621,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-59.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "41864e8ebeab084bda9ae65869e4e2227109f7e79abc41d7436edada7c119d25",
+          "outputSha256": "f2db0ee7517e6f88f757e183b087f05b2e8e183c46bf112cff8bd85563b82a65",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-59-thumb.jpg",
+          "thumbnailSha256": "577172b44b403c1fa9a7053b98ee168242a32893c8d582c48dc34a0a979d673f"
+        }
+      ],
       "id": 59,
       "title": "主題海報版式設計",
       "image": "/images/case59.jpg",
@@ -18393,6 +18665,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-58.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "8bf4719d56fac1cd45c26d7c849cbbd4db792331fbdc97958b9a3a386574c51f",
+          "outputSha256": "66727f050b6a2215053a9347ec09edb601993d63d78daf6ae56bf3273d7200a9",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-58-thumb.jpg",
+          "thumbnailSha256": "8b8f5c6f0d3818d58c7e228746ab762d1adc3e6684969ab0a01794287f08704f"
+        }
+      ],
       "id": 58,
       "title": "主題海報版式設計",
       "image": "/images/case58.jpg",
@@ -18420,6 +18709,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-57.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "02da78dfc803183cd2d221706bf109bd8fa8652500debbadf06287ba727ab5ca",
+          "outputSha256": "712f64c5a7ed94de9ed83aa7575308006b7e1f6190edba614fcb0a7f530fe816",
+          "status": "published",
+          "reviewNotes": "架空歷史社群貼文，並非真實帳號或史料。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-57-thumb.jpg",
+          "thumbnailSha256": "220bb947baec3c4a570da58694ceeec12cf1a9b1a2a74c93449b99750f545c7c"
+        }
+      ],
       "id": 57,
       "title": "介面互動設計圖",
       "image": "/images/case57.jpg",
@@ -18447,6 +18753,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-56.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "09f084486668a92a4b199b2d952222b65a2d99fabbe9706c7379f29795bf4107",
+          "outputSha256": "1ea97d43b972d8b5aea74a7aca1c23c3992ace0db269b2cea3c2e6ca0dea61b6",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-56-thumb.jpg",
+          "thumbnailSha256": "f8d96953f7655c1f633773b439d912f1197267d771828cf5d31b2c2413a49077"
+        }
+      ],
       "id": 56,
       "title": "寫實攝影風格創作",
       "image": "/images/case56.jpg",
@@ -18471,6 +18794,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-55.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "747c43abfb2f67350382a40eba91d256db6c7ed40dbea6c1f9d3f3db135f72e9",
+          "outputSha256": "5ccb617515641ba9e2f50671abb7558ed2fcf2df6f9078a6387c55f2e937cc99",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-55-thumb.jpg",
+          "thumbnailSha256": "cc860428f7e9871e7daa28a852ea3552e6363c19117ac9b96b8e77f2230bd3b0"
+        }
+      ],
       "id": 55,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case55.jpg",
@@ -18521,6 +18861,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-53.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "0cc43d43abb3937a39769bdcfbebbfa72ca0ce03009c37ff7d23fa32ff9859fb",
+          "outputSha256": "09c5e1d4ce6a4b3f174d9605d3a68215cb5842a50c80113775cfd387543019e1",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-53-thumb.jpg",
+          "thumbnailSha256": "3be9c1eeb3e37428bcc84a5385523916c8aa16e76b6b953cbe345e44a1e2a5f3"
+        }
+      ],
       "id": 53,
       "title": "室內空間渲染圖",
       "image": "/images/case53.jpg",
@@ -18548,6 +18905,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-52.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "0901b5304062c6c34bdfd8e5decb5ebc6a5031700295a652cfb1196705cb208d",
+          "outputSha256": "8866fff2d69627ef9e386b52dddea0f54238ce656767af20a0c08d94758b9cd8",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-52-thumb.jpg",
+          "thumbnailSha256": "361767f4cc501dd0a739403c72fc188ace1a765227e5fee9ba896c1d2fb0f4b7"
+        }
+      ],
       "id": 52,
       "title": "寫實攝影風格圖",
       "image": "/images/case52.jpg",
@@ -18573,6 +18947,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-51.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "1030e00cd214816d20095f01648f9e24c58b67883ee72b321fb99e5202d94782",
+          "outputSha256": "526f2a28d2f018813e21fd61d8c19cfb2d101dda454ef56b4cff194032e4e480",
+          "status": "published",
+          "reviewNotes": "服裝價格與評分為模型生成示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-51-thumb.jpg",
+          "thumbnailSha256": "3e82f8317d20dccb3a86521255fa894ede43639539c930e327074932bee8fb42"
+        }
+      ],
       "id": 51,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case51.jpg",
@@ -18599,6 +18990,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-50.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "29d85e841153f4b30c57c5ddd445d3e7665d635171ee38577376470a662c25aa",
+          "outputSha256": "3dbbe5f6caf44856307bcba92370a892c7225dc9e5c981fa3567063dc579c41e",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-50-thumb.jpg",
+          "thumbnailSha256": "6944b90f1bb43f813a071b9d02d3e3504b0ff46bd4ae511c588ed558e53e7d7e"
+        }
+      ],
       "id": 50,
       "title": "建築空間場景圖",
       "image": "/images/case50.jpg",
@@ -18624,6 +19032,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-49.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "3fee190f36f929ed066977146d58d394e71de5d64195c7827bb2e56b59d10b69",
+          "outputSha256": "c0fa962f56b5a739c677fdd2cca80df8dd2f70ad999895de1aadac4e451ec66b",
+          "status": "published",
+          "reviewNotes": "AI 合成的虛構直播畫面，並非本人真實直播或代言。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-49-thumb.jpg",
+          "thumbnailSha256": "024380671969069ad804823b3d5379a0dcb64abf47622a6fc5636ac61f2e1e0d"
+        }
+      ],
       "id": 49,
       "title": "直播介面設計圖",
       "image": "/images/case49.jpg",
@@ -18647,6 +19072,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-48.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "3fee190f36f929ed066977146d58d394e71de5d64195c7827bb2e56b59d10b69",
+          "outputSha256": "ff1dd0e82b13faa1556ab34916a3d261e571f4913a78cf9b06d39959494acac3",
+          "status": "published",
+          "reviewNotes": "AI 合成的虛構直播畫面，並非本人真實直播或代言。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-48-thumb.jpg",
+          "thumbnailSha256": "14da3a03ecd1197dd4e83a01d2152dd37f84ff20025a7413014247d368a55e7c"
+        }
+      ],
       "id": 48,
       "title": "直播介面設計圖",
       "image": "/images/case48.jpg",
@@ -18670,6 +19112,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-47.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "6c48656be6ef683092027d62571306dd3eef9169e14dd8150800f3266719de84",
+          "outputSha256": "a6bc5d1cd0f7bae740d1f2d3eaf06a26060edda561332d1a9e6feeadaf30cbe6",
+          "status": "published",
+          "reviewNotes": "虛構廣告，價格、促銷、效果及人數為設計示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-47-thumb.jpg",
+          "thumbnailSha256": "0bef4f03d06832d23d355e943066eaee42154a33ce461adc67e5d02cfe08b2fc"
+        }
+      ],
       "id": 47,
       "title": "建築空間場景圖",
       "image": "/images/case47.jpg",
@@ -18722,6 +19181,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-45.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "7edabfe478bca24e5ff0735e5034787baa7bd1d95e96ba034b420c2982b294ca",
+          "outputSha256": "141a9ba9c20a1bdbfc58e827492dd125a58f0a4e31c0fddae7b69b738bda5af6",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-45-thumb.jpg",
+          "thumbnailSha256": "e2ed3d5e9bb10f79146bf853eb34e34bfb724124d3215608615eb8c042f31a71"
+        }
+      ],
       "id": 45,
       "title": "人像寫實攝影圖",
       "image": "/images/case45.jpg",
@@ -18773,6 +19249,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-43.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "3b0c81063553822eea4b801404821cca01b227b732ae9807b6db7fcb22bd9fec",
+          "outputSha256": "03f57b71b314992acf6154313f6f3969845eb1aee64bf9480f145cf082533fa9",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-43-thumb.jpg",
+          "thumbnailSha256": "6f9b5e8ada6d09357fdfc74e9d3abf4e419e3d25f056f9815bf90c8b67c34c9e"
+        }
+      ],
       "id": 43,
       "title": "插畫藝術創作圖",
       "image": "/images/case43.jpg",
@@ -18798,6 +19291,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-42.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "870bb0eb13bf2310a5067f23d7fadcdb454eb4ec48830ace2f8321b124933962",
+          "outputSha256": "9d251a59153c46a2e9a5880f331e0c656792b91791b8c7ab317e87189a50881e",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-42-thumb.jpg",
+          "thumbnailSha256": "7d6c6655d5917e1c4027ac12a7dc7402e587dc0eebc33357ab64f9a2c49106ac"
+        }
+      ],
       "id": 42,
       "title": "寫實攝影風格圖",
       "image": "/images/case42.jpg",
@@ -18825,6 +19335,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-41.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "b9a9cfaf2b9a5dceef80e818816501c637c728284108356a6b46bafcd2a6c659",
+          "outputSha256": "5330f6e61963600158e3f4ae072d987fb56a4367561ffd4a5fe6b9e61be3d833",
+          "status": "published",
+          "reviewNotes": "虛構角色簡介，帳號、連結及創作者資料為模型生成。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-41-thumb.jpg",
+          "thumbnailSha256": "4614bc0a9d597209841f272ae61a173154b1116f5ce8f37857107f4ab8ae6198"
+        }
+      ],
       "id": 41,
       "title": "插畫藝術風格創作",
       "image": "/images/case41.jpg",
@@ -18852,6 +19379,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-40.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "069f10fe537aafce754d027a6815b1238fe3c8de71e610afd15f9c292fc302b6",
+          "outputSha256": "f3ca2dd9a593f4ccd050cac9cb282e0da8d0ec1c473655ab014b5fe93beade8c",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-40-thumb.jpg",
+          "thumbnailSha256": "987fb37689b2a0b244abce0398b27f2970a985e90b2cfbddc2efc53a50e388a5"
+        }
+      ],
       "id": 40,
       "title": "綜合應用場景圖",
       "image": "/images/case40.jpg",
@@ -18877,6 +19421,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-39.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "069f10fe537aafce754d027a6815b1238fe3c8de71e610afd15f9c292fc302b6",
+          "outputSha256": "b9fa913c844f3dcdf45f90b57cb392804cbfe86df84d321bb05f66539cfda8ac",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-39-thumb.jpg",
+          "thumbnailSha256": "393b706c8ed23a09507d9ef7209946340c3d2c1a07b54d6f29248c579da6548b"
+        }
+      ],
       "id": 39,
       "title": "綜合應用場景圖",
       "image": "/images/case39.jpg",
@@ -18902,6 +19463,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-38.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "069f10fe537aafce754d027a6815b1238fe3c8de71e610afd15f9c292fc302b6",
+          "outputSha256": "2852425eb8cfc0dcbcecfa61672d38e1329ece564be3a9fb092d80247da8fc4d",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-38-thumb.jpg",
+          "thumbnailSha256": "b5b20ebe59ea36ca557f0447a05a0125b4159feaf93b2769616f0b69ba7937e5"
+        }
+      ],
       "id": 38,
       "title": "綜合應用場景圖",
       "image": "/images/case38.jpg",
@@ -18927,6 +19505,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-37.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "069f10fe537aafce754d027a6815b1238fe3c8de71e610afd15f9c292fc302b6",
+          "outputSha256": "bdded83090a5c7763d659ac6c228c704ac3aa693dc68f4b70e75aedfe6b254b8",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-37-thumb.jpg",
+          "thumbnailSha256": "41136fc24318037a76967c4b9792e35d240a9b8449136644e99b9378c8b5bcc7"
+        }
+      ],
       "id": 37,
       "title": "綜合應用場景圖",
       "image": "/images/case37.jpg",
@@ -18952,6 +19547,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-36.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "453c9ffaa0b622656079c0ec85232ec2e5dc622c75155b0f31b70452113b68ce",
+          "outputSha256": "7c4ccdcbdad0f9510e7b977ca23a11145ecdf9b154097ed9c26229f62f850e7d",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-36-thumb.jpg",
+          "thumbnailSha256": "893b64ba856f3996636f220162222f0c14091513ed0b735bca4689e87e21f4f9"
+        }
+      ],
       "id": 36,
       "title": "品牌徽標設計圖",
       "image": "/images/case36.jpg",
@@ -18978,6 +19590,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-35.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "8e607dfb2ee797f43fe3bd99a830ed2683c3403da49c3c88c03b6d462165b03e",
+          "outputSha256": "292a691a968debfc5cd2e499ec2a9504812d093a539b291714cdd2314fca8502",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-35-thumb.jpg",
+          "thumbnailSha256": "cfb506b52fec7eddaa60ca2dc00edc2d93de9ca54aad61f1cfc49d3558bdb8e6"
+        }
+      ],
       "id": 35,
       "title": "人像寫實攝影圖",
       "image": "/images/case35.jpg",
@@ -19003,6 +19632,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-34.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "03bd9990e3ffc55f938d294a45dc9ecb0b90c0f0a5548e4a0a120cfe85d00a10",
+          "outputSha256": "c13f46117bc53c2d3a5d129ab57c7e5ea0d06dab6ffd8a8931b35de77bce7dd1",
+          "status": "published",
+          "reviewNotes": "角色名稱沿用原提示詞，包含牛魔扭結、紅男孩等誤譯。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-34-thumb.jpg",
+          "thumbnailSha256": "7c1b3743d24c5e44dc96a9a9837797f3b7d4424b1e0babc1101318637d19d84b"
+        }
+      ],
       "id": 34,
       "title": "插畫藝術創作圖",
       "image": "/images/case34.jpg",
@@ -19029,6 +19675,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-33.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "2da9f9c1d8a6784f6f0815e5366420d0c250c3bb6d4351fa90204416800801f1",
+          "outputSha256": "730490de8afd4f8648c6fd43028941d3c0d014b59f198c08dc92374a2038245b",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-33-thumb.jpg",
+          "thumbnailSha256": "256817c6cab83e441c74f98ee793a03b708c9fa5ca8dc93191dd8789f3d9e099"
+        }
+      ],
       "id": 33,
       "title": "電商商品展示設計",
       "image": "/images/case33.jpg",
@@ -19055,6 +19718,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-32.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "233daa0e51c33b50ae8f221cf0b9ebcd88a0feb0503fb8560435799d544d60ea",
+          "outputSha256": "6e1128b915cf74be3731d0e31dda1d1bb34430408eb8ff434e62d91c9c1ba1fc",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-32-thumb.jpg",
+          "thumbnailSha256": "a7627a3beb65fd9098c061d5475ff7f647ecf6b03c40ac0550f70ac2693c2e23"
+        }
+      ],
       "id": 32,
       "title": "插畫藝術創作圖",
       "image": "/images/case32.jpg",
@@ -19107,6 +19787,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-30.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "fe094f171b06c93ed4b36eaa302a7c03a5092356dd90e3f34818e72cc36dafa9",
+          "outputSha256": "cfb3f8ddb103a41f62c57eac5f844a7693c987e9f31be13c8f49afc116a17ee2",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-30-thumb.jpg",
+          "thumbnailSha256": "61a5b7f0772769b2f15e0824dc57a919166c290da8bac621834b65c622977ba6"
+        }
+      ],
       "id": 30,
       "title": "寫實攝影風格圖",
       "image": "/images/case30.jpg",
@@ -19159,6 +19856,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-28.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "27fb7861a94e4a686860e4f9139646211b8480374d9ee335af393b65bdc855ec",
+          "outputSha256": "25149a39fa0a76dfdfb23106dade9bca869c85df34a4be934df0a8c991a7475a",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-28-thumb.jpg",
+          "thumbnailSha256": "0dd39e6479505beca692552cabab5f41bbe7379a90a24a76caa504f5179234ff"
+        }
+      ],
       "id": 28,
       "title": "寫實攝影風格創作",
       "image": "/images/case28.jpg",
@@ -19186,6 +19900,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-27.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "aca77b9279e78b175920fe27cc709a879b42484c3357e152255b1eb950d96b97",
+          "outputSha256": "463edb69bcf87818ad8cd571a73d776dcc66601703a609f0af1e2c343d1a7684",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-27-thumb.jpg",
+          "thumbnailSha256": "b9314446bd90a2a459eab13918a37b6c3c7a7233aca0d9e3435f506a68d9fb02"
+        }
+      ],
       "id": 27,
       "title": "人物角色設定圖",
       "image": "/images/case27.jpg",
@@ -19259,6 +19990,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-24.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "6e66f575f4c7f932bbbfb3cc31de8c260cab3e3ac52ddd5dad3ccb852e8377ea",
+          "outputSha256": "f2e5015608e2e38e009413dda6cb219553725d8c5034598e39081f0a6b49f5ae",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-24-thumb.jpg",
+          "thumbnailSha256": "cdf69638794a058c010f0002bedb410e616917da072c176259c5ed0b44bc1d6c"
+        }
+      ],
       "id": 24,
       "title": "漫畫分鏡敘事設計",
       "image": "/images/case24.jpg",
@@ -19308,6 +20056,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-22.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "e7c633062d022b16718ca608d93d5700e4a7cc5a6257ed3b4a6d52ab26168c11",
+          "outputSha256": "d9a3924d648fad96c0622e9b9d5ea06e72c92dc2309073cbac6f3758d397d25d",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-22-thumb.jpg",
+          "thumbnailSha256": "d19ba73da3ef9eddcb23dfb56fd59783b78fea851331f55ba0bc2a89da0ae234"
+        }
+      ],
       "id": 22,
       "title": "插畫藝術風格創作",
       "image": "/images/case22.jpg",
@@ -19334,6 +20099,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-21.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "493a004a8b38130d0e4e4ba9d61acbcef8139e085f735f1ace7ea88f94407ad3",
+          "outputSha256": "3bc6768d6120df65be49a9f71aa8d1bea2256b9bb5defd24ee7451ad5877e375",
+          "status": "published",
+          "reviewNotes": "AI 合成的虛構直播介面，並非本人真實直播；價格與互動數據為示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-21-thumb.jpg",
+          "thumbnailSha256": "cdcdb78df8294c77c583e7b42d98a257bbc07bde4e9429bb8578fdebdbd3d6d5"
+        }
+      ],
       "id": 21,
       "title": "直播介面設計圖",
       "image": "/images/case21.jpg",
@@ -19361,6 +20143,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-20.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "bba20efab0d470101781f8680d16d05b355251fe20a471f58cf6fab14c337b67",
+          "outputSha256": "048118452ede2e1924d05311bb384d5a587d3d999175714452317168461516b4",
+          "status": "published",
+          "reviewNotes": "桃太郎故事改編的虛構公文風設計，並非政府發布，圖表數據為示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-20-thumb.jpg",
+          "thumbnailSha256": "498746c4c55ad443c7cac16915bca1d2e852d657ec42d63bf67263eb75ab2669"
+        }
+      ],
       "id": 20,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case20.jpg",
@@ -19385,6 +20184,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-19.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "bba20efab0d470101781f8680d16d05b355251fe20a471f58cf6fab14c337b67",
+          "outputSha256": "29e419d8813dd52db9ad294a1a57449f4da22243473a1527ba95fdcd059a9689",
+          "status": "published",
+          "reviewNotes": "桃太郎故事改編的虛構公文風設計，並非政府發布，圖表數據為示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-19-thumb.jpg",
+          "thumbnailSha256": "6a8b294ab8264401dcaccd572a38e9f81dc100200067d03199752bc16189f9f2"
+        }
+      ],
       "id": 19,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case19.jpg",
@@ -19409,6 +20225,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-18.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "3ddb879d1aa055364024b2053a0984bb9c6ec6888417c8d332b1f7782fc6d346",
+          "outputSha256": "f90e979ff416bfd48fb303a1e0f27f53cce438d401273fdcf78d2e8b146d763c",
+          "status": "published",
+          "reviewNotes": "手繪地圖位置、店名與菜色僅供視覺示意，未核實。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-18-thumb.jpg",
+          "thumbnailSha256": "5392fa1f67b63255e7c7d62b19a747eb92765b980d1321866f478e282c53c1c2"
+        }
+      ],
       "id": 18,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case18.jpg",
@@ -19436,6 +20269,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-17.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "f751e30078ca4a64b24009d4f1552027b05fc51c70f039f98c07765aa80b7bff",
+          "outputSha256": "e538d7ccb53ba037bac3f9515f8edf267c1f7b9da58a42cbcb6a62b921d84ff3",
+          "status": "published",
+          "reviewNotes": "產品拆解為生成概念示意，並非精確內部結構或官方資料。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-17-thumb.jpg",
+          "thumbnailSha256": "3d26fee745bfb685115d74fe09f45fe982c1fc43647cc6b79041d83c06c8635e"
+        }
+      ],
       "id": 17,
       "title": "介面互動設計圖",
       "image": "/images/case17.jpg",
@@ -19462,6 +20312,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-16.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "16f49da117ec46b0a0b08a915f1ba7917ec58a542007f9adc175647717cea032",
+          "outputSha256": "3c65af51ed3171fde1d7054f368549aa7abc275716d7c9fa5a09dcaadc9e2b1c",
+          "status": "published",
+          "reviewNotes": "原提示詞含未填入的變數，畫面保留 XXXX。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-16-thumb.jpg",
+          "thumbnailSha256": "cd3b183acd7ef55d910906b99a51481ce0aa41b0ea30a02fcc7aa8acaba724b4"
+        }
+      ],
       "id": 16,
       "title": "主題海報版式設計",
       "image": "/images/case16.jpg",
@@ -19485,6 +20352,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-15.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "8f29fcc71538d7f84c482145ed04d94705549b616a92d630f953671704d423ce",
+          "outputSha256": "5acd96715b1b0633f5baf8959e2c06159fb10ab692f6411341a08c5efed49cac",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-15-thumb.jpg",
+          "thumbnailSha256": "a12e2e37c86c3c901948b47cc3e66ffde45791bc523ffe8440f9572edb759990"
+        }
+      ],
       "id": 15,
       "title": "主題海報版式設計",
       "image": "/images/case15.jpg",
@@ -19509,6 +20393,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-14.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "bc05e3c4ce21b46499e06d4b4913c52805b92ad4e2744d3b3f92d2f9c41ca99a",
+          "outputSha256": "3c02d94975e4f8bac4712283099724b70853513e5bf8b605bbb59251978a60a3",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-14-thumb.jpg",
+          "thumbnailSha256": "65b26cb0012aa3efebf6e92940066d4fe72e71ea27182fe269d94d4080fd61ba"
+        }
+      ],
       "id": 14,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case14.jpg",
@@ -19532,6 +20433,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-13.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "268f3a95b52dd593f2d5b9bba4fd372c122a30894420e18cd68c5768ff93ccd2",
+          "outputSha256": "669cc1aa1b380d80651825f2fbbd279a0d07cd000f2b23f93f4ef11c6786d1d0",
+          "status": "published",
+          "reviewNotes": "虛構試卷，幾何圖與題目選項可能存在錯誤。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-13-thumb.jpg",
+          "thumbnailSha256": "8766c3f515ccb9c879c1650ac6ccec9f5da1d7c03f039b1087393a56b4f91909"
+        }
+      ],
       "id": 13,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case13.jpg",
@@ -19558,6 +20476,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-11.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "b81a82620f7fc35414f39166460283384e78ad7ded368f9c1732f60d56077b53",
+          "outputSha256": "ed6a881ea3771b662aa217e253f26a028447f1748fbf08425e88dea139fca565",
+          "status": "published",
+          "reviewNotes": "手繪地圖位置與菜色僅供視覺示意，未核實。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-11-thumb.jpg",
+          "thumbnailSha256": "f659fe532469ddc7591ab51c21fe93cac066fe570f009b7233eb4f7a169f67d2"
+        }
+      ],
       "id": 11,
       "title": "一張手繪風格的城市美食地圖，以台州為主題",
       "image": "/images/case11.jpg",
@@ -19581,6 +20516,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-10.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "769014fbda5d7256e010820436816c6f89a49c6b0c6e59c9f7be453da06dc470",
+          "outputSha256": "cf17c75cc72e30e1d2d3f2f64f99a58a20c9710316c97aa1e9cdadf55ad5037f",
+          "status": "published",
+          "reviewNotes": "復古風虛構宣傳畫，並非官方公告或人物真實活動。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-10-thumb.jpg",
+          "thumbnailSha256": "78991402051725170dccb02310865f23b0f7dda69b709508cf47c4c8c9fbd9da"
+        }
+      ],
       "id": 10,
       "title": "主題海報版式設計",
       "image": "/images/case10.jpg",
@@ -19605,6 +20557,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-9.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "e355d41634e61c19903e93416826a6d8adab1c9f61d599893c8416dfdbf28e65",
+          "outputSha256": "169812e990be5e4402f293874ecb838ee98dbad3bd505b9d84bb7307e5227623",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-9-thumb.jpg",
+          "thumbnailSha256": "0b938727f41a4094f3bcd039dc4430a48af50d90bc69bcd3b25901c5d77efb38"
+        }
+      ],
       "id": 9,
       "title": "主題海報版式設計",
       "image": "/images/case9.jpg",
@@ -19629,6 +20598,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-8.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "dca17f1fc6035ce889cafe869a08fd41e9eff6cfee216da37838accd364da053",
+          "outputSha256": "24d534b3c609a64a1b1e0135664ae59be26c1ec9053432a3fc7eb4994948a91e",
+          "status": "published",
+          "reviewNotes": "百科卡含未核實資訊與保育等級錯誤，不宜直接作為科普資料。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-8-thumb.jpg",
+          "thumbnailSha256": "3d690f8d5cf5e9d1719129f8b9da1ab1697fb067f2f208e217d50a4fda42da37"
+        }
+      ],
       "id": 8,
       "title": "科普百科圖",
       "image": "/images/case8.jpg",
@@ -19707,6 +20693,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-5.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "adc734ec2b10bb199335fcaee957a23fe59fcdae5a5f6bb3b42e635e1a62c0bb",
+          "outputSha256": "0a602ca838d289a21b6ce294eee1698b6a193e6046e4e1edee23c74d494561a9",
+          "status": "published",
+          "reviewNotes": "",
+          "thumbnailImage": "/images/gpt-image-2.5/case-5-thumb.jpg",
+          "thumbnailSha256": "523c4dfd788d552763b0cd2ad58f7a99cec3daed7a1320b14891cc37771132e7"
+        }
+      ],
       "id": 5,
       "title": "主題海報版式設計",
       "image": "/images/case5.jpg",
@@ -19732,6 +20735,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-4.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "7da10e70871288eab81d2a6410073de7f35251a0e9a26283af203f0134f06f1a",
+          "outputSha256": "2c1e4c25f4e0363d3df153bd022a8599a556e9e58ee08e875720fd9244899738",
+          "status": "published",
+          "reviewNotes": "AI 合成的虛構諷刺直播畫面，並非真實直播、引言或代言。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-4-thumb.jpg",
+          "thumbnailSha256": "c8f8ba5d9798488a5e8d20b75fc22726e7b862b14b4312932c00ac46fa79f902"
+        }
+      ],
       "id": 4,
       "title": "老干妈風味",
       "image": "/images/case4.jpg",
@@ -19755,6 +20775,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-3.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "f673f1dd0edc3b642e7a43e166aab0258fe81c5a186aaaf6259014926c387194",
+          "outputSha256": "846cae6da9849002df929c33a94e82f7234989179e9abbbf144327470943171c",
+          "status": "published",
+          "reviewNotes": "虛構體育海報，並非真實比賽紀錄。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-3-thumb.jpg",
+          "thumbnailSha256": "2030279abca00619d8cf888cef3487c417418b95d3c7cbf77f2c45f98a9f29e8"
+        }
+      ],
       "id": 3,
       "title": "足球主題電影海報",
       "image": "/images/case3.jpg",
@@ -19780,6 +20817,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-2.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "2b4090f332d9e5f77c6dec6a8ca7ab3d7c68148cf23a1dabfd1fc0028016ab39",
+          "outputSha256": "b76457808051488e631b69e175ccf22a66d955c1407f05cf986c74dc8a6c4b93",
+          "status": "published",
+          "reviewNotes": "AI 生成的虛構 X 貼文，並非 OpenAI 真實推薦或背書，互動數據為示意。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-2-thumb.jpg",
+          "thumbnailSha256": "5c7b59d3d258604c3fce02dde3b83b9ad60eaa05580c3d1c0a6467217b6b661e"
+        }
+      ],
       "id": 2,
       "title": "社群媒體介面截圖",
       "image": "/images/case2.jpg",
@@ -19805,6 +20859,23 @@
     },
     {
       "model": "gpt-image-2",
+      "imageVariants": [
+        {
+          "model": "gpt-image-2.5",
+          "actualModel": null,
+          "generationTool": "codex-built-in",
+          "modelBasis": "official-release-and-user-confirmation",
+          "modelSource": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+          "image": "/images/gpt-image-2.5/case-1.png",
+          "generatedDate": "2026-09-09",
+          "promptSha256": "6d7437c7d2f1b918d16216b1f8e97ed1727c1c1c1bccb76634d7c4030f5e02bc",
+          "outputSha256": "a460a073a469a3550bf35bd655debf1f9fb4d5b5b6719584469f5269a5e62add",
+          "status": "published",
+          "reviewNotes": "城市剖面及數據為概念示意，並非經核實的工程圖。",
+          "thumbnailImage": "/images/gpt-image-2.5/case-1-thumb.jpg",
+          "thumbnailSha256": "f24165638d73911d5399a4174861d7eac002b013091433e7d898518e38e41269"
+        }
+      ],
       "id": 1,
       "title": "資訊圖表視覺化設計",
       "image": "/images/case1.jpg",

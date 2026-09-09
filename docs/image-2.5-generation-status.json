@@ -1,6 +1,46 @@
 {
   "target": 541,
   "cases": {
+    "6": {
+      "status": "missing-reference",
+      "note": "提示詞需要原始人物、角色或結構參考圖，目前未提供。"
+    },
+    "7": {
+      "status": "missing-reference",
+      "note": "提示詞需要原始人物、角色或結構參考圖，目前未提供。"
+    },
+    "23": {
+      "status": "missing-reference",
+      "note": "提示詞需要原始人物、角色或結構參考圖，目前未提供。"
+    },
+    "25": {
+      "status": "missing-reference",
+      "note": "提示詞需要原始人物、角色或結構參考圖，目前未提供。"
+    },
+    "26": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "29": {
+      "status": "missing-reference",
+      "note": "提示詞需要原始人物、角色或結構參考圖，目前未提供。"
+    },
+    "31": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "44": {
+      "status": "missing-reference",
+      "note": "需要上傳的原始風格參考圖。"
+    },
+    "46": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
+    "54": {
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
+    },
     "78": {
       "status": "missing-reference",
       "note": "需要原始輸入照片以進行姿勢或光線分析。"
@@ -81,10 +121,6 @@
       "status": "missing-reference",
       "note": "需要原始上傳圖片。"
     },
-    "237": {
-      "status": "needs-source-research",
-      "note": "提示詞要求先研究2025年飲料廣告設計。"
-    },
     "240": {
       "status": "needs-prompt-revision",
       "note": "原提示詞以性挑逗、臀部和誘惑姿態為重點，需改為一般運動攝影。"
@@ -132,10 +168,6 @@
     "291": {
       "status": "generation-rejected",
       "note": "產圖服務輸出檢查拒絕：sexual。"
-    },
-    "292": {
-      "status": "needs-source-research",
-      "note": "提示詞要求先查閱指定 X 帳號及貼文。"
     },
     "297": {
       "status": "missing-reference",
@@ -377,10 +409,6 @@
       "status": "missing-reference",
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
     },
-    "485": {
-      "status": "batch-interrupted",
-      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
-    },
     "486": {
       "status": "missing-reference",
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
@@ -390,24 +418,20 @@
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
     },
     "488": {
-      "status": "batch-interrupted",
-      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
     },
     "490": {
       "status": "missing-reference",
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
     },
     "491": {
-      "status": "batch-interrupted",
-      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
     },
     "492": {
-      "status": "batch-interrupted",
-      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
-    },
-    "495": {
-      "status": "batch-interrupted",
-      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
     },
     "498": {
       "status": "missing-reference",
@@ -426,12 +450,8 @@
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
     },
     "505": {
-      "status": "batch-interrupted",
-      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
-    },
-    "506": {
-      "status": "batch-interrupted",
-      "note": "同批有輸出被產圖服務拒絕；未取得本案例輸出，需逐筆確認。"
+      "status": "generation-rejected",
+      "note": "產圖服務輸出檢查拒絕：sexual。"
     },
     "512": {
       "status": "missing-reference",
@@ -457,6 +477,18 @@
       "status": "missing-reference",
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
     },
+    "528": {
+      "status": "missing-reference",
+      "note": "需要原始人物或旅行照片，目前未提供。"
+    },
+    "529": {
+      "status": "missing-reference",
+      "note": "需要原始人物或旅行照片，目前未提供。"
+    },
+    "530": {
+      "status": "missing-reference",
+      "note": "需要原始人物或旅行照片，目前未提供。"
+    },
     "533": {
       "status": "missing-reference",
       "note": "提示詞需要輸入照片或參考圖片，尚未取得原始輸入。"
@@ -468,6 +500,17 @@
     "538": {
       "status": "missing-reference",
       "note": "需要原始輸入照片。"
+    },
+    "541": {
+      "status": "missing-reference",
+      "note": "需要原始人物或旅行照片，目前未提供。"
+    },
+    "543": {
+      "status": "missing-reference",
+      "note": "需要原始人物或旅行照片，目前未提供。"
     }
-  }
+  },
+  "generatedCount": 414,
+  "remainingCount": 127,
+  "updatedDate": "2026-09-09"
 }
